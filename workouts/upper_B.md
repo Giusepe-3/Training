@@ -1,4 +1,4 @@
-# Upper B — Thursday
+# Upper B — Friday
 
 **Focus:** Vertical push/pull. Shoulders + arms priority.
 **Duration:** ~75 min

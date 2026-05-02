@@ -1,4 +1,4 @@
-# Lower B — Friday
+# Lower B — Saturday
 
 **Focus:** Hinge pattern, posterior chain emphasis.
 **Duration:** ~70 min
@@ -44,13 +44,13 @@ Even though legs are not your priority, this day is critical for:
 
 ---
 
-## Saturday Run Considerations
+## Sunday Run Considerations
 
-Saturday's run is the day after this session. After Lower B, expect:
-- Glutes and hamstrings sore Sat morning
+Sunday's run is the day after this session. After Lower B, expect:
+- Glutes and hamstrings sore Sun morning
 - This is **fine and expected** — easy running flushes the soreness
 - If glutes feel tight, walking 5–10 min before running fully warms them up
-- Don't push pace Saturday. Easy means easy.
+- Don't push pace Sunday. Easy means easy.
 
 ---
 
@@ -82,6 +82,6 @@ Trap Bar over Conventional unless you specifically prefer conventional. Reasons:
 - Lower spinal stress = better recovery for the next session
 - Easier to maintain form when fatigued from a full week
 - Equally effective for hypertrophy
-- Less interference with Saturday's run
+- Less interference with Sunday's run
 
 If you've been pulling conventional for years and it feels great, stay with it. But if there's any back stiffness from race-week recovery or Lower A, trap bar.

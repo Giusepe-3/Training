@@ -41,11 +41,11 @@ training/
 |-----|---------|----------|
 | Mon | Upper A (chest/back priority) | ~75 min |
 | Tue | Lower A (squat focus) | ~75 min |
-| Wed | **Easy run** outdoor Z2 | 30–45 min |
-| Thu | Upper B (shoulders/arms priority) | ~75 min |
-| Fri | Lower B (deadlift focus) | ~75 min |
-| Sat | **Easy run** outdoor Z2 (slightly longer) | 35–50 min |
-| Sun | Full rest | — |
+| Wed | Full rest | — |
+| Thu | **Easy run** outdoor Z2 | 30–45 min |
+| Fri | Upper B (shoulders/arms priority) | ~75 min |
+| Sat | Lower B (hinge/posterior) | ~75 min |
+| Sun | **Easy run** outdoor Z2 (slightly longer) | 35–50 min |
 
 ---
 
