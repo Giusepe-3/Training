@@ -13,7 +13,7 @@
 | A1 | Back Squat | 4 × 5–7 | 7 → 8 | Below parallel. Brace hard. Add weight at top of range. |
 | A2 | Romanian Deadlift | 3 × 8–10 | 8 | Hinge from hips, soft knees, bar tracks shins. Stretch hamstrings, don't squat the lift. |
 | B1 | Leg Press (close stance, feet low) | 3 × 10–12 | 8 | Quad-biased foot placement. Don't lock out aggressively. |
-| B2 | Seated Leg Curl | 3 × 10–12 | 8–9 | Hamstring-specific. Slow eccentric. |
+| B2 | Lying Leg Curl | 3 × 10–12 | 8–9 | Hamstring-specific. Slow eccentric. |
 | C1 | Standing Calf Raise | 4 × 10–15 | 8–9 | Full stretch at bottom, full squeeze at top. 2-sec pause. |
 | C2 | Hanging Knee/Leg Raise | 3 × AMRAP | — | No swing. Posterior pelvic tilt at top. |
 
@@ -51,7 +51,7 @@ You ran 2:09 last week. Your legs need careful management:
 | Back Squat | Front Squat / Safety Bar Squat / Hack Squat |
 | Romanian Deadlift | Stiff-Leg Deadlift / Good Morning / DB RDL |
 | Leg Press | Hack Squat / Bulgarian Split Squat |
-| Seated Leg Curl | Lying Leg Curl / Nordic Curl |
+| Lying Leg Curl | Seated Leg Curl / Nordic Curl |
 | Standing Calf Raise | Smith Calf Raise / Donkey Calf |
 
 ---

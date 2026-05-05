@@ -39,13 +39,13 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 
 *RPE 8 from session 1. Locked starting loads (Mon Upper A): Bench 32.5, Row 32.5, Incline DB 12/DB, Lat PD 35.*
 
-- 2026-05-04 (Mon) — *Plan: Upper A. RPE 8.*
-- 2026-05-05 (Tue) — *Plan: Lower A. RPE 8.*
-- 2026-05-06 (Wed) — REST.
-- 2026-05-07 (Thu) — *Plan: 30 min easy run Z2.*
-- 2026-05-08 (Fri) — *Plan: Upper B. RPE 8.*
+- **2026-05-04 (Mon)** — DONE. Upper A. Bench 32.5 kg 7/7/7/7 (RPE 7,8,8,8). Row 32.5 kg 7/7/7/7 @ RPE 8. Incline DB 12/DB 10/9/8 @ RPE 8. Lat PD 35 kg 10/10/10 (RPE 7,8,8). Pec Deck 7.5 kg 12/12/12 @ RPE 9. Face Pull 10 kg 15/14/14 (RPE 8,9,8). Tri Pushdown 10 kg 12/12/12 @ RPE 8. DB Curl 6 kg 12/12/12 @ RPE 8. **Next session bumps:** Bench → 35, Row → 35, Lat PD → 37.5, Face Pull → 11–12, Pushdown → 11–12, DB Curl → 7–8. Hold: Incline DB 12 (climb to 10/10/10), Pec Deck 7.5 (climb to 15/15/15).
+- **2026-05-05 (Tue)** — DONE. Lower A, 90 min. Back Squat 35 kg 7/7/6/6 @ RPE 8. RDL 30 kg 10/10/8 @ RPE 8. Leg Press 20 kg 12/12/11 (RPE 7,8,8). Lying Leg Curl 15→20 kg (S1 12@15 RPE 6, bumped) → 11/10 @ 20 RPE 8. Standing Calf 20→30 kg (S1 15@20 RPE 6, bumped) → 14/13/12 @ 30 (RPE 9,8,9). Hanging Knee Raise BW 10/10/10. **User notes: legs feel weak (race +9 days), expects recovery in coming weeks.** **Subs locked: Lying Leg Curl** (vs Seated). **Next session bumps:** Leg Press → 22.5–25 kg. Hold + climb reps: Squat 35 (→ 7/7/7/7), RDL 30 (→ 10/10/10), Lying Leg Curl 20 (→ 12/12/12), Calf 30 (→ 15/15/15), Hanging Knee Raise (add reps or load).
+- 2026-05-06 (Wed) — *Plan: 30 min easy run Z2.* (User swap: was REST.)
+- 2026-05-07 (Thu) — *Plan: Upper B. RPE 8.* (User swap: was Thu run.)
+- 2026-05-08 (Fri) — *Plan: 25–30 min easy run Z2 (short, flushing — Lower B next day).* (User swap: was Upper B.)
 - 2026-05-09 (Sat) — *Plan: Lower B. RPE 8.*
-- 2026-05-10 (Sun) — *Plan: 35 min easy run Z2.*
+- 2026-05-10 (Sun) — REST. (User swap: was Sun run. No rest day mid-week now → Sun rest.)
 
 ---
 
