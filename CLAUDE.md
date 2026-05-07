@@ -78,12 +78,12 @@ Other movements: subs in workout file's Substitutions table are fair game.
 
 - **AM block (every day):** sleep h + quality, RHR + Δ vs baseline, motivation, energy, stress, DOMS map, joint flags. ~60 sec.
 - **PM block (every day):** BW (evening, same conditions), workout result if lifting, day macros total. ~3 min.
-- **Lifting day** → `templates/session.md` (AM block + PM block w/ workout + macros + bumps).
+- **Lifting day** → fill `templates/session.md` (locked prose-block format) → save filled file as `logs/sessions/YYYY-MM-DD_<session>.md` (e.g., `logs/sessions/2026-05-07_upper_B.md`).
 - **Rest / run-only day** → `templates/daily.md` (AM block + PM block w/ run data + macros).
 - **Sunday PM** → also fill `templates/weekly.md` (compliance scoreboard, volume by muscle, e1RM trend, body trend, decisions).
 - **Data** (sets, reps, load, RPE, HR, BW) also → `logs/training_log.xlsx`.
-- **Narrative + subjective** → `logs/session_log.md`. One bullet per day. Status: **DONE / PARTIAL / SKIPPED / MOVED / REST**.
-- After every lifting session: explicit "Next session bumps:" line per lift.
+- **Narrative + subjective** → `logs/session_log.md`. One bullet per day with summary + bumps + link to full filled log in `logs/sessions/`. Status: **DONE / PARTIAL / SKIPPED / MOVED / REST**.
+- After every lifting session: explicit "Next session bumps:" line per lift in both the filled session file and the session_log.md bullet.
 
 **Evening BW caveat:** noisier than AM-fasted. Hold conditions constant (post-shower, post-pee, ≥1 h after last meal). Use 7-day rolling avg for trend, ignore single-day spikes.
 

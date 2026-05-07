@@ -42,7 +42,7 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 - **2026-05-04 (Mon)** — DONE. Upper A. Bench 32.5 kg 7/7/7/7 (RPE 7,8,8,8). Row 32.5 kg 7/7/7/7 @ RPE 8. Incline DB 12/DB 10/9/8 @ RPE 8. Lat PD 35 kg 10/10/10 (RPE 7,8,8). Pec Deck 7.5 kg 12/12/12 @ RPE 9. Face Pull 10 kg 15/14/14 (RPE 8,9,8). Tri Pushdown 10 kg 12/12/12 @ RPE 8. DB Curl 6 kg 12/12/12 @ RPE 8. **Next session bumps:** Bench → 35, Row → 35, Lat PD → 37.5, Face Pull → 11–12, Pushdown → 11–12, DB Curl → 7–8. Hold: Incline DB 12 (climb to 10/10/10), Pec Deck 7.5 (climb to 15/15/15).
 - **2026-05-05 (Tue)** — DONE. Lower A, 90 min. Back Squat 35 kg 7/7/6/6 @ RPE 8. RDL 30 kg 10/10/8 @ RPE 8. Leg Press 20 kg 12/12/11 (RPE 7,8,8). Lying Leg Curl 15→20 kg (S1 12@15 RPE 6, bumped) → 11/10 @ 20 RPE 8. Standing Calf 20→30 kg (S1 15@20 RPE 6, bumped) → 14/13/12 @ 30 (RPE 9,8,9). Hanging Knee Raise BW 10/10/10. **User notes: legs feel weak (race +9 days), expects recovery in coming weeks.** **Subs locked: Lying Leg Curl** (vs Seated). **Next session bumps:** Leg Press → 22.5–25 kg. Hold + climb reps: Squat 35 (→ 7/7/7/7), RDL 30 (→ 10/10/10), Lying Leg Curl 20 (→ 12/12/12), Calf 30 (→ 15/15/15), Hanging Knee Raise (add reps or load).
 - 2026-05-06 (Wed) — *Plan: 30 min easy run Z2.* (User swap: was REST.)
-- 2026-05-07 (Thu) — *Plan: Upper B. RPE 8.* (User swap: was Thu run.)
+- **2026-05-07 (Thu)** — DONE. Upper B, 90 min. Sleep 9h Q6, RHR 51 (+4), motivation 9, pump 4/5. AM DOMS legs 3/3/3 (Tue Lower A residue). Full log → `logs/sessions/2026-05-07_upper_B.md`. OHP 22.5 kg 8/8/8/8 (RPE 8/8/9/9 — started below 25 target). Lat PD 40 kg 10/10/10/10 (RPE 7/7/8/9 — overshoot rep range). Incline DB 10 kg 10/10/10 RPE 8. Cable Row 25→35→40 12/12/12 (RPE 5/7/10 — botched start, settle 32.5 next). DB Lat Raise 4 kg 13/14/13/14 (RPE 8/8/9/10). Face Pull 10 kg 20/20/20 RPE 7/8/9. DB Curl 6→7→7 kg 10/10/10 RPE 7/8/9. Skull EZ 13.6 kg 10/8/8 RPE 7/9/10. BW 77.3 kg eve. **Next session bumps:** OHP → 25 (5×6–8 Wk 3), Lat PD → 42.5 (5×6–8 Wk 3), Incline DB → 12, Row → 32.5, DB Lat → 5, Face Pull → 12, DB Curl → 8 (climb to 10/10/10), Skull → hold 13.6 (climb to 10/10/10).
 - 2026-05-08 (Fri) — *Plan: 25–30 min easy run Z2 (short, flushing — Lower B next day).* (User swap: was Upper B.)
 - 2026-05-09 (Sat) — *Plan: Lower B. RPE 8.*
 - 2026-05-10 (Sun) — REST. (User swap: was Sun run. No rest day mid-week now → Sun rest.)
@@ -51,15 +51,15 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 
 ## Week 3 (May 11 – 17) — Accumulation
 
-*Add 1 set to main compounds (bench, squat, OHP, deadlift). Push volume.*
+*Add 1 set to main compounds (bench, squat, OHP, deadlift → 5 sets). Push volume. RPE 8.*
 
-- 2026-05-11 (Mon) — *Upper A.*
-- 2026-05-12 (Tue) — *Lower A.*
+- **2026-05-11 (Mon)** — *Upper A.* Locked starts: **Bench 35** (5×6–8 RPE 8, +1 set), **Row 35** (4×6–8), **Lat PD 37.5** (4×6–8), **Incline DB hold 12** (climb to 10/10/10), **Pec Deck hold 7.5** (climb to 15/15/15), **Face Pull 11–12**, **Pushdown 11–12**, **DB Curl 7–8**.
+- **2026-05-12 (Tue)** — *Lower A.* Locked starts: **Squat 35** (5×6–8 RPE 8, +1 set, climb to 7/7/7/7/7), **RDL hold 30** (3×8–10, climb to 10/10/10), **Leg Press 22.5–25** (3×10–12), **Lying Leg Curl hold 20** (climb to 12/12/12), **Standing Calf hold 30** (climb to 15/15/15), **Hanging Knee Raise BW** (add reps or weighted).
 - 2026-05-13 (Wed) — REST.
-- 2026-05-14 (Thu) — *30 min easy.*
-- 2026-05-15 (Fri) — *Upper B.*
-- 2026-05-16 (Sat) — *Lower B.*
-- 2026-05-17 (Sun) — *40 min easy.*
+- 2026-05-14 (Thu) — *30 min easy run Z2.*
+- **2026-05-15 (Fri)** — *Upper B.* Locked starts: **OHP 25** (5×6–8 RPE 8, +1 set), **Lat PD 42.5** (5×6–8, +1 set), **Incline DB Press 12/DB** (3×8–10), **Cable Row 32.5** (3×10–12), **DB Lat Raise 5** (4×12–15 RPE 8–9), **Face Pull 12** (3×15–20), **DB Curl 8** (3×8–10), **Skull EZ hold 13.6** (3×8–10, climb to 10/10/10).
+- 2026-05-16 (Sat) — *Lower B.* (Bumps TBD after Sat 5/9 Lower B logged.)
+- 2026-05-17 (Sun) — *40 min easy run Z2.*
 
 ---
 
