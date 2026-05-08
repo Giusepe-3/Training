@@ -1,12 +1,28 @@
 # YYYY-MM-DD (Day) — <Upper A / Upper B / Lower A / Lower B> — Wk #
 
-## ☀️  AM (on wake)
-Sleep: __ h | Quality: __/10 | Bed→Wake: __ → __
-RHR: __ bpm | Δ vs 7-day RHR: __ bpm
-Motivation: __/10 | Energy: __/10 | Stress: __/10
-DOMS (0–3) — chest: _ back: _ shldr: _ arm: _ quad: _ ham: _ glute: _ calf: _
-Joint flags: __
-Mood note: __
+## ☀️ AM (on wake) — STANDARD FORMAT — DO NOT CHANGE
+
+```
+Sleep h:
+Sleep quality (1-10):
+Bedtime:
+Wake:
+RHR (bpm):
+RHR Δ vs 7d:
+Motivation (1-10):
+Energy (1-10):
+Stress (1-10):
+DOMS chest (0-3):
+DOMS back:
+DOMS shldr:
+DOMS arm:
+DOMS quad:
+DOMS ham:
+DOMS glute:
+DOMS calf:
+Joint/tendon flags:
+```
+Mood note:
 
 ## 🏋️  Workout context
 Pre-WO meal: __ kcal / __ g protein

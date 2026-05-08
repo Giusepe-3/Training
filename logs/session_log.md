@@ -43,7 +43,28 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 - **2026-05-05 (Tue)** — DONE. Lower A, 90 min. Back Squat 35 kg 7/7/6/6 @ RPE 8. RDL 30 kg 10/10/8 @ RPE 8. Leg Press 20 kg 12/12/11 (RPE 7,8,8). Lying Leg Curl 15→20 kg (S1 12@15 RPE 6, bumped) → 11/10 @ 20 RPE 8. Standing Calf 20→30 kg (S1 15@20 RPE 6, bumped) → 14/13/12 @ 30 (RPE 9,8,9). Hanging Knee Raise BW 10/10/10. **User notes: legs feel weak (race +9 days), expects recovery in coming weeks.** **Subs locked: Lying Leg Curl** (vs Seated). **Next session bumps:** Leg Press → 22.5–25 kg. Hold + climb reps: Squat 35 (→ 7/7/7/7), RDL 30 (→ 10/10/10), Lying Leg Curl 20 (→ 12/12/12), Calf 30 (→ 15/15/15), Hanging Knee Raise (add reps or load).
 - 2026-05-06 (Wed) — *Plan: 30 min easy run Z2.* (User swap: was REST.)
 - **2026-05-07 (Thu)** — DONE. Upper B, 90 min. Sleep 9h Q6, RHR 51 (+4), motivation 9, pump 4/5. AM DOMS legs 3/3/3 (Tue Lower A residue). Full log → `logs/sessions/2026-05-07_upper_B.md`. OHP 22.5 kg 8/8/8/8 (RPE 8/8/9/9 — started below 25 target). Lat PD 40 kg 10/10/10/10 (RPE 7/7/8/9 — overshoot rep range). Incline DB 10 kg 10/10/10 RPE 8. Cable Row 25→35→40 12/12/12 (RPE 5/7/10 — botched start, settle 32.5 next). DB Lat Raise 4 kg 13/14/13/14 (RPE 8/8/9/10). Face Pull 10 kg 20/20/20 RPE 7/8/9. DB Curl 6→7→7 kg 10/10/10 RPE 7/8/9. Skull EZ 13.6 kg 10/8/8 RPE 7/9/10. BW 77.3 kg eve. **Next session bumps:** OHP → 25 (5×6–8 Wk 3), Lat PD → 42.5 (5×6–8 Wk 3), Incline DB → 12, Row → 32.5, DB Lat → 5, Face Pull → 12, DB Curl → 8 (climb to 10/10/10), Skull → hold 13.6 (climb to 10/10/10).
-- 2026-05-08 (Fri) — *Plan: 25–30 min easy run Z2 (short, flushing — Lower B next day).* (User swap: was Upper B.)
+- **2026-05-08 (Fri)** — *Plan: 25–30 min easy run Z2 (short, flushing — Lower B next day).* (User swap: was Upper B.) **AM:**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 4
+  Bedtime: 12:39
+  Wake: 8:40
+  RHR (bpm): 47
+  RHR Δ vs 7d: 0
+  Motivation (1-10): 9
+  Energy (1-10): 7
+  Stress (1-10): 2
+  DOMS chest (0-3): 2.5
+  DOMS back: 2.5
+  DOMS shldr: 2
+  DOMS arm: 1.5
+  DOMS quad: 3
+  DOMS ham: 3
+  DOMS glute: 2.5
+  DOMS calf: 0
+  Joint/tendon flags: No pain
+  ```
+  **AM read:** RHR baseline (0 Δ) good. Sleep 8h but Q4 = unrefreshing — flag if pattern repeats. Lower-body DOMS still 3/3 quad+ham (Tue Lower A residue, +3 days). Upper DOMS 2-2.5 (Thu Upper B residue, +1 day). Motivation 9 / Energy 7 = green for easy run. No joint flags. Plan holds: 25–30 min Z2.
 - 2026-05-09 (Sat) — *Plan: Lower B. RPE 8.*
 - 2026-05-10 (Sun) — REST. (User swap: was Sun run. No rest day mid-week now → Sun rest.)
 

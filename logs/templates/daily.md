@@ -10,21 +10,28 @@ Copy into `logs/session_log.md` under the day's bullet. Lifting day → use `ses
 
 ---
 
-## ☀️ AM block — fill on wake
+## ☀️ AM block — fill on wake (STANDARD FORMAT — DO NOT CHANGE)
 
-| Variable | Value |
-|----------|-------|
-| Sleep h | |
-| Sleep quality (1–10) | |
-| Bedtime → wake | _ → _ |
-| Resting HR (bpm) | |
-| RHR Δ vs 7-day baseline | + / – bpm |
-| HRV (ms, if tracked) | |
-| Motivation (1–10) | |
-| Energy (1–10) | |
-| Stress (1–10) | |
-| DOMS map (0–3) | chest:_ back:_ shldr:_ arm:_ quad:_ ham:_ glute:_ calf:_ |
-| Joint/tendon flags | |
+```
+Sleep h:
+Sleep quality (1-10):
+Bedtime:
+Wake:
+RHR (bpm):
+RHR Δ vs 7d:
+Motivation (1-10):
+Energy (1-10):
+Stress (1-10):
+DOMS chest (0-3):
+DOMS back:
+DOMS shldr:
+DOMS arm:
+DOMS quad:
+DOMS ham:
+DOMS glute:
+DOMS calf:
+Joint/tendon flags:
+```
 
 ---
 
