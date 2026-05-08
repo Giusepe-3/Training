@@ -65,7 +65,44 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   Joint/tendon flags: No pain
   ```
   **AM read:** RHR baseline (0 Δ) good. Sleep 8h but Q4 = unrefreshing — flag if pattern repeats. Lower-body DOMS still 3/3 quad+ham (Tue Lower A residue, +3 days). Upper DOMS 2-2.5 (Thu Upper B residue, +1 day). Motivation 9 / Energy 7 = green for easy run. No joint flags. Plan holds: 25–30 min Z2.
-- 2026-05-09 (Sat) — *Plan: Lower B. RPE 8.*
+
+  **PM block:**
+
+  ### 1. Run data
+  | Variable | Value |
+  |----------|-------|
+  | Distance (km) | 5.00 |
+  | Time (min) | 25:58 |
+  | Avg pace (min/km) | 5:12 |
+  | Avg HR / Max HR | 176 / 204 |
+  | HR zone distribution (%Z2 / %Z3 / %Z4+) | Z5 65% |
+  | Cadence (spm) | 156 |
+  | Run RPE (1–10) | 9 |
+  | Terrain / weather | sunny, plain terrain |
+  | Notes | 5K PR (vs prior PR 28 min). Hard effort, NOT Z2 as planned. |
+
+  HR drift flag: n/a — PR effort, not steady-state Z2.
+
+  ### 2. Evening BW
+  | Variable | Value |
+  |----------|-------|
+  | BW evening (kg) | 77 |
+  | Conditions | Well rested 8h |
+
+  ### 3. Day macros
+  | Macro | Target | Actual |
+  |-------|--------|--------|
+  | Kcal | ~2700 ±100 | 2505 |
+  | Protein g | 125–170 | 186 |
+  | Creatine 5 g | Y/N | Y |
+  | Alcohol units | | 0u |
+  | Steps | | 10000 |
+
+  ### 4. One-line summary
+  5K PR 25:58 @ 5:12/km, HR avg 176 — hard effort vs planned easy Z2. CNS load high, Lower B tomorrow at risk — check AM energy/RHR before pushing.
+
+  **PM read:** Run = 5K PR. RPE 9, max HR 204, Z5 65% — full CNS dump, not flushing run. Kcal 2505 vs ~2700 target = −195 deficit on hard effort day (slight under-fuel, not critical). Protein 186 g = strong (1.6× target floor). BW 77.0 eve (vs 77.3 Thu eve = −0.3 kg, run sweat / glycogen). Steps 10k clean. **Lower B tomorrow:** quad+ham DOMS 3/3 going INTO PR run + now CNS load → sat AM RHR + energy = go/no-go. If RHR +5 or energy ≤6 → push Lower B to Sun, swap Sun rest forward. If green → run Lower B at RPE 7 (not 8), drop top set, hold loads.
+- 2026-05-09 (Sat) — *Plan: Lower B. RPE 8.* **Contingent on Sat AM read** (post-5K PR CNS load). If RHR +5 / energy ≤6 → move to Sun.
 - 2026-05-10 (Sun) — REST. (User swap: was Sun run. No rest day mid-week now → Sun rest.)
 
 ---

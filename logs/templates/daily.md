@@ -35,7 +35,7 @@ Joint/tendon flags:
 
 ---
 
-## 🌙 PM block — fill before bed
+## 🌙 PM block — fill before bed (STANDARD FORMAT — DO NOT CHANGE)
 
 ### 1. Run data (skip if rest day)
 
@@ -53,22 +53,19 @@ Joint/tendon flags:
 
 **HR drift flag:** pace held but HR +5 bpm vs 2 wks ago at same effort → fatigue accumulation, cut next run or shorten.
 
-### 2. Evening body weight
+### 2. Evening BW
 
 | Variable | Value |
 |----------|-------|
 | BW evening (kg) | |
-| Conditions (post-shower / post-pee / hours since last meal) | |
+| Conditions | |
 
 ### 3. Day macros
 
 | Macro | Target | Actual |
 |-------|--------|--------|
-| Kcal | maintenance ±100 | |
-| Protein g | 125–170 (1.6–2.2 g/kg @ 77.7 kg) | |
-| Carbs g | 2–3 g/kg rest (155–230), 3–5 g/kg run (230–390) | |
-| Fat g | 0.8–1.0 g/kg (62–78) | |
-| Fiber g | 25–35 | |
+| Kcal | ~2700 ±100 | |
+| Protein g | 125–170 | |
 | Creatine 5 g | Y/N | |
 | Alcohol units | | |
 | Steps | | |
