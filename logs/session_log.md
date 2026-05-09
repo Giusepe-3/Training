@@ -102,8 +102,29 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   5K PR 25:58 @ 5:12/km, HR avg 176 — hard effort vs planned easy Z2. CNS load high, Lower B tomorrow at risk — check AM energy/RHR before pushing.
 
   **PM read:** Run = 5K PR. RPE 9, max HR 204, Z5 65% — full CNS dump, not flushing run. Kcal 2505 vs ~2700 target = −195 deficit on hard effort day (slight under-fuel, not critical). Protein 186 g = strong (1.6× target floor). BW 77.0 eve (vs 77.3 Thu eve = −0.3 kg, run sweat / glycogen). Steps 10k clean. **Lower B tomorrow:** quad+ham DOMS 3/3 going INTO PR run + now CNS load → sat AM RHR + energy = go/no-go. If RHR +5 or energy ≤6 → push Lower B to Sun, swap Sun rest forward. If green → run Lower B at RPE 7 (not 8), drop top set, hold loads.
-- 2026-05-09 (Sat) — *Plan: Lower B. RPE 8.* **Contingent on Sat AM read** (post-5K PR CNS load). If RHR +5 / energy ≤6 → move to Sun.
-- 2026-05-10 (Sun) — REST. (User swap: was Sun run. No rest day mid-week now → Sun rest.)
+- **2026-05-09 (Sat)** — REST (moved Lower B → Sun per AM read). **AM:**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 3
+  Bedtime: 12:00
+  Wake: 8:00
+  RHR (bpm): 49
+  RHR Δ vs 7d: +3
+  Motivation (1-10): 8
+  Energy (1-10): 6
+  Stress (1-10): 9
+  DOMS chest (0-3): 0
+  DOMS back: 3
+  DOMS shldr: 3
+  DOMS arm: 3
+  DOMS quad: 3
+  DOMS ham: 3
+  DOMS glute: 3
+  DOMS calf: 2
+  Joint/tendon flags: None
+  ```
+  **AM read:** RHR +3 (under +5), energy 6 (at threshold), stress 9 high, sleep Q3 2nd consecutive day unrefreshing. Full-body DOMS 3s (back/shldr/arm/quad/ham/glute) = Upper B + Lower A + 5K PR residue stacked. Move Lower B → Sun, rest today. PM block tonight: BW + macros only.
+- **2026-05-10 (Sun)** — *Lower B (moved from Sat). RPE 7 (not 8), drop top set, hold loads.* Locked starts: TBD pull from Wk 1 Lower B / PLAN baselines (none logged yet — first Lower B of block).
 
 ---
 
