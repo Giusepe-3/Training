@@ -124,7 +124,50 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   Joint/tendon flags: None
   ```
   **AM read:** RHR +3 (under +5), energy 6 (at threshold), stress 9 high, sleep Q3 2nd consecutive day unrefreshing. Full-body DOMS 3s (back/shldr/arm/quad/ham/glute) = Upper B + Lower A + 5K PR residue stacked. Move Lower B → Sun, rest today. PM block tonight: BW + macros only.
-- **2026-05-10 (Sun)** — *Lower B (moved from Sat). RPE 7 (not 8), drop top set, hold loads.* Locked starts: TBD pull from Wk 1 Lower B / PLAN baselines (none logged yet — first Lower B of block).
+
+  **PM block:**
+
+  ### 1. Evening BW
+  | Variable | Value |
+  |----------|-------|
+  | BW evening (kg) | 77 |
+  | Conditions | Pre-sleep |
+
+  ### 2. Day macros
+  | Macro | Target | Actual |
+  |-------|--------|--------|
+  | Kcal | ~2700 ±100 | 2000 |
+  | Protein g | 125–170 | 150 |
+  | Creatine 5 g | Y/N | Y |
+  | Alcohol units | | 5u |
+  | Steps | | 9307 |
+
+  ### 3. One-line summary
+  Rest day. BW 77.0 (flat vs Fri eve). Kcal 2000 = −700 deficit on rest day. Protein 150 g in range. Alcohol 5u high — compounds poor sleep + recovery hit going into Sun Lower B.
+
+  **PM read:** Kcal −700 vs target on rest day (rest day target ~2500, still −500). Protein 150 g clean. **Alcohol 5u = red flag** — disrupts REM sleep, blunts MPS, dehydration → Sun AM RHR + sleep Q likely worse, not better. **Sun Lower B at risk.** AM check tomorrow: if RHR ≥ +5, sleep Q ≤4, energy ≤6 → push Lower B → Mon and slide week. If marginal green → run Lower B at RPE 6 (not 7), 2 sets per lift (not 3), hold loads from Tue Lower A baselines (Squat 35, RDL 30, Leg Press 20, Lying Leg Curl 20, Calf 30). Note: no prior Lower B in block — first session, treat as data-collection, undershoot.
+- **2026-05-10 (Sun)** — *Lower B (moved from Sat). First Lower B of block — data collection.* **AM:**
+  ```
+  Sleep h: 7
+  Sleep quality (1-10): 4
+  Bedtime: 2:00
+  Wake: 9:00
+  RHR (bpm): 52
+  RHR Δ vs 7d: +4
+  Motivation (1-10): 9
+  Energy (1-10): 7
+  Stress (1-10): 1
+  DOMS chest (0-3): 1
+  DOMS back: 1
+  DOMS shldr: 0
+  DOMS arm: 1
+  DOMS quad: 2
+  DOMS ham: 1
+  DOMS glute: 2
+  DOMS calf: 3
+  Joint/tendon flags: None
+  ```
+  **AM read — GO (yellow):** RHR +4 (under +5 cut), energy 7 (above 6 cut), motivation 9, stress 1, joints clean = green signals. Sleep Q4 + 7h + 2am bedtime + post-alc 5u = fatigue stack. Lower-body DOMS faded (quad 2, ham 1, glute 2) — Lower A residue gone, posterior chain ready. **Calf DOMS 3** = caution on calves (Tue standing calf hit hard); today's seated calf = soleus (different bias) so OK if controlled. Plan: Lower B at **RPE 6–7, 2 working sets/lift** (cut from 3), light seed loads — first session = pattern + data collection, undershoot deliberately.
 
 ---
 

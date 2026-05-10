@@ -10,7 +10,9 @@ from pathlib import Path
 
 from openpyxl import Workbook
 from openpyxl.chart import BarChart, LineChart, Reference
+from openpyxl.chart.axis import DateAxis
 from openpyxl.chart.label import DataLabelList
+from openpyxl.chart.marker import Marker
 from openpyxl.chart.trendline import Trendline
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
@@ -22,15 +24,18 @@ OUTPUT = REPO_ROOT / "logs" / "training_log.xlsx"
 BLOCK_START = date(2026, 4, 27)
 
 HEADER_FILL = PatternFill("solid", start_color="1F4E78")
-HEADER_FONT = Font(name="Arial", bold=True, color="FFFFFF", size=11)
+HEADER_FONT = Font(name="Calibri", bold=True, color="FFFFFF", size=12)
 SECTION_FILL = PatternFill("solid", start_color="D9E1F2")
-BODY_FONT = Font(name="Arial", size=10)
+BODY_FONT = Font(name="Calibri", size=11)
+ZEBRA_FILL = PatternFill("solid", start_color="F4F6FA")
 THIN_BORDER = Border(
-    left=Side(style="thin", color="BFBFBF"),
-    right=Side(style="thin", color="BFBFBF"),
-    top=Side(style="thin", color="BFBFBF"),
-    bottom=Side(style="thin", color="BFBFBF"),
+    left=Side(style="thin", color="D9D9D9"),
+    right=Side(style="thin", color="D9D9D9"),
+    top=Side(style="thin", color="D9D9D9"),
+    bottom=Side(style="thin", color="D9D9D9"),
 )
+CENTER = Alignment(horizontal="center", vertical="center")
+LEFT_WRAP = Alignment(horizontal="left", vertical="center", wrap_text=True)
 
 
 # ============== LOGGED SESSIONS DATA ==============
@@ -121,11 +126,16 @@ LIFT_SETS = [
 # Body weight log: (date, BW kg, sleep h, notes)
 BODY_LOG = [
     (date(2026, 4, 29), 77.7, 8.0, "Wk 1 Wed AM"),
-    (date(2026, 5, 7),  77.3, 9.0, "Wk 2 Thu PM"),
+    (date(2026, 5, 7),  77.3, 9.0, "Wk 2 Thu PM (post Upper B)"),
+    (date(2026, 5, 8),  77.0, 8.0, "Wk 2 Fri PM (post 5K PR)"),
+    (date(2026, 5, 9),  77.0, 8.0, "Wk 2 Sat PM (rest, alc 5u)"),
 ]
 
 # Running log: (date, dist_km, time_min, avg_hr, max_hr, rpe, type, notes)
-RUN_LOG = []  # none logged yet
+RUN_LOG = [
+    # 2026-05-08 Fri Wk 2 — planned Z2 25-30min, actual 5K PR @ Z5 65%
+    (date(2026, 5, 8), 5.00, 25.97, 176, 204, 9, "Other", "5K PR 25:58 @5:12/km. Z5 65%, planned Z2 — full CNS dump"),
+]
 
 
 # ============== HELPERS ==============
@@ -135,12 +145,27 @@ def set_header_row(ws, row, headers, widths=None):
         cell = ws.cell(row=row, column=i, value=h)
         cell.font = HEADER_FONT
         cell.fill = HEADER_FILL
-        cell.alignment = Alignment(horizontal="center", vertical="center")
+        cell.alignment = CENTER
         cell.border = THIN_BORDER
     if widths:
         for i, w in enumerate(widths, 1):
             ws.column_dimensions[get_column_letter(i)].width = w
-    ws.row_dimensions[row].height = 22
+    ws.row_dimensions[row].height = 26
+
+
+def style_body_row(ws, row, n_cols, zebra=False, notes_col=None):
+    """Apply body font, border, optional zebra fill, wrap on notes col."""
+    fill = ZEBRA_FILL if zebra else None
+    for c in range(1, n_cols + 1):
+        cell = ws.cell(row=row, column=c)
+        cell.font = BODY_FONT
+        cell.border = THIN_BORDER
+        if fill:
+            cell.fill = fill
+        if notes_col and c == notes_col:
+            cell.alignment = LEFT_WRAP
+        else:
+            cell.alignment = CENTER
 
 
 def add_dropdown(ws, col_letter, start_row, end_row, choices):
@@ -163,42 +188,45 @@ wb = Workbook()
 # -------- TAB: README --------
 ws = wb.active
 ws.title = "README"
-ws.column_dimensions["A"].width = 100
+ws.column_dimensions["A"].width = 110
 
 readme = [
     ("Training Log — 11-Week Hypertrophy Block", "title"),
-    ("Block: 2026-04-27 → 2026-07-12", "section"),
+    ("Block: 2026-04-27 → 2026-07-12  •  User: Leonardo  •  Last rebuild driven by scripts/build_log.py", "section"),
     ("", ""),
-    ("Tabs:", "section"),
-    ("• Lifting Log — every working set", "body"),
-    ("• Running Log — every run", "body"),
-    ("• Body Metrics — daily BW + weekly measurements", "body"),
-    ("• Personal Records — auto best lifts", "body"),
-    ("• Weekly Summary — auto weekly volume/RPE/runs/BW", "body"),
-    ("• Progression Data — auto weekly best e1RM per priority lift (chart source)", "body"),
-    ("• Charts — visual progression: e1RM, weekly volume, RPE, BW", "body"),
-    ("• Reference — HR/pace zones, schedule, RPE", "body"),
+    ("TABS", "section"),
+    ("• Charts — KPI snapshot (live) + 6 progression charts. Open this first.", "body"),
+    ("• Lifting Log — every working set. Edit here to add new sessions.", "body"),
+    ("• Running Log — every run. Edit here to add runs.", "body"),
+    ("• Body Metrics — daily BW + weekly tape measurements.", "body"),
+    ("• Personal Records — auto best lifts (recomputes on open).", "body"),
+    ("• Weekly Summary — auto weekly volume / RPE / runs / BW.", "body"),
+    ("• Progression Data — weekly best e1RM per priority lift (chart source).", "body"),
+    ("• Reference — HR / pace zones, schedule, RPE table.", "body"),
     ("", ""),
-    ("Pre-populated from logs/session_log.md + logs/sessions/. Re-run scripts/build_log.py to refresh.", "body"),
+    ("HOW IT WORKS", "section"),
+    ("• Sources of truth: logs/session_log.md (narrative) + logs/sessions/<date>_<sess>.md (filled session blocks).", "body"),
+    ("• Pre-populated rows are baked into scripts/build_log.py — re-run only after adding new sessions to the script.", "body"),
+    ("• Charts read from live formulas — they update automatically when you add data to the input tabs.", "body"),
     ("", ""),
-    ("Data entry: edit Lifting Log / Running Log / Body Metrics. Auto tabs recompute on open.", "body"),
-    ("", ""),
-    ("RPE: 6=4 RIR, 7=3 RIR, 8=2 RIR, 9=1 RIR, 10=failure (isolation only).", "body"),
+    ("RPE LEGEND", "section"),
+    ("RPE 6 = 4 RIR  •  7 = 3 RIR  •  8 = 2 RIR (most of block)  •  9 = 1 RIR (peak)  •  10 = failure (isolation only).", "body"),
 ]
 for i, (line, kind) in enumerate(readme, 1):
     cell = ws.cell(row=i, column=1, value=line)
     if kind == "title":
-        cell.font = Font(name="Arial", bold=True, size=16, color="1F4E78")
+        cell.font = Font(name="Calibri", bold=True, size=18, color="1F4E78")
+        ws.row_dimensions[i].height = 28
     elif kind == "section":
-        cell.font = Font(name="Arial", bold=True, size=12, color="1F4E78")
+        cell.font = Font(name="Calibri", bold=True, size=13, color="1F4E78")
     else:
-        cell.font = BODY_FONT
+        cell.font = Font(name="Calibri", size=11)
 
 
 # -------- TAB: Lifting Log --------
 ws = wb.create_sheet("Lifting Log")
 headers = ["Date", "Week", "Day", "Exercise", "Set #", "Reps", "Weight (kg)", "RPE", "Volume (kg)", "e1RM (kg)", "Notes"]
-widths = [12, 8, 10, 26, 8, 8, 12, 8, 13, 12, 32]
+widths = [12, 7, 10, 24, 7, 7, 12, 7, 13, 12, 42]
 set_header_row(ws, 1, headers, widths)
 
 # Pre-populate logged sets
@@ -218,14 +246,11 @@ for r in range(2, 2 + N_ROWS):
     ws.cell(row=r, column=2, value=f'=IF(A{r}="","",IFERROR(INT((A{r}-DATE(2026,4,27))/7)+1,""))')
     ws.cell(row=r, column=9, value=f'=IF(OR(F{r}="",G{r}=""),"",F{r}*G{r})').number_format = "0"
     ws.cell(row=r, column=10, value=f'=IF(OR(F{r}="",G{r}=""),"",ROUND(G{r}*(1+F{r}/30),1))').number_format = "0.0"
-    for c in range(1, 12):
-        cell = ws.cell(row=r, column=c)
-        cell.font = BODY_FONT
-        cell.border = THIN_BORDER
-        if c == 1:
-            cell.number_format = "yyyy-mm-dd"
-        if c == 7:
-            cell.number_format = "0.0"
+    style_body_row(ws, r, 11, zebra=(r % 2 == 0), notes_col=11)
+    ws.cell(row=r, column=1).number_format = "yyyy-mm-dd"
+    ws.cell(row=r, column=4).alignment = Alignment(horizontal="left", vertical="center")
+    ws.cell(row=r, column=7).number_format = "0.0"
+    ws.row_dimensions[r].height = 18
 
 add_dropdown(ws, "C", 2, 2 + N_ROWS - 1, ["Upper A", "Lower A", "Upper B", "Lower B"])
 add_dropdown(ws, "H", 2, 2 + N_ROWS - 1, [str(x) for x in [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10]])
@@ -235,7 +260,7 @@ ws.freeze_panes = "A2"
 # -------- TAB: Running Log --------
 ws = wb.create_sheet("Running Log")
 headers = ["Date", "Week", "Distance (km)", "Time (min)", "Pace (min/km)", "Avg HR", "Max HR", "RPE", "Type", "Notes"]
-widths = [12, 8, 14, 12, 14, 10, 10, 8, 14, 32]
+widths = [12, 7, 14, 12, 14, 10, 10, 7, 16, 42]
 set_header_row(ws, 1, headers, widths)
 
 # Pre-populate runs
@@ -252,27 +277,22 @@ for i, run in enumerate(RUN_LOG, start=2):
 
 for r in range(2, 152):
     ws.cell(row=r, column=2, value=f'=IF(A{r}="","",IFERROR(INT((A{r}-DATE(2026,4,27))/7)+1,""))')
-    ws.cell(row=r, column=5, value=f'=IF(OR(C{r}="",D{r}=""),"",D{r}/C{r})').number_format = "0.00"
-    for c in range(1, 11):
-        cell = ws.cell(row=r, column=c)
-        cell.font = BODY_FONT
-        cell.border = THIN_BORDER
-        if c == 1:
-            cell.number_format = "yyyy-mm-dd"
-        if c == 3:
-            cell.number_format = "0.00"
-        if c == 4:
-            cell.number_format = "0.0"
+    ws.cell(row=r, column=5, value=f'=IF(OR(C{r}="",D{r}=""),"",TEXT(D{r}/C{r}/1440,"m:ss"))')
+    style_body_row(ws, r, 10, zebra=(r % 2 == 0), notes_col=10)
+    ws.cell(row=r, column=1).number_format = "yyyy-mm-dd"
+    ws.cell(row=r, column=3).number_format = "0.00"
+    ws.cell(row=r, column=4).number_format = "0.0"
+    ws.row_dimensions[r].height = 18
 
 add_dropdown(ws, "I", 2, 151, ["Easy", "Easy + pickups", "Long easy", "Tempo", "Other"])
-add_dropdown(ws, "H", 2, 151, [str(x) for x in [3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8]])
+add_dropdown(ws, "H", 2, 151, [str(x) for x in [3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10]])
 ws.freeze_panes = "A2"
 
 
 # -------- TAB: Body Metrics --------
 ws = wb.create_sheet("Body Metrics")
 headers = ["Date", "Week", "Body Weight (kg)", "Sleep (hrs)", "Waist (cm)", "Chest (cm)", "Arm (cm)", "Thigh (cm)", "Notes"]
-widths = [12, 8, 17, 12, 12, 12, 11, 12, 32]
+widths = [12, 7, 17, 12, 12, 12, 11, 12, 42]
 set_header_row(ws, 1, headers, widths)
 
 for i, (d, bw, sleep, note) in enumerate(BODY_LOG, start=2):
@@ -283,22 +303,17 @@ for i, (d, bw, sleep, note) in enumerate(BODY_LOG, start=2):
 
 for r in range(2, 200):
     ws.cell(row=r, column=2, value=f'=IF(A{r}="","",IFERROR(INT((A{r}-DATE(2026,4,27))/7)+1,""))')
-    for c in range(1, 10):
-        cell = ws.cell(row=r, column=c)
-        cell.font = BODY_FONT
-        cell.border = THIN_BORDER
-        if c == 1:
-            cell.number_format = "yyyy-mm-dd"
-        if c in (3, 4, 5, 6, 7, 8):
-            cell.number_format = "0.0"
+    style_body_row(ws, r, 9, zebra=(r % 2 == 0), notes_col=9)
+    ws.cell(row=r, column=1).number_format = "yyyy-mm-dd"
+    for c in (3, 4, 5, 6, 7, 8):
+        ws.cell(row=r, column=c).number_format = "0.0"
+    ws.row_dimensions[r].height = 18
 ws.freeze_panes = "A2"
 
 
 # -------- TAB: Personal Records --------
 ws = wb.create_sheet("Personal Records")
-for i, w in enumerate([28, 14, 12, 14, 14, 14], 1):
-    ws.column_dimensions[get_column_letter(i)].width = w
-set_header_row(ws, 1, ["Exercise", "Best Weight (kg)", "Best Reps @ Weight", "Date Achieved", "Best e1RM (kg)", "Best Single-Set Volume"])
+set_header_row(ws, 1, ["Exercise", "Best Weight (kg)", "Best Reps @ Weight", "Date Achieved", "Best e1RM (kg)", "Best Single-Set Volume"], [28, 16, 18, 14, 14, 22])
 
 exercises = [
     "Bench Press", "Barbell Row", "Incline DB Press", "Lat Pulldown",
@@ -308,29 +323,46 @@ exercises = [
     "Trap Bar Deadlift", "Bulgarian Split Squat", "Hip Thrust",
 ]
 LIFT_TAB = "'Lifting Log'"
+# SUMPRODUCT-MAX pattern (works without MAXIFS, which is missing in some Excel/LibreOffice versions)
 for i, ex in enumerate(exercises, 2):
-    ws.cell(row=i, column=1, value=ex).font = BODY_FONT
-    ws.cell(row=i, column=2, value=f'=IFERROR(MAXIFS({LIFT_TAB}!G:G,{LIFT_TAB}!D:D,A{i}),"")').number_format = "0.0"
-    ws.cell(row=i, column=3, value=f'=IFERROR(MAXIFS({LIFT_TAB}!F:F,{LIFT_TAB}!D:D,A{i},{LIFT_TAB}!G:G,B{i}),"")')
-    ws.cell(row=i, column=4, value=f'=IFERROR(MAXIFS({LIFT_TAB}!A:A,{LIFT_TAB}!D:D,A{i},{LIFT_TAB}!G:G,B{i}),"")').number_format = "yyyy-mm-dd"
-    ws.cell(row=i, column=5, value=f'=IFERROR(MAXIFS({LIFT_TAB}!J:J,{LIFT_TAB}!D:D,A{i}),"")').number_format = "0.0"
-    ws.cell(row=i, column=6, value=f'=IFERROR(MAXIFS({LIFT_TAB}!I:I,{LIFT_TAB}!D:D,A{i}),"")').number_format = "0"
-    for c in range(1, 7):
-        ws.cell(row=i, column=c).border = THIN_BORDER
-        ws.cell(row=i, column=c).font = BODY_FONT
+    has_data = f'COUNTIF({LIFT_TAB}!D:D,A{i})'
+    ws.cell(row=i, column=1, value=ex)
+    ws.cell(row=i, column=2, value=(
+        f'=IF({has_data}=0,"",SUMPRODUCT(MAX(({LIFT_TAB}!D2:D801=A{i})*{LIFT_TAB}!G2:G801)))'
+    )).number_format = "0.0"
+    ws.cell(row=i, column=3, value=(
+        f'=IF({has_data}=0,"",SUMPRODUCT(MAX(({LIFT_TAB}!D2:D801=A{i})*({LIFT_TAB}!G2:G801=B{i})*{LIFT_TAB}!F2:F801)))'
+    ))
+    ws.cell(row=i, column=4, value=(
+        f'=IF({has_data}=0,"",SUMPRODUCT(MAX(({LIFT_TAB}!D2:D801=A{i})*({LIFT_TAB}!G2:G801=B{i})*{LIFT_TAB}!A2:A801)))'
+    )).number_format = "yyyy-mm-dd"
+    ws.cell(row=i, column=5, value=(
+        f'=IF({has_data}=0,"",SUMPRODUCT(MAX(({LIFT_TAB}!D2:D801=A{i})*IFERROR({LIFT_TAB}!J2:J801*1,0))))'
+    )).number_format = "0.0"
+    ws.cell(row=i, column=6, value=(
+        f'=IF({has_data}=0,"",SUMPRODUCT(MAX(({LIFT_TAB}!D2:D801=A{i})*IFERROR({LIFT_TAB}!I2:I801*1,0))))'
+    )).number_format = "0"
+    style_body_row(ws, i, 6, zebra=(i % 2 == 0))
+    ws.cell(row=i, column=1).alignment = Alignment(horizontal="left", vertical="center")
+    ws.row_dimensions[i].height = 20
+ws.freeze_panes = "A2"
 
 
 # -------- TAB: Weekly Summary --------
 ws = wb.create_sheet("Weekly Summary")
 headers = ["Week", "Date Range", "Lifting Sessions", "Total Sets", "Total Volume (kg)", "Avg RPE", "Runs", "Run km", "Run Time (min)", "Avg Run HR", "Avg BW (kg)"]
-widths = [8, 22, 17, 12, 19, 10, 8, 10, 14, 12, 13]
+widths = [7, 22, 17, 12, 19, 10, 8, 10, 14, 12, 13]
 set_header_row(ws, 1, headers, widths)
 
 for week in range(1, 12):
     r = week + 1
     ws.cell(row=r, column=1, value=week)
     ws.cell(row=r, column=2, value=f'=TEXT(DATE(2026,4,27)+(A{r}-1)*7,"mmm d")&" – "&TEXT(DATE(2026,4,27)+A{r}*7-1,"mmm d")')
-    ws.cell(row=r, column=3, value=f'=COUNTIFS({LIFT_TAB}!B:B,A{r},{LIFT_TAB}!E:E,1)')
+    # Sessions = distinct dates per week (each Set#=1 row contributes 1/N where N = # set#=1 rows on that date)
+    ws.cell(row=r, column=3, value=(
+        f'=SUMPRODUCT(IFERROR((({LIFT_TAB}!B2:B801=A{r})*({LIFT_TAB}!E2:E801=1))/'
+        f'COUNTIFS({LIFT_TAB}!A:A,{LIFT_TAB}!A2:A801,{LIFT_TAB}!E:E,1),0))'
+    ))
     ws.cell(row=r, column=4, value=f'=COUNTIFS({LIFT_TAB}!B:B,A{r})')
     ws.cell(row=r, column=5, value=f'=SUMIFS({LIFT_TAB}!I:I,{LIFT_TAB}!B:B,A{r})').number_format = "#,##0"
     ws.cell(row=r, column=6, value=f'=IFERROR(AVERAGEIFS({LIFT_TAB}!H:H,{LIFT_TAB}!B:B,A{r}),"")').number_format = "0.0"
@@ -339,9 +371,8 @@ for week in range(1, 12):
     ws.cell(row=r, column=9, value=f"=SUMIFS('Running Log'!D:D,'Running Log'!B:B,A{r})").number_format = "0"
     ws.cell(row=r, column=10, value=f"=IFERROR(AVERAGEIFS('Running Log'!F:F,'Running Log'!B:B,A{r}),\"\")").number_format = "0"
     ws.cell(row=r, column=11, value=f"=IFERROR(AVERAGEIFS('Body Metrics'!C:C,'Body Metrics'!B:B,A{r}),\"\")").number_format = "0.0"
-    for c in range(1, 12):
-        ws.cell(row=r, column=c).border = THIN_BORDER
-        ws.cell(row=r, column=c).font = BODY_FONT
+    style_body_row(ws, r, 11, zebra=(r % 2 == 0))
+    ws.row_dimensions[r].height = 20
 ws.freeze_panes = "A2"
 
 
@@ -362,110 +393,161 @@ for week in range(1, 12):
     ws.cell(row=r, column=1, value=week)
     ws.cell(row=r, column=2, value=f'=TEXT(DATE(2026,4,27)+(A{r}-1)*7,"mmm d")')
     for c, lift in enumerate(priority_lifts, start=3):
-        # Max e1RM that week for this lift; blank if no sets logged
+        # Max e1RM that week for this lift; blank if no sets logged (SUMPRODUCT-MAX, MAXIFS not portable)
         ws.cell(row=r, column=c, value=(
-            f'=IFERROR(IF(COUNTIFS({LIFT_TAB}!B:B,A{r},{LIFT_TAB}!D:D,"{lift}")=0,"",'
-            f'MAXIFS({LIFT_TAB}!J:J,{LIFT_TAB}!B:B,A{r},{LIFT_TAB}!D:D,"{lift}")),"")'
+            f'=IF(COUNTIFS({LIFT_TAB}!B:B,A{r},{LIFT_TAB}!D:D,"{lift}")=0,"",'
+            f'SUMPRODUCT(MAX(({LIFT_TAB}!B2:B801=A{r})*({LIFT_TAB}!D2:D801="{lift}")*'
+            f'IFERROR({LIFT_TAB}!J2:J801*1,0))))'
         )).number_format = "0.0"
-    for c in range(1, 3 + len(priority_lifts)):
-        ws.cell(row=r, column=c).border = THIN_BORDER
-        ws.cell(row=r, column=c).font = BODY_FONT
+    style_body_row(ws, r, 2 + len(priority_lifts), zebra=(r % 2 == 0))
+    ws.row_dimensions[r].height = 20
+ws.freeze_panes = "C2"
 
 
 # -------- TAB: Charts --------
 ws_chart = wb.create_sheet("Charts")
-ws_chart.column_dimensions["A"].width = 4
-ws_chart.cell(row=1, column=2, value="Visual Progression").font = Font(name="Arial", bold=True, size=16, color="1F4E78")
+ws_chart.column_dimensions["A"].width = 3
+for col in ("B", "C", "D", "E", "F"):
+    ws_chart.column_dimensions[col].width = 22
 
-# Chart 1: e1RM trend per priority lift (Line chart, source = Progression Data)
+# Title
+ws_chart.cell(row=1, column=2, value="Block 1 — Visual Progression").font = Font(name="Calibri", bold=True, size=18, color="1F4E78")
+ws_chart.cell(row=2, column=2, value="Charts auto-update from Lifting Log / Running Log / Body Metrics. KPI cells live below.").font = Font(name="Calibri", italic=True, size=11, color="595959")
+ws_chart.row_dimensions[1].height = 28
+
+# KPI summary block (live formulas, not stale values)
+kpi_row = 4
+ws_chart.cell(row=kpi_row, column=2, value="KPI snapshot").font = Font(name="Calibri", bold=True, size=13, color="1F4E78")
+
+def best_e1rm(lift_name):
+    return (
+        f'=IF(COUNTIF({LIFT_TAB}!D:D,"{lift_name}")=0,"",'
+        f'SUMPRODUCT(MAX(({LIFT_TAB}!D2:D801="{lift_name}")*IFERROR({LIFT_TAB}!J2:J801*1,0))))'
+    )
+
+kpis = [
+    ("Sessions logged",          f'=SUMPRODUCT(IFERROR(({LIFT_TAB}!E2:E801=1)/COUNTIFS({LIFT_TAB}!A:A,{LIFT_TAB}!A2:A801,{LIFT_TAB}!E:E,1),0))', "0"),
+    ("Total working sets",       f"=COUNTA({LIFT_TAB}!E2:E801)",                              "0"),
+    ("Total volume (kg)",        f"=SUM({LIFT_TAB}!I2:I801)",                                 "#,##0"),
+    ("Avg RPE (all sets)",       f'=IFERROR(AVERAGE({LIFT_TAB}!H2:H801),"")',                 "0.00"),
+    ("Bench best e1RM (kg)",     best_e1rm("Bench Press"),                                    "0.0"),
+    ("Squat best e1RM (kg)",     best_e1rm("Back Squat"),                                     "0.0"),
+    ("OHP best e1RM (kg)",       best_e1rm("Overhead Press"),                                 "0.0"),
+    ("Latest BW (kg)",           f'=IFERROR(LOOKUP(2,1/(\'Body Metrics\'!C2:C200<>""),\'Body Metrics\'!C2:C200),"")', "0.0"),
+    ("BW Δ vs Wk 1 (kg)",        f'=IFERROR(LOOKUP(2,1/(\'Body Metrics\'!C2:C200<>""),\'Body Metrics\'!C2:C200)-INDEX(\'Body Metrics\'!C:C,MATCH(TRUE,INDEX(\'Body Metrics\'!C2:C200<>"",0),0)+1),"")', "+0.00;-0.00;0.00"),
+    ("Total run km",             f"=SUM('Running Log'!C2:C151)",                              "0.00"),
+]
+for i, (label, formula, fmt) in enumerate(kpis):
+    r = kpi_row + 1 + i
+    ws_chart.cell(row=r, column=2, value=label).font = BODY_FONT
+    cell = ws_chart.cell(row=r, column=3, value=formula)
+    cell.font = Font(name="Calibri", bold=True, size=11, color="1F4E78")
+    cell.number_format = fmt
+    cell.alignment = Alignment(horizontal="right")
+    ws_chart.cell(row=r, column=2).fill = ZEBRA_FILL if i % 2 == 0 else PatternFill()
+    ws_chart.cell(row=r, column=3).fill = ZEBRA_FILL if i % 2 == 0 else PatternFill()
+    ws_chart.cell(row=r, column=2).border = THIN_BORDER
+    ws_chart.cell(row=r, column=3).border = THIN_BORDER
+
+# Charts start below KPI block
 prog_tab = "'Progression Data'"
 n_lifts = len(priority_lifts)
 
-ch1 = LineChart()
-ch1.title = "e1RM (kg) by Week — priority lifts"
-ch1.style = 12
+def styled_line(title, ymin=None, ymax=None):
+    ch = LineChart()
+    ch.title = title
+    ch.style = 12
+    ch.height = 11
+    ch.width = 24
+    ch.legend.position = "b"
+    if ymin is not None:
+        ch.y_axis.scaling.min = ymin
+    if ymax is not None:
+        ch.y_axis.scaling.max = ymax
+    ch.y_axis.majorGridlines = None
+    return ch
+
+def styled_bar(title):
+    ch = BarChart()
+    ch.type = "col"
+    ch.style = 11
+    ch.title = title
+    ch.height = 11
+    ch.width = 24
+    ch.legend = None
+    ch.dataLabels = DataLabelList(showVal=True)
+    return ch
+
+# Chart 1: e1RM trend per priority lift
+ch1 = styled_line("e1RM (kg) by Week — priority lifts")
 ch1.y_axis.title = "e1RM (kg)"
 ch1.x_axis.title = "Block week"
-ch1.height = 12
-ch1.width = 22
 data = Reference(wb["Progression Data"], min_col=3, min_row=1, max_col=2 + n_lifts, max_row=12)
 cats = Reference(wb["Progression Data"], min_col=1, min_row=2, max_row=12)
 ch1.add_data(data, titles_from_data=True)
 ch1.set_categories(cats)
 for s in ch1.series:
     s.smooth = False
-ws_chart.add_chart(ch1, "B3")
+    s.marker = Marker(symbol="circle", size=6)
+ws_chart.add_chart(ch1, "B18")
 
 # Chart 2: Weekly Total Volume (Bar)
-ch2 = BarChart()
-ch2.type = "col"
-ch2.style = 11
-ch2.title = "Total Lifting Volume (kg) by Week"
+ch2 = styled_bar("Total Lifting Volume (kg) by Week")
 ch2.y_axis.title = "Volume (kg)"
 ch2.x_axis.title = "Block week"
-ch2.height = 10
-ch2.width = 22
 data2 = Reference(wb["Weekly Summary"], min_col=5, min_row=1, max_col=5, max_row=12)
 cats2 = Reference(wb["Weekly Summary"], min_col=1, min_row=2, max_row=12)
 ch2.add_data(data2, titles_from_data=True)
 ch2.set_categories(cats2)
-ch2.dataLabels = DataLabelList(showVal=True)
-ws_chart.add_chart(ch2, "B28")
+ws_chart.add_chart(ch2, "B41")
 
 # Chart 3: Weekly Avg RPE (Line)
-ch3 = LineChart()
-ch3.title = "Avg Session RPE by Week"
-ch3.style = 13
+ch3 = styled_line("Avg Session RPE by Week", ymin=5, ymax=10)
 ch3.y_axis.title = "RPE"
 ch3.x_axis.title = "Block week"
-ch3.height = 10
-ch3.width = 22
 data3 = Reference(wb["Weekly Summary"], min_col=6, min_row=1, max_col=6, max_row=12)
 cats3 = Reference(wb["Weekly Summary"], min_col=1, min_row=2, max_row=12)
 ch3.add_data(data3, titles_from_data=True)
 ch3.set_categories(cats3)
-ch3.y_axis.scaling.min = 5
-ch3.y_axis.scaling.max = 10
-ws_chart.add_chart(ch3, "B49")
+for s in ch3.series:
+    s.marker = Marker(symbol="circle", size=6)
+ws_chart.add_chart(ch3, "B64")
 
-# Chart 4: Body Weight trend (Line, raw entries — uses Body Metrics directly)
-ch4 = LineChart()
-ch4.title = "Body Weight (kg) over time"
-ch4.style = 10
+# Chart 4: Body Weight trend — DateAxis for proportional spacing
+ch4 = styled_line("Body Weight (kg) over time")
 ch4.y_axis.title = "BW (kg)"
+ch4.x_axis = DateAxis(crossAx=100)
+ch4.x_axis.number_format = "mmm d"
+ch4.x_axis.majorTimeUnit = "days"
 ch4.x_axis.title = "Date"
-ch4.height = 10
-ch4.width = 22
-# 60 rows of capacity
-data4 = Reference(wb["Body Metrics"], min_col=3, min_row=1, max_col=3, max_row=60)
-cats4 = Reference(wb["Body Metrics"], min_col=1, min_row=2, max_row=60)
+data4 = Reference(wb["Body Metrics"], min_col=3, min_row=1, max_col=3, max_row=200)
+cats4 = Reference(wb["Body Metrics"], min_col=1, min_row=2, max_row=200)
 ch4.add_data(data4, titles_from_data=True)
 ch4.set_categories(cats4)
-# Add trendline
-if ch4.series:
-    ch4.series[0].trendline = Trendline(trendlineType="linear")
-ws_chart.add_chart(ch4, "B70")
+for s in ch4.series:
+    s.marker = Marker(symbol="circle", size=6)
+    s.trendline = Trendline(trendlineType="linear", dispEq=False, dispRSqr=False)
+ws_chart.add_chart(ch4, "B87")
 
-# Chart 5: Per-session set volume — Bench / OHP / Squat (Line, x = date)
-# Build helper rows under Progression Data with per-session weighted-best-set.
-# Use a simple approach: chart all sets directly from Lifting Log filtered manually.
-# Skip per-session chart for now (would need extra plumbing). Weekly best e1RM covers it.
+# Chart 5: Working sets per week (Bar)
+ch5 = styled_bar("Working Sets by Week")
+ch5.y_axis.title = "Sets"
+ch5.x_axis.title = "Block week"
+data5 = Reference(wb["Weekly Summary"], min_col=4, min_row=1, max_col=4, max_row=12)
+cats5 = Reference(wb["Weekly Summary"], min_col=1, min_row=2, max_row=12)
+ch5.add_data(data5, titles_from_data=True)
+ch5.set_categories(cats5)
+ws_chart.add_chart(ch5, "B110")
 
-# Chart 6: Weekly Total Sets (volume by count)
-ch6 = BarChart()
-ch6.type = "col"
-ch6.style = 14
-ch6.title = "Working Sets by Week"
-ch6.y_axis.title = "Total sets"
+# Chart 6: Run distance per week (Bar)
+ch6 = styled_bar("Run Distance (km) by Week")
+ch6.y_axis.title = "km"
 ch6.x_axis.title = "Block week"
-ch6.height = 10
-ch6.width = 22
-data6 = Reference(wb["Weekly Summary"], min_col=4, min_row=1, max_col=4, max_row=12)
+data6 = Reference(wb["Weekly Summary"], min_col=8, min_row=1, max_col=8, max_row=12)
 cats6 = Reference(wb["Weekly Summary"], min_col=1, min_row=2, max_row=12)
 ch6.add_data(data6, titles_from_data=True)
 ch6.set_categories(cats6)
-ch6.dataLabels = DataLabelList(showVal=True)
-ws_chart.add_chart(ch6, "B91")
+ws_chart.add_chart(ch6, "B133")
 
 
 # -------- TAB: Reference --------
@@ -474,23 +556,29 @@ for i, w in enumerate([22, 22, 28, 22], 1):
     ws.column_dimensions[get_column_letter(i)].width = w
 
 row = 1
-ws.cell(row=row, column=1, value="Reference Data").font = Font(name="Arial", bold=True, size=14, color="1F4E78")
+ws.cell(row=row, column=1, value="Reference Data").font = Font(name="Calibri", bold=True, size=16, color="1F4E78")
+ws.row_dimensions[row].height = 26
 row += 2
 
 def write_ref_table(ws, row, title, header, rows):
-    ws.cell(row=row, column=1, value=title).font = Font(name="Arial", bold=True, size=12)
+    ws.cell(row=row, column=1, value=title).font = Font(name="Calibri", bold=True, size=13, color="1F4E78")
     row += 1
     for c, v in enumerate(header, 1):
         cell = ws.cell(row=row, column=c, value=v)
         cell.font = HEADER_FONT
         cell.fill = HEADER_FILL
         cell.border = THIN_BORDER
+        cell.alignment = CENTER
+    ws.row_dimensions[row].height = 22
     row += 1
-    for r_data in rows:
+    for ri, r_data in enumerate(rows):
         for c, v in enumerate(r_data, 1):
             cell = ws.cell(row=row, column=c, value=v)
             cell.font = BODY_FONT
             cell.border = THIN_BORDER
+            if ri % 2 == 0:
+                cell.fill = ZEBRA_FILL
+        ws.row_dimensions[row].height = 18
         row += 1
     return row + 1
 

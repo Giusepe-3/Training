@@ -15,7 +15,7 @@
 | B2 | Hip Thrust | 3 × 8–10 | 8 | Pause 1 sec at top. Glute squeeze. Don't over-arch lumbar. |
 | C1 | Walking Lunge (DBs) | 3 × 10 / leg | 8 | Long stride. Drive through front heel. Step through, don't step back. |
 | C2 | Seated Calf Raise | 4 × 12–15 | 8–9 | Soleus emphasis (bent knee). Pause and stretch each rep. |
-| D1 | Cable Crunch | 3 × 12–15 | 8 | Round the spine actively, hips stay still. No hip flexor pulling. |
+| D1 | Ab Roller (knee rollout) | 3 × 8–12 | 8 | Knees down, brace hard, exhale on roll-out. Stop short of lumbar over-extension. **Locked sub** (vs Cable Crunch). |
 
 > Deadlift is the only true heavy compound here. Everything else is moderate-load, high-quality reps. Rest 2–3 min on deadlift, 90 sec elsewhere.
 
@@ -63,7 +63,7 @@ Sunday's run is the day after this session. After Lower B, expect:
 | Hip Thrust | Glute Bridge / Single-Leg Hip Thrust / Cable Pull-Through |
 | Walking Lunge | Reverse Lunge / Stationary Lunge |
 | Seated Calf Raise | Donkey Calf / Smith Calf Raise |
-| Cable Crunch | Hanging Leg Raise / Decline Sit-up |
+| Ab Roller | Hanging Leg Raise / Decline Sit-up / Cable Crunch |
 
 ---
 
