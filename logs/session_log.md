@@ -169,6 +169,10 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   ```
   **AM read — GO (yellow):** RHR +4 (under +5 cut), energy 7 (above 6 cut), motivation 9, stress 1, joints clean = green signals. Sleep Q4 + 7h + 2am bedtime + post-alc 5u = fatigue stack. Lower-body DOMS faded (quad 2, ham 1, glute 2) — Lower A residue gone, posterior chain ready. **Calf DOMS 3** = caution on calves (Tue standing calf hit hard); today's seated calf = soleus (different bias) so OK if controlled. Plan: Lower B at **RPE 6–7, 2 working sets/lift** (cut from 3), light seed loads — first session = pattern + data collection, undershoot deliberately.
 
+  **PM block:** DONE. Lower B, 45 min (15:15–16:00). Pre-WO 750/55 P, caffeine 100 mg, creatine Y. Trap Bar DL 40 kg 6/6 @ RPE 6 (under-loaded). BSS BW 8/8 RPE 5, 12/12 RPE 6 (S2 overshot reps). Hip Thrust 10 kg 8/8 @ RPE 8/9 (logged 10 vs prescribed 40 — setup issue, plate availability check needed). Walking Lunge 5 kg/DB 10/10 ×2 @ RPE 8/7. Seated Calf 9 kg 12/12 @ RPE 8/9 (RPE overshoot). Ab Roller BW 8/8 ×2 @ RPE 8. **Totals:** 12 WS / 148 reps / 1256 kg external tonnage / avg RPE 7.33 / retro 7. BW eve 77.0 kg. Day 2467 kcal / 187 g P / 0 u / 16k steps. Full log → `logs/sessions/2026-05-10_lower_B.md`. **Next session bumps (Sat 5/16 Lower B):** DL → 45, BSS → 5 kg/DB 2×10/leg, HT → 12.5 (check plates — prescribed 40), Lunge → 7.5/DB, Calf → 11, Ab Roller → BW 2×10.
+
+  **PM read:** Avg RPE 7.33 above 6–7 target — driven by HT setup mismatch (10 kg vs prescribed 40, RPE 9) + Calf RPE 9. Compounds (DL, BSS, Lunge) all RPE ≤ 7, clean data, ready for aggressive bumps. **Action item:** confirm Hip Thrust plate availability before Sat — if 40 kg unavailable, lock 12.5 kg progression and revise Wk 3+ HT trajectory. BW 77.0 kg flat for 3rd straight eve = fluids/glycogen replete post-rest. Macros clean. First Lower B = data point, not training stimulus — proceed Wk 3 as planned.
+
 ---
 
 ## Week 3 (May 11 – 17) — Accumulation
@@ -180,7 +184,7 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 - 2026-05-13 (Wed) — REST.
 - 2026-05-14 (Thu) — *30 min easy run Z2.*
 - **2026-05-15 (Fri)** — *Upper B.* Locked starts: **OHP 25** (5×6–8 RPE 8, +1 set), **Lat PD 42.5** (5×6–8, +1 set), **Incline DB Press 12/DB** (3×8–10), **Cable Row 32.5** (3×10–12), **DB Lat Raise 5** (4×12–15 RPE 8–9), **Face Pull 12** (3×15–20), **DB Curl 8** (3×8–10), **Skull EZ hold 13.6** (3×8–10, climb to 10/10/10).
-- 2026-05-16 (Sat) — *Lower B.* (Bumps TBD after Sat 5/9 Lower B logged.)
+- **2026-05-16 (Sat)** — *Lower B.* Locked starts: **Trap Bar DL 45** (2×4–6 RPE 7, +5 kg), **BSS 5 kg/DB** (2×10/leg RPE 7), **Hip Thrust 12.5** (2×8 RPE 7–8 — verify plates, prescribed start was 40 kg; if 40 available, climb), **Walking Lunge 7.5/DB** (2×10/leg RPE 7–8), **Seated Calf 11** (2×12 RPE 7–8, soleus bias), **Ab Roller BW** (2×10, progress reps before load).
 - 2026-05-17 (Sun) — *40 min easy run Z2.*
 
 ---
