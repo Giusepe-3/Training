@@ -179,7 +179,28 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 
 *Add 1 set to main compounds (bench, squat, OHP, deadlift → 5 sets). Push volume. RPE 8.*
 
-- **2026-05-11 (Mon)** — *Upper A.* Locked starts: **Bench 35** (5×6–8 RPE 8, +1 set), **Row 35** (4×6–8), **Lat PD 37.5** (4×6–8), **Incline DB hold 12** (climb to 10/10/10), **Pec Deck hold 7.5** (climb to 15/15/15), **Face Pull 11–12**, **Pushdown 11–12**, **DB Curl 7–8**.
+- **2026-05-11 (Mon)** — *Upper A.* Locked starts: **Bench 35** (5×6–8 RPE 8, +1 set), **Row 35** (5×6–8, +1 set), **Lat PD 37.5** (4×6–8), **Incline DB hold 12** (climb to 10/10/10), **Pec Deck hold 7.5** (climb to 15/15/15), **Face Pull 12**, **Pushdown 12**, **DB Curl 8**. **AM:**
+  ```
+  Sleep h: 7:50
+  Sleep quality (1-10): 9
+  Bedtime: 23:53
+  Wake: 7:44
+  RHR (bpm): 44
+  RHR Δ vs 7d: -4
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest (0-3): 0
+  DOMS back: 0
+  DOMS shldr: 0
+  DOMS arm: 0
+  DOMS quad: 1
+  DOMS ham: 3
+  DOMS glute: 2
+  DOMS calf: 2
+  Joint/tendon flags: All joints and tendons feel fine.
+  ```
+  **AM read — GO (full green).** RHR 44 (−4 vs 7d) = parasympathetic dominance, fully recovered. Sleep 7:50h Q9 clean window. Mot 10 / Energy 10 / Stress 2 = top of scale. Upper DOMS all 0 → chest/back/shldr/arm primed. Lower DOMS (ham 3 / glute 2 / calf 2 / quad 1) = Sun Lower B residue, doesn't gate Upper A. Joints clean. No undershoot — run prescribed Wk 3 loads, RPE 8 target from S1. Prescription file → `logs/sessions/2026-05-11_upper_A.md` (open, awaiting PM results).
 - **2026-05-12 (Tue)** — *Lower A.* Locked starts: **Squat 35** (5×6–8 RPE 8, +1 set, climb to 7/7/7/7/7), **RDL hold 30** (3×8–10, climb to 10/10/10), **Leg Press 22.5–25** (3×10–12), **Lying Leg Curl hold 20** (climb to 12/12/12), **Standing Calf hold 30** (climb to 15/15/15), **Hanging Knee Raise BW** (add reps or weighted).
 - 2026-05-13 (Wed) — REST.
 - 2026-05-14 (Thu) — *30 min easy run Z2.*
