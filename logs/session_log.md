@@ -205,7 +205,28 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   **PM block:** DONE. Upper A, 135 min (19:45–22:00, busy gym). Pre-WO 750/65 P, caffeine 450 mg, creatine Y. Bench 35 kg 8/8/8/8/8 (RPE 8/8/9/9/9). Row 35 kg 8/8/8/8/8 (RPE 8/8/8/8/9). Incline DB 12/DB 10/10/10 @ RPE 8 (hit climb target). Lat PD 37.5→40 8/8/8/8 (RPE 7/8/8/8). Pec Deck 7.5 kg 12/9/10 (RPE 9/10/10 — muscular failure). Face Pull 12.5 kg 15/15/15 (RPE 8/8/9 — top range × 3). Pushdown 12.5/15/17.5 kg 12/12/12 (RPE 6/7/10 — messy ramp). DB Curl 8/DB 12/12/11 (RPE 8/9/10 — muscular failure). **Totals:** 29 WS / 289 reps / 6035 kg tonnage / avg RPE 8.4 / retro 8 / 135 min. BW eve 77.2 kg. Day 2626 kcal / 189 g P / 0 u / 7250 steps. Pump 5/5, no pain. Full log → `logs/sessions/2026-05-11_upper_A.md`. **Next session bumps (Mon 5/18 Upper A):** Bench → 37.5, Row → 37.5, Incline DB → 14/DB, Lat PD → 42.5, Pec Deck hold 7.5 (climb 12/12/12), Face Pull → 14, Pushdown start 15 kg 3×12, DB Curl hold 8/DB (climb 12/12/12).
 
   **PM read:** Bench + Row both top-range × 5 sets @ 35 kg with RPE drift 8→9 — clean +2.5 bump cycle. Incline DB hit 10/10/10 climb target → +2/DB. Lat PD S1 RPE 7 = below threshold, mid-session bump to 40 (correct response, per progression rule). Pec Deck + DB Curl both pushed to muscular failure last set RPE 10 — protocol-aligned (3×12–15 / 3×10–12 isolation, failure tag noted). Pushdown ramp 12.5→15→17.5 hit RPE 10 on top set with 17.5 — overshoot. Next session lock 15 kg as working weight, build 3×12 before climbing. Avg RPE 8.4 vs 8 target = slightly hot but expected with 5-set compounds. **Macros:** Kcal 2626 in band (target 2600–2800). Protein 189 g = 2.43 g/kg BW, well above ceiling 170 — fine, not a fail. Steps 7250 low (gym ate the day). Caffeine 450 mg dosed AM (~07:44 wake) → cleared by bedtime, no sleep risk. Dose high but timing clean. BW 77.2 eve (+0.2 vs Sun) = post-feed normal. **Tue Lower A green-light:** Squat 35 climb 7/7/7/7/7, RDL hold 30, Leg Press 22.5–25.
-- **2026-05-12 (Tue)** — *Lower A.* Locked starts: **Squat 35** (5×6–8 RPE 8, +1 set, climb to 7/7/7/7/7), **RDL hold 30** (3×8–10, climb to 10/10/10), **Leg Press 22.5–25** (3×10–12), **Lying Leg Curl hold 20** (climb to 12/12/12), **Standing Calf hold 30** (climb to 15/15/15), **Hanging Knee Raise BW** (add reps or weighted).
+- **2026-05-12 (Tue)** — *Lower A.* Locked starts: **Squat 35** (5×6–8 RPE 8, +1 set, climb to 7/7/7/7/7), **RDL hold 30** (3×8–10, climb to 10/10/10), **Leg Press 22.5–25** (3×10–12), **Lying Leg Curl hold 20** (climb to 12/12/12), **Standing Calf hold 30** (climb to 15/15/15), **Hanging Knee Raise BW** (add reps or weighted). **AM:**
+  ```
+  Sleep h: 8:36
+  Sleep quality (1-10): 9
+  Bedtime: 23:46
+  Wake: 8:25
+  RHR (bpm): 47
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 3
+  DOMS chest (0-3): 3
+  DOMS back: 2
+  DOMS shldr: 3
+  DOMS arm: 3
+  DOMS quad: 0
+  DOMS ham: 1
+  DOMS glute: 1
+  DOMS calf: 0
+  Joint/tendon flags: None
+  ```
+  **AM read — GO (full green).** RHR 47 (−1 vs 7d) = recovered. Sleep 8:36h Q9 = top window. Mot 10 / Energy 10 / Stress 3 = peak. Upper DOMS 3/2/3/3 (Mon Upper A residue +1 day, doesn't gate Lower A). Lower DOMS faded — quad 0 / ham 1 / glute 1 / calf 0 = posterior chain + gastroc primed. Joints clean. Run prescribed Wk 3 loads, RPE 8 from S1, no undershoot.
 - 2026-05-13 (Wed) — REST.
 - 2026-05-14 (Thu) — *30 min easy run Z2.*
 - **2026-05-15 (Fri)** — *Upper B.* Locked starts: **OHP 25** (5×6–8 RPE 8, +1 set), **Lat PD 42.5** (5×6–8, +1 set), **Incline DB Press 12/DB** (3×8–10), **Cable Row 32.5** (3×10–12), **DB Lat Raise 5** (4×12–15 RPE 8–9), **Face Pull 12** (3×15–20), **DB Curl 8** (3×8–10), **Skull EZ hold 13.6** (3×8–10, climb to 10/10/10).
