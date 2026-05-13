@@ -209,7 +209,50 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 - **2026-05-13 (Wed)** — DONE. Lower A (moved from Tue), 75 min (14:45–16:00). Pre-WO 750/55 P, caffeine 100 mg, creatine Y. Back Squat 35 kg 8/8/8/8/8 (RPE 7/7.5/8/8/8 — top range × 5). RDL 30/30/32.5 kg 10/10/10 (RPE 7/7/8 — S3 self-bumped). Leg Press 25/25/30 kg 12/12/12 (RPE 7/7/7 — under-loaded). Lying Leg Curl 20/20/22.5 kg 12/12/12 (RPE 7/7/9). Standing Calf 30 kg 15/15/15/12 (RPE 8/9/10/10 — failed S4 reps). Hanging Knee Raise BW 8/8/8 (RPE 8/9/9 — ab DOMS from Sun Lower B Ab Roller). **Totals:** 21 WS / 223 reps / 5745 kg tonnage / avg RPE 7.98 / retro 7 / 75 min. Failure tag: tech+muscular (last iso). Pump 5/5, no pain, "a little bit" under-loaded. BW eve 77.2 kg. Day 2527 kcal / 188 g P / 0 u / 13279 steps. Full log → `logs/sessions/2026-05-13_lower_A.md`. **Next session bumps (Tue 5/19 Lower A):** Squat → 37.5, RDL → 32.5, Leg Press → 30, Lying Leg Curl → 22.5, Standing Calf hold 30 (close 15×4 first), Hanging Knee Raise hold BW (target 10/10/10).
 
   **PM read:** RPE 7.98 = on target. 4 of 6 lifts hit top-range — clean +2.5 cycle queued. Leg Press 3 sets RPE 7 = clearest under-load (jump +5 start). Calf at ceiling RPE 10 × 2 sets, missed S4 reps — hold load, push reps; flag drop-set candidate Wk 5+. Knee Raise capped by ab DOMS residue from Sun Lower B Ab Roller, not a programming signal. Day-swap consequence: **Thu 5/14 easy run with leg DOMS likely 24h out** — AM read tomorrow gates intensity (default: run at Z2 / drop pickups if quads/hams ≥2).
-- 2026-05-14 (Thu) — *30 min easy run Z2.*
+- **2026-05-14 (Thu)** — REST (user-elected; was easy run Z2). **AM:**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 8
+  Bedtime: 00:54
+  Wake: 09:12
+  RHR (bpm): 45
+  RHR Δ vs 7d: -3
+  Motivation (1-10): 10
+  Energy (1-10): 8
+  Stress (1-10): 3
+  DOMS chest (0-3): 3
+  DOMS back: 1
+  DOMS shldr: 2
+  DOMS arm: 2
+  DOMS quad: 3
+  DOMS ham: 3
+  DOMS glute: 3
+  DOMS calf: 3
+  Joint/tendon flags: No pain
+  ```
+  **AM read — yellow.** Systemic green: RHR 45 (−3), sleep 8h Q8, mot 10 / energy 8 / stress 3, joints clean. Lower-body DOMS stack 3/3/3/3 (quad/ham/glute/calf) = Wed Lower A residue +1d. Chest 3 = Mon pec deck failure +3d. User elected rest.
+
+  **PM block:**
+
+  ### 1. Evening BW
+  | Variable | Value |
+  |----------|-------|
+  | BW evening (kg) | 77.3 |
+  | Conditions | Night |
+
+  ### 2. Day macros
+  | Macro | Target | Actual |
+  |-------|--------|--------|
+  | Kcal | ~2500 rest | 2500 |
+  | Protein g | 125–170 | **90** |
+  | Creatine 5 g | Y/N | **N** |
+  | Alcohol units | | 0 |
+  | Steps | | 13000 |
+
+  ### 3. One-line summary
+  Rest day (elected). BW 77.3 (+0.1 vs Wed eve). Kcal on rest target. **Protein 90 g = 1.16 g/kg, below 1.6 floor — MPS under-supplied on recovery day.** Creatine missed.
+
+  **PM read:** Kcal 2500 clean for rest day. **Protein 90 g = red flag** — 35 g below range floor, 1.16 g/kg vs 1.6–2.2 g/kg target. Single day not catastrophic but Tier 1 hypertrophy lever miss on a recovery day = recovery cost. **Creatine 0 = break in chain** (resume tomorrow, daily compliance is the point). BW +0.1 = noise. Steps 13k clean. **Fri Upper B tomorrow:** under-fueled going in. AM action — pre-WO 30–40 g protein non-negotiable, full day target ≥150 g protein, resume creatine. If protein <125 g 2 more days running → flag systemic adherence issue.
 - **2026-05-15 (Fri)** — *Upper B.* Locked starts: **OHP 25** (5×6–8 RPE 8, +1 set), **Lat PD 42.5** (5×6–8, +1 set), **Incline DB Press 12/DB** (3×8–10), **Cable Row 32.5** (3×10–12), **DB Lat Raise 5** (4×12–15 RPE 8–9), **Face Pull 12** (3×15–20), **DB Curl 8** (3×8–10), **Skull EZ hold 13.6** (3×8–10, climb to 10/10/10).
 - **2026-05-16 (Sat)** — *Lower B.* Locked starts: **Trap Bar DL 45** (2×4–6 RPE 7, +5 kg), **BSS 5 kg/DB** (2×10/leg RPE 7), **Hip Thrust 12.5** (2×8 RPE 7–8 — verify plates, prescribed start was 40 kg; if 40 available, climb), **Walking Lunge 7.5/DB** (2×10/leg RPE 7–8), **Seated Calf 11** (2×12 RPE 7–8, soleus bias), **Ab Roller BW** (2×10, progress reps before load).
 - 2026-05-17 (Sun) — *40 min easy run Z2.*
