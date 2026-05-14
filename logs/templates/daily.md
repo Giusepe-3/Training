@@ -17,6 +17,7 @@ Sleep h:
 Sleep quality (1-10):
 Bedtime:
 Wake:
+BW AM (kg):
 RHR (bpm):
 RHR Δ vs 7d:
 Motivation (1-10):
