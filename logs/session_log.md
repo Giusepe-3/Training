@@ -253,7 +253,7 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   Rest day (elected). BW 77.3 (+0.1 vs Wed eve). Kcal on rest target. **Protein 90 g = 1.16 g/kg, below 1.6 floor — MPS under-supplied on recovery day.** Creatine missed.
 
   **PM read:** Kcal 2500 clean for rest day. **Protein 90 g = red flag** — 35 g below range floor, 1.16 g/kg vs 1.6–2.2 g/kg target. Single day not catastrophic but Tier 1 hypertrophy lever miss on a recovery day = recovery cost. **Creatine 0 = break in chain** (resume tomorrow, daily compliance is the point). BW +0.1 = noise. Steps 13k clean. **Fri Upper B tomorrow:** under-fueled going in. AM action — pre-WO 30–40 g protein non-negotiable, full day target ≥150 g protein, resume creatine. If protein <125 g 2 more days running → flag systemic adherence issue.
-- **2026-05-15 (Fri)** — *Upper B.* Locked starts: **OHP 25** (5×6–8 RPE 8, +1 set), **Lat PD 42.5** (5×6–8, +1 set), **Incline DB Press 12/DB** (3×8–10), **Cable Row 32.5** (3×10–12), **DB Lat Raise 5** (4×12–15 RPE 8–9), **Face Pull 12** (3×15–20), **DB Curl 8** (3×8–10), **Skull EZ hold 13.6** (3×8–10, climb to 10/10/10). **AM:**
+- **2026-05-15 (Fri)** — SKIPPED Upper B (user not feeling good). **AM:**
   ```
   Sleep h: 9
   Sleep quality (1-10): 10
@@ -275,9 +275,33 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   DOMS calf: 3
   Joint/tendon flags: No pain
   ```
-  **AM read — GO (full green).** RHR 47 (−1), sleep 9h Q10, mot 10 / energy 10 / stress 4, joints clean. Upper DOMS 0–1 (chest/back/shldr/arm) = Upper B primed. Lower DOMS 3/3/3/3 (Wed Lower A residue +2d) — non-gating for Upper B. Pre-WO mandate post yesterday's protein 90 g + creatine miss: 30–40 g P + carbs 1–2 g/kg 1–3h prior, resume creatine 5 g, day total ≥150 g P. Run prescribed Wk 3 loads RPE 8 from S1.
-- **2026-05-16 (Sat)** — *Lower B.* Locked starts: **Trap Bar DL 45** (2×4–6 RPE 7, +5 kg), **BSS 5 kg/DB** (2×10/leg RPE 7), **Hip Thrust 12.5** (2×8 RPE 7–8 — verify plates, prescribed start was 40 kg; if 40 available, climb), **Walking Lunge 7.5/DB** (2×10/leg RPE 7–8), **Seated Calf 11** (2×12 RPE 7–8, soleus bias), **Ab Roller BW** (2×10, progress reps before load).
-- 2026-05-17 (Sun) — *40 min easy run Z2.*
+  **AM read — GO (full green).** RHR 47 (−1), sleep 9h Q10, mot 10 / energy 10 / stress 4, joints clean. Upper DOMS 0–1 (chest/back/shldr/arm) = Upper B primed. Lower DOMS 3/3/3/3 (Wed Lower A residue +2d) — non-gating for Upper B. Pre-WO mandate post yesterday's protein 90 g + creatine miss: 30–40 g P + carbs 1–2 g/kg 1–3h prior, resume creatine 5 g, day total ≥150 g P.
+
+  **PM note:** SKIPPED — user not feeling good. No workout, no data. Upper B pushed; reschedule during Wk 4.
+- **2026-05-16 (Sat)** — *Upper B (moved from Fri — Fri SKIPPED).* Locked starts: **OHP 25** (5×6–8 RPE 8), **Lat PD 42.5** (5×6–8), **Incline DB Press 12/DB** (3×8–10), **Cable Row 32.5** (3×10–12), **DB Lat Raise 5** (4×12–15 RPE 8–9), **Face Pull 12** (3×15–20), **DB Curl 8** (3×8–10), **Skull EZ 13.6** (3×8–10, climb to 10/10/10). **AM:**
+  ```
+  Sleep h: 7.5
+  Sleep quality (1-10): 6
+  Bedtime: 3:00
+  Wake: 10:00
+  BW AM (kg): 76.7
+  RHR (bpm): 47
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 8
+  Energy (1-10): 8
+  Stress (1-10): 4
+  DOMS chest (0-3): 1
+  DOMS back: 0
+  DOMS shldr: 1
+  DOMS arm: 0
+  DOMS quad: 1
+  DOMS ham: 1
+  DOMS glute: 1
+  DOMS calf: 2
+  Joint/tendon flags: No pain
+  ```
+  **AM read — GO.** RHR 47 (−1) clean. Energy 8 / Mot 8 / Stress 4 green. Sleep 7.5h Q6 = adequate hours, quality meh (late 3am bedtime after 2 sick days). DOMS minimal: upper all 0–1, lower all 1–2 — Upper B fully primed, lower DOMS non-gating. Joints clear. **BW 76.7 AM — flag:** down ~1 kg vs Fri AM 77.7. Likely dehydration + reduced intake during Thu/Fri illness. Not alarming but rehydrate pre-WO, hit protein ≥150 g today, resume creatine. Run prescribed loads from S1 at RPE 8.
+- **2026-05-17 (Sun)** — *Lower B (moved from Sat — Upper B slot swap).* Locked starts: **Trap Bar DL 45** (2×4–6 RPE 7, +5 kg), **BSS 5 kg/DB** (2×10/leg RPE 7), **Hip Thrust 12.5** (2×8 RPE 7–8 — verify plates, prescribed start was 40 kg; if 40 available, climb), **Walking Lunge 7.5/DB** (2×10/leg RPE 7–8), **Seated Calf 11** (2×12 RPE 7–8, soleus bias), **Ab Roller BW** (2×10, progress reps before load). *(Sun Z2 run dropped — Lower B fill.)*
 
 ---
 
