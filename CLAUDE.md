@@ -76,8 +76,8 @@ Other movements: subs in workout file's Substitutions table are fair game.
 
 **Two-touch daily logging:** AM (on wake) + PM (before bed). Standardized templates in `logs/templates/{session,daily,weekly}.md`. Don't freeform.
 
-- **AM block (every day):** sleep h + quality, RHR + Δ vs baseline, motivation, energy, stress, DOMS map, joint flags. ~60 sec.
-- **PM block (every day):** BW (evening, same conditions), workout result if lifting, day macros total. ~3 min.
+- **AM block (every day):** BW AM (kg), sleep h + quality, RHR + Δ vs baseline, motivation, energy, stress, DOMS map, joint flags. ~60 sec. **BW is logged AM only — never ask for or log BW in the PM block.**
+- **PM block (every day):** workout result if lifting, day macros total. ~3 min.
 - **Lifting day** → fill `templates/session.md` (locked prose-block format) → save filled file as `logs/sessions/YYYY-MM-DD_<session>.md` (e.g., `logs/sessions/2026-05-07_upper_B.md`).
 - **Rest / run-only day** → `templates/daily.md` (AM block + PM block w/ run data + macros).
 - **Sunday PM** → also fill `templates/weekly.md` (compliance scoreboard, volume by muscle, e1RM trend, body trend, decisions).
@@ -85,7 +85,7 @@ Other movements: subs in workout file's Substitutions table are fair game.
 - **Narrative + subjective** → `logs/session_log.md`. One bullet per day with summary + bumps + link to full filled log in `logs/sessions/`. Status: **DONE / PARTIAL / SKIPPED / MOVED / REST**.
 - After every lifting session: explicit "Next session bumps:" line per lift in both the filled session file and the session_log.md bullet.
 
-**Evening BW caveat:** noisier than AM-fasted. Hold conditions constant (post-shower, post-pee, ≥1 h after last meal). Use 7-day rolling avg for trend, ignore single-day spikes.
+**BW measurement rule:** BW taken **AM only**, fasted, post-pee, same conditions daily. Logged in AM block exclusively. Use 7-day rolling avg for trend, ignore single-day spikes. Never request or record evening/PM BW.
 
 ### Variable hierarchy (track this priority order)
 
@@ -97,14 +97,14 @@ Other movements: subs in workout file's Substitutions table are fair game.
 5. Kcal vs maintenance (recomp = ±100)
 
 **Tier 2a — AM daily:**
-6. Sleep h + quality
-7. Resting HR (Δ vs 7-day baseline)
-8. Motivation / energy / stress 1–10
-9. Per-muscle DOMS 0–3
-10. Joint/tendon flags
+6. BW AM (fasted, post-pee, conditions held constant)
+7. Sleep h + quality
+8. Resting HR (Δ vs 7-day baseline)
+9. Motivation / energy / stress 1–10
+10. Per-muscle DOMS 0–3
+11. Joint/tendon flags
 
 **Tier 2b — PM daily:**
-11. BW (evening, conditions held constant)
 12. Day macros total
 13. Workout result (lifting days)
 

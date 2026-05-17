@@ -54,14 +54,7 @@ Joint/tendon flags:
 
 **HR drift flag:** pace held but HR +5 bpm vs 2 wks ago at same effort → fatigue accumulation, cut next run or shorten.
 
-### 2. Evening BW
-
-| Variable | Value |
-|----------|-------|
-| BW evening (kg) | |
-| Conditions | |
-
-### 3. Day macros
+### 2. Day macros
 
 | Macro | Target | Actual |
 |-------|--------|--------|
@@ -71,6 +64,6 @@ Joint/tendon flags:
 | Alcohol units | | |
 | Steps | | |
 
-### 4. One-line summary
+### 3. One-line summary
 
 `<rest/run summary — recovery state — nutrition compliance>`

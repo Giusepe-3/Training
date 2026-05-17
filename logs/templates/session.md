@@ -76,7 +76,7 @@ D2) <Lift> — <sets×reps> — START __ kg
 
 Failure tag (last iso set): tech / muscular / neither
 
-## Totals (you can calculate this stuff)
+## Totals (CLAUDE COMPUTES — never leave blank, never ask the user)
 Working sets: __ | Total reps: __ | Tonnage: __ kg
 Avg session RPE: __ | Session RPE retro: __/10 | Duration: __ min
 
@@ -85,7 +85,7 @@ Post meal: __ kcal | Pump: _/5 | Pain/tweaks: __
 Under-loaded? Y/N → _ | Over-loaded? Y/N → _
 
 ## 🌙 PM
-BW evening: __ kg
+(BW is logged AM only — no BW here)
 
 ## Day macros (target @ BW 77.7 kg)
 Kcal: __ / 2700 ±100
