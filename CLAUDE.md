@@ -8,7 +8,7 @@ Project memory for Claude Code. Read on every session.
 
 Personal training log + plan for **Block 1: 11-Week Hypertrophy** (Apr 27 – Jul 12, 2026). Bridge from Madrid HM 2026-04-26 (2:09:38) to Block 2 sub-2:20 30K (Jul 13 – Oct 11, 2026; race Sun Oct 11).
 
-User: solo lifter/runner, novice/early-intermediate strength tier, BW ~77.7 kg.
+User: solo lifter/runner, novice/early-intermediate strength tier, BW ~77 kg. **Goal (set 2026-05-17): slow cut to ~73 kg while getting stronger — deliberate deficit, high protein. See Block 1 targets + Nutrition baselines.**
 
 ---
 
@@ -94,7 +94,7 @@ Other movements: subs in workout file's Substitutions table are fair game.
 2. RPE/RIR per set (proximity to failure)
 3. Load + e1RM trend (mechanical tension)
 4. Protein g/kg BW (target 1.6–2.2 → 125–170 g @ 77.7 kg)
-5. Kcal vs maintenance (recomp = ±100)
+5. Kcal vs target — **slow cut: deliberate deficit ~−400/d** (see Nutrition baselines)
 
 **Tier 2a — AM daily:**
 6. BW AM (fasted, post-pee, conditions held constant)
@@ -116,12 +116,14 @@ Other movements: subs in workout file's Substitutions table are fair game.
 18. Photos front/side/back (biweekly)
 19. HR drift on easy runs
 
-### Nutrition baselines (BW 77.7 kg)
+### Nutrition baselines — SLOW CUT (BW ~77 → ~73 kg target, retain/build strength)
+
+Goal as of 2026-05-17: deliberate slow fat loss to ~73 kg while getting stronger. NOT recomp, NOT surplus. Deficit is intended — do not flag it as under-fueling.
 
 | Macro | Target |
 |-------|--------|
-| Kcal | maintenance ±100 (~2700 baseline; recalc per BW 7-day trend) |
-| Protein | 125–170 g (1.6–2.2 g/kg), spread 4–5 meals, ≤5 h between feeds |
+| Kcal | maintenance (~2700) **minus ~400 → ~2250–2400/d**; recalc maint per BW 7-day trend. Target loss **0.3–0.5 kg/wk** |
+| Protein | **150–185 g (≥2.0 g/kg, push high — #1 muscle-retention lever in deficit)**, 4–5 meals, ≤5 h between feeds. 180+ g = good, never flag as "over". |
 | Carbs | 3–5 g/kg lift days (230–390 g), 2–3 g/kg rest (155–230 g) |
 | Fat | 0.8–1.0 g/kg (62–78 g) |
 | Fiber | 25–35 g |
@@ -132,8 +134,8 @@ Other movements: subs in workout file's Substitutions table are fair game.
 ### Adjustment triggers
 
 - Sleep <6 h **and** RHR +10 → cut session volume 20%, RPE cap 7.
-- BW drop >0.5 kg/wk for 2 wks → +200 kcal/d.
-- BW gain >0.5 kg/wk for 2 wks → −200 kcal/d.
+- **Cut pace (7-day avg):** loss 0.3–0.5 kg/wk = on target, hold. Loss >0.7 kg/wk for 2 wks → too fast, muscle risk → **+150–200 kcal/d**. BW flat ≥2 wks (stall) → **−150 kcal/d OR +1–2k steps**.
+- **Strength = the cut guardrail:** e1RM regression OR top-set reps drop at same load 2 sessions running (not explained by sleep/illness) → cut too hard → diet break or +200 kcal/d. Strength holding/rising = cut is working, do not add food just because BW dropped.
 - 3 sessions reps stalled same load → vary rep range OR drop 5% rebuild OR add intensity technique.
 - Joint pain >3 days → swap variation, no push-through.
 - HR drift +5 bpm at same easy pace vs 2 wks ago → drop a run.
@@ -149,12 +151,12 @@ Other movements: subs in workout file's Substitutions table are fair game.
 - Do not invent baselines; pull from PLAN.md §Strength Baselines or last logged session.
 - When user asks "give me today's session," output: filled `templates/session.md` §2 table (working-set prescription with seeded loads) + the §1 readiness checklist for them to fill on arrival. Don't dump full template unless asked.
 - Treat user as athlete; you are the research team. Surface data trends (e1RM slope, BW 7-day avg, sleep avg, protein adherence %) every Sunday review without being asked.
-- Flag anomalies proactively (RHR spike, BW drift, missed protein 3+ days, e1RM regression).
+- Flag anomalies proactively (RHR spike, missed protein 3+ days, **e1RM/strength regression**, **cut too fast >0.7 kg/wk**, cut stalled ≥2 wks). Steady BW loss 0.3–0.5 kg/wk is the GOAL — report as progress, never as a problem. A kcal deficit is intended; do not prescribe "eat more" unless a guardrail above trips.
 
 ---
 
 ## Block 1 targets
 
-+3–4 kg lean mass | ±0.5 kg BW total | bench +10–15 kg | DL +15–20 kg | weighted PU +10–15 kg added load | running fitness held 90–95% race-day.
+**Revised 2026-05-17 → SLOW CUT:** BW ~77 → **~73 kg** (lose fat, ~0.3–0.5 kg/wk) | **retain/build strength through the deficit** — bench/DL/weighted-PU still progressing (smaller jumps OK in deeper deficit, a stall ≠ failure) | preserve lean mass (high protein + hard lifting) | running fitness held 90–95% race-day. Cut likely extends past Block 1 (Jul 12) into Block 2 — do not force the full drop by block end.
 
 Block ends Sun Jul 12, 2026 → measurements + lift retest + read `docs/handoff.md` for Block 2.
