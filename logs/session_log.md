@@ -307,7 +307,33 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   **PM read:** Avg RPE 8.6 vs 8 target = hot — 7 sets ≥ RPE 10. Expected: first Upper B at Wk 3 loads + 2 sick days + BW −1 kg + kcal deficit stacked. Loads not wrong — **hold both main compounds (OHP, Lat PD) one more session** to bank top-range × all 5 before +2.5. Incline DB + DB Curl clean top×all → +2/DB. Cable Row ran 30 (under prescribed 32.5) yet 12×3 → take 32.5 next. e1RM OHP 28.5 → 31.7 kg (+3.2 / 9 d) = strong tension progression through illness week. **Kcal 2300 vs ~2700 band = −400, AND 23,000 steps** (huge NEAT) → effective deficit far larger on a 29-set / 5508 kg session, day after 2 sick days with BW already −1 kg. Recomp ±100 violated hard. **Action:** lift days ≥2600 kcal, prioritize refeed during illness rebuild or lean-mass target (+3–4 kg) erodes. Protein 180 g = 2.35 g/kg, above ceiling — fine, not a fail. Creatine resumed Y, pre-WO 1000/40 solid.
 
   **[Correction 2026-05-17]:** User NOT sick — on a deliberate slow cut to ~73 kg, getting stronger. Disregard the "illness / under-fueled / −400 violated hard / lift days ≥2600 kcal" framing above. Reality: **2300 kcal + 23k steps + BW 76.7 (−1 vs Fri) = on-plan deficit, correct execution, not a failure.** Protein 180 g = on-target for a cut (muscle retention), not "above ceiling". Future reads use the revised cut config in CLAUDE.md (deficit intended; guardrail = strength, not kcal floor).
-- **2026-05-17 (Sun)** — *Lower B (moved from Sat — Upper B slot swap).* Locked starts: **Trap Bar DL 45** (2×4–6 RPE 7, +5 kg), **BSS 5 kg/DB** (2×10/leg RPE 7), **Hip Thrust 12.5** (2×8 RPE 7–8 — verify plates, prescribed start was 40 kg; if 40 available, climb), **Walking Lunge 7.5/DB** (2×10/leg RPE 7–8), **Seated Calf 11** (2×12 RPE 7–8, soleus bias), **Ab Roller BW** (2×10, progress reps before load). *(Sun Z2 run dropped — Lower B fill.)*
+- **2026-05-17 (Sun)** — *Lower B (moved from Sat — Upper B slot swap).* Locked starts: **Trap Bar DL 45** (2×4–6 RPE 7, +5 kg), **BSS 5 kg/DB** (2×10/leg RPE 7), **Hip Thrust 12.5** (2×8 RPE 7–8 — verify plates, prescribed start was 40 kg; if 40 available, climb), **Walking Lunge 7.5/DB** (2×10/leg RPE 7–8), **Seated Calf 11** (2×12 RPE 7–8, soleus bias), **Ab Roller BW** (2×10, progress reps before load). **AM:**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 9
+  Bedtime: 00:00
+  Wake: 09:00
+  BW AM (kg): 76.2
+  RHR (bpm): 46
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest (0-3): 3
+  DOMS back: 2
+  DOMS shldr: 3
+  DOMS arm: 3
+  DOMS quad: 1
+  DOMS ham: 1
+  DOMS glute: 1
+  DOMS calf: 1
+  Joint/tendon flags: No pain
+  ```
+  Mood note: Pretty good mood today.
+
+  **AM run (done):** 5.20 km / 35:00 / 6:43 per km, easy "chill" effort (the Sun Z2 — done, not dropped). RPE low. Aerobic base maintained.
+
+  **AM read — GO (green).** RHR 46 (−1), sleep 8h Q9, mot/energy 10, stress 2, joints clean = top of scale. Lower DOMS all 1 (quad/ham/glute/calf) — posterior chain fresh, Lower A residue cleared. Upper DOMS 3/3/3/2 (chest/shldr/arm/back) = Sat Upper B residue +1d, non-gating for Lower B. Morning easy run = mild leg pre-fatigue only, not limiting. **BW 76.2 AM = on-plan cut progress** (AM slope 77.7→76.7→76.2 toward ~73; early drop = water/glycogen + run, normalizes on 7-day). No food change — deficit intended. **Guardrail strength:** Trap Bar DL +5 (40→45) in deficit → RPE-gate top set, hold if it bites, stall ≠ failure. Lower B prescribed loads, run RPE 7.
 
 ---
 
