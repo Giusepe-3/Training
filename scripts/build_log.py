@@ -220,6 +220,20 @@ LIFT_SETS = [
     (date(2026, 5, 16), "Upper B", "Skull Crusher",    1, 10, 13.6, 7, ""),
     (date(2026, 5, 16), "Upper B", "Skull Crusher",    2, 10, 13.6, 8, ""),
     (date(2026, 5, 16), "Upper B", "Skull Crusher",    3, 10, 13.6, 9, "climb hit, bump 15.9 next"),
+
+    # 2026-05-17 Sun Wk 3 Lower B (moved from Sat) — RPE 7 baseline, +5 Trap DL
+    (date(2026, 5, 17), "Lower B", "Trap Bar Deadlift",     1, 6, 45, 8, "RIR2; under-loaded"),
+    (date(2026, 5, 17), "Lower B", "Trap Bar Deadlift",     2, 6, 45, 7, "RIR3; bump 50 next; e1RM 54.0"),
+    (date(2026, 5, 17), "Lower B", "Bulgarian Split Squat", 1, 20, 10, 8, "5/DB=10kg total; 10L+10R; RIR2"),
+    (date(2026, 5, 17), "Lower B", "Bulgarian Split Squat", 2, 20, 10, 8, "10L+10R; top×all; bump 7.5/DB next"),
+    (date(2026, 5, 17), "Lower B", "Hip Thrust",            1, 8, 12.5, 10, "MACHINE load scale; RIR0"),
+    (date(2026, 5, 17), "Lower B", "Hip Thrust",            2, 8, 12.5, 10, "MACHINE; correctly loaded; hold 12.5"),
+    (date(2026, 5, 17), "Lower B", "Walking Lunge",         1, 20, 14, 7, "7/DB=14kg total; 10L+10R"),
+    (date(2026, 5, 17), "Lower B", "Walking Lunge",         2, 20, 14, 7, "top×all; bump 9/DB next"),
+    (date(2026, 5, 17), "Lower B", "Seated Calf Raise",     1, 12, 30, 6, "soleus bias"),
+    (date(2026, 5, 17), "Lower B", "Seated Calf Raise",     2, 12, 30, 6, "RPE6 under-loaded; bump 35 next"),
+    (date(2026, 5, 17), "Lower B", "Ab Roller",             1, 10, 0, 10, "BW knee rollout"),
+    (date(2026, 5, 17), "Lower B", "Ab Roller",             2, 10, 0, 10, "BW; hold, target 2×12"),
 ]
 
 # Body weight log: (date, BW kg, sleep h, notes)
@@ -234,13 +248,16 @@ BODY_LOG = [
     (date(2026, 5, 14), 77.3, 8.0,  "Wk 3 Thu PM (rest, protein 90g)"),
     # BW now AM-only from 2026-05-15 (user rule 2026-05-17): never log PM/evening BW going forward
     (date(2026, 5, 15), 77.7, 9.0,  "Wk 3 Fri AM (BW AM-only from here)"),
-    (date(2026, 5, 16), 76.7, 7.5,  "Wk 3 Sat AM (-1kg vs Fri, illness Thu/Fri)"),
+    (date(2026, 5, 16), 76.7, 7.5,  "Wk 3 Sat AM (-1kg vs Fri; slow cut, NOT illness)"),
+    (date(2026, 5, 17), 76.2, 8.0,  "Wk 3 Sun AM (cut on-plan; AM slope toward ~73)"),
 ]
 
 # Running log: (date, dist_km, time_min, avg_hr, max_hr, rpe, type, notes)
 RUN_LOG = [
     # 2026-05-08 Fri Wk 2 — planned Z2 25-30min, actual 5K PR @ Z5 65%
     (date(2026, 5, 8), 5.00, 25.97, 176, 204, 9, "Other", "5K PR 25:58 @5:12/km. Z5 65%, planned Z2 — full CNS dump"),
+    # 2026-05-17 Sun Wk 3 — Sun Z2 easy (HR not recorded)
+    (date(2026, 5, 17), 5.20, 35.0, 160, 0, 3, "Easy", "Sun Z2 chill 6:43/km; avg HR 160; max not recorded; aerobic base held"),
 ]
 
 

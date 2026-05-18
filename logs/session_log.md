@@ -335,13 +335,41 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 
   **AM read — GO (green).** RHR 46 (−1), sleep 8h Q9, mot/energy 10, stress 2, joints clean = top of scale. Lower DOMS all 1 (quad/ham/glute/calf) — posterior chain fresh, Lower A residue cleared. Upper DOMS 3/3/3/2 (chest/shldr/arm/back) = Sat Upper B residue +1d, non-gating for Lower B. Morning easy run = mild leg pre-fatigue only, not limiting. **BW 76.2 AM = on-plan cut progress** (AM slope 77.7→76.7→76.2 toward ~73; early drop = water/glycogen + run, normalizes on 7-day). No food change — deficit intended. **Guardrail strength:** Trap Bar DL +5 (40→45) in deficit → RPE-gate top set, hold if it bites, stall ≠ failure. Lower B prescribed loads, run RPE 7.
 
+  **PM block:** DONE. Lower B, 85 min (20:00–21:25). Pre-WO 700/50 P, caffeine 0 mg, creatine Y. Trap Bar DL 45 kg 6/6 (RPE 8/7, RIR 2/3 — under-loaded). BSS 5 kg/DB 10/10/10/10 @ RPE 8 RIR2 (top × all). Hip Thrust 12.5 kg 8/8 @ RPE 10 RIR0 (MACHINE — 12.5 = machine load scale, not barbell; correctly loaded, "prescribed 40" void). Walking Lunge 7 kg/DB 10/10 ×2 @ RPE 7 (ran 7, prescribed 7.5). Seated Calf 30 kg 12/12 @ RPE 6 (ran 30, prescribed 11). Ab Roller BW 10/10 @ RPE 10. Failure tag: neither. **Totals:** 12 WS / 152 reps / 2420 kg external tonnage / avg RPE 8.07 / retro 7 / 85 min. e1RM Trap DL 54.0 kg (vs 5/10 48.0, +6/7d). Pump 3/5, no pain, under Y over N. Day 2637 kcal / 191 g P / 0 u / 17132 steps. Full log → `logs/sessions/2026-05-17_lower_B.md`. **Next session bumps (Sat 5/23 Lower B):** Trap DL → 50, BSS → 7.5 kg/DB, Hip Thrust → HOLD 12.5 (machine — correctly loaded, no fix; next machine notch when RPE ≤8), Walking Lunge → 9 kg/DB, Seated Calf → 35, Ab Roller → HOLD BW target 2×12.
+
+  **PM read:** Avg RPE 8.07 driven by HT (RPE 10, setup artefact) + BSS RPE 8 — the three loadable compounds/accessories (Trap DL, Lunge, Calf) all RPE ≤8 with top range × all + under-loaded Y → aggressive bump cycle queued. **Trap Bar DL e1RM 48.0→54.0 kg (+6 / 7 d) — strength rising through the deficit = cut working as designed, guardrail green, do not add food.** Hip Thrust is a **machine** — 12.5 = machine load scale (not barbell kg), so the low number is expected and the "prescribed 40" note is void; RPE 10 RIR0 at top reps = correctly loaded, no setup fix needed (clears the 5/10 + 5/17-AM plate-check item). Macros: Kcal 2637 vs cut band 2250–2400 = ~+240 above the window, BUT 17,132 steps (large NEAT) → effective intake on-plan deficit; single day, not a guardrail trip, no kcal flag. Protein 191 g = on-target for the cut (muscle retention), not "over". BW AM slope 77.7→76.7→76.2 → tracking toward ~73, report as progress. **Mon 5/18 Upper A green-light:** loads per Wk 4 locked starts (Bench 37.5, Row 37.5, Incline DB 14, Lat PD 42.5, Pec Deck hold 7.5, Face Pull 14, Pushdown 15, DB Curl hold 8).
+
 ---
 
 ## Week 4 (May 18 – 24) — Accumulation final
 
 *Top of rep range = +2.5 kg next session. No waiting.*
 
-- 2026-05-18 (Mon) — *Upper A.*
+- **2026-05-18 (Mon)** — *Upper A.* Locked starts: **Bench 37.5** (5×6–8 RPE 8), **Row 37.5** (5×6–8), **Incline DB 14/DB** (3×8–10), **Lat PD 42.5** (4×6–8), **Pec Deck hold 7.5** (climb 12/12/12), **Face Pull 14** (3×15–20), **Pushdown 15** (3×12), **DB Curl hold 8/DB** (climb 12/12/12). **AM:**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 10
+  Bedtime: 23:30
+  Wake: 08:30
+  BW AM (kg): 76.2
+  RHR (bpm): 46
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest (0-3): 2
+  DOMS back: 1
+  DOMS shldr: 1
+  DOMS arm: 1
+  DOMS quad: 3
+  DOMS ham: 3
+  DOMS glute: 3
+  DOMS calf: 3
+  Joint/tendon flags: No pain
+  ```
+  Mood note: Feeling good.
+
+  **AM read — GO (full green).** RHR 46 (−1) clean, sleep 8h Q10, mot/energy 10, stress 2, joints clear = top of scale. Upper DOMS low: chest 2 (Sat Upper B pec residue +2d, mildly tender on press — non-gating), back/shldr/arm 1. Lower DOMS 3/3/3/3 (Sun Lower B residue +1d) — non-gating for Upper A; **flags Tue Lower A** (24h out, AM read tomorrow gates squat intensity). **BW 76.2 AM = flat vs Sun 76.2** (AM slope 77.7→76.7→76.2→76.2). 1 flat day post-Lower-B + 17k steps = water/glycogen noise, NOT a stall (stall = ≥2 wks); cut trend intact, no food change, report as on-plan. Run prescribed Wk 4 Upper A loads at RPE 8 from S1.
 - **2026-05-19 (Tue)** — *Lower A.* Locked starts: **Back Squat 37.5** (5×6–8 RPE 8, top hit ×5 last session), **RDL 32.5** (3×8–10, target 10/10/10), **Leg Press 30** (3×10–12, push to RPE 8 — under-loaded last session), **Lying Leg Curl 22.5** (3×10–12, target 12/12/12 — may stall), **Standing Calf hold 30** (4×12–15, close 15×4 before bumping), **Hanging Knee Raise BW** (target 10/10/10 reps progression).
 - 2026-05-20 (Wed) — REST.
 - 2026-05-21 (Thu) — *35 min easy.*
