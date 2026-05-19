@@ -374,7 +374,31 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   **PM block:** DONE. Upper A, 130 min (17:20–19:30, full gym). Pre-WO 221/35 P, caffeine 0 mg, creatine Y. Bench 37.5 kg 8/8/8/8/6 (RPE 8/8/9/10/9, S4 failure). Row 37.5 kg 8/8/8/8/7 (RPE 8/8/8/9/9). Incline DB 15/DB 10/10/10 (RPE 8/8/9 — ran 15, start was 14). Lat PD 42.5 8/8/8 RPE 7 RIR3 (too light) → S4 45 kg 6r RPE 10. Pec Deck 7.5 kg 15/12/12 (RPE 8/8/10 — S3 muscular failure). Face Pull 15 kg 20/20/20 @ RPE 8 (top range × 3). Pushdown 15 kg 12/12/12 @ RPE 8 (target clean × 3). DB Curl 8/DB 12/12/10 (RPE 7/8/8). Failure tag: muscular. **Totals:** 29 WS / 306 reps / 6632 kg tonnage / avg RPE 8.2 / retro 8 / 130 min. **Bench e1RM 44.3→47.5 kg (+3.2 / 7 d) — strength rising through the deficit = cut working, guardrail green.** Pump 5/5, no pain, under N over N. Day 2300 kcal / 170 g P / 0 u / 12,700 steps. Full log → `logs/sessions/2026-05-18_upper_A.md`. **Next session bumps (Mon 5/25 Upper A):** Bench HOLD 37.5 (clean 5×8 first — got 8/8/8/8/6 RPE→10), Row HOLD 37.5 (clean 5×8 — 8/8/8/8/7), Incline DB → 16/DB (top × all), Lat PD → start 45 (42.5 RPE7 ×3 too light), Pec Deck HOLD 7.5 (chase 15/15/15), Face Pull → 16 (20/20/20 RPE8 × all), Pushdown → 17 (12/12/12 RPE8 × all), DB Curl HOLD 8/DB (chase 12/12/12).
 
   **PM read.** Strong session despite full gym (130 min). **Bench e1RM 44.3→47.5 kg (+3.2 / 7 d)** — top loadable lift rising through the deficit = cut executing as designed, strength guardrail green, do not add food on BW dip. Bench/Row held 37.5 (not clean top × all → hold to consolidate before +2.5, not a stall). Three accessories cleared clean top-range (Incline DB, Face Pull, Pushdown) → bumps queued. Lat PD 42.5 RPE 7 RIR 3 × 3 = under-loaded — start 45 next. Macros: Kcal 2300 dead-centre cut band 2250–2400, protein 170 g on-target for muscle retention, 12.7k steps — clean on-plan deficit day, no flags. **Lower DOMS still 3/3/3/3 AM (Sun Lower B +1d) → Tue 5/19 Lower A: AM read tomorrow gates squat intensity; if quads/hams still ≥2.5 and RHR clean, run prescribed but cap S1 RPE 7 ramp.**
-- **2026-05-19 (Tue)** — *Lower A.* Locked starts: **Back Squat 37.5** (5×6–8 RPE 8, top hit ×5 last session), **RDL 32.5** (3×8–10, target 10/10/10), **Leg Press 30** (3×10–12, push to RPE 8 — under-loaded last session), **Lying Leg Curl 22.5** (3×10–12, target 12/12/12 — may stall), **Standing Calf hold 30** (4×12–15, close 15×4 before bumping), **Hanging Knee Raise BW** (target 10/10/10 reps progression).
+- **2026-05-19 (Tue)** — *Lower A.* Locked starts: **Back Squat 37.5** (5×6–8 RPE 8, top hit ×5 last session), **RDL 32.5** (3×8–10, target 10/10/10), **Leg Press 30** (3×10–12, push to RPE 8 — under-loaded last session), **Lying Leg Curl 22.5** (3×10–12, target 12/12/12 — may stall), **Standing Calf hold 30** (4×12–15, close 15×4 before bumping), **Hanging Knee Raise BW** (target 10/10/10 reps progression). **AM:**
+  ```
+  Sleep h: 9.5
+  Sleep quality (1-10): 10
+  Bedtime: 23:30
+  Wake: 09:00
+  BW AM (kg): 77.4
+  RHR (bpm): 50
+  RHR Δ vs 7d: +2
+  Motivation (1-10): 10
+  Energy (1-10): 8
+  Stress (1-10): 4
+  DOMS chest (0-3): 3
+  DOMS back: 3
+  DOMS shldr: 3
+  DOMS arm: 3
+  DOMS quad: 1
+  DOMS ham: 1
+  DOMS glute: 1
+  DOMS calf: 1
+  Joint/tendon flags: No pain
+  ```
+  Mood note: Feeling good.
+
+  **AM read — GO (green for Lower A).** Sleep 9.5h Q10 elite. Lower DOMS all 1 (quad/ham/glute/calf) — Sun Lower B residue fully cleared, Mon's 3/3/3/3 lower flag resolved → leg tissue recovered, run prescribed. Upper DOMS 3/3/3/3 = Mon Upper A residue (+1d), does NOT gate Lower A (different tissue). RHR 50 (+2) + stress 4 + energy 8 = mild uptick, well under volume-cut trigger (needs sleep <6 AND RHR +10); 9.5h sleep offsets. Joints clean, mot 10. **BW 77.4 = +1.2 spike vs Mon 76.2** — Mon Upper A 130min + 12.7k steps + 1200 kcal post-WO = glycogen/water/gut load. AM slope 77.7→76.7→76.2→76.2→77.4: single-day noise per BW rule (7-day avg, ignore spikes); cut trend intact, NO food change, do not flag. Run Wk 4 Lower A loads RPE 8 from S1. **PM result pending (new conversation).**
 - 2026-05-20 (Wed) — REST.
 - 2026-05-21 (Thu) — *35 min easy.*
 - 2026-05-22 (Fri) — *Upper B.*
