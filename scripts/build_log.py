@@ -234,6 +234,37 @@ LIFT_SETS = [
     (date(2026, 5, 17), "Lower B", "Seated Calf Raise",     2, 12, 30, 6, "RPE6 under-loaded; bump 35 next"),
     (date(2026, 5, 17), "Lower B", "Ab Roller",             1, 10, 0, 10, "BW knee rollout"),
     (date(2026, 5, 17), "Lower B", "Ab Roller",             2, 10, 0, 10, "BW; hold, target 2×12"),
+
+    # 2026-05-18 Mon Wk 4 Upper A — RPE 8 baseline; e1RM bench 44.3→47.5
+    (date(2026, 5, 18), "Upper A", "Bench Press",      1, 8, 37.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Bench Press",      2, 8, 37.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Bench Press",      3, 8, 37.5, 9, ""),
+    (date(2026, 5, 18), "Upper A", "Bench Press",      4, 8, 37.5, 10, "S4 failure RIR0"),
+    (date(2026, 5, 18), "Upper A", "Bench Press",      5, 6, 37.5, 9, "fell to 6r; hold 37.5, clean 5×8 next; e1RM 47.5"),
+    (date(2026, 5, 18), "Upper A", "Barbell Row",      1, 8, 37.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Barbell Row",      2, 8, 37.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Barbell Row",      3, 8, 37.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Barbell Row",      4, 8, 37.5, 9, ""),
+    (date(2026, 5, 18), "Upper A", "Barbell Row",      5, 7, 37.5, 9, "S5 7r; hold 37.5, clean 5×8 next"),
+    (date(2026, 5, 18), "Upper A", "Incline DB Press", 1, 10, 15, 8, "ran 15 vs start 14"),
+    (date(2026, 5, 18), "Upper A", "Incline DB Press", 2, 10, 15, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Incline DB Press", 3, 10, 15, 9, "top×3, bump 16 next"),
+    (date(2026, 5, 18), "Upper A", "Lat Pulldown",     1, 8, 42.5, 7, "RIR3 too light"),
+    (date(2026, 5, 18), "Upper A", "Lat Pulldown",     2, 8, 42.5, 7, "RIR3"),
+    (date(2026, 5, 18), "Upper A", "Lat Pulldown",     3, 8, 42.5, 7, "RIR3"),
+    (date(2026, 5, 18), "Upper A", "Lat Pulldown",     4, 6, 45, 10, "self-bump S4; start 45 next"),
+    (date(2026, 5, 18), "Upper A", "Pec Deck",         1, 15, 7.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Pec Deck",         2, 12, 7.5, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Pec Deck",         3, 12, 7.5, 10, "muscular failure; hold 7.5 chase 15×3"),
+    (date(2026, 5, 18), "Upper A", "Face Pull",        1, 20, 15, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Face Pull",        2, 20, 15, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Face Pull",        3, 20, 15, 8, "top×3 RPE8, bump 16 next"),
+    (date(2026, 5, 18), "Upper A", "Triceps Pushdown", 1, 12, 15, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Triceps Pushdown", 2, 12, 15, 8, ""),
+    (date(2026, 5, 18), "Upper A", "Triceps Pushdown", 3, 12, 15, 8, "target clean×3, bump 17 next"),
+    (date(2026, 5, 18), "Upper A", "DB Curl",          1, 12, 8, 7, ""),
+    (date(2026, 5, 18), "Upper A", "DB Curl",          2, 12, 8, 8, ""),
+    (date(2026, 5, 18), "Upper A", "DB Curl",          3, 10, 8, 8, "S3 10r; hold 8 chase 12×3"),
 ]
 
 # Body weight log: (date, BW kg, sleep h, notes)
@@ -250,6 +281,7 @@ BODY_LOG = [
     (date(2026, 5, 15), 77.7, 9.0,  "Wk 3 Fri AM (BW AM-only from here)"),
     (date(2026, 5, 16), 76.7, 7.5,  "Wk 3 Sat AM (-1kg vs Fri; slow cut, NOT illness)"),
     (date(2026, 5, 17), 76.2, 8.0,  "Wk 3 Sun AM (cut on-plan; AM slope toward ~73)"),
+    (date(2026, 5, 18), 76.2, 8.0,  "Wk 4 Mon AM (flat vs Sun; post-Lower-B water noise, not stall)"),
 ]
 
 # Running log: (date, dist_km, time_min, avg_hr, max_hr, rpe, type, notes)
