@@ -32,44 +32,52 @@ Start→End: __ → __ (__ min)
 
 ## Sets — RPE 8 baseline (RPE 7 first set then 8)
 A1) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S2: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S3: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S4: __ r × __ kg | RPE _ | RIR _ | rest __ s
 
 A2) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S2: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S3: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S4: __ r × __ kg | RPE _ | RIR _ | rest __ s
 
 B1) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S2: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S3: __ r × __ kg | RPE _ | RIR _ | rest __ s
 
 B2) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S2: __ r × __ kg | RPE _ | RIR _ | rest __ s
   S3: __ r × __ kg | RPE _ | RIR _ | rest __ s
 
 C1) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | rest __ s
   S2: __ r × __ kg | RPE _ | rest __ s
   S3: __ r × __ kg | RPE _ | rest __ s
   S4: __ r × __ kg | RPE _ | rest __ s
 
 C2) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | rest __ s
   S2: __ r × __ kg | RPE _ | rest __ s
   S3: __ r × __ kg | RPE _ | rest __ s
 
 D1) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | rest __ s
   S2: __ r × __ kg | RPE _ | rest __ s
   S3: __ r × __ kg | RPE _ | rest __ s
 
 D2) <Lift> — <sets×reps> — START __ kg
+  Note: <form cue / progression target / bump trigger>
   S1: __ r × __ kg | RPE _ | rest __ s
   S2: __ r × __ kg | RPE _ | rest __ s
   S3: __ r × __ kg | RPE _ | rest __ s
