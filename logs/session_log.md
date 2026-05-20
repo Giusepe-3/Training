@@ -403,7 +403,30 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   **PM block:** DONE. Lower A, 120 min (21:00–23:00, late session). Pre-WO 700/60 P, caffeine 100 mg, creatine Y. Squat 37.5 kg 8/8/8/8/8 (RPE 8/8/9/9/9 — top × 5 clean, RPE drift late-set). RDL 32.5 kg 10/10/10 @ RPE 9 (top × all). Leg Press 30 kg 12/12/12 (RPE 8/9/9 — top × all). Lying Leg Curl 22.5 kg 12/12/12 (RPE 7/9/10 — top × all, S3 failure-adjacent). Standing Calf 30 kg 15/15/13/12 (RPE 8/9/10/10 — failed 15×4, reps stalled S3/S4). Hanging Knee Raise BW 10/10/10 @ RPE 9 (clean top × all). Failure tag: tech. **Totals:** 21 WS / 227 reps / 6015 kg (BW knee raise excl) / avg RPE 8.86 / retro 9 / 120 min. **Squat e1RM 44.3→47.5 kg (+3.2 / 7 d) — 2nd compound rising through deficit (Bench same delta Mon) = cut working, guardrail green.** Pump 5/5, no pain, under N over N. Day 2553 kcal / 211 g P / 0 u / 8,100 steps. Full log → `logs/sessions/2026-05-19_lower_A.md`. **Next session bumps (Tue 5/26 Lower A):** Squat → 40 (5×8 top clean, RPE drift to 9 late-set normal, +2.5 per user pre-commit), RDL → 35 (10/10/10 RPE 9 top × all), Leg Press → 35 (12/12/12 top × all, +5 per note), Lying Leg Curl → 23.75 (+1.25 iso, 12/12/12 clean reps, S3 RPE 10 = small jump), Calf HOLD 30 (15/15/13/12 — failed 15×4, chase clean), Knee Raise → BW + 2.5 kg plate (10/10/10 clean RPE 9, add load per note).
 
   **PM read.** **Squat e1RM 44.3→47.5 kg (+3.2 / 7 d)** — second priority compound rising through the deficit, identical delta to Mon Bench = cut executing as designed across both Upper and Lower top lifts, strength guardrail green on both axes. 4 of 6 lifts cleared top-range × all (Squat / RDL / Leg Press / Knee Raise) → bumps queued. Leg Curl bumped small only (+1.25) — RPE crept to 10 on S3; if 23.75 unavailable, hold 22.5 and chase cleaner. Calf stalled S3/S4 — hold 30, chase 15×4, Wk 5+ candidate for drop set per intensity tech queue. Macros: kcal 2553 = +150 over cut band 2250–2400 (lift-day carbs around training, acceptable), protein 211 g well above 150–185 floor (≥2.0 g/kg, retention-optimal in deficit, do not flag). Steps 8.1k = light NEAT day (vs Mon 12.7k) — late 21:00 session compressed evening activity. **Late session window 21:00–23:00 + bed-time risk** — sleep onset likely 00:30+, watch AM 5/20 RHR / sleep h; if Δ ≥+5 / sleep <7, Thu 5/21 run drops to 25 min easy. Rest day Wed 5/20 prescribed = full 24h recovery before Thu run, gating window favorable.
-- 2026-05-20 (Wed) — REST.
+- **2026-05-20 (Wed)** — REST. **AM:**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 10
+  Bedtime: 00:50
+  Wake: 09:04
+  BW AM (kg): 77.8
+  RHR (bpm): 48
+  RHR Δ vs 7d: 0
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest (0-3): 3
+  DOMS back: 3
+  DOMS shldr: 3
+  DOMS arm: 2
+  DOMS quad: 3
+  DOMS ham: 3
+  DOMS glute: 3
+  DOMS calf: 3
+  Joint/tendon flags: No pain
+  ```
+
+  **AM read — GREEN, REST holds.** Tue late-session watch list (sleep <7 or RHR Δ ≥+5 → cut Thu run) **clears**: sleep 8h Q10, RHR 48 Δ0 vs 7d, bed 00:50 / wake 09:04 = clean recovery despite 21:00–23:00 session. Mot/energy 10, stress 2, joints clean = top of scale. DOMS full-body 3s (chest/back/shldr/quad/ham/glute/calf, arm 2) = Mon Upper A +2d (chest/back/shldr/arm pec deck failure residue) stacked w/ Tue Lower A +1d (squat 5×8 RPE9 + RDL 10×3 RPE9 + leg curl S3 RPE10) — expected, REST aligned. BW 77.8 AM = +0.4 vs Tue 77.4 (slope 77.7→76.7→76.2→76.2→77.4→77.8): single-day spike, per BW rule = noise (7-day avg, ignore); driven by Tue 2553 kcal late feed + lift-day glycogen/water replete post-Lower-A. Cut trend intact, NO food change, do not flag. **Thu 5/21 35-min Z2 holds** — DOMS likely fade by +48h post-Tue, AM read tomorrow gates final call.
 - 2026-05-21 (Thu) — *35 min easy.*
 - 2026-05-22 (Fri) — *Upper B.*
 - 2026-05-23 (Sat) — *Lower B.*
