@@ -487,6 +487,14 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   | Skull Crusher | 3×8–10 | 8 | **15.9 kg** (+~2 iso) | nearest increment vs Wk 3 = 10×3 RPE 7/8/9 @ 14; else hold 14 + strict 3×10 |
 
   Pre-WO: 1–2 g/kg carb + 30–40 g P, 1–3 h prior. Creatine Y. RPE 8 = leave 2 reps; bump mid-session if S1 < RPE 7.
+
+  **PM block:** **PARTIAL.** Upper B, 35 min (21:00–21:35). Pre-WO 700/50 P, caffeine 100 mg, creatine Y. **OHP 25 kg 8/8 RPE 8/8 RIR 2** (S1+S2 clean, ramp consistent w/ Wk 3 read). **Lat PD 42.5 kg S1 8r** (RPE not logged). **Session stopped — right shoulder strange feeling** (not sharp pain, precautionary stop). B1/B2/C1/C2/D1/D2 SKIPPED. Failure tag: neither (truncated). **Totals:** 3 WS / 24 reps / 740 kg / avg RPE 8 (2 sets) / retro 6 / 35 min. Pump 5/5, **pain/tweaks: right shoulder**, under N over N. Day 2505 kcal / 221 g P / 0 u / 7,200 steps (kcal +105 over cut band, lift-day carbs acceptable; protein 221 g above floor, retention-optimal). Full log → `logs/sessions/2026-05-21_upper_B.md`.
+
+  **PM read — JOINT FLAG (right shoulder).** Session truncated as precaution, correct call (no push-through on joint signal). Data: OHP S1+S2 clean RPE 8 RIR 2 = load was not the trigger (matched Wk 3 ramp). Lat PD S1 then stopped → shoulder signal arrived under pulldown load. **No e1RM read** (only 2 OHP sets recorded). **Bumps deferred** — incomplete data on all 8 lifts; Wk 4 prescribed loads carried forward, not consumed. **Shoulder protocol:**
+  - Fri 5/22 Z2 run, Sat 5/23 Lower B = unaffected (no shoulder load) → run as planned.
+  - **Mon 5/25 Upper A AM check gates resume:** if shoulder clear (no strange feeling rest, clean ROM, no pain on light DB ramp) → run prescribed Upper A. **If still off:** swap to neutral-grip / DB variations, cap RPE 7, no BB OHP-pattern movements. CLAUDE.md: joint pain >3 days → swap variation, no push-through.
+  - Watch list: radiating pain, weakness under load, clicking, night pain → escalate.
+  - Macros / steps clean; this is a tissue / joint issue, NOT fueling or systemic recovery. Cut + protein hold.
 - 2026-05-22 (Fri) — *Easy Z2 run (swapped from Upper B; user shifted lift to Thu, kept 2nd run on Fri).*
 - 2026-05-23 (Sat) — *Lower B.*
 - 2026-05-24 (Sun) — REST (swapped from 40-min easy; user moved REST to Sun).
