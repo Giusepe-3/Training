@@ -427,7 +427,26 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   ```
 
   **AM read — GREEN, REST holds.** Tue late-session watch list (sleep <7 or RHR Δ ≥+5 → cut Thu run) **clears**: sleep 8h Q10, RHR 48 Δ0 vs 7d, bed 00:50 / wake 09:04 = clean recovery despite 21:00–23:00 session. Mot/energy 10, stress 2, joints clean = top of scale. DOMS full-body 3s (chest/back/shldr/quad/ham/glute/calf, arm 2) = Mon Upper A +2d (chest/back/shldr/arm pec deck failure residue) stacked w/ Tue Lower A +1d (squat 5×8 RPE9 + RDL 10×3 RPE9 + leg curl S3 RPE10) — expected, REST aligned. BW 77.8 AM = +0.4 vs Tue 77.4 (slope 77.7→76.7→76.2→76.2→77.4→77.8): single-day spike, per BW rule = noise (7-day avg, ignore); driven by Tue 2553 kcal late feed + lift-day glycogen/water replete post-Lower-A. Cut trend intact, NO food change, do not flag. **Thu 5/21 35-min Z2 holds** — DOMS likely fade by +48h post-Tue, AM read tomorrow gates final call.
-- 2026-05-21 (Thu) — *35 min easy.*
+- **2026-05-21 (Thu)** — DONE. 35 min easy Z2, treadmill 1.0% incline.
+  ```
+  Distance (km): 4.13
+  Time (min): 35
+  Avg pace (min/km): 8:31
+  Avg HR / Max HR: 145 / 163
+  HR zone distribution (%Z2 / %Z3 / %Z4+): Z2 5% / Z3 77% / Z4+ 0% (Z1 warm-up ~18%)
+  Cadence (spm): 143
+  Run RPE (1-10): 6.5
+  Terrain / weather: Treadmill, 1.0% incline
+  Notes (form, breathing, heaviness): All good but HR a little high.
+
+  Kcal: 2550
+  Protein g: 209
+  Creatine 5 g (Y/N): Y
+  Alcohol units: 0
+  Steps: 17100
+  ```
+
+  **PM read.** **HR drift = legit, user diagnosis correct.** Z2 (126–146) only 5% / Z3 (147–167) 77% — avg 145 at very top of Z2 band, 77% above target = ran Z3 not Z2 despite slow pace 8:31/km (~7.0 km/h, *below* prescribed 8.2–8.6 km/h). RPE 6.5 confirms (Z2 target 4–5). Drivers: (a) treadmill thermoreg — no airflow + warm room pushes HR +5–10 bpm at same pace, (b) post-lift residue (Tue Lower A 21:00–23:00 late session + Wk 4 full-body DOMS 3s on 5/20 AM), (c) cadence 143 spm low → less elastic, more metabolic cost. Singleton event, NOT a fitness regression. **Next Thu run (5/28) corrections:** open window / fan ON, raise incline to 1.5% but *drop speed* to 6.5–6.8 km/h so HR caps ≤140, OR shift outdoor (cooler ambient = easier Z2). If HR drifts ≥147 again on lower speed → drop to 30 min, flag possible accumulated fatigue. Macros: kcal 2550 = +150 over cut band 2250–2400 (rest+run day, mild over, acceptable on 17.1k step NEAT — net deficit intact). Protein 209 g = ≥2.0 g/kg, retention-optimal in deficit, do not flag. Steps 17.1k = excellent NEAT, offsets the kcal over. Creatine Y. Wk 4 closes Fri+Sat+Sun (Upper B / Lower B / 40 min easy). **Fri 5/22 Upper B GO** — Wk 3 Upper B bumps queued from `logs/sessions/2026-05-15_upper_B.md`; AM 5/22 read gates final call. No next-run "bump" — easy Z2 is duration-/HR-capped, not load-progressed; the Thu/Sun adjustment is environment (fan/outdoor) + speed/incline mix, not a "+kg" line.
 - 2026-05-22 (Fri) — *Upper B.*
 - 2026-05-23 (Sat) — *Lower B.*
 - 2026-05-24 (Sun) — *40 min easy.*
