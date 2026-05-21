@@ -427,7 +427,8 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   ```
 
   **AM read — GREEN, REST holds.** Tue late-session watch list (sleep <7 or RHR Δ ≥+5 → cut Thu run) **clears**: sleep 8h Q10, RHR 48 Δ0 vs 7d, bed 00:50 / wake 09:04 = clean recovery despite 21:00–23:00 session. Mot/energy 10, stress 2, joints clean = top of scale. DOMS full-body 3s (chest/back/shldr/quad/ham/glute/calf, arm 2) = Mon Upper A +2d (chest/back/shldr/arm pec deck failure residue) stacked w/ Tue Lower A +1d (squat 5×8 RPE9 + RDL 10×3 RPE9 + leg curl S3 RPE10) — expected, REST aligned. BW 77.8 AM = +0.4 vs Tue 77.4 (slope 77.7→76.7→76.2→76.2→77.4→77.8): single-day spike, per BW rule = noise (7-day avg, ignore); driven by Tue 2553 kcal late feed + lift-day glycogen/water replete post-Lower-A. Cut trend intact, NO food change, do not flag. **Thu 5/21 35-min Z2 holds** — DOMS likely fade by +48h post-Tue, AM read tomorrow gates final call.
-- **2026-05-21 (Thu)** — DONE. 35 min easy Z2, treadmill 1.0% incline.
+
+  **PM block — RAN (swapped: REST → 35 min Z2 run; Thu 5/21 will take Upper B).** 35 min easy Z2, treadmill 1.0% incline.
   ```
   Distance (km): 4.13
   Time (min): 35
@@ -446,10 +447,49 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
   Steps: 17100
   ```
 
-  **PM read.** **HR drift = legit, user diagnosis correct.** Z2 (126–146) only 5% / Z3 (147–167) 77% — avg 145 at very top of Z2 band, 77% above target = ran Z3 not Z2 despite slow pace 8:31/km (~7.0 km/h, *below* prescribed 8.2–8.6 km/h). RPE 6.5 confirms (Z2 target 4–5). Drivers: (a) treadmill thermoreg — no airflow + warm room pushes HR +5–10 bpm at same pace, (b) post-lift residue (Tue Lower A 21:00–23:00 late session + Wk 4 full-body DOMS 3s on 5/20 AM), (c) cadence 143 spm low → less elastic, more metabolic cost. Singleton event, NOT a fitness regression. **Next Thu run (5/28) corrections:** open window / fan ON, raise incline to 1.5% but *drop speed* to 6.5–6.8 km/h so HR caps ≤140, OR shift outdoor (cooler ambient = easier Z2). If HR drifts ≥147 again on lower speed → drop to 30 min, flag possible accumulated fatigue. Macros: kcal 2550 = +150 over cut band 2250–2400 (rest+run day, mild over, acceptable on 17.1k step NEAT — net deficit intact). Protein 209 g = ≥2.0 g/kg, retention-optimal in deficit, do not flag. Steps 17.1k = excellent NEAT, offsets the kcal over. Creatine Y. Wk 4 closes Fri+Sat+Sun (Upper B / Lower B / 40 min easy). **Fri 5/22 Upper B GO** — Wk 3 Upper B bumps queued from `logs/sessions/2026-05-15_upper_B.md`; AM 5/22 read gates final call. No next-run "bump" — easy Z2 is duration-/HR-capped, not load-progressed; the Thu/Sun adjustment is environment (fan/outdoor) + speed/incline mix, not a "+kg" line.
-- 2026-05-22 (Fri) — *Upper B.*
+  **PM read.** **HR drift = legit, user diagnosis correct.** Z2 (126–146) only 5% / Z3 (147–167) 77% — avg 145 at top of Z2 band, max 163 mid-Z3 = ran Z3 not Z2 despite slow pace 8:31/km (~7.0 km/h, *below* prescribed 8.2–8.6 km/h). RPE 6.5 confirms (Z2 target 4–5). Drivers: (a) treadmill thermoreg — no airflow + warm room pushes HR +5–10 bpm at same pace, (b) post-lift residue (Tue Lower A 21:00–23:00 late session + AM 5/20 full-body DOMS 3s), (c) cadence 143 spm low → less elastic, more metabolic cost. Singleton, NOT fitness regression. **Next easy run corrections:** fan ON / window open, raise incline to 1.5% but *drop speed* to 6.5–6.8 km/h so HR caps ≤140, OR shift outdoor (cooler ambient = easier Z2). If HR drifts ≥147 again on lower speed → drop to 30 min, flag accumulated fatigue. Macros: kcal 2550 = +150 over cut band 2250–2400 (rest+run day, mild over, acceptable on 17.1k step NEAT — net deficit intact). Protein 209 g ≥2.0 g/kg = retention-optimal in deficit, do not flag. Steps 17.1k excellent NEAT. Creatine Y. **Thu 5/21 = Upper B** (Wk 3 Upper B bumps queued); AM 5/21 read gates final call. **Sun 5/24 = REST** (swapped from 40-min easy — Wed run absorbs Thu/Sun run slot; one run this week).
+- **2026-05-21 (Thu)** — *Upper B (swapped from prescribed run; user moved run → Wed 5/20, Upper B → today).* **AM:**
+  ```
+  Sleep h: 7.5
+  Sleep quality (1-10): 10
+  Bedtime: 01:01
+  Wake: 08:37
+  BW AM (kg): 77.8
+  RHR (bpm): 51
+  RHR Δ vs 7d: +2
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 4
+  DOMS chest (0-3): 0
+  DOMS back: 1
+  DOMS shldr: 1
+  DOMS arm: 1
+  DOMS quad: 3
+  DOMS ham: 3
+  DOMS glute: 3
+  DOMS calf: 3
+  Joint/tendon flags: No pain
+  ```
+
+  **AM read — GO (green for Upper B).** Sleep 7.5h Q10 = adequate (slight short vs 8h habit, bed 01:01 / wake 08:37 — Wed run pushed bedtime late; not flag-worthy). RHR 51 Δ+2 well under volume-cut trigger (needs sleep <6 AND RHR +10); mot/energy 10, stress 4, joints clean. **Upper DOMS 0/1/1/1 (chest/back/shldr/arm) = Mon Upper A +3d residue fully cleared** — Upper B push/pull tissue ready, GO. Lower 3/3/3/3 = Tue Lower A +2d residue (squat 5×8 RPE9 + RDL + leg curl S3 RPE10) still loaded, does NOT gate Upper B (different tissue). BW 77.8 AM = held vs Wed 5/20 (slope 77.7→76.7→76.2→76.2→77.4→77.8→77.8) — Tue/Wed spike persisting +1.6 vs Mon low; per BW rule = 7-day avg trend matters, NOT day-spike. Wed run 17.1k steps + 2550 kcal kept water/glycogen replete. Cut trend intact, NO food change. Run Wk 4 Upper B loads from Wk 3 5/16 bumps.
+
+  **Today's session — Upper B working sets:**
+
+  | Exercise | Sets×Reps | RPE | Load | Note |
+  |---|---|---|---|---|
+  | OHP | 5×6–8 | 8 | **25 kg** (hold) | bank 8×5 clean before +2.5 (Wk 3 = 8/8/8/7/7 RPE 9–10) |
+  | Lat Pulldown | 5×6–8 | 8 | **42.5 kg** (hold) | close S5 8 reps before +2.5 (Wk 3 = 8/8/8/8/7) |
+  | Incline DB Press | 3×8–10 | 8 | **14 kg/DB** (+2/DB) | mirrors Upper A bump (Wk 3 = 12×3 top×all @ 12) |
+  | Cable Row | 3×10–12 | 8 | **32.5 kg** (+2.5) | Wk 3 = 12×3 top×all @ 30 but under prescribed → step to 32.5 |
+  | DB Lateral Raise | 4×12–15 | 8–9 | **5 kg/DB** (hold) | build back-half sets (Wk 3 = 15/14/13/8 — chase 12+ × all 4) |
+  | Face Pull | 3×15–20 | 8 | **12.5 kg** (hold) | climb reps toward 20 (Wk 3 = 15×3 @ RPE→10) |
+  | DB Curl | 3×8–10 | 8 | **10 kg/DB** (+2/DB) | Wk 3 = 10×3 top×all @ 8 → +2 iso |
+  | Skull Crusher | 3×8–10 | 8 | **15.9 kg** (+~2 iso) | nearest increment vs Wk 3 = 10×3 RPE 7/8/9 @ 14; else hold 14 + strict 3×10 |
+
+  Pre-WO: 1–2 g/kg carb + 30–40 g P, 1–3 h prior. Creatine Y. RPE 8 = leave 2 reps; bump mid-session if S1 < RPE 7.
+- 2026-05-22 (Fri) — *Easy Z2 run (swapped from Upper B; user shifted lift to Thu, kept 2nd run on Fri).*
 - 2026-05-23 (Sat) — *Lower B.*
-- 2026-05-24 (Sun) — *40 min easy.*
+- 2026-05-24 (Sun) — REST (swapped from 40-min easy; user moved REST to Sun).
 
 ---
 
