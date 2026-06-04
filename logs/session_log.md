@@ -529,7 +529,30 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 
 *~2 wks dark (busy). Ease back in — today's run = first aerobic touch in 2 wks. Long-run ramp starts modest.*
 
-- **2026-06-04 (Thu)** — *Easy re-entry run, 35 min Z2 outdoor.* (AM check + run prescription issued.) Log right-shoulder ROM status.
+- **2026-06-04 (Thu)** — *Easy re-entry run, 35 min Z2 outdoor (Build W0).* **AM:**
+  ```
+  Sleep h: 8.5
+  Sleep quality (1-10): 9
+  Bedtime: 01:20
+  Wake: 10:10
+  BW AM (kg): 77.0
+  RHR (bpm): 45
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest (0-3): 0
+  DOMS back: 0
+  DOMS shldr: 0
+  DOMS arm: 0
+  DOMS quad: 0
+  DOMS ham: 0
+  DOMS glute: 0
+  DOMS calf: 0
+  Joint/tendon flags: No pain anywhere
+  Right shoulder (ROM/pain check): Feels fine — 5/21 flag cleared
+  ```
+  **AM read — FULL GREEN.** All signals top-of-scale, freshest in the log (2 wks off → DOMS all 0). RHR 45 (−1) fully recovered, sleep 8.5h Q9, mot/energy 10, stress 2, joints clean. **R shoulder clean → 5/21 flag cleared, Push/Pull green this week.** BW 77.0 AM = up off the cut-low 76.2; cut PAUSED → expected, NOT flagged. **Caveat:** aerobically detrained — HR will run high at easy pace today (detrain tax, not regression). Hold Z2 (cap 139), RPE 4–5, don't chase pace. **GO** — 35 min easy re-entry. PM pending.
 - 2026-06-05 (Fri) — *5k social, EASY (conversational — primes Sat long).*
 - 2026-06-06 (Sat) — *LONG 10k run/walk, easy Z2.*
 - 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
