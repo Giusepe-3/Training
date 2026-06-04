@@ -7,17 +7,19 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 
 ---
 
-## Weekly Schedule (Wk 2+)
+## Weekly Schedule — ACTIVE (50 km build, from 2026-06-04)
 
 | Day | Session |
 |-----|---------|
-| Mon | Upper A |
-| Tue | Lower A |
-| Wed | REST |
-| Thu | Easy run Z2 |
-| Fri | Upper B |
-| Sat | Lower B |
-| Sun | Easy run Z2 |
+| Mon | Gym — Push (upper, maintenance) |
+| Tue | Gym — Legs (maintenance; trim in peak run wks) |
+| Wed | Gym — Pull (upper, maintenance) |
+| Thu | REST |
+| Fri | Run — 5k social (EASY, fixed) |
+| Sat | Run — LONG (the driver) |
+| Sun | Run — medium-long (back-to-back) |
+
+> Prior Block-1 schedule (dormant): Mon Upper A · Tue Lower A · Wed REST · Thu run · Fri Upper B · Sat Lower B · Sun run.
 
 ---
 
@@ -515,84 +517,66 @@ For data (sets, reps, weights, HR, body weight) → log in `training_log.xlsx`.
 
 ---
 
-## Week 6 (Jun 1 – 7) — Progression
+## 🔁 PIVOT — 2026-06-04: 50 KM ULTRA BUILD
 
-*Add myo-rep set on priority isolation. First running pickups Sun.*
+Goal changed. User targeting a **50 km run/walk on Sat Aug 8, 2026** (early-Aug window). Block 1 hypertrophy + slow cut **PAUSED**. New structure: **3 gym (maintenance) + 3 run + 1 rest**; the long run is the driver. Cut paused → **eat ~maintenance (~2700)**, carbs up on run/leg days; **BW drift up is expected, do NOT flag.** Full ramp + pacing + fueling → `docs/running.md` (rewritten 2026-06-04). The hypertrophy week-stubs above (Wk 5 + prior) are historical; weeks below follow the build.
 
-- 2026-06-01 (Mon) — *Upper A.*
-- 2026-06-02 (Tue) — *Lower A.*
-- 2026-06-03 (Wed) — REST.
-- 2026-06-04 (Thu) — *40 min easy.*
-- 2026-06-05 (Fri) — *Upper B.*
-- 2026-06-06 (Sat) — *Lower B.*
-- 2026-06-07 (Sun) — *35 min: warm-up + 6 × 1 min @ 8.8 km/h, 90s walk between, cooldown.*
+Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (2026-05-21) → AM-gate Push/Pull, DB/neutral only if off. Long runs: run/walk from start, easy Z2, in-run carbs 30–60 g/hr on runs >90 min. Step-back (Build W4) + pre-taper (W8) are non-negotiable.
 
 ---
 
-## Week 7 (Jun 8 – 14) — Progression final
+## Build Week 0 (Jun 4 – 7) — re-entry (transitional)
 
-***Mid-block measurements Mon morning:** body weight, chest/arm/waist/thigh.*
+*~2 wks dark (busy). Ease back in — today's run = first aerobic touch in 2 wks. Long-run ramp starts modest.*
 
-- 2026-06-08 (Mon) — *Upper A. Mid-block measurements first.*
-- 2026-06-09 (Tue) — *Lower A.*
-- 2026-06-10 (Wed) — REST.
-- 2026-06-11 (Thu) — *40 min easy.*
-- 2026-06-12 (Fri) — *Upper B.*
-- 2026-06-13 (Sat) — *Lower B.*
-- 2026-06-14 (Sun) — *35 min: 4 × 2 min @ 8.5 km/h with 2 min jog between.*
+- **2026-06-04 (Thu)** — *Easy re-entry run, 35 min Z2 outdoor.* (AM check + run prescription issued.) Log right-shoulder ROM status.
+- 2026-06-05 (Fri) — *5k social, EASY (conversational — primes Sat long).*
+- 2026-06-06 (Sat) — *LONG 10k run/walk, easy Z2.*
+- 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
 
 ---
 
-## Week 8 (Jun 15 – 21) — Intensification begins
+## Build Week 1 (Jun 8 – 14)
 
-*Compound rep ranges drop 1–2 reps (bench 5–7 → 4–6). RPE 9 top sets.*
+- Mon Gym Push · Tue Gym Legs · Wed Gym Pull · Thu REST
+- Fri 5k social easy · **Sat LONG 14k** · Sun 8k medium
 
-- 2026-06-15 (Mon) — *Upper A.*
-- 2026-06-16 (Tue) — *Lower A.*
-- 2026-06-17 (Wed) — REST.
-- 2026-06-18 (Thu) — *40 min easy.*
-- 2026-06-19 (Fri) — *Upper B.*
-- 2026-06-20 (Sat) — *Lower B.*
-- 2026-06-21 (Sun) — *35 min with pickups.*
+## Build Week 2 (Jun 15 – 21)
 
----
+- Mon Push · Tue Legs · Wed Pull · Thu REST
+- Fri 5k easy · **Sat LONG 18k** · Sun 10k medium · *(in-run carbs start: Sat >90 min)*
 
-## Week 9 (Jun 22 – 28) — Intensification
+## Build Week 3 (Jun 22 – 28)
 
-*Drop set final compound set this week. Back-off AMRAP at 75% on bench top set.*
+- Mon Push · Tue Legs · Wed Pull · Thu REST
+- Fri 5k easy · **Sat LONG 22k** · Sun 12k medium
 
-- 2026-06-22 (Mon) — *Upper A.*
-- 2026-06-23 (Tue) — *Lower A.*
-- 2026-06-24 (Wed) — REST.
-- 2026-06-25 (Thu) — *40 min easy.*
-- 2026-06-26 (Fri) — *Upper B.*
-- 2026-06-27 (Sat) — *Lower B.*
-- 2026-06-28 (Sun) — *35 min easy.*
+## Build Week 4 (Jun 29 – Jul 5) — STEP-BACK
 
----
+- Mon Push · Tue Legs · Wed Pull · Thu REST
+- Fri 5k easy · **Sat LONG 16k (recovery)** · Sun 8k medium
 
-## Week 10 (Jun 29 – Jul 5) — Peak
+## Build Week 5 (Jul 6 – 12)
 
-*Last hard week. PR attempts on every priority compound.*
+- Mon Push · Tue Legs · Wed Pull · Thu REST
+- Fri 5k easy · **Sat LONG 26k** · Sun 13k medium
 
-- 2026-06-29 (Mon) — *Upper A. PR attempts: bench, weighted pull-up.*
-- 2026-06-30 (Tue) — *Lower A.*
-- 2026-07-01 (Wed) — REST.
-- 2026-07-02 (Thu) — *35 min easy.*
-- 2026-07-03 (Fri) — *Upper B. PR attempts: OHP, weighted dip.*
-- 2026-07-04 (Sat) — *Lower B. PR attempt: trap bar DL.*
-- 2026-07-05 (Sun) — *35 min easy (taper begins).*
+## Build Week 6 (Jul 13 – 19)
 
----
+- Mon Push · Tue Legs (TRIM: 2 sets/lift RPE 7) · Wed Pull · Thu REST
+- Fri 5k easy · **Sat LONG 32k** · Sun 16k medium
 
-## Week 11 (Jul 6 – 12) — Deload
+## Build Week 7 (Jul 20 – 26) — PEAK
 
-*2 sets only. 70–75% of last week. RPE 6–7. Should feel easy. Body fresh by Sun Jul 12.*
+- Mon Push · Tue Legs (TRIM) · Wed Pull · Thu REST
+- Fri 5k truly easy · **Sat LONG 38k ← peak** · Sun 18k medium
 
-- 2026-07-06 (Mon) — *Upper A deload.*
-- 2026-07-07 (Tue) — *Lower A deload.*
-- 2026-07-08 (Wed) — REST.
-- 2026-07-09 (Thu) — *25 min easy.*
-- 2026-07-10 (Fri) — *Upper B deload.*
-- 2026-07-11 (Sat) — *Lower B deload.*
-- **2026-07-12 (Sun)** — **End of Block 1.** Final body measurements + lift retest + handoff review. Block 2 starts Mon Jul 13.
+## Build Week 8 (Jul 27 – Aug 2) — PRE-TAPER
+
+- Mon Push · Tue Legs (light) · Wed Pull · Thu REST
+- Fri 5k easy · **Sat LONG 24k** · Sun 12k medium
+
+## Build Week 9 (Aug 3 – 9) — TAPER + ATTEMPT
+
+- Mon Push (light) · Tue easy 6k · Wed Pull (light) · Thu REST
+- Fri Aug 7: shakeout 2–3k OR rest (skip full social 5k) · **Sat Aug 8: 🏁 50 KM ATTEMPT (run/walk)** · Sun REST

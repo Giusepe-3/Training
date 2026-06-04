@@ -1,116 +1,105 @@
-# Running — 8-Week Maintenance Plan
+# Running — 50 km Ultra Build (2026-06-04 → Sat Aug 8, 2026)
 
-> 2 outdoor runs per week. Recovery first, slight aerobic improvement second. **These are not training runs — they are aerobic preservation.**
+> **GOAL: complete a 50 km run/walk on Sat Aug 8, 2026.** ~9-week build from a detrained base (Madrid HM Apr 26, then preservation-only running + ~2 wks off). This is aggressive — **finishing depends on run/walk discipline, easy pace, fueling, and never skipping step-back weeks.** Speed is irrelevant; time on feet is everything.
 
----
-
-## Core Principles
-
-1. **Easy means easy.** Conversational pace. If you can't speak full sentences, you're going too hard.
-2. **Stay aerobic.** HR target Z2 (120–139 bpm). Brief excursions into low Z3 are fine on hills.
-3. **Don't compete with the lifting.** If legs are fried from Lower B, shorten Saturday's run.
-4. **Outdoor only.** You learned in Madrid that outdoor running unlocks a different gear. Keep training that way.
-5. **No heroics.** This block is about getting big. Every minute spent at hard running intensity is a minute not recovering for hypertrophy.
+> Replaces the prior 8-week maintenance plan (now dormant). Pivot logged in `logs/session_log.md` + CLAUDE.md top override.
 
 ---
 
-## Pacing Targets
+## Reality check (read once, then commit)
 
-| Type | Pace | Speed | HR Zone |
-|------|------|-------|---------|
-| 🟢 Easy | 6:40–7:20/km | 8.2–9.0 km/h | Z2 (120–139) |
-| 🟡 Steady | 6:00–6:30/km | 9.2–10.0 km/h | Z3 (140–159) |
-| 🟠 Pickup (weeks 6–7 only) | 5:30–5:50/km | 10.3–10.9 km/h | Z4 brief |
-
-> Note: easy pace targets are based on your Madrid race avg of 6:03/km. Easy = ~30–60 sec/km slower than race pace.
+- 50 km ≈ 2.4 half-marathons back-to-back. From a ~5 km recent long run, in 9 weeks, this sits at the edge of safe.
+- Training peaks at a **38 km long run** (~Jul 25). Race day 50 km = ~+12 km over your longest — normal for ultras, covered by run/walk + the back-to-back weekend base.
+- Biggest risks: stress fracture, tendinopathy (Achilles / patellar / ITB), and race-day rhabdo / hyponatremia. The stop-rules below exist to keep you out of those.
+- This build does NOT coexist with a calorie cut. Cut is paused; eat to fuel.
 
 ---
 
-## Week-by-Week
+## Weekly structure (3 run + 3 gym + 1 rest)
 
-### Week 1 (Apr 27 – May 3) — Recovery
-- **Mon–Fri:** Walking only. Zero running.
-- **Sat May 3:** **25 min very easy** outdoor. RPE 3. Just movement. If anything aches, walk.
-- **Sun May 4:** Rest.
+| Day | Session | Notes |
+|-----|---------|-------|
+| Mon | Gym — Push (upper) | maintenance, RPE 7–8, not to failure |
+| Tue | Gym — Legs | maintenance; TRIM in peak wks (Sat ≥32 km) |
+| Wed | Gym — Pull (upper) | maintenance |
+| Thu | REST | full recovery before the run block |
+| Fri | Run — 5k social | **EASY / conversational, fixed.** Don't race friends. |
+| Sat | Run — LONG | the driver. Run/walk, easy Z2. |
+| Sun | Run — medium-long | back-to-back time-on-feet |
 
-> Goal: confirm legs are responsive after the race. No data targets — just complete the session.
-
-### Week 2 (May 4 – 10) — Re-entry
-- **Wed May 6:** **30 min easy** outdoor. RPE 3–4. HR Z2.
-- **Sat May 9:** **35 min easy** outdoor. RPE 4. Same effort, slightly longer.
-
-### Week 3 (May 11 – 17)
-- **Wed May 13:** **30 min easy.**
-- **Sat May 16:** **40 min easy.** Long run of the week.
-
-### Week 4 (May 18 – 24)
-- **Wed May 20:** **35 min easy.**
-- **Sat May 23:** **40 min easy.** Don't push pace — focus on relaxed form.
-
-### Week 5 (May 25 – 31)
-- **Wed May 27:** **35 min easy.**
-- **Sat May 30:** **45 min easy.** Block's longest run. Should still feel comfortable end-to-end.
-
-### Week 6 (Jun 1 – 7) — First quality touch
-- **Wed Jun 3:** **40 min easy.**
-- **Sat Jun 6:** **35 min — easy with pickups.**
-  - 15 min easy warm-up
-  - **6 × 1 min @ 8.8 km/h** (your race-pace lock-in speed) with 90 sec walk between
-  - 8 min easy cooldown
-  - Purpose: remind the legs what running fast feels like. Light dose.
-
-### Week 7 (Jun 8 – 14) — Second quality touch
-- **Wed Jun 10:** **40 min easy.**
-- **Sat Jun 13:** **35 min — easy with pickups.**
-  - 12 min easy warm-up
-  - **4 × 2 min @ 8.5 km/h** with 2 min easy jog between
-  - 8 min easy cooldown
-
-### Week 8 (Jun 15 – 21) — Deload
-- **Wed Jun 17:** **25 min easy.**
-- **Sat Jun 20:** **30 min easy.** No pickups. Body should feel fresh by Sun Jun 22.
+Fri + Sat + Sun = a deliberate fatigue block (ultra-style). Works only if Friday stays easy. In peak weeks, if the Fri 5k goes hard, make Sat more walk-weighted.
 
 ---
 
-## Volume Summary
+## Long-run ramp → 50 km
 
-| Week | Run 1 | Run 2 | Total |
-|------|-------|-------|-------|
-| 1 | — | 25 min | 25 min |
-| 2 | 30 | 35 | 65 min |
-| 3 | 30 | 40 | 70 min |
-| 4 | 35 | 40 | 75 min |
-| 5 | 35 | 45 | 80 min |
-| 6 | 40 | 35 (pickups) | 75 min |
-| 7 | 40 | 35 (pickups) | 75 min |
-| 8 | 25 | 30 | 55 min |
+| Wk | Dates | Fri | **Sat LONG** | Sun med | Wk km | Note |
+|----|-------|-----|--------------|---------|-------|------|
+| 0 | Jun 4–7 | 5k | **10k** | 6k | ~21 | re-entry (Thu 35-min done) |
+| 1 | Jun 8–14 | 5k | **14k** | 8k | ~27 | |
+| 2 | Jun 15–21 | 5k | **18k** | 10k | ~33 | in-run carbs start (Sat) |
+| 3 | Jun 22–28 | 5k | **22k** | 12k | ~39 | |
+| 4 | Jun 29–Jul 5 | 5k | **16k** | 8k | ~29 | STEP-BACK |
+| 5 | Jul 6–12 | 5k | **26k** | 13k | ~44 | |
+| 6 | Jul 13–19 | 5k | **32k** | 16k | ~53 | trim leg day |
+| 7 | Jul 20–26 | 5k | **38k** | 18k | ~61 | PEAK |
+| 8 | Jul 27–Aug 2 | 5k | **24k** | 12k | ~41 | pre-taper |
+| 9 | Aug 3–9 | shakeout | **50k 🏁 (Sat Aug 8)** | — | — | TAPER + ATTEMPT |
 
-Total: **~520 min / ~80 km over 8 weeks.** Roughly 1/3 of half-marathon prep volume — which is the point.
+Step-back (Wk 4) and pre-taper (Wk 8) are non-negotiable — that's where tissue adapts. Taper week (Wk 9): short easy shakeouts only before the attempt; **skip the full Fri social 5k** (do 2–3k easy or rest the day before).
+
+---
+
+## Pacing
+
+| Type | Pace | Speed | HR |
+|------|------|-------|-----|
+| 🟢 Long / easy | 7:00–7:40/km | 7.8–8.6 km/h | Z2 (120–139) |
+| 🟢 Social 5k | conversational | — | Z2, drift to low Z3 OK |
+| 🚶 Walk breaks | brisk walk | — | recover |
+
+- **Run/walk from rep 1 on every long run.** Suggested: run 9 min / walk 1 min, or run 1 km / walk 1 min. Tune it so HR stays Z2. Walking early = banking energy, not weakness.
+- Long runs are NOT tempo. Can't talk in full sentences → slow down or walk.
+
+---
+
+## Fueling (this is half the race)
+
+- **Cut paused. Eat ~maintenance (~2700/d)**, more on long days. Carbs 350–450 g on Fri/Sat/Sun + leg day.
+- Protein 1.6–2.0 g/kg (≥125 g) — recovery + muscle retention.
+- **In-run carbs: 30–60 g/hr on any run >90 min** (starts ~Wk 2 Sat). Gels, chews, banana, sports drink. **Practice in training — the gut needs training too.** Never try new fuel on race day.
+- **Electrolytes** (sodium) on runs >90 min and hot days — hyponatremia is a real ultra risk.
+- Hydrate to thirst; on the 50 km carry fluid + plan refills.
+
+---
+
+## Strength work during the build
+
+- 3 short maintenance sessions (Push / Legs / Pull). Goal = **retain** strength + protect joints — NOT add size or chase PRs.
+- RPE 7–8, leave 2–3 reps in the tank, ~2/3 of prior volume. Running already hammers the legs.
+- **Trim Tue Legs in peak weeks** (Sat ≥32 km): 2 sets/lift RPE 7, or swap to mobility / core. The long run wins.
+- **Right shoulder flag (since 2026-05-21):** AM-gate Push/Pull days; if off → DB / neutral-grip only, no BB overhead, no push-through.
+
+---
+
+## Stop-rules (decide finish vs injury)
+
+- **Pinpoint bone pain** (shin, foot, hip) → STOP, walk home, rest days. Possible stress fracture. NEVER run through it.
+- **Sharp joint / tendon pain** → end the run. Tendinopathy ends builds.
+- Skip a long run if sick or RHR +10 / sleep <6 — don't "make it up" by doubling next week.
+- Never skip a step-back week.
+- New shoes broken in by ~Wk 5; replace any pair >600 km. Manage blisters / chafe early (lube, good socks).
+
+---
+
+## What to watch
+
+- **HR drift up** at same easy pace vs 2 wks ago → fatigue; cut the next medium run.
+- **Legs not recovering between weekends** → trim/drop a gym day before cutting the long run.
+- **Long run going well but pace creeping** → hold it back. Goal = finishing 50 km, not running any of it fast.
 
 ---
 
 ## Logging
 
-In `logs/training_log.xlsx` → `Running Log` tab:
-- Date, distance (km), time, avg pace, avg HR, max HR, RPE, notes
-- The Weekly Summary tab auto-aggregates km, time, and average HR
-
----
-
-## What to Watch For
-
-- **HR drift up over the block:** if your week 5 easy run HR is 5+ bpm higher than week 2 at same pace → fatigue accumulation. Cut a session.
-- **HR drift down:** what we want. Same pace, lower HR = improving aerobic capacity even on minimal running.
-- **Persistent leg heaviness on runs:** legs are working overtime from lifting. **Cut Wed run to 20 min.** Lifting is the priority.
-- **Pace drifting up effortlessly:** good sign, but **don't chase it.** Hold prescribed times. The block isn't about getting faster — it's about not getting slower.
-
----
-
-## Rules of Thumb
-
-- **You feel fresh on a run day → run the prescription, not faster.**
-- **You feel beat up on a run day → shorten or skip. Lifting recovery > run completion.**
-- **You miss a Wednesday → don't double on Saturday. Just move on.**
-- **You miss a Saturday → take the rest. Pick up next week.**
-
-🏁 At the end of week 8, your body should feel: bigger, stronger, slightly heavier, with running fitness 90–95% of where it was on race day. That's exactly the launch pad we want for sub-2:00 prep.
+Same two-touch (AM/PM). Run days → `logs/templates/daily.md`. Log in-run fuel + walk strategy in Notes. Long runs: note distance, time, avg HR, fuel taken, how legs/feet held up. Data → `logs/training_log.xlsx` Running Log tab.

@@ -4,6 +4,18 @@ Project memory for Claude Code. Read on every session.
 
 ---
 
+## ⚠️ ACTIVE OVERRIDE — 2026-06-04: 50 KM ULTRA BUILD
+
+**Goal pivoted.** User now training for a **50 km run/walk on Sat Aug 8, 2026** (~9-week build). This **supersedes Block 1 hypertrophy + the slow cut** for now. Until the user says otherwise:
+
+- **Schedule:** 3 gym (Push / Legs / Pull, maintenance RPE 7–8, not to failure) + 3 run (Fri 5k social easy / Sat LONG / Sun medium back-to-back) + Thu rest. See table below + `docs/running.md` (50 km build) + `logs/session_log.md` (Build weeks).
+- **Nutrition: CUT IS PAUSED.** Eat **~maintenance (~2700)**, carbs up on run/leg days, protein high. BW drifting UP is expected and correct — **do NOT flag BW gain or "deficit missed".** The SLOW CUT config below is dormant.
+- **Lifting:** retain strength, don't chase PRs / aggressive bumps; running owns the legs. Trim Tue Legs in peak weeks (Sat ≥32 km).
+- **Running priority:** the long run is the driver. Run/walk from start, easy Z2, in-run carbs 30–60 g/hr on runs >90 min. Pinpoint bone pain = STOP (stress-fracture risk). Never skip step-back weeks.
+- Hypertrophy/cut sections below remain for reference + the eventual return to a strength block (or Block 2 sub-2:20 30K, race Oct 11). Resume only when the user says.
+
+---
+
 ## What this repo is
 
 Personal training log + plan for **Block 1: 11-Week Hypertrophy** (Apr 27 – Jul 12, 2026). Bridge from Madrid HM 2026-04-26 (2:09:38) to Block 2 sub-2:20 30K (Jul 13 – Oct 11, 2026; race Sun Oct 11).
@@ -28,19 +40,21 @@ scripts/{build_log,progression_check}.py        — workbook tooling
 
 ---
 
-## Weekly schedule (Wk 2+)
+## Weekly schedule — ACTIVE (50 km build, from 2026-06-04)
 
 | Day | Session |
 |-----|---------|
-| Mon | Upper A |
-| Tue | Lower A |
-| Wed | REST |
-| Thu | Easy run Z2 (30–45 min) |
-| Fri | Upper B |
-| Sat | Lower B |
-| Sun | Easy run Z2 (35–50 min) |
+| Mon | Gym — Push (upper, maintenance) |
+| Tue | Gym — Legs (maintenance; trim in peak run wks) |
+| Wed | Gym — Pull (upper, maintenance) |
+| Thu | REST |
+| Fri | Run — 5k social (EASY, fixed) |
+| Sat | Run — LONG (the driver) |
+| Sun | Run — medium-long (back-to-back) |
 
 User may swap days week-to-week. Always read `logs/session_log.md` for the active week before prescribing today's session.
+
+> Prior Block-1 hypertrophy schedule (dormant): Mon Upper A · Tue Lower A · Wed REST · Thu easy run · Fri Upper B · Sat Lower B · Sun easy run.
 
 ---
 
@@ -116,9 +130,11 @@ Other movements: subs in workout file's Substitutions table are fair game.
 18. Photos front/side/back (biweekly)
 19. HR drift on easy runs
 
-### Nutrition baselines — SLOW CUT (BW ~77 → ~73 kg target, retain/build strength)
+### Nutrition baselines — SLOW CUT ⏸️ PAUSED 2026-06-04 (see top override)
 
-Goal as of 2026-05-17: deliberate slow fat loss to ~73 kg while getting stronger. NOT recomp, NOT surplus. Deficit is intended — do not flag it as under-fueling.
+> **PAUSED for the 50 km build.** During the build eat ~maintenance (~2700), carbs up on run/leg days, protein high; **BW gain is expected — do NOT flag.** The cut config below resumes only when the user returns to a strength/cut block.
+
+Goal as of 2026-05-17 (dormant): deliberate slow fat loss to ~73 kg while getting stronger. NOT recomp, NOT surplus. Deficit is intended — do not flag it as under-fueling.
 
 | Macro | Target |
 |-------|--------|
@@ -160,3 +176,5 @@ Goal as of 2026-05-17: deliberate slow fat loss to ~73 kg while getting stronger
 **Revised 2026-05-17 → SLOW CUT:** BW ~77 → **~73 kg** (lose fat, ~0.3–0.5 kg/wk) | **retain/build strength through the deficit** — bench/DL/weighted-PU still progressing (smaller jumps OK in deeper deficit, a stall ≠ failure) | preserve lean mass (high protein + hard lifting) | running fitness held 90–95% race-day. Cut likely extends past Block 1 (Jul 12) into Block 2 — do not force the full drop by block end.
 
 Block ends Sun Jul 12, 2026 → measurements + lift retest + read `docs/handoff.md` for Block 2.
+
+> **Superseded 2026-06-04** by the 50 km ultra build (see top override). Block-1 hypertrophy/cut targets are on hold; the 50 km run/walk (Sat Aug 8) is the active goal. Strength = retain, not progress, during the build.
