@@ -552,7 +552,31 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   Joint/tendon flags: No pain anywhere
   Right shoulder (ROM/pain check): Feels fine — 5/21 flag cleared
   ```
-  **AM read — FULL GREEN.** All signals top-of-scale, freshest in the log (2 wks off → DOMS all 0). RHR 45 (−1) fully recovered, sleep 8.5h Q9, mot/energy 10, stress 2, joints clean. **R shoulder clean → 5/21 flag cleared, Push/Pull green this week.** BW 77.0 AM = up off the cut-low 76.2; cut PAUSED → expected, NOT flagged. **Caveat:** aerobically detrained — HR will run high at easy pace today (detrain tax, not regression). Hold Z2 (cap 139), RPE 4–5, don't chase pace. **GO** — 35 min easy re-entry. PM pending.
+  **AM read — FULL GREEN.** All signals top-of-scale, freshest in the log (2 wks off → DOMS all 0). RHR 45 (−1) fully recovered, sleep 8.5h Q9, mot/energy 10, stress 2, joints clean. **R shoulder clean → 5/21 flag cleared, Push/Pull green this week.** BW 77.0 AM = up off the cut-low 76.2; cut PAUSED → expected, NOT flagged. **Caveat:** aerobically detrained — HR will run high at easy pace today (detrain tax, not regression). Hold Z2 (cap 139), RPE 4–5, don't chase pace. **GO** — 35 min easy re-entry.
+
+  **PM block:** DONE. 35-min Z2 re-entry, outdoor.
+
+  Distance (km): 4.74
+  Time (min): 34:50
+  Avg pace (min/km): 7:21
+  Avg HR / Max HR: 146 / 166
+  HR zone distribution (%Z2 / %Z3 / %Z4+): 43% Z2 / 52% Z3 / 0% Z4+
+  Cadence (spm): 155
+  Run RPE (1-10): 6
+  Terrain / weather: Outdoor route
+  Notes (form, breathing, heaviness): slight discomfort right shin
+
+  Kcal: 2700
+  Protein g: 150
+  Creatine 5 g (Y/N): Y
+  Alcohol units: 0
+  Steps: 20,358
+
+  **PM read — re-entry DONE + SHIN FLAG (right).** First aerobic touch in 2 wks, 34:50 ≈ planned 35 min. Effort genuinely easy (RPE 6, 7:21 pace) — green session.
+  **HR Z3 52% = detrain tax, predicted in AM read, NOT regression.** RPE 6 + slow pace confirm easy effort; HR ran high purely from 2 wks dark. Normalizes over W0–W2 as base rebuilds. No drift alarm.
+  **Right shin discomfort = #1 watch.** Re-entry run + 20,358 steps = big tibial load on detrained legs → classic shin-splint setup. **Triage each AM:** diffuse ache along shin = early splints, manageable (ice, cadence up, trim volume); **pinpoint tenderness ON the bone = STOP** (stress-fracture risk per build rule). Low cadence (155) contributes — overstriding loads tibia; **target 165+ spm** next runs to cut impact.
+  **Nutrition clean.** 2700 = maintenance (correct, cut paused). Protein 150 at floor — push 160–170 on run/leg days. Creatine Y, 0 alcohol, steps 20.4k huge. BW logged AM (77.0) — correct.
+  **Shin gates Fri 5k + Sat long.** Each AM: clear (no rest-pain, no pinpoint bone spot, clean on stairs) → run easy, slow, cadence 165+, walk breaks. Sore at rest OR pinpoint bone → no push-through: cross-train (bike/walk) or cut volume.
 - 2026-06-05 (Fri) — *5k social, EASY (conversational — primes Sat long).*
 - 2026-06-06 (Sat) — *LONG 10k run/walk, easy Z2.*
 - 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
