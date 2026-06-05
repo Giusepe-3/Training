@@ -577,7 +577,12 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **Right shin discomfort = #1 watch.** Re-entry run + 20,358 steps = big tibial load on detrained legs → classic shin-splint setup. **Triage each AM:** diffuse ache along shin = early splints, manageable (ice, cadence up, trim volume); **pinpoint tenderness ON the bone = STOP** (stress-fracture risk per build rule). Low cadence (155) contributes — overstriding loads tibia; **target 165+ spm** next runs to cut impact.
   **Nutrition clean.** 2700 = maintenance (correct, cut paused). Protein 150 at floor — push 160–170 on run/leg days. Creatine Y, 0 alcohol, steps 20.4k huge. BW logged AM (77.0) — correct.
   **Shin gates Fri 5k + Sat long.** Each AM: clear (no rest-pain, no pinpoint bone spot, clean on stairs) → run easy, slow, cadence 165+, walk breaks. Sore at rest OR pinpoint bone → no push-through: cross-train (bike/walk) or cut volume.
-- 2026-06-05 (Fri) — *5k social, EASY (conversational — primes Sat long).*
+- 2026-06-05 (Fri) — **5k social PULLED → walk only. STRESS-FX WATCH (right tibia).** Status: MOVED (run→walk).
+  **AM:** Sleep 7 h / q8 (1am→8am). BW 77.0 (flat, on plan). RHR 43, Δ −3 vs 7d (strong). Mot 10 / Energy 10 / Stress 3. DOMS all 0. **Joint flag: right shin — PINPOINT tenderness ON the bone + discomfort on stairs.**
+  **Decision: RUN PULLED. Walk substitute (flat, easy, no hills/stairs load).** Systemically fully green (recovery 10/10) but pinpoint bone pain = the build's hard STOP rule (stress-fracture risk). Motivation 10 is the trap — overrode it correctly.
+  **Pattern:** symptom escalated diffuse→pinpoint in 24 h off the re-entry run (34:50) + 20.4k steps on detrained tibia. Confirms over-load, not soreness. Cadence 155 (overstride) a contributor.
+  **Protocol:** no impact today. Low-impact OK only if pain-free (flat walk done; bike/pool fine). Ice shin 10–15 min, calf-raise/soleus easy only if symptom-free. Reassess each AM via finger-press. **Pinpoint still present in 3–5 days → physio/imaging before any run return.**
+  **Sat 6/6 LONG 10k → at risk, default PULLED.** 24 h won't clear a pinpoint tibial spot. Hold Sat as walk/cross-train unless shin goes fully clean (no pinpoint, no rest-pain, clean stairs) by Sat AM — unlikely. Sun same gate.
 - 2026-06-06 (Sat) — *LONG 10k run/walk, easy Z2.*
 - 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
 
