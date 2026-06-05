@@ -582,6 +582,9 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **Decision: RUN PULLED. Walk substitute (flat, easy, no hills/stairs load).** Systemically fully green (recovery 10/10) but pinpoint bone pain = the build's hard STOP rule (stress-fracture risk). Motivation 10 is the trap — overrode it correctly.
   **Pattern:** symptom escalated diffuse→pinpoint in 24 h off the re-entry run (34:50) + 20.4k steps on detrained tibia. Confirms over-load, not soreness. Cadence 155 (overstride) a contributor.
   **Protocol:** no impact today. Low-impact OK only if pain-free (flat walk done; bike/pool fine). Ice shin 10–15 min, calf-raise/soleus easy only if symptom-free. Reassess each AM via finger-press. **Pinpoint still present in 3–5 days → physio/imaging before any run return.**
+  **PM read — WALK DONE, shin SAME (no worse). Status closes DONE (walk substitute).** 12.4 km flat/dry, RPE 2, HR 126/140 avg/max (Z2 — normal for an easy walk, no alarm). Time/pace/cadence not captured.
+  **⚠️ Walk VOLUME too high for a pinpoint-tibia watch.** 12.4 km ≈ 15k steps = large tibial load — well past the "minimal, low-impact" intent of a stress-fx day. Shin **same (not worse)** = tibia tolerated it, mildly reassuring, but "didn't escalate" ≠ "safe to load." Next no-impact day cap walking ~5–6 km, or sub bike/pool to truly deload the bone. Compounding 15k-step days is exactly the mechanism that turns splints → fracture.
+  **Nutrition clean.** 2600 kcal = maintenance (correct). Protein 193 g = strong, well over floor. Creatine Y, 0 alcohol, steps 15k. No flags.
   **Sat 6/6 LONG 10k → at risk, default PULLED.** 24 h won't clear a pinpoint tibial spot. Hold Sat as walk/cross-train unless shin goes fully clean (no pinpoint, no rest-pain, clean stairs) by Sat AM — unlikely. Sun same gate.
 - 2026-06-06 (Sat) — *LONG 10k run/walk, easy Z2.*
 - 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
