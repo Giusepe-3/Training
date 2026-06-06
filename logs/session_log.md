@@ -591,9 +591,12 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **Decision: RUN PULLED, FULL REST (no cross-train, user choice).** Systemically fully green (recovery 10/10) but pinpoint tibial pain present = gate not met (gate: no pinpoint + clean press + clean stairs). "Less pain" ≠ healed — bone remodels over weeks, not 24–48 h. Mot 10 is the trap; overrode correctly (3rd straight day defended).
   **Watch status: day 3 of pinpoint.** Escalation trigger: pinpoint persists 3–5 more days (≈ Mon–Tue 6/8–6/9) → physio/imaging BEFORE any run return.
   **Today protocol:** full rest, zero impact. Ice shin 10–15 min, no hills/stairs load. Finger-press each AM to track. Yesterday's 12.4 km walk (≈15k steps) was over-load for a stress-fx day — full rest corrects that.
-  **PM read:**
+  **PM read:** Kcal 2500 (≈maint, fine on a zero-NEAT rest day). Protein 223 g = very high, well over floor (no flag). Creatine Y. Alcohol 0. **Steps 1880 = true full rest — correct for a stress-fx watch day** (corrects the 12.4 km/15k-step walk over-load of Fri 6/5). Summary: rest day; shin AM/PM read not captured. **Full rest executed as protocol — good.**
   **Sun 6/7 medium 6k → default PULLED, same gate.** Won't clear pinpoint in 24 h. Hold as rest/cross-train unless shin goes fully clean by Sun AM (unlikely).
 - 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
+  **⚠️ Shin AM/PM read NOT logged today.** This is the gate-critical metric — finger-press status drives every run gate. Need it tomorrow AM.
+  **⚠️ Escalation window now OPEN.** Pinpoint first flagged ~6/4; day 4 today. Rule: pinpoint persists thru Mon–Tue 6/8–6/9 → **physio/imaging BEFORE any run return.** W1 custom layout (4 run days, starts Tue 6/9 run) is on hold pending this. If pinpoint still present Mon AM → book imaging, do not run Tue.
+  **Mon 6/8 = Gym Push (lift, no tibial impact) — proceeds regardless of shin** (upper body). Gate the Tue 6/9 run, not the Push.
 
 ---
 
