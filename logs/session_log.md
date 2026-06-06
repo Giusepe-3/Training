@@ -597,10 +597,28 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 
 ---
 
-## Build Week 1 (Jun 8 – 14)
+## Build Week 1 (Jun 8 – 14) — custom layout (user-set 2026-06-06)
 
-- Mon Gym Push · Tue Gym Legs · Wed Gym Pull · Thu REST
-- Fri 5k social easy · **Sat LONG 14k** · Sun 8k medium
+*Reorganized: 3 lift + 4 run + 1 rest. Long run → Sun (Sat rest before = fresh legs). Departs from standard 3-run/Thu-rest template.*
+
+| Day | Session | Seeded |
+|-----|---------|--------|
+| Mon 6/8 | Gym **Push** | maintenance RPE 7–8 |
+| Tue 6/9 | **Run** | 6k easy Z2 |
+| Wed 6/10 | Gym **Pull** | maintenance RPE 7–8 |
+| Thu 6/11 | **Run** | 6k easy Z2 |
+| Fri 6/12 | Gym **Leg** + **social run** | Leg RPE 7 + 5k social easy |
+| Sat 6/13 | **REST** | full rest |
+| Sun 6/14 | **Run — LONG (driver)** | 14k run/walk Z2 |
+
+**⚠️ Tibia caveats (carried from W0 stress-fx watch):**
+- 4 run days (vs 3) + no midweek full-rest = MORE tibial load. Wrong direction while right-tibia pinpoint is unresolved. Every run AM-gated (no pinpoint + clean press + clean stairs) → else bike/pool, not run.
+- **Fri = Leg lift + run = double tibial load same day.** If shin borderline: do ONE (Leg lift only OR social run only), don't stack.
+- Only 1 rest day (Sat) off 2 wks dark. If RHR spikes / sleep tanks midweek → drop Tue or Thu run.
+- 14k Sun = first real long off layoff. Scale to ~10–12k if shin borderline.
+- Pinpoint persists thru Mon–Tue 6/8–9 → physio/imaging before any run; this layout pauses.
+
+> Original W1 (standard template): Mon Push · Tue Legs · Wed Pull · Thu REST · Fri 5k social · Sat LONG 14k · Sun 8k medium.
 
 ## Build Week 2 (Jun 15 – 21)
 
