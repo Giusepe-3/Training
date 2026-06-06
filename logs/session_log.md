@@ -586,7 +586,13 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **⚠️ Walk VOLUME too high for a pinpoint-tibia watch.** 12.4 km ≈ 15k steps = large tibial load — well past the "minimal, low-impact" intent of a stress-fx day. Shin **same (not worse)** = tibia tolerated it, mildly reassuring, but "didn't escalate" ≠ "safe to load." Next no-impact day cap walking ~5–6 km, or sub bike/pool to truly deload the bone. Compounding 15k-step days is exactly the mechanism that turns splints → fracture.
   **Nutrition clean.** 2600 kcal = maintenance (correct). Protein 193 g = strong, well over floor. Creatine Y, 0 alcohol, steps 15k. No flags.
   **Sat 6/6 LONG 10k → at risk, default PULLED.** 24 h won't clear a pinpoint tibial spot. Hold Sat as walk/cross-train unless shin goes fully clean (no pinpoint, no rest-pain, clean stairs) by Sat AM — unlikely. Sun same gate.
-- 2026-06-06 (Sat) — *LONG 10k run/walk, easy Z2.*
+- 2026-06-06 (Sat) — **LONG 10k PULLED → FULL REST. Stress-fx watch day 3 (right tibia).** Status: MOVED (run→rest).
+  **AM:** Sleep 9 h / q10 (1am→10am). BW 77.0 (flat, on plan). RHR 43, Δ −2 vs 7d (strong). Mot 10 / Energy 10 / Stress 4. DOMS all 0. **Joint flag: right shin — still PINPOINT on the bone, less intense than prior days but present.**
+  **Decision: RUN PULLED, FULL REST (no cross-train, user choice).** Systemically fully green (recovery 10/10) but pinpoint tibial pain present = gate not met (gate: no pinpoint + clean press + clean stairs). "Less pain" ≠ healed — bone remodels over weeks, not 24–48 h. Mot 10 is the trap; overrode correctly (3rd straight day defended).
+  **Watch status: day 3 of pinpoint.** Escalation trigger: pinpoint persists 3–5 more days (≈ Mon–Tue 6/8–6/9) → physio/imaging BEFORE any run return.
+  **Today protocol:** full rest, zero impact. Ice shin 10–15 min, no hills/stairs load. Finger-press each AM to track. Yesterday's 12.4 km walk (≈15k steps) was over-load for a stress-fx day — full rest corrects that.
+  **PM read:**
+  **Sun 6/7 medium 6k → default PULLED, same gate.** Won't clear pinpoint in 24 h. Hold as rest/cross-train unless shin goes fully clean by Sun AM (unlikely).
 - 2026-06-07 (Sun) — *Medium 6k easy (back-to-back).*
 
 ---
