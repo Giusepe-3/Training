@@ -598,6 +598,19 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **AM read — systemic FULL GREEN, shin IMPROVING but gate NOT met → run PULLED.** Sleep 10h q10, RHR 43, mot/energy 10 — top of scale. **Shin trend = healing direction:** days 1–3 pinpoint-on-bone + stairs pain → today press-only 2/10, stairs CLEAN, rest CLEAN. Real improvement. **But gate = zero pinpoint** (no pinpoint + clean press + clean stairs); press-pain at a specific spot still = pinpoint present → **gate fails, run PULLED.** Today rest or low-impact cross-train (bike/pool) if fully pain-free; cap any walking ~5–6 km. Mot 10 = the trap, overridden 4th straight day — correct.
   **Escalation window — day 4, trend favorable.** Rule: pinpoint persists thru Mon–Tue 6/8–9 → physio/imaging before any run. Press-pain dropping + stairs/rest clean is encouraging — reassess Mon AM. **If Mon AM still pinpoint → book imaging, no Tue run.** If Mon AM fully clean (no press-pain) → Tue 6/9 run back on gate, start easy/short, cadence 165+.
   **Mon 6/8 = Gym Push (lift, no tibial impact) — proceeds regardless of shin** (upper body). Gate the Tue 6/9 run, not the Push.
+  **PM read — FULL REST executed, shin trend strongly favorable. Status closes MOVED (run→rest).** Shin PM finger-press: **no pain, rested.** AM was press-only 2/10; PM clean → improved within the day. Days 1–3 pinpoint-on-bone+stairs → day 4 AM press 2/10 → day 4 PM press clean = healing direction holding.
+  **Nutrition clean.** Kcal 2700 = maintenance (correct, cut paused). Protein 150 at floor — fine on a rest day (push 160–170 on run/leg days). Creatine Y, alcohol 0. **Steps 3600 = true rest** — good, holds the deload off the 15k-step Fri over-load. No flags.
+  **Mon 6/8 AM = the decision point.** If press fully clean (today's PM trend holds) → Tue 6/9 run back ON gate (easy/short, cadence 165+). If pinpoint returns → book imaging, no Tue run. Push proceeds either way.
+
+### Build W0 wrap (Jun 4–7)
+
+*Re-entry week, derailed by shin then defended correctly.*
+
+- **Sessions:** 1 run done (Thu 4.74k re-entry) · 1 walk sub (Fri 12.4k) · 2 full rest (Sat/Sun, runs pulled). **0 lifts** (W0 had none scheduled). 3 runs pulled on the stress-fx gate.
+- **Shin (the story):** diffuse→pinpoint in 24h off Thu run + 20.4k steps on detrained tibia. Held pinpoint days 1–3, then days 3→4 clearly improving (stairs clean, rest clean, press 2/10→clean). Over-load mechanism (Thu 20k + Fri 15k steps) corrected by Sat/Sun true rest (1.9k / 3.6k steps).
+- **Discipline:** mot 10 every single day, overridden 4 straight days — gate beat motivation every time. Correct.
+- **Nutrition:** maintenance held (~2500–2700), protein floor-to-high (150–223), creatine 100%, 0 alcohol. Clean.
+- **W1 risk flag (carried):** W1 custom layout = 4 run days + only Sat rest = MORE tibial load, wrong direction for an unresolved tibia. Every W1 run AM-gated; Fri Leg+run = don't stack if shin borderline; 14k Sun scale to 10–12k if borderline. **Mon–Tue 6/8–9 = imaging trigger if pinpoint returns.**
 
 ---
 
