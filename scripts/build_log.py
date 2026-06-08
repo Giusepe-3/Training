@@ -265,6 +265,26 @@ LIFT_SETS = [
     (date(2026, 5, 18), "Upper A", "DB Curl",          1, 12, 8, 7, ""),
     (date(2026, 5, 18), "Upper A", "DB Curl",          2, 12, 8, 8, ""),
     (date(2026, 5, 18), "Upper A", "DB Curl",          3, 10, 8, 8, "S3 10r; hold 8 chase 12×3"),
+    # 2026-06-08 Mon Build W1 Push — first lift in 2+ wks (W0 dark); maintenance, autoregulate up
+    (date(2026, 6, 8), "Push", "Standing Chest Press", 1, 15, 5,   5, "new locked sub vs bench (user pref + shoulder)"),
+    (date(2026, 6, 8), "Push", "Standing Chest Press", 2, 15, 5,   6, ""),
+    (date(2026, 6, 8), "Push", "Standing Chest Press", 3, 12, 5,   7, ""),
+    (date(2026, 6, 8), "Push", "Standing Chest Press", 4, 10, 5,   6, "RPE5-6 trivial; bump 7.5-10 next"),
+    (date(2026, 6, 8), "Push", "DB Shoulder Press",     1, 10, 3,  5, "shoulder gate CLEAN (weak, no pain)"),
+    (date(2026, 6, 8), "Push", "DB Shoulder Press",     2, 10, 3,  5, ""),
+    (date(2026, 6, 8), "Push", "DB Shoulder Press",     3, 10, 3,  5, "RPE5; bump 5/DB next, cap RPE7"),
+    (date(2026, 6, 8), "Push", "Incline DB Press",      1, 10, 5,  7, ""),
+    (date(2026, 6, 8), "Push", "Incline DB Press",      2, 10, 5,  7, ""),
+    (date(2026, 6, 8), "Push", "Incline DB Press",      3, 10, 5,  7, "RPE7 top range; bump 6-7/DB next"),
+    (date(2026, 6, 8), "Push", "Pec Deck",              1, 9,  2.5, 7, ""),
+    (date(2026, 6, 8), "Push", "Pec Deck",              2, 6,  2.5, 7, ""),
+    (date(2026, 6, 8), "Push", "Pec Deck",              3, 6,  2.5, 7, "reps fell 9->6->6; HOLD 2.5 rebuild 12+"),
+    (date(2026, 6, 8), "Push", "Triceps Pushdown",      1, 15, 15, 8, ""),
+    (date(2026, 6, 8), "Push", "Triceps Pushdown",      2, 12, 15, 8, ""),
+    (date(2026, 6, 8), "Push", "Triceps Pushdown",      3, 12, 15, 9, "hit top @RPE8-9; bump 17.5 next"),
+    (date(2026, 6, 8), "Push", "DB Lateral Raise",      1, 12, 2,  8, ""),
+    (date(2026, 6, 8), "Push", "DB Lateral Raise",      2, 12, 2,  8, ""),
+    (date(2026, 6, 8), "Push", "DB Lateral Raise",      3, 12, 2,  8, "bottom range; HOLD 2 chase 15s then 3/DB"),
 ]
 
 # Body weight log: (date, BW kg, sleep h, notes)
@@ -282,6 +302,7 @@ BODY_LOG = [
     (date(2026, 5, 16), 76.7, 7.5,  "Wk 3 Sat AM (-1kg vs Fri; slow cut, NOT illness)"),
     (date(2026, 5, 17), 76.2, 8.0,  "Wk 3 Sun AM (cut on-plan; AM slope toward ~73)"),
     (date(2026, 5, 18), 76.2, 8.0,  "Wk 4 Mon AM (flat vs Sun; post-Lower-B water noise, not stall)"),
+    (date(2026, 6, 8),  77.1, 7.0,  "Build W1 Mon AM (cut PAUSED, maintenance — BW gain expected, NOT flagged)"),
 ]
 
 # Running log: (date, dist_km, time_min, avg_hr, max_hr, rpe, type, notes)
