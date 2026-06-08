@@ -637,6 +637,24 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 
 > Original W1 (standard template): Mon Push · Tue Legs · Wed Pull · Thu REST · Fri 5k social · Sat LONG 14k · Sun 8k medium.
 
+- **2026-06-08 (Mon)** — *Gym Push (maintenance RPE 7–8). Shin decision point.* **AM:**
+  ```
+  Sleep h: 7
+  Sleep quality (1-10): 8
+  Bedtime: 23:00
+  Wake: 6:00
+  BW AM (kg): 77.1
+  RHR (bpm): 42
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 3
+  DOMS all: 0
+  Joint/tendon flags: right shin — NO pinpoint, NO stairs pain, NO rest pain (CLEAN)
+  ```
+  **AM read — SHIN GATE MET, run watch CLOSES. Systemic full green.** Day 5: shin fully clean (no pinpoint + clean press + clean stairs + no rest pain) = gate passed. Trend held healing direction days 3→5 (pinpoint+stairs → press-only 2/10 → clean). **Decision: Tue 6/9 run ON — NO imaging.** Tue = easy/short 6k Z2, cadence 165+ (W0 overstride 155 @ detrained tibia was the cause — fix cadence first run back). RHR 42 (Δ−1, strong), sleep 7h q8, mot/energy 10, BW 77.1 flat (cut paused, not flagged), DOMS all 0. Green for Push. **Shoulder (flag 2026-05-21): AM-gate at gym — light DB press ramp first; strange feeling → neutral/DB only, cap RPE 7, no BB OHP-pattern.**
+  **First lift in 2+ wks (W0 had 0 lifts) — maintenance, not progression. Seed conservative, autoregulate up; do not chase last-session loads.**
+
 ## Build Week 2 (Jun 15 – 21)
 
 - Mon Push · Tue Legs · Wed Pull · Thu REST
