@@ -285,6 +285,26 @@ LIFT_SETS = [
     (date(2026, 6, 8), "Push", "DB Lateral Raise",      1, 12, 2,  8, ""),
     (date(2026, 6, 8), "Push", "DB Lateral Raise",      2, 12, 2,  8, ""),
     (date(2026, 6, 8), "Push", "DB Lateral Raise",      3, 12, 2,  8, "bottom range; HOLD 2 chase 15s then 3/DB"),
+    # 2026-06-10 Wed Build W1 Pull — first Pull in 2+ wks; exercise changes LOCKED (range 10-12, cable row, SA DB row, EZ curl)
+    (date(2026, 6, 10), "Pull", "Lat Pulldown",       1, 12, 35,   9, "opener 35 RPE9 off layoff; dropped to 30"),
+    (date(2026, 6, 10), "Pull", "Lat Pulldown",       2, 12, 30,   7, "rep range locked 4x10-12 (user pref)"),
+    (date(2026, 6, 10), "Pull", "Lat Pulldown",       3, 12, 30,   8, ""),
+    (date(2026, 6, 10), "Pull", "Lat Pulldown",       4, 12, 30,   8, "12s clean @30; 32.5 next, cap RPE8"),
+    (date(2026, 6, 10), "Pull", "Cable Row",          1, 12, 25,   6, "locked: plain cable row (vs chest-supported)"),
+    (date(2026, 6, 10), "Pull", "Cable Row",          2, 12, 25,   7, ""),
+    (date(2026, 6, 10), "Pull", "Cable Row",          3, 12, 25,   7, "3x12 @RPE6-7 under; 27.5 next"),
+    (date(2026, 6, 10), "Pull", "Single Arm DB Row",  1, 15, 7,    5, "NEW locked (replaces Reverse Pec Deck); reps per side"),
+    (date(2026, 6, 10), "Pull", "Single Arm DB Row",  2, 15, 8,    7, ""),
+    (date(2026, 6, 10), "Pull", "Single Arm DB Row",  3, 15, 8,    7, "top range @RPE7; 9/DB next"),
+    (date(2026, 6, 10), "Pull", "Face Pull",          1, 15, 10,   7, ""),
+    (date(2026, 6, 10), "Pull", "Face Pull",          2, 15, 10,   7, ""),
+    (date(2026, 6, 10), "Pull", "Face Pull",          3, 15, 10,   8, "HOLD 10, chase 16-18, 12.5 at 20s"),
+    (date(2026, 6, 10), "Pull", "EZ Bar Curl",        1, 10, 13.6, 6, "NEW locked (replaces Preacher Curl)"),
+    (date(2026, 6, 10), "Pull", "EZ Bar Curl",        2, 10, 13.6, 8, ""),
+    (date(2026, 6, 10), "Pull", "EZ Bar Curl",        3, 8,  13.6, 7, "S3 fell to 8; HOLD 13.6 chase 3x10"),
+    (date(2026, 6, 10), "Pull", "DB Curl",            1, 10, 6,    7, ""),
+    (date(2026, 6, 10), "Pull", "DB Curl",            2, 10, 6,    7, ""),
+    (date(2026, 6, 10), "Pull", "DB Curl",            3, 8,  6,    7, "HOLD 6 chase 3x10 then 7"),
 ]
 
 # Body weight log: (date, BW kg, sleep h, notes)
@@ -303,6 +323,8 @@ BODY_LOG = [
     (date(2026, 5, 17), 76.2, 8.0,  "Wk 3 Sun AM (cut on-plan; AM slope toward ~73)"),
     (date(2026, 5, 18), 76.2, 8.0,  "Wk 4 Mon AM (flat vs Sun; post-Lower-B water noise, not stall)"),
     (date(2026, 6, 8),  77.1, 7.0,  "Build W1 Mon AM (cut PAUSED, maintenance — BW gain expected, NOT flagged)"),
+    (date(2026, 6, 9),  76.7, 7.5,  "Build W1 Tue AM (run #1 back off layoff)"),
+    (date(2026, 6, 10), 75.9, 9.0,  "Build W1 Wed AM (glycogen dip post hot run + 19k steps; cut paused, NOT flagged)"),
 ]
 
 # Running log: (date, dist_km, time_min, avg_hr, max_hr, rpe, type, notes)
@@ -311,6 +333,8 @@ RUN_LOG = [
     (date(2026, 5, 8), 5.00, 25.97, 176, 204, 9, "Other", "5K PR 25:58 @5:12/km. Z5 65%, planned Z2 — full CNS dump"),
     # 2026-05-17 Sun Wk 3 — Sun Z2 easy (HR not recorded)
     (date(2026, 5, 17), 5.20, 35.0, 160, 0, 3, "Easy", "Sun Z2 chill 6:43/km; avg HR 160; max not recorded; aerobic base held"),
+    # 2026-06-09 Tue Build W1 — run #1 off 2+wk layoff; shin HELD; ran Z3/Z4 not Z2
+    (date(2026, 6, 9), 6.00, 38.08, 165, 181, 6, "Easy", "6:21/km; cadence 162 (+7 vs W0 155); Z3 49%+Z4 45% — too hot, cap HR ≤150 next; shin HELD, no pinpoint"),
 ]
 
 
