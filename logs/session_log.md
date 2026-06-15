@@ -664,10 +664,36 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 
 - **2026-06-11 (Thu)** — *Run — 6k easy Z2 (run #2 back, W1 custom layout).* **AM — RUN-GATE MET (shin no pain, day 8 clean — held through Tue's first impact + 48h), run ON.** Sleep 9.5h q10 (1am→10:30, deep), RHR 43 (Δ−1, Tue hot-run fully absorbed), mot/energy 10, stress 4, BW 76.5 (cut paused, not flagged). DOMS: back 3 + arm 2 (yest Pull, 24h, expected — irrelevant to run), chest/shldr 1, legs all 1 = fine for Z2. **Prescription — Tue's fixes applied:** WU 5 min · ~6 km Z2 **HR ≤150 HARD CAP** (Tue ran 165 avg / 94% above Z2 = the miss) · walk breaks MANDATORY (1 min/km or at HR >150) · **cadence 165+** (Tue 162, close last 3) · CD 5 min + shin check. Pace ~7:00+/km will feel slow = correct. Pinpoint bone pain = STOP. No carbs (<90 min). **Fri = Leg + 5k social = double tibial-load day — today stays genuinely easy or Fri gets trimmed.** Pre-staged file → `logs/sessions/2026-06-11_run.md`. **PM — DONE.** 6.0 km / 45:48 / 7:38 pace / avg HR **149 (UNDER ≤150 cap ✓)** / max 164 / cadence 162 / RPE **3** / chill weather. **THE TUE FIX LANDED — clean execution:** pace 6:21→7:38 (slowed), avg HR 165→149 (−16, under cap), max 181→164 (−17), RPE 6→3 (genuinely easy). **Shin CLEAN through 2nd impact + 48h** — no pinpoint, fine on stairs, mild discomfort only = layoff broken, no flare building. **Two open misses:** (1) cadence 162 = flat vs Tue, still 3 under 165 target — overstride not fully fixed; (2) zones 25% Z2 / 73% Z3 / 2% Z4+ = avg HR under cap but **bulk of run still above Z2 ceiling** (~140) — cap met on average, not minute-to-minute. Both = drift down further next run. Macros: 2700 maintenance (cut paused, not flagged), protein 160, creatine Y, 0 alc, 14.7k steps. Full log → `logs/sessions/2026-06-11_run.md`. **NOTE: Build W1 ran custom — today Fri 6/12 next; Leg + 5k social = double tibial-load day, watch shin.**
 
-## Build Week 2 (Jun 15 – 21)
+- **2026-06-12 (Fri)** — *Planned: Gym Leg + 5k social run (double tibial-load day).* **REST — user took full rest.** Leg lift + social run both SKIPPED (user choice). No tibial load = shin gets extra recovery before Sun long. Not flagged — autoregulation, legs banked fresh for the driver.
 
-- Mon Push · Tue Legs · Wed Pull · Thu REST
-- Fri 5k easy · **Sat LONG 18k** · Sun 10k medium · *(in-run carbs start: Sat >90 min)*
+- **2026-06-13 (Sat)** — *Planned: REST.* **REST — done as planned.** 2nd consecutive full rest (Fri+Sat). Legs maximally fresh going into Sun long #1.
+
+- **2026-06-14 (Sun)** — *Run — LONG #1 off layoff (the driver), 14k run/walk Z2.* **AM — ALL GREEN, GO.** Sleep 9h q8 (2am→11am), RHR 44 (Δ−1), mot/energy 10, stress 3, BW 77.2 (cut paused, not flagged — up off 2 rest days, expected). DOMS all 0 = fully fresh off Fri+Sat rest. **Shin: "feeling fine"** = clean going into first real long. **Prescription:** WU 1k (<140) · MAIN 12k continuous Z2 **HR ≤150 hard cap** + 3 walk breaks @ k5/k9/k12 (~1 min each, user negotiated B over 9:1 run/walk — earns continuous off layoff with circuit-breakers) · CD 1k walk (<130). TOTAL ~14k. **Shin pinpoint ANY point = STOP + walk home (overrides all).** Cadence 165+ (still 3 under target last 2 runs — overstride not fully fixed). **First long-run FUELING rep** (>90 min): pre = banana/toast; during = 1 gel @ k7 + 1 banana @ k11 + Powerade sip each break = ~80 g / ~45 g/hr (above 30 low-start, under 60 cap — GI test). Salt: Powerade sodium enough for <2h Z2, not hot. Post = 30–40 g protein + carbs <1h. **PM — DONE.** LONG #1 complete: **14.0 km / 1:48:52 / 7:46 pace / avg HR 152 / max 171 / cadence 161 / RPE 5 — "could have run 6 km more."** **THE ZONE FIX LANDED — 91% Z2 / 7% Z3** (vs Thu's 25% Z2 / 73% Z3): minute-to-minute now genuinely Z2; avg HR 152 = only 2 over the ≤150 cap, but the distribution is the real story — cap met in substance, not just on average. **SHIN PERFECT through all 14k** — longest run off layoff, zero pinpoint during/after = layoff conclusively broken, no flare building. **First long-run FUELING rep clean:** 71 g in-run (gel @ k7 + banana @ k11) = ~39 g/hr, inside 30–60 band, no GI issue = GI tolerates the protocol. Walk breaks executed exactly @ k5/k9/k12 (1 min each) as negotiated. RPE 5 + "+6 km in the tank" = correct restraint off layoff, banked not buried. **Two open misses:** (1) cadence 161 = 3rd straight run flat <165 — overstride is the one unfixed variable, drill it; (2) creatine N (skipped). Macros: 2700 maintenance (cut paused, not flagged), protein 150 ✓, 0 alc, 25,910 steps (huge NEAT). Full log → `logs/sessions/2026-06-14_run.md`.
+
+### Build W1 wrap (Jun 8–14)
+
+**Ran:** Mon Push DONE · Tue Run#1 6k DONE · Wed Pull DONE · Thu Run#2 6k DONE · Fri REST (Leg+5k skipped) · Sat REST · Sun LONG#1 14k DONE. = **2 gym (Push, Pull — no Legs) + 3 runs (26 km total) + 2 rest.** Custom layout, heavy rest tail.
+
+**Headline = SHIN REHAB SUCCEEDED.** Three progressively harder runs off layoff (hot 6k → controlled 6k → 14k long), shin clean through every one + 48h windows. Day-8-clean gate → broke through first impact, second impact, and the longest run — no flare. Layoff conclusively over.
+
+**Zone-control trajectory (the W1 project):** Tue 165 avg / 94% above Z2 (the miss) → Thu 149 avg / 25% Z2 (avg fixed, distribution not) → **Sun 152 avg / 91% Z2 (distribution fixed)**. Endpoint = genuinely aerobic long run. Cap discipline learned in one week.
+
+**Fueling:** first >90-min rep clean — 71 g / ~39 g/hr, GI tolerated. Protocol validated for longer Sats ahead.
+
+**Open items → W2:**
+1. **Cadence stuck 161–162 across all 3 runs, target 165+** — only unsolved variable. Drills (metronome / short quick steps) next runs.
+2. **Legs lift dropped this week** (Fri double-load skipped for shin). W2 = restore the 3-gym rhythm (Push/Legs/Pull) now that shin is proven.
+3. **Creatine N on Sun** — resume daily.
+
+**Lifting:** Push + Pull both maintenance, no flags; Pull exercise set re-locked 6/10 (Pulldown 4×10–12 / Cable Row / SA DB Row / EZ Curl). Strength = retain, on track. **BW noise (cut paused):** 75.9→77.2 across week = glycogen/rest swings, not flagged.
+
+---
+
+## Build Week 2 (Jun 15 – 21) — CUSTOM layout (user-set 2026-06-15)
+
+- **Mon 6/15 REST** (no time today — Push moved out) · **Tue 6/16 RUN** · **Wed 6/17 Push** · **Thu 6/18 RUN** · **Fri 6/19 Pull** (+ maybe social 5k) · **Sat 6/20 RUN ← LONG 18k driver** · **Sun 6/21 Legs**
+- Runs: Tue 7k easy · Thu 10k medium · Sat **LONG 18k** (fuel >90 min, 40–60 g/hr) · Fri optional social 5k.
+- ⚠️ **Sun Legs lands ~18–24h after the 18k long** → trim to 2 sets/lift RPE 7 (running owns the legs; banked-fresh not needed, recovery is). ⚠️ **Fri Pull + social run = double the day before the long** — keep social ≤5k truly easy or skip to protect Sat.
 
 ## Build Week 3 (Jun 22 – 28)
 
