@@ -52,11 +52,18 @@ Step-back (Wk 4) and pre-taper (Wk 8) are non-negotiable — that's where tissue
 
 ## Pacing
 
+**Z2 band = 130–161 bpm** (user-confirmed 2026-06-15, max HR 199). The top (161 = 81% max) is the high edge of Z2 — use it as a **hard ceiling, not a target**.
+
+- **Working cap (off-layoff phase): ≤160 ceiling, target the middle ~145–155.** During shin rebuild, HR ≈ pace ≈ tibial impact — keep long/easy runs mid-band, let HR touch 160 only on hills/late.
+- **Easy + recovery runs (Tue/Thu, Fri social): ≤150–155** — these are flush days, no need for the top of the band.
+- Reassess the 160 ceiling upward once shin has more clean weeks.
+
 | Type | Pace | Speed | HR |
 |------|------|-------|-----|
-| 🟢 Long / easy | 7:00–7:40/km | 7.8–8.6 km/h | Z2 (120–139) |
+| 🟢 Long run | 7:00–7:40/km | 7.8–8.6 km/h | Z2 target ~145–155, ceiling 160 |
+| 🟢 Easy / recovery | conversational | — | Z2 ≤150–155 |
 | 🟢 Social 5k | conversational | — | Z2, drift to low Z3 OK |
-| 🚶 Walk breaks | brisk walk | — | recover |
+| 🚶 Walk breaks | brisk walk | — | take when HR hits ceiling |
 
 - **Run/walk from rep 1 on every long run.** Suggested: run 9 min / walk 1 min, or run 1 km / walk 1 min. Tune it so HR stays Z2. Walking early = banking energy, not weakness.
 - Long runs are NOT tempo. Can't talk in full sentences → slow down or walk.
