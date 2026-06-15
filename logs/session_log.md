@@ -694,6 +694,7 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 - **Mon 6/15 REST** (no time today — Push moved out) · **Tue 6/16 RUN** · **Wed 6/17 Push** · **Thu 6/18 RUN** · **Fri 6/19 Pull** (+ maybe social 5k) · **Sat 6/20 RUN ← LONG 18k driver** · **Sun 6/21 Legs**
 - Runs: Tue 7k easy · Thu 10k medium · Sat **LONG 18k** (fuel >90 min, 40–60 g/hr) · Fri optional social 5k.
 - ⚠️ **Sun Legs lands ~18–24h after the 18k long** → trim to 2 sets/lift RPE 7 (running owns the legs; banked-fresh not needed, recovery is). ⚠️ **Fri Pull + social run = double the day before the long** — keep social ≤5k truly easy or skip to protect Sat.
+- **Plan review (2026-06-15):** assessed whole 9-wk build vs the 50 km goal. Structure confirmed = alternating gym/run/gym/run/gym/run/rest (Legs in-week); shin ~90% recovered. Open optimization recs noted: (1) long-run ramp jumps steep (19–29% vs ~15% rule), (2) cadence stuck 161–162 vs 165+ target (overstride = tibial impact), (3) no tibialis/calf-specific work, (4) no back-to-back running → legs never trained tired (add 1–2 peak weekends W6/W7). **Decision: HOLD current ramp, autoregulate by feel** — run the planned distances, judge by shin / HR drift / recovery, revisit slowing only if a trip-wire fires.
 
 ## Build Week 3 (Jun 22 – 28)
 
