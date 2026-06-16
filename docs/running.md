@@ -74,9 +74,35 @@ Step-back (Wk 4) and pre-taper (Wk 8) are non-negotiable — that's where tissue
 
 - **Cut paused. Eat ~maintenance (~2700/d)**, more on long days. Carbs 350–450 g on Fri/Sat/Sun + leg day.
 - Protein 1.6–2.0 g/kg (≥125 g) — recovery + muscle retention.
-- **In-run carbs: 30–60 g/hr on any run >90 min** (starts ~Wk 2 Sat). Gels, chews, banana, sports drink. **Practice in training — the gut needs training too.** Never try new fuel on race day.
 - **Electrolytes** (sodium) on runs >90 min and hot days — hyponatremia is a real ultra risk.
 - Hydrate to thirst; on the 50 km carry fluid + plan refills.
+
+### In-run carbs — gut-training ramp to 120 g/hr (set 2026-06-17)
+
+**Goal:** train the gut to absorb **120 g/hr** by race day (user target). 120 = the high end of carb science. Reachable, but two non-negotiables:
+
+1. **Above 60 g/hr you MUST use multiple-transportable carbs.** SGLT1 (glucose/maltodextrin) saturates ~60 g/hr; GLUT5 (fructose) opens a second pipe. So 120 g/hr needs a **glucose:fructose ~1:0.8** product (Maurten 320 / SiS Beta Fuel / Precision 90 / any "dual-source / high-carb" gel or drink). Single-glucose gels cap ~60 and cause GI distress past it.
+2. **Gut is trainable** — repeated exposure upregulates SGLT1 over weeks. Ramp it across the long-run block; never debut a dose on race day.
+
+> **Sweet-spot note:** 120 g/hr is the *racing* ceiling. At easy Z2 run/walk, fat covers more and oxidation demand is lower — a finisher's practical sweet spot is often **60–90 g/hr**. Train to 120 anyway to buy the *option*; let GI tolerance pick the final race number (90–120).
+
+| Wk | Sat long | ~hr | **target g/hr** | note |
+|----|----------|-----|-----------------|------|
+| 2 | 18k (6/20) | ~2.3 | **60** | FIRST dual-source rep (glu:fru) |
+| 3 | 22k | ~2.8 | **75** | |
+| 4 | 16k step-back | ~2.0 | **75 (hold)** | recovery wk — don't advance |
+| 5 | 26k | ~3.3 | **90** | |
+| 6 | 32k | ~4.1 | **105** | |
+| 7 | 38k PEAK | ~4.9 | **120** | full race-dose rehearsal, longest run |
+| 8 | 24k pre-taper | ~3.1 | **120** | lock exact products + timing |
+| 9 | 50k RACE | ~6–7 | **120 (proven)** | nothing new |
+
+**Rules:**
+- Advance to the next dose **only if the prior long was GI-clean** (no nausea/bloat/cramp/diarrhea). Not clean → hold + repeat, then advance. Gut sets the pace.
+- **Hydrate to dilute** — gels with water; drink mix ~8–10% concentration. Too concentrated = GI distress even at the right ratio.
+- **Sodium alongside** on every >90-min run.
+- Hitting 120: e.g. **40 g dual-source gel every 20 min**, or an 80 g carb-drink bottle + gels. Spread it, don't slam.
+- **W7 + W8 = dress rehearsals** — exact gels/drink you'll run on Aug 8. Never try new fuel on race day.
 
 ---
 
