@@ -696,6 +696,10 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 - ⚠️ **Sun Legs lands ~18–24h after the 18k long** → trim to 2 sets/lift RPE 7 (running owns the legs; banked-fresh not needed, recovery is). ⚠️ **Fri Pull + social run = double the day before the long** — keep social ≤5k truly easy or skip to protect Sat.
 - **Plan review (2026-06-15):** assessed whole 9-wk build vs the 50 km goal. Structure confirmed = alternating gym/run/gym/run/gym/run/rest (Legs in-week); shin ~90% recovered. Open optimization recs noted: (1) long-run ramp jumps steep (19–29% vs ~15% rule), (2) cadence stuck 161–162 vs 165+ target (overstride = tibial impact), (3) no tibialis/calf-specific work, (4) no back-to-back running → legs never trained tired (add 1–2 peak weekends W6/W7). **Decision: HOLD current ramp, autoregulate by feel** — run the planned distances, judge by shin / HR drift / recovery, revisit slowing only if a trip-wire fires.
 
+- **2026-06-15 (Mon)** — *Planned: REST (Push moved out, no time).* **REST — as planned.** Did W2 plan review (above). No load.
+
+- **2026-06-16 (Tue)** — *Run — W2 run #1, 7k easy Z2.* **AM — RUN-GATE MET, all green.** Sleep 8h q8, RHR 41 (Δ−4, strongest yet — Sun long absorbed + 2 rest days banked), mot/energy 10, stress 3. DOMS all 0 except calf 1 (run residue). Shin fine = day-10 clean, layoff conclusively over. BW 77.9 (cut paused, NOT flagged — rest-tail/glycogen). **Prescription:** WU 1k (<140) · MAIN ~5.5k Z2 HR 145-155 target / ≤160 ceiling · CD 0.5k walk + shin check. TOTAL ~7k. **CADENCE 165+ = the job this run** — stuck 161-162 all 3 W1 runs, the one unsolved variable; drill metronome/quick steps. Walk breaks free at HR >155. 7k <90 min = no carbs. Resume creatine (skipped Sun). Pinpoint shin pain = STOP. Pre-staged file → `logs/sessions/2026-06-16_run.md`. **PM — pending (results tonight).**
+
 ## Build Week 3 (Jun 22 – 28)
 
 - Mon Push · Tue Legs · Wed Pull · Thu REST
