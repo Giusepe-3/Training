@@ -305,6 +305,27 @@ LIFT_SETS = [
     (date(2026, 6, 10), "Pull", "DB Curl",            1, 10, 6,    7, ""),
     (date(2026, 6, 10), "Pull", "DB Curl",            2, 10, 6,    7, ""),
     (date(2026, 6, 10), "Pull", "DB Curl",            3, 8,  6,    7, "HOLD 6 chase 3x10 then 7"),
+
+    # 2026-06-17 Wed Build W2 Push (shoulder gate clean 3rd straight; maintenance, not to failure)
+    (date(2026, 6, 17), "Push", "Standing Chest Press", 1, 14, 7.5, 8, "true load found @7.5"),
+    (date(2026, 6, 17), "Push", "Standing Chest Press", 2, 12, 7.5, 7, ""),
+    (date(2026, 6, 17), "Push", "Standing Chest Press", 3, 12, 7.5, 8, ""),
+    (date(2026, 6, 17), "Push", "Standing Chest Press", 4, 12, 5,   9, "fatigued, dropped to 5; HOLD 7.5 chase 15x4 @RPE<=7"),
+    (date(2026, 6, 17), "Push", "DB Shoulder Press",     1, 10, 5,  7, "gate clean (weak, no pain)"),
+    (date(2026, 6, 17), "Push", "DB Shoulder Press",     2, 10, 5,  7, ""),
+    (date(2026, 6, 17), "Push", "DB Shoulder Press",     3, 10, 5,  8, "top range, S3 RPE8; HOLD 5 clean to <=7 then 6"),
+    (date(2026, 6, 17), "Push", "Incline DB Press",      1, 10, 6,  7, ""),
+    (date(2026, 6, 17), "Push", "Incline DB Press",      2, 10, 6,  7, ""),
+    (date(2026, 6, 17), "Push", "Incline DB Press",      3, 10, 6,  8, "top range, S3 RPE8; HOLD 6 clean to <=7 then 7"),
+    (date(2026, 6, 17), "Push", "Pec Deck",              1, 11, 2.5, 8, ""),
+    (date(2026, 6, 17), "Push", "Pec Deck",              2, 10, 2.5, 8, ""),
+    (date(2026, 6, 17), "Push", "Pec Deck",              3, 8,  2.5, 8, "still under, reps falling 11->10->8; HOLD 2.5 rebuild 12+ all"),
+    (date(2026, 6, 17), "Push", "Triceps Pushdown",      1, 10, 17.5, 8, "+2.5 jump too steep, only S1 held"),
+    (date(2026, 6, 17), "Push", "Triceps Pushdown",      2, 12, 15,   9, "dropped to 15"),
+    (date(2026, 6, 17), "Push", "Triceps Pushdown",      3, 10, 15,   9, "HOLD 17.5, consolidate 10-12 all sets"),
+    (date(2026, 6, 17), "Push", "DB Lateral Raise",      1, 15, 2,  7, ""),
+    (date(2026, 6, 17), "Push", "DB Lateral Raise",      2, 15, 2,  8, ""),
+    (date(2026, 6, 17), "Push", "DB Lateral Raise",      3, 12, 2,  9, "15/15/12, one short; HOLD 2 land 15x3 then 3/DB"),
 ]
 
 # Body weight log: (date, BW kg, sleep h, notes)
@@ -325,6 +346,8 @@ BODY_LOG = [
     (date(2026, 6, 8),  77.1, 7.0,  "Build W1 Mon AM (cut PAUSED, maintenance — BW gain expected, NOT flagged)"),
     (date(2026, 6, 9),  76.7, 7.5,  "Build W1 Tue AM (run #1 back off layoff)"),
     (date(2026, 6, 10), 75.9, 9.0,  "Build W1 Wed AM (glycogen dip post hot run + 19k steps; cut paused, NOT flagged)"),
+    (date(2026, 6, 16), 77.9, 8.0,  "Build W2 Tue AM (rest-tail/glycogen rebound; cut paused, NOT flagged)"),
+    (date(2026, 6, 17), 76.7, 8.0,  "Build W2 Wed AM (RHR 43 d-2, all green)"),
 ]
 
 # Running log: (date, dist_km, time_min, avg_hr, max_hr, rpe, type, notes)
@@ -335,6 +358,8 @@ RUN_LOG = [
     (date(2026, 5, 17), 5.20, 35.0, 160, 0, 3, "Easy", "Sun Z2 chill 6:43/km; avg HR 160; max not recorded; aerobic base held"),
     # 2026-06-09 Tue Build W1 — run #1 off 2+wk layoff; shin HELD; ran Z3/Z4 not Z2
     (date(2026, 6, 9), 6.00, 38.08, 165, 181, 6, "Easy", "6:21/km; cadence 162 (+7 vs W0 155); Z3 49%+Z4 45% — too hot, cap HR ≤150 next; shin HELD, no pinpoint"),
+    # 2026-06-16 Tue Build W2 — 7k easy Z2; zone control + cadence fix landing
+    (date(2026, 6, 16), 7.00, 46.80, 148, 167, 6, "Easy", "6:41/km; cadence 164 (+2-3, one short of 165); avg HR 148 in 145-155 band, 91% Z2; shin clean, everything fine"),
 ]
 
 
