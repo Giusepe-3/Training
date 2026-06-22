@@ -708,6 +708,9 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 
 - Mon Push · Tue Legs · Wed Pull · Thu REST
 - Fri 5k easy · **Sat LONG 22k** · Sun 12k medium
+- ⚠️ **W2 18k LONG slipped — done today Mon 6/22** (Fri 6/19 Pull / Sat 6/20 18k / Sun 6/21 not logged; user ran the 18k long today). W3 rest of week may reshuffle around this.
+
+- **2026-06-22 (Mon)** — *Run — LONG #2, 18k run/walk Z2 (the slipped W2 long).* Prescription: WU 1k (<140) · MAIN 16k Z2 **HR ≤150 hard cap** + walk breaks @ k5/k9/k13/k16 · CD 1k walk (<130). TOTAL ~18k, ~2h15–2h25 @ ~7:40, RPE target 5. **+4k / +29% vs 14k (6/14) = biggest jump, autoregulate by feel.** Fueling (>90 min, ~50 g/hr): pre banana+toast ~50g · gel @ k6 · banana @ k10 · gel @ k14 · Powerade throughout = ~100 g in-run · post 30–40g protein. **Shin pinpoint = STOP (Thu k7 blip — watch first 8k). Cadence 165+ = the job (parked 164). Creatine today.** Pre-staged file → `logs/sessions/2026-06-22_run.md`. **PM — pending results.**
 
 ## Build Week 4 (Jun 29 – Jul 5) — STEP-BACK
 
