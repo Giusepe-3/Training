@@ -360,6 +360,10 @@ RUN_LOG = [
     (date(2026, 6, 9), 6.00, 38.08, 165, 181, 6, "Easy", "6:21/km; cadence 162 (+7 vs W0 155); Z3 49%+Z4 45% — too hot, cap HR ≤150 next; shin HELD, no pinpoint"),
     # 2026-06-16 Tue Build W2 — 7k easy Z2; zone control + cadence fix landing
     (date(2026, 6, 16), 7.00, 46.80, 148, 167, 6, "Easy", "6:41/km; cadence 164 (+2-3, one short of 165); avg HR 148 in 145-155 band, 91% Z2; shin clean, everything fine"),
+    # 2026-06-28 Sun Build W3 — 7k social, ran HOT (not easy Z2)
+    (date(2026, 6, 28), 7.27, 41.25, 164, 197, 7, "Social", "5:40/km social — HOT: 31%Z2/42%Z3/19%Z4/1%Z5, avg 164; cadence 166 (FIRST >=165, breaks 164 park); flat+sunny; quality run not base"),
+    # 2026-06-30 Tue Build W4 step-back — 8k social, hot + max-HR spike + cadence regress
+    (date(2026, 6, 30), 8.03, 50.53, 155, 204, 8, "Social", "6:18/km social — 57%Z2/35%Z3/2%Z4, avg 155 but max 204 spike; cadence 159 (regressed from 166); RPE 8 at slower pace than 6/28 = residual fatigue/heat"),
 ]
 
 

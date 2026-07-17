@@ -4,23 +4,29 @@ Project memory for Claude Code. Read on every session.
 
 ---
 
-## ⚠️ ACTIVE OVERRIDE — 2026-06-04: 50 KM ULTRA BUILD
+## ⚠️ ACTIVE OVERRIDE — 2026-07-17: BLOCK 2 — SUB-2:50 30K (race Sun Oct 11, 2026)
 
-**Goal pivoted.** User now training for a **50 km run/walk on Sat Aug 8, 2026** (~9-week build). This **supersedes Block 1 hypertrophy + the slow cut** for now. Until the user says otherwise:
+**Two prior goals are DEAD. Do not resurrect either without the user saying so.**
+- ❌ **50 km ultra (Aug 8) — ABANDONED 2026-07-17.** User called it after a 17-day dark stretch (Jul 1–16, cycling only, zero running) left an 18k ceiling 22 days from race day. See `logs/session_log.md` § "50 KM ULTRA BUILD — ABANDONED".
+- ❌ **"Sub-2:20 30K" — RETIRED as physically implausible, 2026-07-17.** 2:20 over 30K = **4:40/km**; the user's HM PR is **6:09/km**. It required a 1:36 half / 20:57 5K. The number was naive addition (21.1 km in 2:09 → "30 km in 2:20"), never a pace conversion. **If any doc still says "sub-2:20 30K", it is stale — fix it.**
 
-- **Schedule:** 3 gym (Push / Legs / Pull, maintenance RPE 7–8, not to failure) + 3 run (Fri 5k social easy / Sat LONG / Sun medium back-to-back) + Thu rest. See table below + `docs/running.md` (50 km build) + `logs/session_log.md` (Build weeks).
-- **Nutrition: CUT IS PAUSED.** Eat **~maintenance (~2700)**, carbs up on run/leg days, protein high. BW drifting UP is expected and correct — **do NOT flag BW gain or "deficit missed".** The SLOW CUT config below is dormant.
-- **Lifting:** retain strength, don't chase PRs / aggressive bumps; running owns the legs. Trim Tue Legs in peak weeks (Sat ≥32 km).
-- **Running priority:** the long run is the driver. Run/walk from start, easy Z2, in-run carbs 30–60 g/hr on runs >90 min. Pinpoint bone pain = STOP (stress-fracture risk). Never skip step-back weeks.
-- Hypertrophy/cut sections below remain for reference + the eventual return to a strength block (or Block 2 sub-2:20 30K, race Oct 11). Resume only when the user says.
+**ACTIVE GOAL: 30K in sub-2:50 (5:40/km), Sun Oct 11, 2026.** Floor = sub-3:00. Set by user 2026-07-17.
+
+- **Why it's real (the core read — keep this in mind for every prescription):** the user's 5K PR (25:58 @ 5:12/km, 2026-05-08) predicts a **1:59 HM**; he actually ran **2:09:38**. ~10 min slower than his own speed says. **He is not slow — he is under-endured** (treadmill-trained, low volume). Riegel anchors disagree for exactly this reason: 5K → 2:53 30K, HM → 3:08. **The spread IS the deficit, and volume is the lever that closes it.** Sub-2:50 ≈ a 1:57 HM by October = collecting endurance already paid for, not building new top-end speed.
+- **Therefore: consistent weekly volume > any hero session.** This target dies from dark weeks, not from slow days. Jul 1–16 is the cautionary tale.
+- **Nutrition: CUT RESUMES (goal-aligned now, not competing).** 77.6 → ~73 kg ≈ 5.9% BW ≈ **2–3% running economy ≈ 8–10 s/km ≈ 4–5 min over 30K** — roughly a third of the gap to 2:50, from the kitchen. Slow cut 0.3–0.5 kg/wk through the base weeks → **maintenance for the final 3–4 wks + taper** (no deficit while sharpening). ⏸️ **NOT started as of 2026-07-17** — re-entry week eats maintenance (~2700); start once the running rhythm holds. See Nutrition baselines below (now live again).
+- **Lifting: maintenance, slow-steady.** Running owns the legs. Bump gate = ALL sets at top of rep range AND every set RPE ≤7 → smallest increment. Reps before load. See "Progression rule" below — the **slow-steady rule is ACTIVE; the aggressive double-progression text is DORMANT**, user reconfirmed 2026-07-17.
+- **⚠️ TIBIA GATES EVERYTHING.** Right-tibia stress-fx watch (May–Jun) rehabbed clean, but it is the standing constraint. Pinpoint bone pain = STOP. **Engine ≠ chassis:** cycling held his aerobic system (~70–80% transfer) but zero impact tolerance — **runs will feel easy before the bone is ready. HR/RPE are not the limiter; impact tolerance is. Set distance by bone, not by breath.**
+- **⚠️ Legs untrained since 2026-05-19** (never trained in the whole 50 km build). Cycling quads ≠ trained quads. Seed very light, keep off run-adjacent days, expect DOMS.
+- **Open miss carried from the ultra build: cadence.** Parked 161–164 all build; hit 166 once (6/28) at fast pace only, then regressed to 159. Turnover is pace-linked, not habitual. Still unsolved.
 
 ---
 
 ## What this repo is
 
-Personal training log + plan for **Block 1: 11-Week Hypertrophy** (Apr 27 – Jul 12, 2026). Bridge from Madrid HM 2026-04-26 (2:09:38) to Block 2 sub-2:20 30K (Jul 13 – Oct 11, 2026; race Sun Oct 11).
+Personal training log. **Now: Block 2 — sub-2:50 30K (Jul 13 – Oct 11, 2026; race Sun Oct 11).** History: Block 1 11-Week Hypertrophy (Apr 27 – Jul 12) → 50 km ultra detour (Jun 4 – Jul 17, abandoned) → Block 2. Bridge from Madrid HM 2026-04-26 (2:09:38).
 
-User: solo lifter/runner, novice/early-intermediate strength tier, BW ~77 kg. **Goal (set 2026-05-17): slow cut to ~73 kg while getting stronger — deliberate deficit, high protein. See Block 1 targets + Nutrition baselines.**
+User: solo lifter/runner, novice/early-intermediate strength tier, BW ~77.6 kg (2026-07-17). **Goal: sub-2:50 30K Oct 11 + slow cut to ~73 kg (cut now SUPPORTS the race goal — see override above).**
 
 ---
 
@@ -40,21 +46,21 @@ scripts/{build_log,progression_check}.py        — workbook tooling
 
 ---
 
-## Weekly schedule — ACTIVE (50 km build, from 2026-06-04)
+## Weekly schedule — Block 2 structure PENDING (to be built for Jul 20 onward)
+
+**Not yet locked.** User: "we will organize next week" (2026-07-17). Re-entry week Jul 17–19 only:
 
 | Day | Session |
 |-----|---------|
-| Mon | Gym — Push (upper, maintenance) |
-| Tue | Gym — Legs (maintenance; trim in peak run wks) |
-| Wed | Gym — Pull (upper, maintenance) |
-| Thu | REST |
-| Fri | Run — 5k social (EASY, fixed) |
-| Sat | Run — LONG (the driver) |
-| Sun | Run — medium-long (back-to-back) |
+| Fri 7/17 | Gym — Pull (first lift in 30 days) |
+| Sat 7/18 | Run — 8k easy Z2, HR ≤150 (**benchmark**: pace @ HR ≤150 vs 6/18 10k = 7:22 and 6/22 18k = 7:03) |
+| Sun 7/19 | REST |
 
-User may swap days week-to-week. Always read `logs/session_log.md` for the active week before prescribing today's session.
+**Block 2 shape (per `docs/handoff.md`, itself pending rewrite): flip to 4 run / 2 lift.** Running volume is the goal-critical variable (see override: under-endured, volume closes the gap); lifting drops to 2×/wk maintenance to free recovery budget. Build the week-by-week for Jul 20 onward once Sat 7/18's benchmark lands.
 
-> Prior Block-1 hypertrophy schedule (dormant): Mon Upper A · Tue Lower A · Wed REST · Thu easy run · Fri Upper B · Sat Lower B · Sun easy run.
+> Dormant: 50 km build schedule (3 gym / 3 run, Sat LONG driver) — goal abandoned. Block-1 hypertrophy schedule (Mon Upper A · Tue Lower A · Wed REST · Thu run · Fri Upper B · Sat Lower B · Sun run) — block over.
+
+Always read `logs/session_log.md` for the active week before prescribing today's session.
 
 ---
 
@@ -65,11 +71,18 @@ User may swap days week-to-week. Always read `logs/session_log.md` for the activ
 3. Pull last-session loads + bump notes from `logs/session_log.md` ("Next session bumps:" lines).
 4. Apply progression rule below. Output table: exercise, sets×reps, RPE, **starting load this session**, notes.
 
-### Progression rule (aggressive double progression)
+### Progression rule — SLOW STEADY ✅ ACTIVE (user directive 2026-06-10, reconfirmed 2026-07-17)
 
-- Top of rep range hit across all sets at prescribed RPE → **+2.5 kg compound, +1–2 kg isolation NEXT session.** No waiting.
-- First set RPE <7 at prescribed weight → **bump mid-session.** Don't finish at warm-up intensity.
-- Reps stall 3 sessions same weight → vary rep range OR drop 5% and rebuild OR add intensity technique.
+User, verbatim: *"I want a slow steady increase in the gym so it compounds over time and I have some incredible gains along the next few years with 0 injuries."* Multi-year horizon, zero injuries. **This governs. Do not prescribe aggressive bumps.**
+
+- **Bump gate:** ALL sets at the TOP of the rep range **AND** every set RPE ≤7 → then the **smallest available increment** (+2.5 kg compound, +1 kg/DB isolation). A set creeping to RPE 8 = not yet; hold the load and clean it.
+- **Reps before load.** One variable at a time. Rep-range progression preferred before load bumps on isolation.
+- **Never re-open at a load that produced RPE 9+** (e.g. 35 kg pulldown, 6/10 — restart below it).
+- **No aggressive mid-session bumps.** Autoregulate up only if RPE is clearly under target.
+- **Off a layoff: seed conservative, autoregulate up. Loads landing under prescription = EXPECTED, not a flag.**
+- Reps stall 3 sessions same weight → vary rep range OR drop 5% and rebuild.
+
+> **DORMANT — aggressive double progression** (superseded 2026-06-10, do not use unless the user explicitly asks to push): top of rep range across all sets → +2.5 kg compound / +1–2 kg isolation next session, no waiting; first set RPE <7 → bump mid-session.
 
 ### Intensity techniques (Wk 5+)
 
@@ -130,11 +143,12 @@ Other movements: subs in workout file's Substitutions table are fair game.
 18. Photos front/side/back (biweekly)
 19. HR drift on easy runs
 
-### Nutrition baselines — SLOW CUT ⏸️ PAUSED 2026-06-04 (see top override)
+### Nutrition baselines — SLOW CUT ✅ LIVE AGAIN 2026-07-17 (⏸️ not started until running rhythm holds)
 
-> **PAUSED for the 50 km build.** During the build eat ~maintenance (~2700), carbs up on run/leg days, protein high; **BW gain is expected — do NOT flag.** The cut config below resumes only when the user returns to a strength/cut block.
+> **Un-paused 2026-07-17.** The 50 km build's "cut paused, BW gain expected" posture is DEAD. **The cut now serves the race goal** — 77.6 → ~73 kg ≈ 4–5 min over 30K (see top override). Deficit is intended; do not flag it as under-fueling.
+> **Two timing caveats:** (1) **re-entry week (Jul 17–19) eats maintenance (~2700)** — no deficit on day 1 back with detrained bone; start the cut once running is consistent. (2) **Final 3–4 wks + taper = maintenance**, not deficit — no cutting while sharpening for Oct 11.
 
-Goal as of 2026-05-17 (dormant): deliberate slow fat loss to ~73 kg while getting stronger. NOT recomp, NOT surplus. Deficit is intended — do not flag it as under-fueling.
+Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg while retaining strength. NOT recomp, NOT surplus.
 
 | Macro | Target |
 |-------|--------|
@@ -171,10 +185,22 @@ Goal as of 2026-05-17 (dormant): deliberate slow fat loss to ~73 kg while gettin
 
 ---
 
-## Block 1 targets
+## Block 2 targets — ACTIVE (set 2026-07-17)
 
-**Revised 2026-05-17 → SLOW CUT:** BW ~77 → **~73 kg** (lose fat, ~0.3–0.5 kg/wk) | **retain/build strength through the deficit** — bench/DL/weighted-PU still progressing (smaller jumps OK in deeper deficit, a stall ≠ failure) | preserve lean mass (high protein + hard lifting) | running fitness held 90–95% race-day. Cut likely extends past Block 1 (Jul 12) into Block 2 — do not force the full drop by block end.
+**Race: 30K, Sun Oct 11, 2026.**
 
-Block ends Sun Jul 12, 2026 → measurements + lift retest + read `docs/handoff.md` for Block 2.
+| Target | Time | Pace | Notes |
+|--------|------|------|-------|
+| **Primary** | **sub-2:50** | **5:40/km** | ≈ a 1:57 HM. User's pick 2026-07-17. |
+| Floor | sub-3:00 | 6:00/km | Still faster pace than Madrid (6:09/km) over +9 km. A strong day. |
+| ~~Retired~~ | ~~sub-2:20~~ | ~~4:40/km~~ | Needed a 1:36 HM / 20:57 5K. Naive addition, not pace math. |
 
-> **Superseded 2026-06-04** by the 50 km ultra build (see top override). Block-1 hypertrophy/cut targets are on hold; the 50 km run/walk (Sat Aug 8) is the active goal. Strength = retain, not progress, during the build.
+**Supporting targets:** BW 77.6 → **~73 kg** (0.3–0.5 kg/wk slow cut through base wks; maintenance final 3–4 wks + taper) — worth ~4–5 min over 30K, a third of the gap | **strength retained** at 2×/wk maintenance, slow-steady bump gate, no PR chasing | **cadence 165+** finally made habitual (unsolved since the ultra build) | **zero dark weeks** — volume consistency is the whole target.
+
+**Key baselines (do not re-derive, do not invent):**
+- HM PR: **2:09:38** Madrid 2026-04-26 (6:09/km, 339 m climb, avg HR 180, 78% Z5 = all-out). Flat-equivalent ≈ 2:05.
+- 5K PR: **25:58** 2026-05-08 (5:12/km, all-out, max HR 204, RPE 9).
+- Longest run: **18 km** 2026-06-22 (7:03/km @ avg HR 149, 95% Z2, RPE 4).
+- Easy Z2 reference: **7:03/km @ HR 149** (18k, 6/22) · **7:22/km @ HR 150** (10k, 6/18).
+
+> **Block 1 (11-Week Hypertrophy, Apr 27 – Jul 12) — CLOSED.** Never formally wrapped: the 50 km ultra detour (Jun 4) ate weeks 6–11, then the ultra was abandoned 2026-07-17. No end-of-block measurements or lift retest were taken. Hypertrophy sections below are reference for a future strength block. Old Block-1 target text, for the record: BW ~77 → ~73 kg, retain/build strength through the deficit, preserve lean mass, running held 90–95%.

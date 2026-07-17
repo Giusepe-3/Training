@@ -712,32 +712,80 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
 
 - **2026-06-22 (Mon)** — *Run — LONG #2, 18k run/walk Z2 (the slipped W2 long).* Prescription: WU 1k (<140) · MAIN 16k Z2 **HR ≤150 hard cap** + walk breaks @ k5/k9/k13/k16 · CD 1k walk (<130). TOTAL ~18k, ~2h15–2h25 @ ~7:40, RPE target 5. **+4k / +29% vs 14k (6/14) = biggest jump, autoregulate by feel.** Fueling (>90 min, ~50 g/hr): pre banana+toast ~50g · gel @ k6 · banana @ k10 · gel @ k14 · Powerade throughout = ~100 g in-run · post 30–40g protein. **Shin pinpoint = STOP (Thu k7 blip — watch first 8k). Cadence 165+ = the job (parked 164). Creatine today.** Pre-staged file → `logs/sessions/2026-06-22_run.md`. **PM — DONE.** LONG #2 complete: **18.0 km / 2:07:00 / 7:03 pace / avg HR 149 (UNDER ≤150 cap ✓) / max 166 / 95% Z2 / cadence 164 / RPE 4 — "feeling amazing."** **BIGGEST RUN OF THE BUILD, EASIEST RPE YET — +4k/+29% jump absorbed at RPE 4.** Aerobic base now ahead of the distance ramp. **Pace 7:03 beat 7:40 long-pace target AND stayed under HR cap (149) at 95% Z2** = running ~37 s/km faster at the same heart rate = fitness rising, not over-reaching; time 2:07 beat the 2h15–2h25 window. **SHIN PERFECT — zero pinpoint through all 18k + after; Thu's k7 blip did NOT recur even at +8k over that run = transient, layoff fully closed.** **Biggest fueling rep clean:** 100 g in-run (gel k6 / banana k10 / gel k14 + Powerade) = ~47 g/hr, dead-center 45–60 band, no GI issue — protocol scales to 2h+. Walk breaks exact @ k5/k9/k13/k16. Creatine Y (held). **One open miss: cadence 164 = 4th straight run parked at 164**, 1 short of 165 — only unsolved variable, metronome drill stays. Macros: 2600 kcal maintenance (cut paused, not flagged), protein 150 ✓, 0 alc, 24,312 steps (huge NEAT). Cleanest long run of the build, no flags. Full log → `logs/sessions/2026-06-22_run.md`.
 
+- **2026-06-28 (Sun)** — *Run — 7k social (logged retro).* **DONE: 7.27 km / 41:15 / 5:40 pace / avg HR 164 / max 197 / cadence 166 / RPE 7.** Zones: **31% Z2, 42% Z3, 19% Z4, 1% Z5.** Flat + sunny. **Read: this was a QUALITY/tempo run, NOT the easy-Z2 base the build calls for** — 62% of it in Z3+ at 5:40/km. Fine as an occasional hard rep, but social pace crept well over the aerobic mandate; log it as quality, don't count it as base mileage. **WIN: cadence 166 = FIRST run ≥165 all build — breaks the 4-run "parked at 164" streak** (metronome/faster-turnover finally landed at higher pace). Max 197 consistent w/ a hard push. No shin flag reported. Not in xlsx pre-6/28 gap — added to RUN_LOG.
+
 ## Build Week 4 (Jun 29 – Jul 5) — STEP-BACK
 
 - Mon Push · Tue Legs · Wed Pull · Thu REST
 - Fri 5k easy · **Sat LONG 16k (recovery)** · Sun 8k medium
 
-## Build Week 5 (Jul 6 – 12)
+- **2026-06-30 (Tue)** — *Run — 8k social (logged retro).* **DONE: 8.03 km / 50:32 / 6:18 pace / avg HR 155 / max 204 / cadence 159 / RPE 8.** Zones: **57% Z2, 35% Z3, 2% Z4.** Flat + sunny. Better zone distribution than 6/28 (57% Z2 vs 31%) — closer to base, still 37% in Z3+. **Two flags: (1) RPE 8 at 6:18 pace felt HARDER than 6/28's RPE 7 at 5:40 pace** = slower but more effort → residual fatigue and/or heat (both sunny). This is a STEP-BACK week — keep effort genuinely easy, RPE 8 on an 8k undercuts the deload. **(2) cadence 159 = regressed −7 from 6/28's 166** back below the old 164 park — cadence gain didn't hold at slower pace, so turnover is pace-linked not yet habitual; metronome stays. **max HR 204** = same ceiling as the 5/8 5K PR (204) — likely a real spike or optical-wrist artifact on a run that only avg'd 155; noted, watch if it recurs at easy effort. No shin flag reported.
 
-- Mon Push · Tue Legs · Wed Pull · Thu REST
-- Fri 5k easy · **Sat LONG 26k** · Sun 13k medium
+## ❌ 50 KM ULTRA BUILD — ABANDONED 2026-07-17 (user decision)
 
-## Build Week 6 (Jul 13 – 19)
+**Build Weeks 5–9 never ran. The Aug 8 50 km attempt is CANCELLED.** User called it on 2026-07-17: back to **Block 2 — 30K, race Sun Oct 11, 2026**.
 
-- Mon Push · Tue Legs (TRIM: 2 sets/lift RPE 7) · Wed Pull · Thu REST
-- Fri 5k easy · **Sat LONG 32k** · Sun 16k medium
+**Why it ended:** training went dark Jul 1–16 (17 days, no logs). User trained through it — **cycling, volume/intensity TBD** — but zero running. Last logged run = 6/30 (8k social). Longest run of the whole build = **18k (6/22)**. With 22 days to Aug 8 and an 18k ceiling off 17 days of no impact, a 50 km attempt = survival march on a tibia with a May–June stress-fracture history. Not run.
 
-## Build Week 7 (Jul 20 – 26) — PEAK
+**What the build actually banked (keep — this transfers to Block 2):**
+- **Shin rehab succeeded.** Stress-fx watch → clean through 6k / 14k / 18k + 48h windows. Layoff conclusively broken. Tibia is the constraint to respect, not a live injury.
+- **Zone control learned.** Tue 6/9 (94% above Z2, the miss) → 6/18 10k @ 96% Z2 → 6/22 18k @ 95% Z2, avg HR 149, RPE 4. Aerobic discipline is now a habit.
+- **Aerobic base rose.** 6/22: 18k at 7:03/km @ HR 149 vs 6/14: 14k at 7:46/km @ HR 152 — ~43 s/km faster at the same HR over +4k.
+- **Fueling protocol validated to 2h+.** 100 g in-run (~47 g/hr), zero GI issue.
+- **Open miss carried forward: cadence.** Parked 161–164 all build; 166 once (6/28, at fast pace only), then regressed to 159 (6/30). Turnover is pace-linked, not habitual. Still the one unsolved variable.
 
-- Mon Push · Tue Legs (TRIM) · Wed Pull · Thu REST
-- Fri 5k truly easy · **Sat LONG 38k ← peak** · Sun 18k medium
+**Dead ultra weeks, for the record (never executed):** W5 Jul 6–12 (LONG 26k) · W6 Jul 13–19 (LONG 32k) · W7 Jul 20–26 (PEAK 38k) · W8 Jul 27–Aug 2 (24k) · W9 Aug 3–9 (taper + 50k attempt Aug 8).
 
-## Build Week 8 (Jul 27 – Aug 2) — PRE-TAPER
+> ⚠️ Docs still carry the dead goal — pending rewrite when the week is organized: CLAUDE.md top override (50 km build + cut paused), `docs/running.md` (50 km build), `docs/handoff.md` (stale — written for a sub-2:00 HM block, never rewritten for 30K). Also unresolved: **"sub-2:20 30K" = 4:40/km vs a 6:09/km HM PR — not physically plausible, needs a real number before the 12 weeks get built.**
 
-- Mon Push · Tue Legs (light) · Wed Pull · Thu REST
-- Fri 5k easy · **Sat LONG 24k** · Sun 12k medium
+---
 
-## Build Week 9 (Aug 3 – 9) — TAPER + ATTEMPT
+## Block 2 — SUB-2:50 30K (Jul 13 – Oct 11, 2026) · race Sun Oct 11
 
-- Mon Push (light) · Tue easy 6k · Wed Pull (light) · Thu REST
-- Fri Aug 7: shakeout 2–3k OR rest (skip full social 5k) · **Sat Aug 8: 🏁 50 KM ATTEMPT (run/walk)** · Sun REST
+### 🎯 TARGET SET 2026-07-17: 30K in sub-2:50 (5:40/km). Floor sub-3:00.
+
+**"Sub-2:20" is RETIRED** — 4:40/km against a 6:09/km HM PR; it needed a **1:36 half / 20:57 5K**. The number was naive addition (21.1 km in 2:09 → "30 km in 2:20"), never a pace conversion. Building on it would have prescribed 4:40/km reps → failed sessions → chasing → tibia. User saw the math and picked 2:50 himself.
+
+**Why sub-2:50 is the right kind of hard — THE CORE READ, drives every prescription:**
+- 5K PR **25:58 @ 5:12/km** (5/8) predicts a **1:59 HM**. He actually ran **2:09:38**. ~10 min slower than his own speed says.
+- **He is not slow — he is UNDER-ENDURED.** Treadmill-trained, low volume. Madrid punished it (78% Z5, all-out).
+- Riegel anchors disagree for exactly that reason: **5K → 2:53 30K · HM → 3:08 · flat-equiv HM → 3:01. The spread IS the deficit, and volume is the lever that closes it.**
+- Sub-2:50 ≈ a **1:57 HM** by October = collecting endurance already paid for, not building new top-end speed. `docs/handoff.md` independently judged sub-2:00 HM *"yes, with focused training."*
+
+**Conditions:** floor sub-3:00 (still faster pace than Madrid over +9 km). **Volume must accumulate — this target dies from dark weeks, not slow days (cf. Jul 1–16).** Tibia gates everything; sub-2:50 needs consistent weeks far more than any hero session.
+
+**Cut is now a WEAPON, not a competing goal:** 77.6 → ~73 kg ≈ 5.9% BW ≈ 2–3% economy ≈ **8–10 s/km ≈ 4–5 min over 30K** = a third of the gap, from the kitchen. Slow cut 0.3–0.5 kg/wk through base wks → **maintenance final 3–4 wks + taper** (no deficit while sharpening). ⏸️ **NOT started** — re-entry week eats maintenance (~2700). (BW was ~77 in May, 77.6 now — the cut never happened; the ultra ate it.)
+
+**Gym: 2×/wk maintenance, slow-steady** (per `docs/handoff.md`: flip to 4 run / 2 lift — running volume is goal-critical, lifting frees recovery budget). Bump gate: ALL sets top of range AND every set RPE ≤7 → smallest increment. Reps before load. User reconfirmed the posture 2026-07-17: *"build back in the gym slow and steady progress that compounds over time."*
+
+**Key baselines — do not re-derive:** HM PR 2:09:38 (6:09/km, 339 m, avg HR 180, 78% Z5; flat-equiv ~2:05) · 5K PR 25:58 (5:12/km, max HR 204) · longest run 18 km (6/22, 7:03/km @ HR 149, 95% Z2, RPE 4) · easy Z2 ref **7:03/km @ HR 149** and **7:22/km @ HR 150** (6/18 10k).
+
+---
+
+**Week 1 = RE-ENTRY (Jul 17 – 19).** Partial week — starts Fri. Full week structure gets built for Jul 20 onward ("we will organize next week").
+
+- **Fri 7/17 Gym Pull** · **Sat 7/18 Run 8k easy (benchmark)** · **Sun 7/19 REST**
+
+**Re-entry principle — ENGINE vs CHASSIS.** Cycling held the central aerobic system (~70–80% transfer: VO2max, stroke volume, quad mitochondria). It held **none** of the running chassis: bone/tendon impact tolerance, eccentric load tolerance, running economy, cadence. **Runs will feel easy before the tibia is ready — HR/RPE are NOT the limiter this month, impact tolerance is. Distance set by bone, not by breath.** Ramp impact conservatively regardless of how good the engine feels.
+
+⚠️ **Legs never trained in the entire 50 km build — last lower session = 2026-05-19 (lower_A), 2 months.** Cycling quads ≠ trained quads. Legs gets its own slot next week, far from any run day, seeded very light, DOMS expected.
+
+- **2026-07-17 (Fri)** — *Gym — Pull (upper, maintenance). First lift in 30 days; first Pull in 37 days.* **AM — ALL GREEN, Pull ON.**
+  ```
+  Sleep h: 7
+  Sleep quality (1-10): 7
+  Bedtime: 2:00
+  Wake: 9:00
+  BW AM (kg): 77.6
+  RHR (bpm): 45
+  RHR Δ vs 7d: -3
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest/back/shldr/arm/quad/ham/glute: 0
+  DOMS calf: 1
+  Joint/tendon flags: all feel good — right shin CLEAN (no pinpoint, no stairs pain)
+  ```
+  **AM read — GREEN, and the RHR is the headline. RHR 45 = identical to 6/18 (45), mid-build, after 17 days zero running; Δ−3 says the user's own baseline drifted DOWN.** Build range was 41–46 → **the engine held through the gap. First hard evidence the cycling transferred.** Maintained, not improved (41 = build best). **Shin gate PASSED after 17 days no impact → Sat 8k is ON.** Calf 1 = cycling residue, zero leg load today = irrelevant. BW 77.6 (cut was paused — not flagged; note: BW ~77 in May → 77.6 now, the cut never happened, the ultra ate it). Sleep 7h q7 (2am→9am — habitual late bedtime, not a flag, but a lever once Block 2 quality work starts).
+  **Prescription (RPE 7 CAP — seed BELOW the 6/10 bumps; that Pull never happened and this is a 37-day layoff, vs the 2-week layoff that made 35 kg an RPE9 misfire on 6/10):** A1) Lat Pulldown 4×10–12 @ **30 kg** (the clean 12/12/12 load; do NOT re-open 32.5/35) · A2) Cable Row 3×10–12 @ **27.5 kg** (first rep of plain Cable Row — 6/10 was chest-supported @ 30; no chest support = drop) · B1) Single Arm DB Row 3×10–15 @ **8 kg/DB** (HOLD; 6/10 bump said 9 — layoff overrides, earn it) · B2) Face Pull 3×15–20 @ **10 kg** (HOLD, chase 16–18; direct anti-cycling-posture lift) · C1) EZ Bar Curl 3×8–10 @ **13.6 kg** (HOLD, chase 3×10 — S3 fell to 8 on 6/10) · C2) DB Curl 3×8–10 @ **6 kg/DB** (HOLD, chase 3×10).
+  **Bump gate ([[slow-steady-progression]]):** ALL sets at top of rep range AND every set RPE ≤7 → then smallest increment. Loads landing under prescription = EXPECTED off 37 days, not a flag (same as 6/8 Push off a 2-wk layoff). Pre-staged file → `logs/sessions/2026-07-17_pull.md`.
