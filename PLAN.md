@@ -3,7 +3,7 @@
 **Dates:** April 27 – July 12, 2026 (11 weeks)
 **Goal:** Maximum upper-body hypertrophy. +3–4 kg lean mass realistic.
 **Approach:** 4 lifts + 2 runs/week. Recomp at maintenance. Push from day 1 of accumulation.
-**Block 2:** July 13 – October 11, 2026 (13 weeks). **Sub-2:50 30K** (5:40/km; floor sub-3:00). Race Sun Oct 11, 2026. Target reset 2026-07-17 — the old "sub-2:20" (4:40/km) was implausible vs a 6:09/km HM PR.
+**Block 2:** July 13 – October 11, 2026 (13 weeks). **Sub-2:50 30K** (5:40/km; floor sub-3:00). Race Sun Oct 11, 2026. Target reset 2026-07-17 — the old "sub-2:20" (4:40/km) was implausible vs a 6:09/km HM PR. **12-week program built 2026-07-17 → `docs/running.md`** (evidence prompt: `docs/block2_plan_prompt.md`).
 
 ---
 
