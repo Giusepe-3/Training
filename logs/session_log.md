@@ -793,6 +793,53 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **Next Pull bumps:** Lat Pulldown **HOLD 30** (12/12/12/10, S4 fatigue — need 4×12) · Cable Row **→ 27.5** (undershot seed, RPE6) · SA DB Row **→ 9/DB** (gate met, earned) · Face Pull **→ 7.5** (undershot seed by half, autoreg toward 10) · EZ Bar Curl **→ ~15.9** (gate met) · DB Curl **→ 7/DB** (gate met). Full detail → `logs/sessions/2026-07-17_pull.md`.
 
 - **2026-07-18 (Sat) — REST (unplanned). Planned 8k benchmark SLIPPED — user worked too much.** No run. Not a bone/injury flag — logistics only. **Consequence: the 8k benchmark moves to Sun 7/19 (today).** It still gates W1 (Jul 20 start): shin clean + ≤~7:45/km @ HR ≤150 = W1 long 10k as written; any shin signal → long drops to 8k. One extra rest day before first impact off a 37-day layoff = harmless, arguably helpful for the tibia.
-- **2026-07-19 (Sun) — Run: 8k easy Z2 BENCHMARK (slipped from Sat). Planned REST flipped to the benchmark run.** ⚠️ FIRST IMPACT since... last run 6/22 (18k) — but 17 dark days Jul 1–16 mean ~4 weeks off running. **Bone gates, not breath: distance set by tibia, HR/RPE are NOT the limiter this month.** Benchmark = pace @ HR ≤150 vs 6/18 10k (7:22) and 6/22 18k (7:03). **AM ✅ GREEN, benchmark ON:** shin clean, RHR **42** (Δ−3 vs ~45, near build best 41 — fully recovered, extra rest + 10h sleep), sleep 10h q10 (bed 21:45, earlier than habitual 2am), mot/energy 10, stress 1, legs fresh (DOMS 1), arm/back 2 = Pull residue irrelevant to running. BW 78.2 (+0.6 = spike, ignore, cut not started). Prescribed 8k easy Z2, **HR ≤150 cap**, cadence 165+, bone-gates-not-breath. Staged → `logs/sessions/2026-07-19_run.md`. **PM → pending post-run.**
+- **2026-07-19 (Sun) — Run: 8k easy Z2 BENCHMARK (slipped from Sat). Planned REST flipped to the benchmark run.** ⚠️ FIRST IMPACT since... last run 6/22 (18k) — but 17 dark days Jul 1–16 mean ~4 weeks off running. **Bone gates, not breath: distance set by tibia, HR/RPE are NOT the limiter this month.** Benchmark = pace @ HR ≤150 vs 6/18 10k (7:22) and 6/22 18k (7:03). **AM ✅ GREEN, benchmark ON:** shin clean, RHR **42** (Δ−3 vs ~45, near build best 41 — fully recovered, extra rest + 10h sleep), sleep 10h q10 (bed 21:45, earlier than habitual 2am), mot/energy 10, stress 1, legs fresh (DOMS 1), arm/back 2 = Pull residue irrelevant to running. BW 78.2 (+0.6 = spike, ignore, cut not started). Prescribed 8k easy Z2, **HR ≤150 cap**, cadence 165+, bone-gates-not-breath. Staged → `logs/sessions/2026-07-19_run.md`.
+  **✅ DONE — BENCHMARK PASSED BY A MILE. 8.01 km · 52:10 · 6:31/km · avg HR 145 (max 162) · 94% Z2 · cadence 166 · RPE 5 · 1 walk break (1:17) · cloudy/chill · shin PERFECT during and after.**
+  **Gate was ≤7:45/km @ HR ≤150 + shin clean → landed 6:31 @ 145. W1 (Jul 20) long stays 10k as written, no downgrade.**
+  - **−51 s/km vs 6/18 10k (7:22 @ HR150), at −5 bpm.** −32 s/km vs 6/22 18k (7:03 @ HR149) at −4 bpm. Faster *and* lower HR = real aerobic gain, not pacing luck. **The cycling transfer, cashed** — RHR 42 predicted it, pace-at-HR confirms it. ~4 weeks off running and he returned aerobically fitter than mid-build.
+  - **CADENCE — first 165+ at EASY HR.** 166 @ HR 145. Open variable since the ultra build (parked 159–164; the one 166 on 6/28 came at fast pace only). Turnover starting to decouple from pace = metronome protocol working. One run ≠ habit — keep metronome on every easy run W1–W4.
+  - **Bone gate PASSED** on first impact in ~4 wks. Zero shin signal. Chassis tolerated it.
+  - **Discount honestly:** 8k not 18k, cool weather, 10h sleep, fully rested, first run back = maximum tailwind. Do NOT bank the full 51 s/km as fitness. **W4 8k benchmark repeat** re-tests it under normal accumulated fatigue.
+  - **Goal read:** easy Z2 6:31 sits ~51 s/km off the 5:40 race pace — a normal easy-to-race spread. **Sub-2:50 remains live**; the diagnosis (under-endured, not slow) is intact and volume is still the lever.
+  - Macros: kcal 2800 = correct (re-entry eats maintenance, cut NOT started), steps **30530**, creatine Y, alcohol 0. ⚠️ **Protein 150 g = 2nd straight day under floor** (2.0 g/kg @ 78.2 kg = 156 g min; band 150–185). Push to 160–170.
+  Full detail → `logs/sessions/2026-07-19_run.md`.
 
 **2026-07-17 — BLOCK 2 12-WEEK PROGRAM BUILT → `docs/running.md`** (research prompt: `docs/block2_plan_prompt.md`). Structure: Mon Legs · Tue easy · Wed quality (from W5) · Thu Upper · Fri REST · Sat easy · Sun LONG. W1–4 all-easy bone-gated base (long 10→13k) · W5–8 threshold build (long 15→19k) · W9–10 race-pace peak (long 21, 24k rehearsal) · W11–12 taper. Down wks W4/W8. Checkpoints: W4 8k benchmark repeat · W8 6k tempo test (≤5:35 = sub-2:50 green, >5:50 = race the floor) · W10 24k full rehearsal. Cut starts W3 if 2 clean wks + shin quiet; maintenance from W9. Cadence 165+ metronome protocol every easy run from W1. **W1 (Jul 20, 26k, long 10k) confirms off Sat 7/18 8k benchmark: shin clean + ≤~7:45 @ HR ≤150 = run as written; any shin signal → long drops to 8k.**
+
+---
+
+### Week 1 — Jul 20–26 · 26 km · long 10k · maintenance ~2700 (no cut yet)
+
+**W1 CONFIRMED AS WRITTEN.** The 7/19 8k benchmark cleared its gate by 74 s/km (6:31 @ HR 145 vs ≤7:45 @ ≤150) with a clean shin → **Sun long stays 10k, no downgrade.**
+
+| Day | Session |
+|-----|---------|
+| Mon 7/20 | Gym — Legs + core (light) · **first lower in 62 days** |
+| Tue 7/21 | Run — 5k easy Z2 (metronome 166, 6×2′ on/off) |
+| Wed 7/22 | Run — 6k easy Z2 |
+| Thu 7/23 | Gym — Upper (Push-focus) + 2 maintenance sets pull |
+| Fri 7/24 | REST |
+| Sat 7/25 | Run — 5k easy Z2 |
+| Sun 7/26 | Run — **LONG 10k** |
+
+- **2026-07-20 (Mon)** — *Gym — Legs + core (light). **First lower session in 62 days** (last: Lower A 5/19 — legs were never trained in the entire 50 km build).* **AM — ALL GREEN, Legs ON.**
+  ```
+  Sleep h: 9:20
+  Sleep quality (1-10): 7
+  Bedtime: 4:00
+  Wake: 13:25
+  BW AM (kg): 77.25
+  RHR (bpm): 44
+  RHR Δ vs 7d: +2
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest/ham/glute: 0
+  DOMS back/shldr/quad/calf: 1
+  DOMS arm: 2
+  Joint/tendon flags: All feeling good
+  ```
+  **AM read — GREEN.** **Shin clean the morning after first impact in 4 weeks = the chassis tolerated the 8k.** That is the single most important data point of the week. Legs fresh (quad 1 / ham 0 / glute 0 / calf 1 = trivial run residue); arm 2 / back 1 = Fri Pull residue, different tissue, doesn't gate lower. **BW 77.25 — the 78.2 spike cleared and undercut 7/17 (77.6). Trend healthy; cut still correctly NOT started (W1–2 = maintenance).** RHR 44 (Δ+2 vs 42) inside baseline band 41–46 = non-event. ⚠️ **Bed 4:00 / wake 13:25** — 9h20 slept but quality fell 10→7 vs the 21:45 night that preceded the benchmark. Not a session gate; flagged because 7/19 demonstrated what an early bedtime buys. **Circadian is the free lever this block.**
+  **Prescription (RPE 7 CAP, volume deliberately cut to 16 working sets, NO bumps).** 5/19's queued bumps (Squat 40 · RDL 35 · Leg Press 35 · Leg Curl 23.75 · Knee Raise BW+2.5) are **VOID** — 62-day layoff overrides, same logic that made Fri's Pull land clean at RPE 6.2. Seeds ≈70–75% of 5/19: A1) Back Squat 3×6–8 @ **27.5 kg** (was 37.5 — form rebuild, not a load test) · A2) RDL 3×8–10 @ **25 kg** (was 32.5 — biggest DOMS producer, eccentric hams off 62 days; leave reps in the tank, he runs tomorrow) · B1) Lying Leg Curl 2×10–12 @ **15 kg** (was 22.5 w/ S3 @ RPE 10; hams ran 8k yesterday) · C1) Standing Calf Raise 3×12–15 @ **20 kg** (was 30 and STALLED 15/15/13/12; calves now carry running load → 4→3 sets) · C2) **Tibialis Raise 3×15–20 BW — 🆕 BONE ARMOR, the actual point of this session** (anterior tib = direct tibial-stress-fx mitigation; the tibia gates the whole block; every legs day from here) · D1) Hanging Knee Raise 2×AMRAP BW.
+  **Leg Press dropped for W1** (squat already owns quads off a 62-day layoff) — returns W2. Staged → `logs/sessions/2026-07-20_legs.md`. **PM → pending post-session.**
+  **Tue 7/21 note:** 5k easy goes ahead regardless of DOMS — heavy legs ≠ bone risk at 5k Z2. Only a **pinpoint shin signal** cancels it.
