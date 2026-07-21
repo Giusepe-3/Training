@@ -846,3 +846,23 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   ⚠️ **Macros: kcal 4000 = +1300 over maintenance** (750 pre-WO + 1000 post = 1750 in two meals). Cut isn't started so no deficit is owed, but 4000 is a big surplus day — one-off is fine, a pattern is not. Protein **289 g** = way over, NOT flagged (protein-over never is). Steps 7487 (low NEAT, leg day). Creatine Y, 0 alcohol.
   **Next Legs bumps (Mon 7/27 W2, add Leg Press back):** Squat **HOLD 27.5** (8/6/6, S3 RPE8 — chase 3×8) · RDL **HOLD 25** (reps 10→8 @ RPE6, reps-before-load — chase 3×10) · Leg Curl **HOLD 15** (12/10, S2 RPE8) · Calf **HOLD 20** (12/12 then dropped to 10 — chase 3×15) · Tibialis **keep BW** (RPE9 expected on novel muscle — chase 3×20) · Knee Raise **HOLD BW** (10/7 @ RPE10). Full detail → `logs/sessions/2026-07-20_legs.md`.
   **Tue 7/21:** 5k easy goes ahead regardless of DOMS — heavy legs ≠ bone risk at 5k Z2. Only a **pinpoint shin signal** cancels it. Metronome 166.
+
+- **2026-07-21 (Tue)** — *Run — 5k easy Z2 (metronome 166, 6×2′ on/off).* **AM — ALL GREEN, shin gate PASSED, run ON.**
+  ```
+  Sleep h: 9:43
+  Sleep quality (1-10): 9
+  Bedtime: 11:52pm
+  Wake: 9:38am
+  BW AM (kg): 77.25
+  RHR (bpm): 46
+  RHR Δ vs 7d: +2
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 3
+  DOMS quad/ham/glute: 3/3/3
+  DOMS calf: 2
+  DOMS back/shldr/arm: 1
+  Joint/tendon flags: no pain anywhere, shin CLEAN
+  ```
+  **AM read — GREEN, shin CLEAN 2nd straight morning after impact/load = the headline.** No pinpoint the morning after first loaded squats in 62d → chassis holding, 5k ON. **DOMS 3/3/3 quad/ham/glute = EXPECTED** (first lower in 62d, peak DOMS 24–48h, dead on schedule); heavy legs ≠ bone risk at 5k Z2 → expect slow legs, cadence is the point, not pace. **Sleep = the win: bed 11:52 vs 4:00 Mon → q7→q9, 9h43 — 4h-earlier bedtime, quality jumped; circadian lever cashed 2 of last 3 nights.** BW 77.25 flat vs yest (trend 77.6→78.2 spike→77.25→77.25 = healthy, cut correctly not started). RHR 46 (Δ+2), top of band 41–46 = non-event, legs DOMS nudges it. Mot/energy 10, stress 3.
+  **Prescription: 5k easy Z2 · HR ≤150 cap · metronome 166 (6×2′ ON/OFF cadence drill).** Cadence is the objective not pace (7/19 hit 166 @ HR145 — build the habit, metronome on whole run). Pinpoint shin at any point → walk then stop; quad/ham DOMS ache = run through. Post: 30–40 g protein within 2h; **protein floor 156 g (2.0 g/kg @ 78) — 3rd straight day under is the one open flag, hit 160+.** Staged → `logs/sessions/2026-07-21_run.md`. **Results tonight.**
