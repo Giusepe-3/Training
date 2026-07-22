@@ -875,3 +875,23 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   - **User: "ready to build some good pace from here" — right instinct, wrong week.** W1–4 is bone-gated all-easy base; the job is volume consistency + cadence habit + tibia tolerance. Pace work opens **W5 threshold**. Any extraction/ratchet case gets made in Sunday's Performance Extraction Audit, not mid-week off a 5k.
   Full detail → `logs/sessions/2026-07-21_run.md`.
   **Wed 7/22:** 6k easy Z2, metronome 166, HR ≤150. DOMS should be receding (48h post-legs); if quad/ham still 3, hold pace and let cadence carry it.
+
+- **2026-07-22 (Wed)** — *Run — 6k easy Z2 (metronome 166 continuous). 48h post first lower in 62 days.* **AM — ALL GREEN, shin gate PASSED (4th straight clean check), 6k ON.**
+  ```
+  Sleep h: 8
+  Sleep quality (1-10): 7
+  Bedtime: 11:30pm
+  Wake: 7:30am
+  BW AM (kg): 77.25
+  RHR (bpm): 44
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest/back/shldr/arm: 0
+  DOMS quad/ham: 1
+  DOMS glute/calf: 2
+  Joint/tendon flags: No pain
+  ```
+  **AM read — ALL GREEN. Shin clean check #4 in a row** (7/20 AM · 7/21 AM · 7/21 during+after · today). Bone has absorbed loaded squats off a 62-day layoff **plus 13 km of running inside 4 days**, zero signal. Chassis holding under stacked load — the block's standing constraint is quiet. **DOMS 3/3/3 → 1/1/2 at 48h = textbook recession**; glute 2 / calf 2 lag as expected (calf carries running load *and* calf raises). **Legs effectively fresh — yesterday's DOMS tax gone.** RHR **44 (Δ−1)**, down from 46, leg-day bump cleared, mid-band 41–46 = non-event. **BW 77.25 = 3rd straight identical reading** (77.6 → 78.2 spike → 77.25 ×3) — flat at maintenance, correct, cut still NOT started (opens W3 on 2 clean wks + quiet shin). **Sleep bed 11:30pm = 2nd straight pre-midnight, 3 of last 4** — circadian lever holding after Mon's 4:00am outlier; q7 vs Tue's q9 tracks duration (8h vs 9h43), not disruption, not a flag.
+  **Prescription: 6k easy Z2 · HR ≤150 cap · metronome 166 CONTINUOUS.** 0.5k WU → 5.0k Z2 → 0.5k CD. Metronome runs the whole session today, not 2′ intervals — Tue's 6×2′ drill did its job (166 @ HR147), the progression is holding it unbroken. **Fresh legs make today the continuous-running test: target 0–1 walk breaks** (Tue's 2 on 5k were DOMS-driven; 2+ today converts the watch item to a real flag). Pace is an output not a target — HR cap + cadence govern; expect quicker than 6:46 without reaching for it. Pinpoint shin → walk then stop, only true cancel. Post: 30–40 g protein within 2h, floor **155 g** (2.0 g/kg @ 77.25). Staged → `logs/sessions/2026-07-22_run.md`.
