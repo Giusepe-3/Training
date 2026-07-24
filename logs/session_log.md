@@ -914,3 +914,23 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   - **Protein 213 g = 3rd straight day clearing floor** (154 = 2.0 g/kg @ 76.9). The muscle-retention lever is maxed; the early-week under-floor streak is fully behind us. Kcal 2800 maintenance (+100, lift day, fine), creatine Y, 0 alc, steps 6553 (gym day).
   - Duration 115 min = long vs 6/17's 90 for +2 sets (120s rests). Maintenance, no cost.
   **Next Push bumps (Push W2, Thu 7/30):** Chest Press **HOLD 7.5** (chase 15×4) · DB Shoulder Press **→ 5/DB** (gate met at 4, build slow past shoulder) · Incline DB Press **→ 5/DB** (gate met at 4) · Pec Deck **HOLD 2.5** (rebuild 12+ all) · Triceps Pushdown **HOLD 12.5** (clean all ≤7 → 15) · DB Lat Raise **HOLD 2/DB** (chase 15×3) · Lat Pulldown maint **HOLD 30**. Full detail → `logs/sessions/2026-07-23_push.md`.
+
+- **2026-07-24 (Fri)** — *REST (W1 template — full).* **AM — GREEN.**
+  ```
+  Sleep h: 9
+  Sleep quality (1-10): 8
+  Bedtime: 1:30am
+  Wake: 10:30am
+  BW AM (kg): 77.20
+  RHR (bpm): 47
+  RHR Δ vs 7d: +2
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 2
+  DOMS chest/shldr/tri: 3
+  DOMS legs residual: 1
+  Joint/tendon flags: all good, shin CLEAN
+  ```
+  **AM read — GREEN, rest day lands exactly where the DOMS is.** Push DOMS 3 = expected peak 24h post first press in 36 days (mirrors Mon Legs 3/3/3 → gone by 48h); zero training load today, chest/shldr/tri irrelevant to tomorrow's run. Legs residual 1 = Sat 5k on effectively fresh legs. **Shin clean = check #6.** RHR 47 (Δ+2) = post-Push bump, same pattern as post-Legs 46; 1 over the 41–46 band on a rest day = non-event, recheck Sat AM. BW 77.20 — settled at real ~77 on maintenance (77.25×3 → 76.90 → 77.20), cut correctly not started. **Watch, not flag: bedtime 1:30am** — first post-midnight after 3 of 4 pre-midnight; q8/9h says no damage, but Sat run + Sun 10k long want the pre-midnight habit back tonight.
+  **Today: full rest.** No session. Protein floor **154 g** (2.0 g/kg @ 77.2), kcal maintenance ~2700, carbs rest-day 155–230 g, creatine 5 g. Steps easy — recovery, not another training day. Staged → `logs/sessions/2026-07-24_daily.md`.
+  **Sat 7/25:** Run — 5k easy Z2, HR ≤150 cap, metronome 166 continuous (3rd continuous run, chase the 166→166→168 streak). W1 closes Sun with the 10k long.
