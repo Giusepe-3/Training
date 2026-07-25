@@ -935,3 +935,22 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   **Today: full rest.** No session. Protein floor **154 g** (2.0 g/kg @ 77.2), kcal maintenance ~2700, carbs rest-day 155–230 g, creatine 5 g. Steps easy — recovery, not another training day. Staged → `logs/sessions/2026-07-24_daily.md`.
   **✅ REST DONE. PM: kcal 2594 (−106, maintenance) · protein 181 (4th straight over floor: 168→182→213→181) · creatine Y · 0 alc · steps 4701 (genuine rest, correct on a recovery day).** "Chill rest day a lot of rest" — exactly the prescription. Fueling week is fully clean; the early-week protein streak is dead and buried. Full detail → `logs/sessions/2026-07-24_daily.md`.
   **Sat 7/25:** Run — 5k easy Z2, HR ≤150 cap, metronome 166 continuous (3rd continuous run, chase the 166→166→168 streak). W1 closes Sun with the 10k long.
+
+- **2026-07-25 (Sat)** — *Run — 5k easy Z2 (metronome 166 continuous, 2nd continuous run). 48h post Push.* **AM — GREEN, 5k ON.**
+  ```
+  Sleep h: 7:32
+  Sleep quality (1-10): 6.5
+  Bedtime: 12:39am
+  Wake: 8:20am
+  BW AM (kg): 77.85
+  RHR (bpm): 43
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 8
+  Stress (1-10): 2
+  DOMS chest/shldr/tri: 1
+  DOMS legs: 0
+  Joint/tendon flags: No pain
+  ```
+  **AM read — GREEN.** **Shin clean = check #7.** RHR **43 (Δ−1)** — post-Push 47 cleared in one rest day, mid-band, same pattern as post-Legs. **Push DOMS 3→1 at 48h** = textbook; **legs 0 = fully fresh run legs.** BW **77.85 (+0.65)** = single-day spike, ignore per rule (7-day ~77.4, flat at maintenance; late eating window, bed 12:39). **Watch, not flag: 2nd straight post-midnight bedtime + week-low sleep 7:32 q6.5** — energy 8 tracks it; fine for easy 5k, but **Sun 10k wants pre-midnight TONIGHT.**
+  **Prescription: 5k easy Z2 · HR ≤150 cap · metronome 166 CONTINUOUS.** 0.5k WU → 4.0k Z2 → 0.5k CD. 2nd continuous run, target 0 walk breaks, chase the 166→166→168 streak. Pace = output (Wed: 6:44 @ 144). Pinpoint shin → walk then stop. Post: 30–40 g protein ≤2h; floor **156 g** (2.0 g/kg @ 77.85), kcal maintenance ~2700. Staged → `logs/sessions/2026-07-25_run.md`.
