@@ -954,3 +954,11 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   ```
   **AM read — GREEN.** **Shin clean = check #7.** RHR **43 (Δ−1)** — post-Push 47 cleared in one rest day, mid-band, same pattern as post-Legs. **Push DOMS 3→1 at 48h** = textbook; **legs 0 = fully fresh run legs.** BW **77.85 (+0.65)** = single-day spike, ignore per rule (7-day ~77.4, flat at maintenance; late eating window, bed 12:39). **Watch, not flag: 2nd straight post-midnight bedtime + week-low sleep 7:32 q6.5** — energy 8 tracks it; fine for easy 5k, but **Sun 10k wants pre-midnight TONIGHT.**
   **Prescription: 5k easy Z2 · HR ≤150 cap · metronome 166 CONTINUOUS.** 0.5k WU → 4.0k Z2 → 0.5k CD. 2nd continuous run, target 0 walk breaks, chase the 166→166→168 streak. Pace = output (Wed: 6:44 @ 144). Pinpoint shin → walk then stop. Post: 30–40 g protein ≤2h; floor **156 g** (2.0 g/kg @ 77.85), kcal maintenance ~2700. Staged → `logs/sessions/2026-07-25_run.md`.
+  **✅ DONE. 5.00 km · 34:16 · 6:51/km · avg HR 148 (max 158) · 96% Z2 · cadence 167 · RPE 7 · 0 walk breaks · sunny · shin clean during+after.**
+  - **Cadence 167 — 4th straight easy run ≥165** (166→166→168→167), held on a bad-feeling day = habit deepening. ~4 of ~6 toward the habit call.
+  - **0 walk breaks — 2nd continuous run**, confirmed on a low day not just fresh legs.
+  - **Shin clean = check #8.** W1 bone gate passed every check: 21 km + 2 lifts, zero signal.
+  - ⚠️ **Watch, not flag: felt bad.** 6:51 @ 148 · RPE 7 · "general discomfort, nothing specific" vs Wed 6:44 @ 144 RPE 6. Lead read = **sleep tax** (week-low 7:32 q6.5, 2nd straight post-midnight bed; AM energy 8 called it), plus normal W1 cumulative load (5th session in 6 days). Still −31 s/km under the 6/18 baseline at lower HR — wobble, not regression. **Flag only if Sun 10k repeats it on adequate sleep.**
+  - **Fueling: 5th straight day over floor — protein 179** (168→182→213→181→179). Kcal 2527 ≈ maintenance, creatine Y, 0 alc, steps 19433. Full green fueling week.
+  Full detail → `logs/sessions/2026-07-25_run.md`.
+  **Sun 7/26:** Run — 10k long, W1 closer. Then Sunday review: **Performance Extraction Audit FIRST** (mandatory), weekly.md, xlsx weekly tabs. Bad-feel repeat test rides on this run.
