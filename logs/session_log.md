@@ -962,3 +962,147 @@ Lifting = RPE 7–8, not to failure (protect run legs). Right-shoulder flag (202
   - **Fueling: 5th straight day over floor — protein 179** (168→182→213→181→179). Kcal 2527 ≈ maintenance, creatine Y, 0 alc, steps 19433. Full green fueling week.
   Full detail → `logs/sessions/2026-07-25_run.md`.
   **Sun 7/26:** Run — 10k long, W1 closer. Then Sunday review: **Performance Extraction Audit FIRST** (mandatory), weekly.md, xlsx weekly tabs. Bad-feel repeat test rides on this run.
+
+- **2026-07-26 (Sun) — ❌ SKIPPED. Planned LONG 10k → REST (unplanned).** User took the day off: *"my legs dont feel that good."* No AM/PM data captured for this day (backfilled 2026-07-27 from user report).
+  **Read — FATIGUE, NOT BONE. This is the correct call, and the plan was at fault, not the user.**
+  - **Shin was clean 8 consecutive checks** through W1 (7/20 AM · 7/21 AM · 7/21 during+after · 7/22 AM · 7/22 during · 7/23 AM · 7/24 AM · 7/25 AM+during+after) under squats off a 62-day layoff plus 16 km of running. **The bone gate never tripped.** Whatever this was, it was not the tibia.
+  - **It was cumulative soft-tissue + systemic load, and it was predictable in hindsight:** W1 stacked **6 sessions in 6 days with exactly ONE genuine rest day** (Fri, 4 701 steps) — and then asked for a 10 k long run *the day after* a 5 k, off a 19 433-step shift. Sat 7/25 already reported it: RPE 7 on a 5 k, "general discomfort, nothing specific." The Sat-run→Sun-long back-to-back is the structural flaw; see below.
+  - **The missing variable, disclosed by the user 2026-07-27: he works as a WAITER.** 12 000+ steps on a rest day, 17–30 k on a shift day. W1 measured **78.5 k steps / 6 days ≈ ~44 km walked vs 16 km run** — the job is ~2.75× the running distance and never appeared anywhere in the plan. Full analysis → `docs/running.md` § JOB LOAD.
+  - **Consequence: W1 closes at 16 km of 26 planned (62%), 3 runs of 4, zero long runs.** Longest run of Block 2 remains the 8.01 k on 7/19.
+  - **No Sunday review ran** (user was resting) → **W1 review + Performance Extraction Audit backfilled below**, dated 2026-07-27.
+
+- **2026-07-27 (Mon) — REST (2nd consecutive, unplanned → now the template's rest day).** User: *"I took yesterday and today as rest because my legs dont feel that good."* Planned session under the OLD template was Gym Legs (W2). **Under the revised template (below) Monday IS the full rest day — so today is compliant, not a miss.**
+  **Two rest days back-to-back with a clean shin = exactly the right response** per the new trigger: *"legs don't feel good 2 days running WITH shin clean = fatigue, not bone → take the rest, then resume at the SAME week's volume (repeat, don't compress)."* No km clawed back. No injury escalation.
+  **Legs session is NOT lost — it moves to Tue 7/28 PM** (stacked after the easy run) under the new template.
+  **AM — GREEN, fatigue CLEARED in two days, Tue 5k + Legs ON.**
+  ```
+  Sleep h: 10
+  Sleep quality (1-10): 10
+  Bedtime: 2:00am
+  Wake: 12:00pm
+  BW AM (kg): 77.05
+  RHR (bpm): 43
+  RHR Δ vs 7d: -1
+  Motivation (1-10): 10
+  Energy (1-10): 10
+  Stress (1-10): 3
+  DOMS chest/arm/glute: 0
+  DOMS back/shldr/quad/ham: 1
+  DOMS calf: 2
+  Joint/tendon flags: No pain.
+  ```
+  **AM read — GREEN. Shin NO PAIN = check #9; the bone was never involved in this episode at any point — diagnosis confirmed in full.** ⭐ **The headline: every leg tissue cleared on two days off EXCEPT the calf, which held at 2** (quad 1 / ham 1 / glute 0 / **calf 2**). **Calf is the waiter job's signature tissue** — soleus/gastroc are loaded every hour of every shift and were *also* taking 3 sets of loaded raises. Cleanest possible validation of dropping Standing Calf Raise; it stays out W2–W4. **RHR 43 (Δ−1)** = below the W1 avg 44.8, mid-band 41–46, systemic fatigue gone. **BW 77.05 = block low**, Sat's 77.85 spike fully resolved, **7-day avg 77.25 = dead flat at maintenance** across 8 days — correct, cut opens Aug 10, not a flag either way. Sleep **10 h q10** = best of the block (ties 7/23), energy/mot 10/10, stress 3. Back/shldr 1 = 5-day Push residue, irrelevant to running.
+  ⚠️ **Circadian, and it now has teeth: bed 2:00am → wake 12:00pm.** Duration + quality excellent so **not a recovery flag** — but it collides head-on with the new **"run before the shift"** rule (waking at noon rules out pre-shift running for any shift starting before ~2pm), and that rule exists precisely because 7/25 — running on legs that had already stood a 19 433-step shift — is what triggered this whole episode. **Sun 8/2's 10 k long wants a morning too.** Highest-value cheap lever in the block: the best run of it (7/19, 6:31 @ HR 145) followed a 21:45 bedtime.
+  Full detail → `logs/sessions/2026-07-27_daily.md`.
+  **Tue 7/28:** Run 5k easy Z2 (HR ≤150, metronome 166 continuous) **+ Gym Legs light PM**. Gate cleared — legs are recovered, no slide to Wed needed. Calf Raise OUT, Tibialis Raise mandatory, all other 7/20 loads HOLD.
+
+---
+
+## Week 1 Review (2026-07-20 → 2026-07-26) — backfilled 2026-07-27
+
+### ⚡ PERFORMANCE EXTRACTION AUDIT
+
+| # | Question | Fired? | Evidence / action |
+|---|----------|--------|-------------------|
+| 1 | Easy runs easier than modeled? | **✅ YES** | Model: 6:50–7:30 @ HR ≤150. Actual: **6:46 @ 147 · 6:44 @ 144 · 6:51 @ 148** — all at or under the *fast* edge of the band, all under the HR cap, RPE 5/6/7. **Ratchet: new pace-at-HR baseline = ~6:45/km @ HR 145.** Hold the HR caps (bone-gated); expect and allow the faster pace. Caveat: Sat's 6:51 @ 148 RPE 7 is the fatigue signal, not a fitness signal. |
+| 2 | Lifts under RPE at held loads? | ❌ no | Legs avg RPE **7.7** (Squat S3 8, Tibialis 9, Knee Raise 10); Push avg **7.2** with loads landing *under* seed across the board. Opposite of the trigger — detrained off 62/36-day layoffs, holding is correct. Queued bumps stand where the gate was actually met. |
+| 3 | Checkpoint read for upside? | ⏸️ n/a | No checkpoint in W1. The 7/19 8 k benchmark (W0) beat its gate by **74 s/km** and was already cashed as "no W1 downgrade." Next read: **W4 Thu Aug 13, 8 k benchmark repeat.** |
+| 4 | True ceiling probed? | ❌ no — **but it WAS found** | Every run sat inside the HR cap by design (W1–4 = bone-gated all-easy; correct). **However the week ended in a forced double rest — so a ceiling was contacted, just the wrong one: RECOVERY capacity, not aerobic capacity.** That is the week's real finding. |
+| 5 | Does the goal still fit the engine? | ❌ no | Needs ≥2 of Q1–Q4 firing this week **and** last. Only Q1 fired, and the week under-delivered 62% of planned km. **Sub-2:50 stands. Sub-2:45 does NOT go on the table.** |
+
+**Verdict: ⬆️🔻 SPLIT — engine AHEAD of the model, schedule AHEAD of the chassis.**
+Aerobically he is faster than the plan assumed (Q1), for the third data point running (7/19, 7/21–22). But the plan asked for a load pattern his job cannot absorb, and the week collapsed at the most valuable session. **The extraction lever this week is therefore NOT more running — it is restructuring so the prescribed volume actually lands.** Per the audit guardrail: consistency wins the tie. A completed 26 km week beats a prescribed 30 km week that delivers 16.
+
+**Single unused gear this week: THE LONG RUN.** Block 2 is 1 week old and has executed **zero** long runs — longest is still 8.01 k (7/19). The highest-value session in the entire plan has been skipped once and never yet performed. Everything in the revision below exists to protect it.
+
+### Compliance scoreboard
+
+| Item | Target | Actual | ✅/❌ |
+|------|--------|--------|--------|
+| Lifting sessions | 2 | **2** (Legs 7/20, Push 7/23) | ✅ |
+| Run sessions | 4 | **3** (5k, 6k, 5k) | ❌ |
+| Weekly km | 26 | **16.00** (62%) | ❌ |
+| Long run | 10 k | **skipped** | ❌ |
+| Avg sleep h | ≥7 | **9.10** | ✅ |
+| Nights ≥7 h | 5/7 | **6/6 logged** | ✅ |
+| Days protein ≥2.0 g/kg | 7/7 | **6/6 logged** (289·168·182·213·181·179, avg **202 g** = 2.6 g/kg) | ✅ |
+| Days kcal in band | 6/7 | 3/6 strict; **avg 2910, ex-Mon 2692 ≈ maintenance** (Mon 4000 = one-off) | ⚠️ |
+| Creatine 5 g daily | 7/7 | **6/6 logged** | ✅ |
+| Alcohol units | ≤2 | **0** | ✅ |
+| **Shin clean checks** | every check | **8/8** | ✅ |
+
+### Running
+
+| Metric | Value |
+|--------|-------|
+| Total km | **16.00** (of 26 planned) |
+| Total time | 108:36 |
+| Avg easy pace | **6:47/km** |
+| Avg HR easy | **146** (cap 150, never breached) |
+| Avg cadence | **167** (166 · 168 · 167) |
+| Walk breaks | 2 · 0 · 0 |
+| vs 6/18 baseline (7:22 @ HR 150) | **−35 s/km at −4 bpm** |
+
+### Lifting volume (2×/wk maintenance — under hypertrophy targets BY DESIGN)
+
+37 working sets · 388 reps · 3 805.5 kg. Quads 3 · Hams 5 · Glutes 6 (indirect) · Calves 3 · Chest 10 · Shldr side 6 · Tris 3 · Back 2 (maint) · Bis 0. **Do not "fix" these numbers — running owns the recovery budget this block.** e1RM trend: **N/A** — Legs was first in 62 days, Push first in 36; no prior-week baseline exists. First real e1RM comparison lands W3.
+
+### Body trend
+
+| Metric | Value |
+|--------|-------|
+| BW 7-day avg AM | **77.28 kg** (77.25 · 77.25 · 77.25 · 76.90 · 77.20 · 77.85) |
+| vs 7/17 (77.6) / 7/19 (78.2) | drifting down on maintenance — correct, cut not started |
+| Avg RHR AM | **44.8** (44·46·44·45·47·43) — never outside band 41–46 except the post-Push 47, cleared in one day |
+| Avg sleep / quality | 9.10 h / 7.9 |
+
+### Red flags this week
+
+- ❌ **Long run skipped; 62% of planned km.** The one real flag. Cause identified (structure + job load), fixed below.
+- ❌ **Bedtime drift: post-midnight 3 nights running** (Thu?/Fri 1:30 / Sat 12:39) after 2 pre-midnight nights mid-week. Sleep *duration* held (9.1 h avg) so no damage yet — but 7/19's 21:45 bedtime preceded the best run of the block. Circadian is still the free lever.
+- ⚠️ Mon kcal 4000 (+1300) — one-off, on a lift day, not a pattern.
+- ✅ **Not flags:** shin (8/8 clean) · RHR (in band all week) · protein (6/6 over floor) · cadence (167 avg, 4 straight ≥165) · alcohol 0.
+
+### Decisions for next week (all applied 2026-07-27)
+
+1. **Week template restructured** → 4 run / 2 lift / **2 rest**. Mon REST · Tue run + Legs PM · Wed run · Thu run · Fri Upper · **Sat REST** · Sun LONG. Kills the Sat-run→Sun-long pair; long run now always off a rest day; max 3 consecutive loaded days (was 4). Same km, same session count. → `CLAUDE.md` + `docs/running.md`.
+2. **W2 repeats W1's dose: 26 km, long 10 k** — NOT the scheduled 30/12. Stepping to 30 off a 16 km week is +63%. Plan rule: repeat, don't compress.
+3. **W1 shortfall absorbed by a gentler mid-block ramp, not a calendar shift** (W3 long 12 · W5 14 · W6 16, easy days trimmed to hold ACWR ≤1.31). **All checkpoints stay on their original dates.**
+4. **Steps promoted to Tier 1 LOAD.** Log steps + shift hours every PM. New gates: >22 k steps → next run easy+short · two consecutive 25 k+ days → drop the week's shortest run, keep the long.
+5. **Run BEFORE the shift wherever possible.** 7/25 is what running after 8 h standing looks like.
+6. **Standing Calf Raise dropped W2–W4** (redundant with ~44 km/wk walked; it had stalled at 20 kg anyway). **Tibialis Raise stays every Legs day** — walking does not train anterior tib and it is the bone armor.
+7. **Cut moved: starts W4 (Mon Aug 10, the down week), −300/d not −400, calorie-cycled** (maintenance on >18 k-step shifts, deficit on low-step days). Maintenance ~2700 confirmed **empirical** — BW held 77.2–77.9 on 2 500–2 900 kcal *with* the job steps.
+8. **Recovery hygiene added:** 2 cushioned work-shoe pairs rotated daily, compression socks on shift, legs elevated 10 min post-shift.
+9. **Pre-midnight bedtime — the week's cheapest win.** Sun 8/2's long run wants it Sat night.
+10. ⏳ **Open, needs the user:** shift pattern (which days, how many hours). Rest days default Mon/Sat; **pinning them to his two longest shifts is strictly better** and is the last piece of this restructure.
+
+### Narrative
+
+W1's engine was excellent and W1's calendar was wrong. Three runs at 6:44–6:51 @ HR 144–148 with cadence 167 and eight clean shin checks say the aerobic system and the tibia are both ahead of where the plan assumed they'd be. What broke was recovery: one true rest day in seven, a long run scheduled the morning after an easy run, and ~44 km/wk of unmodeled walking from a job nobody had told the plan about. The fix is not smaller doses — it's better spacing. **Biggest lever for W2: execute the Sunday long run. It's the only session in this block that hasn't happened yet.**
+
+---
+
+### Week 2 — Jul 27–Aug 2 · 26 km · long 10k · maintenance ~2700 (no cut yet)
+
+**REVISED TEMPLATE, FIRST WEEK. W2 repeats W1's dose (26 km / long 10 k), not the original 30/12** — W1 delivered 16 km, so stepping up would be +63%. Repeat, don't compress.
+
+**Shift pattern supplied 2026-07-27 → template re-fitted to it.** Mon 17:30–23:00 (5.5 h) · Tue 11:00–17:00 (6 h) · **Wed 13:00–22:00 (9 h ← longest)** · Thu 17:30–23:00 (5.5 h) · **Fri/Sat/Sun OFF.**
+
+| Day | Shift | Session | Timing |
+|-----|-------|---------|--------|
+| Mon 7/27 | 17:30–23:00 | **REST — full** ✅ (taken) | — |
+| Tue 7/28 | 11:00–17:00 | Run — 5k easy Z2 (metronome 166) **+ Gym Legs light** | **post-shift: run ~18:00, Legs ~19:00** |
+| Wed 7/29 | **13:00–22:00 (9 h)** | **REST — full** | — |
+| Thu 7/30 | 17:30–23:00 | Run — 5k easy Z2 (shortest run) | **pre-shift ~13:00** |
+| Fri 7/31 | **OFF** | Run — 6k easy Z2 **+ Gym Upper (Push)** | free day — run first, Push after. 7/23 bumps apply |
+| Sat 8/1 | **OFF** | **REST — full** (long-run primer) | **pre-midnight bedtime — the one night it's actually free** |
+| Sun 8/2 | **OFF** | Run — **LONG 10k** ← the week's whole point | free morning |
+
+= 26 km (5 + 5 + 6 + 10). **3 rest days, 2 of them on work days (Mon eve, Wed 9 h). Max 2 consecutive loaded days (Thu, Fri).**
+
+- **Tue gate:** ✅ **cleared** — 7/27 AM came back green (RHR 43, legs ≤1 except calf 2, shin clean #9). Run + Legs both go ahead. Only a pinpoint shin signal cancels.
+- **Tue is the deliberate "run after standing" exception** — the 11:00–17:00 shift leaves no usable pre-shift window and a wide-open evening. Which is exactly why **Tue is always the easy run and never a quality session.**
+- **Legs Tue, revised:** Standing Calf Raise **OUT** (7/27 AM confirmed it: every leg tissue cleared to ≤1 after two rest days *except calf at 2*). Tibialis Raise **IN, mandatory**. Otherwise 7/20's queued bumps apply — all HOLDs: Squat 27.5 (chase 3×8) · RDL 25 (chase 3×10) · Leg Curl 15 · Tibialis BW (chase 3×20) · Knee Raise BW. Leg Press stays out one more week.
+- **Thu is permanently the week's shortest run** — it follows Wednesday's 9 h shift, which is the predictable >22 k-step day. Run it pre-shift (~13:00), easy, short.
+- **Fri = the free day and the future quality slot** (from W5). This week it's just 6 k easy + Push.
+- **Sun 10 k = first long run of Block 2 and first double-digit run since 6/22.** Fuel 30–40 g/h, sips minimum. Off a full rest day, off a work-free Saturday — nothing obstructs it. This is the session the entire restructure exists to protect.

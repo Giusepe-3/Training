@@ -6,19 +6,83 @@
 
 ---
 
-## Week template (4 run / 2 lift / 1 rest)
+## ⚠️ JOB LOAD — the waiter variable (added 2026-07-27, restructures the week)
 
-| Day | Session | Notes |
-|-----|---------|-------|
-| Mon | Gym — Legs + core (light) | first legs since 5/19 — seed VERY light W1–2, DOMS expected. + calf raises & tibialis raises (bone armor) |
-| Tue | Run — easy Z2 | cadence work every easy run |
-| Wed | Run — quality (from W5) | W1–4 easy only. Threshold W5–8 → race-pace W9–11 |
-| Thu | Gym — Upper (alt Push-/Pull-focus) | + 2 maintenance sets of opposite pattern's main lift. Keep LOAD, cut sets — intensity is what preserves strength |
-| Fri | REST | full |
-| Sat | Run — easy Z2 | checkpoint slot W4/W8 (fresh off Fri rest) |
-| Sun | Run — LONG | the driver. Race is a Sunday — habituate |
+**User works as a waiter. 12,000+ steps on a rest day; 17–30 k on a shift day.** This was unmodeled when the plan was built and it is the single largest leg-load input in the week.
 
-Lift loads seeded daily per CLAUDE.md workflow (slow-steady gate, locked subs). Legs never <24 h before Wed quality or Sun long — Mon/Thu slots satisfy this.
+W1 measured (Jul 20–25, steps logged daily): 7 487 · 23 350 · 16 944 · 6 553 · 4 701 · 19 433 = **78.5 k steps / 6 days**.
+
+| Source | Distance | Foot strikes |
+|--------|----------|--------------|
+| Running (W1 actual, 3 runs) | 16 km | ~18 k |
+| **Walking (job)** | **~44 km** | **~60 k** |
+
+**The job is ~2.75× the running distance and ~3.3× the foot strikes.** Plan modeled 26 km/wk of running; real leg load ≈ 60–70 km/wk.
+
+**What this changes — and what it does NOT:**
+- **Bone: broadly fine, arguably protective.** Walking is ~1.2× BW per step vs ~2.5–3× running, and it is *habitual and constant* — bone adapts to habitual loading. Shin has passed 8 consecutive clean checks under W1's stacked load. The job is not why the shin would break.
+- **Soft tissue + systemic recovery: this is where it bites.** Calves/soleus, Achilles, feet, quads never unload; a "rest day" is still ~9 km on hard floors in work shoes. 8 h standing = zero recovery hours.
+- **ACWR is *less* twitchy than the running number suggests** — chronic load is high and near-constant, so a running-km spike is a smaller fraction of true total load. Do not use this as licence to exceed the table.
+
+**Diagnosis of the Jul 26–27 double rest ("legs don't feel good"):** accumulated soft-tissue + systemic fatigue, **not bone**. W1 ran 6 sessions in 6 days with exactly one genuine rest day (Fri, 4 701 steps) on top of ~44 km walked. Sat 7/25 came in at RPE 7 for a 5 k after a 19 433-step shift → Sun long skipped → Mon skipped. Structural, predictable, fixed below.
+
+**Job-load rules (now standing):**
+- **Steps are a Tier-1 LOAD variable, not a NEAT/kcal footnote.** Log steps + shift hours every PM.
+- **Never run *after* standing a shift, except Tuesday** — running on legs that already stood 8 h is what 7/25 was. The template now handles this: Thu runs pre-shift, Fri/Sun are work-free, Mon/Wed/Sat are rest. **Tuesday is the deliberate exception** (11:00–17:00 shift leaves no usable pre-shift window and a wide open evening) — and Tuesday is therefore the week's *easy* run, never a quality session.
+- Day >22 k steps → next day's run capped **easy and short**, no exceptions. **Wed's 9 h shift is the predictable trigger → Thursday is permanently the week's shortest run.**
+- Two consecutive 25 k+ step days → **drop the week's shortest run** (Thu), keep the long.
+- Two cushioned work-shoe pairs, rotate daily, replace on feel not mileage. Compression socks on shift. Legs elevated 10 min post-shift.
+- Calf/soleus direct work is **redundant** with this job — see Legs-day note below.
+
+---
+
+## Shift schedule (supplied 2026-07-27) — the template is now built around it
+
+| Day | Shift | Hours | Training window |
+|-----|-------|-------|-----------------|
+| Mon | 17:30–23:00 | 5.5 | large PRE-shift (wake → 17:30); nothing after |
+| Tue | 11:00–17:00 | 6.0 | **POST-shift evening free from 17:00** |
+| Wed | **13:00–22:00** | **9.0 ← longest** | morning only; nothing after 22:00 |
+| Thu | 17:30–23:00 | 5.5 | large PRE-shift (wake → 17:30); nothing after |
+| **Fri** | — | **OFF** | **fully free** |
+| **Sat** | — | **OFF** | **fully free** |
+| **Sun** | — | **OFF** | **fully free** |
+
+**26 shift-hours/wk, all Mon–Thu. Fri/Sat/Sun are completely free.** Three consequences that drive everything below:
+1. **Wed is the single worst training day** — 9 h standing, ending 22:00, morning-only window. It becomes a full rest day.
+2. **Mon and Thu have large pre-shift windows** but training there means standing 5.5 h afterwards. Fine for an easy run, **bad for a Legs session** → Legs never goes on a pre-shift day.
+3. **Sunday is unobstructed** — no shift Sat, no shift Sun. The long run gets a free morning off a rest day off a work-free Saturday. This is the best-protected session in the week and it should never be missed again.
+
+---
+
+## Week template (4 run / 2 lift / 3 rest) — REVISED 2026-07-27, shift-fitted
+
+| Day | Shift | Session | Timing |
+|-----|-------|---------|--------|
+| Mon | 5.5 h eve | **REST — full** | post-long recovery, on a work day |
+| Tue | 6 h midday | Run easy Z2 **+ Gym Legs (light)** | **POST-shift, ~18:00** — never before |
+| Wed | **9 h ← longest** | **REST — full** | the biggest step day of the week |
+| Thu | 5.5 h eve | Run easy Z2 — **shortest run of the week** | **pre-shift, ~13:00.** Follows Wed's big step day → easy + short by rule |
+| Fri | **OFF** | Run — **quality from W5** (easy W1–4) **+ Gym Upper** | free day, best-recovered. Checkpoint slot W4/W8 |
+| Sat | **OFF** | **REST — full** | long-run primer |
+| Sun | **OFF** | Run — **LONG** | free morning. Race is a Sunday — habituate |
+
+**Why the old template broke him:** Mon Legs opened a 4-day unbroken load block, and **Sat run + Sun long ran back-to-back** — the goal-critical session always landed on tired legs, on top of a 20 k-step job. Exactly the pair that failed Jul 25–26.
+
+**What this buys, at identical weekly km and identical session count:**
+- **3 full rest days (was 1)** — and **2 of them land on work days** (Mon, Wed), which is the whole point: a rest day that is also a 9 h shift is the only kind of rest day this job allows.
+- **Max 2 consecutive loaded days** (Thu, Fri). Was 4.
+- **Rest on Wed = rest on the 9 h shift**, the biggest step day of the week.
+- **Long run off a full rest day, which is itself off a work-free Saturday.** Nothing obstructs it.
+- **Legs never precedes a shift** — Tue Legs runs *after* the 17:00 finish, so the 8-h-standing tax is paid before the lift, not after.
+- **Quality lands Friday**, the free day, after the *shortest* shift, with Sat rest between it and the long. It deliberately does NOT land Thursday, which follows the 9 h Wednesday and would violate the >22 k-steps rule.
+- Hard-day-hard: Tue (run + Legs) and Fri (quality + Upper) are the two loaded days; everything else is easy or rest.
+
+**Circadian — read this honestly.** Mon, Wed and Thu finish at 22:00–23:00. **A 1–2am bedtime on those three nights is structural, not a discipline failure — stop treating it as one.** The lever is the other four nights, and especially **Saturday: no shift Saturday, no shift Sunday, and Saturday is a rest day — it is the one night per week with zero work pressure on bedtime, sitting directly before the most important session in the plan.** Target a pre-midnight Saturday and nothing else. (7/19, the best run of the block at 6:31 @ HR 145, followed a 21:45 bedtime.)
+
+- Lift loads seeded daily per CLAUDE.md workflow (slow-steady gate, locked subs).
+- **Legs Tue → 48 h to Thu's short easy run, 5 days to the Sun long.** Cleanest spacing available.
+- **Legs day, calf work: Standing Calf Raise DROPPED W2–W4** (reassess W5). 15+ km of loaded walking daily already works soleus/gastroc to failure — which is why it stalled at 20 kg (15/15/13/12 → 12/12/10). **Confirmed by the 7/27 AM check: after two full rest days every leg tissue cleared to ≤1 except calf, which held at 2.** **Tibialis Raise stays, non-negotiable** — anterior tib is bone armor and walking does not train it.
 
 ---
 
@@ -33,30 +97,37 @@ Lift loads seeded daily per CLAUDE.md workflow (slow-steady gate, locked subs). 
 
 Down weeks W4 + W8 (non-negotiable — tissue adapts there). ACWR meaningful from W5 (post-layoff restart breaks the math W1–4; bone gate + all-easy governs instead).
 
+> **W1 shortfall absorbed 2026-07-27, table re-cut.** W1 delivered **16 km of 26** (3 runs; Sun 10 k long skipped, Mon 7/27 rest taken). Plan rule is *repeat, don't compress* → **W2 repeats W1's 26 km / 10 k long** instead of stepping to 30/12. The lost week is absorbed by a gentler mid-block ramp (W3 long 12 not 13 · W5 14 not 15 · W6 16 not 17) with the easy days trimmed to hold ACWR at the ceiling, **not** by shifting the calendar — race date is fixed and the taper cannot be compressed. **Every checkpoint stays on its original date.**
+
 ---
 
 ## Week-by-week
 
 Paces: easy = by HR not pace (~6:50–7:30 expected) · threshold (T) = 5:25–5:40, RPE 6–7, "comfortably hard" · RP = 5:40 · strides = 4–6×20 s fast-relaxed, full recovery, inside an easy run.
 
-| Wk | Dates | Tue | Wed | Sat | **Sun LONG** | Wk km | Cut | Long fuel g/h |
-|----|-------|-----|-----|-----|--------------|-------|-----|---------------|
-| 1 | Jul 20–26 | 5 e | 6 e | 5 e | **10** | 26 | maint 2700 | sips |
-| 2 | Jul 27–Aug 2 | 6 e | 7 e | 5 e | **12** | 30 | maint | 30–40 |
-| 3 | Aug 3–9 | 6 e | 8 e + strides | 6 e | **13** | 33 | **CUT ON** (gates below) | 45 |
-| 4 | Aug 10–16 | 4 e | 5 e | **8k BENCHMARK** | **10** | 27 | cut | — |
-| 5 | Aug 17–23 | 6 e | **T 3×8′** (8k) | 6 e | **15** | 35 | cut | 50 |
-| 6 | Aug 24–30 | 6 e | **T 3×10′** (9k) | 6 e | **17** | 38 | cut | **60 — dual-source from here** |
-| 7 | Aug 31–Sep 6 | 7 e | **T 2×15′** (9k) | 7 e | **19** | 42 | cut | 65 |
-| 8 | Sep 7–13 | 5 e | 5 e | **TEST: 2k WU + 6k T + 2k CD** | **13** | 33 | cut ends Sun | 45 |
-| 9 | Sep 14–20 | 7 e | **RP 3×3k** (10k) | 7 e | **21** — last 3k @ RP | 45 | **maint → race** | 70 |
-| 10 | Sep 21–27 | 7 e | **RP 2×5k** (10k) | 6 e | **24 — FULL RACE REHEARSAL**, last 5k @ RP | 47 | maint | 75–80 |
-| 11 | Sep 28–Oct 4 | 6 e | **RP 2×3k** (8k) | 5 e | **16** — last 3k @ RP | 35 | maint | 60 |
-| 12 | Oct 5–11 | 6 e + strides | 5 e w/ 2k RP | 4 shakeout | **🏁 RACE 30K** | 15 + race | maint | race plan |
+**Run days are Tue / Thu / Fri / Sun.** Mon + Wed + Sat = full rest. Legs = Tue post-shift. Upper = Fri. Quality = Fri.
 
-- Long-run jumps all ≤~15% and ≤110%-of-30-day rule after W1 restart; peak long 24k ≈ 2:40–2:45 = at the evidence cap. Race +25% over longest = normal off a 2-wk taper.
-- ACWR (acute÷prior-4-wk avg): W5 1.21 · W6 1.22 · W7 1.26 · W9 1.22 · W10 1.19 — all inside 0.8–1.3. Never exceed the table to "make up" a missed week: **missed week = repeat it, don't compress. Race goal drops to floor before the ramp ever steepens.**
-- W1 calibrates off Sat 7/18 8k benchmark: shin clean + pace ≤~7:45 @ HR ≤150 → run as written. Any shin signal → W1 long drops to 8k, reassess.
+| Wk | Dates | Tue (+Legs) | Thu (short) | Fri (+Upper) | **Sun LONG** | Wk km | Cut | Long fuel g/h |
+|----|-------|-------------|-------------|--------------|--------------|-------|-----|---------------|
+| 1 | Jul 20–26 | 5 e ✅ | 6 e ✅ | — | ~~10~~ **skipped** | **16 actual** (of 26) | maint 2700 | sips |
+| 2 | Jul 27–Aug 2 | 5 e | 5 e | 6 e | **10** | 26 | maint | 30–40 |
+| 3 | Aug 3–9 | 6 e | 6 e | 7 e + strides | **12** | 31 | maint (cut moved) | 45 |
+| 4 | Aug 10–16 | 6 e | **REST** | **8k BENCHMARK** | **11** | 25 ↓ | **CUT ON −300** (gates below) | — |
+| 5 | Aug 17–23 | 5 e | 5 e | **T 3×8′** (8k) | **14** | 32 | cut | 50 |
+| 6 | Aug 24–30 | 6 e | 6 e | **T 3×10′** (9k) | **16** | 37 | cut | **60 — dual-source from here** |
+| 7 | Aug 31–Sep 6 | 7 e | 6 e | **T 2×15′** (9k) | **19** | 41 | cut | 65 |
+| 8 | Sep 7–13 | 5 e | **REST** | **TEST: 2k WU + 6k T + 2k CD** | **13** | 28 ↓ | cut ends Sun | 45 |
+| 9 | Sep 14–20 | 7 e | 6 e | **RP 3×3k** (10k) | **21** — last 3k @ RP | 44 | **maint → race** | 70 |
+| 10 | Sep 21–27 | 7 e | 6 e | **RP 2×5k** (10k) | **24 — FULL RACE REHEARSAL**, last 5k @ RP | 47 | maint | 75–80 |
+| 11 | Sep 28–Oct 4 | 6 e | 5 e | **RP 2×3k** (8k) | **16** — last 3k @ RP | 35 | maint | 60 |
+| 12 | Oct 5–11 | 6 e + strides, Upper **very light** | 5 e w/ 2k RP | 4 shakeout, **no lift** | **🏁 RACE 30K** | 15 + race | maint | race plan |
+
+- **Checkpoint weeks (W4, W8) rest Thursday and put the test on Friday** — the free day, off a rest day, off the 5.5 h Thursday shift. Best-recovered slot available all week, and the Sun long is preserved. (Original plan tested Saturday; Sat is a rest day now.)
+- **W12 race week:** no Legs at all. Upper very light Tue only. Fri 4 k shakeout, Sat full rest, Sun race.
+- Long-run progression: 10 · 12 · 11↓ · 14 · 16 · 19 · 13↓ · 21 · 24 · 16 · race. Biggest step is W5 14 vs prior max 12 = **+17%**. Peak long 24k ≈ 2:40–2:45 = at the evidence cap. Race +25% over longest = normal off a 2-wk taper.
+- **ACWR (acute ÷ prior-4-wk avg): W5 1.31 · W6 1.30 · W7 1.31 · W9 1.28 · W10 1.25 — all at or under the 1.3 ceiling.** W1's 16 km drags the chronic average, so **W5–W7 easy days were trimmed** (not the longs) to hold the ratio: the long run is the goal-critical dose, the easy filler is not. Two further mitigations, both real: (a) the W1–4 chronic average is corrupted by the layoff restart, which the plan already flagged as broken math; (b) **~44 km/wk of walking is a constant chronic load the running-only ACWR ignores entirely** — true total-load spikes are smaller than these numbers. Still: **W5–W7 is the watch window, and the down weeks (W4, W8) are untouchable.**
+- Never exceed the table to "make up" a missed week: **missed week = repeat it, don't compress. Race goal drops to floor before the ramp ever steepens.**
+- **W1 gate result:** 7/19 8k benchmark cleared by 74 s/km (6:31 @ HR 145, shin clean) → no downgrade was warranted. W1's shortfall was schedule/fatigue, not the bone gate.
 
 ---
 
@@ -91,9 +162,13 @@ Pace-linked at 159–166, parked 164 all build. Fix at EASY pace, where it alway
 
 **Race day:** 60–80 g/h = ~25 g gel every 20 min starting k4, + water each time. W10 rehearsal locks exact products/timing. Nothing new on race day.
 
-**Cut (77.6 → target ~75 by race):**
-- W1–2 maintenance ~2700.
-- **W3 gates to start cut:** 2 full clean weeks executed + shin quiet + Sat 7/18→W2 trend fine. Then **−400/d → ~2250–2400**, protein ≥2 g/kg (155–185 g), loss 0.3–0.5 kg/wk, calcium + vit D covered.
+**Cut (77.6 → target ~75 by race) — REVISED 2026-07-27: later, smaller, cycled.**
+- **W1–W3 maintenance ~2700.** (Was W1–2. Pushed back one week.)
+- **Maintenance = 2700 is EMPIRICAL, not estimated** — BW held 77.2–77.9 across W1 on 2 500–2 900 kcal *with* 17–23 k step shifts. The job is already inside the number. No upward correction owed.
+- **Cut starts W4 (Mon Aug 10) — the down week.** Starting a deficit in a down week is free recovery-wise. Gates unchanged in substance: 2 clean weeks executed on the new template + shin quiet + BW trend sane.
+- **Deficit −300/d → ~2400, not −400.** With ~44 km/wk walked on top of the run volume, −400 is more recovery tax than the timeline needs. Loss 0.3–0.5 kg/wk still achievable; if the 7-day trend is flat 2 wks, go to −400 then.
+- **Calorie-cycle it:** eat **maintenance (~2700) on shifts >18 k steps**, take the deficit on low-step days. Same weekly deficit, materially less recovery cost on the days that already cost the most.
+- Protein ≥2 g/kg (155–185 g) every day regardless of cycling day. Calcium + vit D covered.
 - **W9 Mon (Sep 14) → race: maintenance.** No deficit while sharpening. Expected race BW ~75–75.5 kg (worth ~2–3 min). Rest of the cut to 73 happens post-race.
 - **Any bone twinge → cut pauses same day** (LEA = 2.5× bone-stress risk).
 
@@ -122,11 +197,14 @@ Pace-linked at 159–166, parked 164 all build. Fix at EASY pace, where it alway
 ## Stop / adjust triggers
 
 - **Pinpoint bone pain → STOP, walk home, week reassessed.** Never run through. Diffuse ache = watch, trim, ice.
+- **Day >22 k steps → next day's run capped easy + short.** No exceptions.
+- **Two consecutive 25 k+ step days → drop the week's shortest run**, keep the long.
+- **"Legs don't feel good" 2 days running with shin clean → that is fatigue, not bone: take the rest, then resume at the SAME week's volume (repeat, don't compress).** Do not treat it as an injury scare and do not try to claw the km back.
 - HR drift +5 bpm at same easy pace vs 2 wks → drop a run that week.
 - Sleep <6 h AND RHR +10 → cut session volume 20%, RPE cap 7.
 - Cut >0.7 kg/wk ×2 wks → +150–200 kcal. Strength e1RM regressing 2 sessions unexplained → diet break.
 - Missed week → repeat, never compress. Two missed weeks → race the floor.
-- Shoes: >600 km = replace; race shoes broken in by W9.
+- Shoes: >600 km = replace; race shoes broken in by W9. **Work shoes: 2 pairs rotated, replaced on feel** — they absorb ~44 km/wk and are invisible to the running odometer.
 
 ---
 

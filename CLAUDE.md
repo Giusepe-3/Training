@@ -14,6 +14,7 @@ Project memory for Claude Code. Read on every session.
 
 - **Why it's real (the core read — keep this in mind for every prescription):** the user's 5K PR (25:58 @ 5:12/km, 2026-05-08) predicts a **1:59 HM**; he actually ran **2:09:38**. ~10 min slower than his own speed says. **He is not slow — he is under-endured** (treadmill-trained, low volume). Riegel anchors disagree for exactly this reason: 5K → 2:53 30K, HM → 3:08. **The spread IS the deficit, and volume is the lever that closes it.** Sub-2:50 ≈ a 1:57 HM by October = collecting endurance already paid for, not building new top-end speed.
 - **Therefore: consistent weekly volume > any hero session.** This target dies from dark weeks, not from slow days. Jul 1–16 is the cautionary tale.
+- **⚠️ THE JOB IS A TRAINING LOAD — added 2026-07-27. User is a WAITER: 12 000+ steps on a rest day, 17–30 k on a shift day.** W1 measured 78.5 k steps / 6 days ≈ **~44 km walked vs 16 km run** — the job is ~2.75× the running distance and ~3.3× the foot strikes, and it was completely unmodeled when the plan was built. **Bone: fine, arguably protective** (habitual ~1.2× BW loading; shin clean 8 straight checks). **Soft tissue + systemic recovery: this is the real cost** — calves/Achilles/feet never unload, 8 h standing = zero recovery hours, a "rest day" is still ~9 km on hard floors. Never read steps as a NEAT/kcal footnote again; **steps are Tier 1 LOAD** (see hierarchy below). Full analysis + rules → `docs/running.md` § JOB LOAD.
 - **Nutrition: CUT RESUMES (goal-aligned now, not competing).** 77.6 → ~73 kg ≈ 5.9% BW ≈ **2–3% running economy ≈ 8–10 s/km ≈ 4–5 min over 30K** — roughly a third of the gap to 2:50, from the kitchen. Slow cut 0.3–0.5 kg/wk through the base weeks → **maintenance for the final 3–4 wks + taper** (no deficit while sharpening). ⏸️ **NOT started as of 2026-07-17** — re-entry week eats maintenance (~2700); start once the running rhythm holds. See Nutrition baselines below (now live again).
 - **Lifting: maintenance, slow-steady.** Running owns the legs. Bump gate = ALL sets at top of rep range AND every set RPE ≤7 → smallest increment. Reps before load. See "Progression rule" below — the **slow-steady rule is ACTIVE; the aggressive double-progression text is DORMANT**, user reconfirmed 2026-07-17.
 - **⚠️ TIBIA GATES EVERYTHING.** Right-tibia stress-fx watch (May–Jun) rehabbed clean, but it is the standing constraint. Pinpoint bone pain = STOP. **Engine ≠ chassis:** cycling held his aerobic system (~70–80% transfer) but zero impact tolerance — **runs will feel easy before the bone is ready. HR/RPE are not the limiter; impact tolerance is. Set distance by bone, not by breath.**
@@ -46,17 +47,29 @@ scripts/{build_log,progression_check}.py        — workbook tooling
 
 ---
 
-## Weekly schedule — Block 2 structure PENDING (to be built for Jul 20 onward)
+## Weekly schedule — Block 2 ✅ LOCKED (revised 2026-07-27, shift-fitted)
 
-**Not yet locked.** User: "we will organize next week" (2026-07-17). Re-entry week Jul 17–19 only:
+**4 run / 2 lift / 3 rest.** Full plan + week-by-week km → `docs/running.md`.
 
-| Day | Session |
-|-----|---------|
-| Fri 7/17 | Gym — Pull (first lift in 30 days) |
-| Sat 7/18 | Run — 8k easy Z2, HR ≤150 (**benchmark**: pace @ HR ≤150 vs 6/18 10k = 7:22 and 6/22 18k = 7:03) |
-| Sun 7/19 | REST |
+**Shift schedule (supplied 2026-07-27):** Mon 17:30–23:00 (5.5 h) · Tue 11:00–17:00 (6 h) · **Wed 13:00–22:00 (9 h ← longest)** · Thu 17:30–23:00 (5.5 h) · **Fri/Sat/Sun OFF.** 26 h/wk, all Mon–Thu.
 
-**Block 2 shape (per `docs/handoff.md`, itself pending rewrite): flip to 4 run / 2 lift.** Running volume is the goal-critical variable (see override: under-endured, volume closes the gap); lifting drops to 2×/wk maintenance to free recovery budget. Build the week-by-week for Jul 20 onward once Sat 7/18's benchmark lands.
+| Day | Shift | Session | Timing |
+|-----|-------|---------|--------|
+| Mon | 5.5 h eve | **REST — full** | post-long, on a work day |
+| Tue | 6 h midday | Run easy Z2 **+ Gym Legs (light)** | **POST-shift ~18:00** — never before |
+| Wed | **9 h longest** | **REST — full** | biggest step day of the week |
+| Thu | 5.5 h eve | Run easy — **shortest run of the week** | **pre-shift ~13:00** (follows Wed's 9 h → easy+short by rule) |
+| Fri | **OFF** | Run — **quality from W5** (easy W1–4) **+ Gym Upper** | free day, best-recovered. Checkpoint slot W4/W8 |
+| Sat | **OFF** | **REST — full** | long-run primer |
+| Sun | **OFF** | Run — **LONG** | free morning, unobstructed |
+
+**Why revised (2026-07-27):** old template (Mon Legs · Tue/Wed run · Thu Upper · Fri REST · Sat run · Sun LONG) opened a 4-day unbroken load block and ran **Sat easy + Sun long back-to-back** — the goal-critical session always landed on tired legs, on top of a 20 k-step job. That pair failed Jul 25–26 (Sat RPE 7 on a 5 k → Sun long skipped → Mon 7/27 rest). New shape: same km, same session count, **3 full rest days (2 of them on work days), max 2 consecutive loaded days, long run off a rest day off a work-free Saturday.**
+
+- **Rest lands Mon + Wed + Sat.** Wed is non-negotiable — it is the 9 h shift and the biggest step day.
+- **Legs never precedes a shift.** Tue Legs runs *after* the 17:00 finish. **Tuesday is the one deliberate run-after-standing exception** (no usable pre-shift window, wide-open evening) and is therefore always the *easy* run, never quality.
+- **Quality is Friday, not Thursday** — Thursday follows the 9 h Wednesday and would break the >22 k-steps rule. Fri is work-free, follows the shortest shift, and has Sat rest between it and the long.
+- **Circadian, honestly:** Mon/Wed/Thu finish 22:00–23:00 → **a 1–2am bedtime those 3 nights is structural, not a discipline failure. Do not nag it.** The only night worth targeting is **Saturday** — no shift Sat, no shift Sun, and it's a rest day, sitting directly before the block's most important session.
+- **Standing Calf Raise DROPPED W2–W4** (reassess W5) — 15+ km/day of loaded walking already trains soleus/gastroc to failure; it had stalled at 20 kg; and the 7/27 AM check showed every leg tissue clearing to ≤1 after two rest days **except calf, which held at 2.** **Tibialis Raise stays every Legs day, non-negotiable** (anterior tib = bone armor, walking does not train it).
 
 > Dormant: 50 km build schedule (3 gym / 3 run, Sat LONG driver) — goal abandoned. Block-1 hypertrophy schedule (Mon Upper A · Tue Lower A · Wed REST · Thu run · Fri Upper B · Sat Lower B · Sun run) — block over.
 
@@ -121,38 +134,41 @@ Other movements: subs in workout file's Substitutions table are fair game.
 2. RPE/RIR per set (proximity to failure)
 3. Load + e1RM trend (mechanical tension)
 4. Protein g/kg BW (target 1.6–2.2 → 125–170 g @ 77.7 kg)
-5. Kcal vs target — **slow cut: deliberate deficit ~−400/d** (see Nutrition baselines)
+5. Kcal vs target — **slow cut: deliberate deficit ~−300/d, calorie-cycled** (see Nutrition baselines)
+6. **Steps + shift hours — LOAD, not NEAT (promoted to Tier 1, 2026-07-27).** The waiter job is ~44 km/wk walked ≈ 2.75× the running. Gates: day >22 k steps → next run easy+short · two consecutive 25 k+ days → drop the week's shortest run, keep the long. Log every PM.
 
 **Tier 2a — AM daily:**
-6. BW AM (fasted, post-pee, conditions held constant)
-7. Sleep h + quality
-8. Resting HR (Δ vs 7-day baseline)
-9. Motivation / energy / stress 1–10
-10. Per-muscle DOMS 0–3
-11. Joint/tendon flags
+7. BW AM (fasted, post-pee, conditions held constant)
+8. Sleep h + quality
+9. Resting HR (Δ vs 7-day baseline)
+10. Motivation / energy / stress 1–10
+11. Per-muscle DOMS 0–3
+12. Joint/tendon flags
 
 **Tier 2b — PM daily:**
-12. Day macros total
-13. Workout result (lifting days)
+13. Day macros total
+14. Workout result (lifting days)
 
 **Tier 3 — weekly/biweekly:**
-14. Pre-WO meal timing + composition
-15. Creatine 5 g/d compliance
-16. Hydration L, steps, caffeine, alcohol
-17. Body circumferences (biweekly Mon)
-18. Photos front/side/back (biweekly)
-19. HR drift on easy runs
+15. Pre-WO meal timing + composition
+16. Creatine 5 g/d compliance
+17. Hydration L, caffeine, alcohol
+18. Body circumferences (biweekly Mon)
+19. Photos front/side/back (biweekly)
+20. HR drift on easy runs
 
 ### Nutrition baselines — SLOW CUT ✅ LIVE AGAIN 2026-07-17 (⏸️ not started until running rhythm holds)
 
 > **Un-paused 2026-07-17.** The 50 km build's "cut paused, BW gain expected" posture is DEAD. **The cut now serves the race goal** — 77.6 → ~73 kg ≈ 4–5 min over 30K (see top override). Deficit is intended; do not flag it as under-fueling.
-> **Two timing caveats:** (1) **re-entry week (Jul 17–19) eats maintenance (~2700)** — no deficit on day 1 back with detrained bone; start the cut once running is consistent. (2) **Final 3–4 wks + taper = maintenance**, not deficit — no cutting while sharpening for Oct 11.
+> **⚠️ REVISED 2026-07-27 — later, smaller, cycled** (job load, see override): **starts W4 = Mon Aug 10, the down week** (was W3) · **deficit −300/d → ~2400**, not −400 · **calorie-cycled: maintenance ~2700 on shifts >18 k steps, deficit on low-step days** — same weekly deficit, far less recovery tax on the days that already cost the most. If the 7-day trend is flat 2 wks, then go −400.
+> **Maintenance 2700 is EMPIRICAL, not estimated** — BW held 77.2–77.9 through W1 on 2 500–2 900 kcal *with* 17–23 k step shifts. The job is already inside the number; no upward correction owed.
+> **Two timing caveats:** (1) **W1–W3 (Jul 20 – Aug 9) eat maintenance (~2700)** — no deficit while re-entering with detrained bone; cut opens W4. (2) **Final 3–4 wks + taper = maintenance** (W9 Mon Sep 14 → race), not deficit — no cutting while sharpening for Oct 11.
 
 Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg while retaining strength. NOT recomp, NOT surplus.
 
 | Macro | Target |
 |-------|--------|
-| Kcal | maintenance (~2700) **minus ~400 → ~2250–2400/d**; recalc maint per BW 7-day trend. Target loss **0.3–0.5 kg/wk** |
+| Kcal | maintenance (~2700) **minus ~300 → ~2400/d, calorie-cycled** (maint on >18 k-step shifts, deficit on low-step days); recalc maint per BW 7-day trend. Target loss **0.3–0.5 kg/wk** |
 | Protein | **150–185 g (≥2.0 g/kg, push high — #1 muscle-retention lever in deficit)**, 4–5 meals, ≤5 h between feeds. 180+ g = good, never flag as "over". |
 | Carbs | 3–5 g/kg lift days (230–390 g), 2–3 g/kg rest (155–230 g) |
 | Fat | 0.8–1.0 g/kg (62–78 g) |
@@ -164,6 +180,8 @@ Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg wh
 ### Adjustment triggers
 
 - Sleep <6 h **and** RHR +10 → cut session volume 20%, RPE cap 7.
+- **Step load (2026-07-27):** day >22 k steps → next day's run capped **easy + short** · two consecutive 25 k+ step days → **drop the week's shortest run, keep the long** · **run BEFORE the shift** wherever possible (running on legs that already stood 8 h is what 7/25 was).
+- **"Legs don't feel good" 2 days running WITH shin clean = fatigue, not bone.** Take the rest, then resume at the **same** week's volume (repeat, don't compress). Do not escalate to an injury scare; do not claw back the missed km.
 - **Cut pace (7-day avg):** loss 0.3–0.5 kg/wk = on target, hold. Loss >0.7 kg/wk for 2 wks → too fast, muscle risk → **+150–200 kcal/d**. BW flat ≥2 wks (stall) → **−150 kcal/d OR +1–2k steps**.
 - **Strength = the cut guardrail:** e1RM regression OR top-set reps drop at same load 2 sessions running (not explained by sleep/illness) → cut too hard → diet break or +200 kcal/d. Strength holding/rising = cut is working, do not add food just because BW dropped.
 - 3 sessions reps stalled same load → vary rep range OR drop 5% rebuild OR add intensity technique.
