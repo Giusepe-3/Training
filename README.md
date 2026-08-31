@@ -22,7 +22,7 @@ training/
 │   ├── upper_B.md              ← ⏸️ DORMANT
 │   └── lower_B.md              ← ⏸️ DORMANT
 ├── docs/
-│   ├── running.md              ← running plan (⚠️ STALE: still the sub-2:50 / shift-fitted build)
+│   ├── running.md              ← ✅ running plan (re-cut 2026-08-31: sub-3:10, 6-wk, class-fitted)
 │   ├── nutrition.md            ← recomp principles
 │   └── handoff.md              ← STALE: written for a sub-2:00 HM block. Rewrite for sub-3:10 30K.
 ├── logs/

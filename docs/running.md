@@ -1,4 +1,66 @@
-# Running — Block 2: Sub-2:50 30K (Mon Jul 20 → race Sun Oct 11, 2026)
+# Running — Block 2: Sub-3:10 30K (RE-CUT Mon Aug 31 → race Sun Oct 11, 2026)
+
+> **🎯 ACTIVE GOAL: 30K in sub-3:10 (6:20/km).** Stretch sub-3:00, opens only if the Wk-C checkpoint (Fri Sep 18) clears. **Re-cut 2026-08-31 after a 34-day dark gap (Jul 29 → Aug 30, ~2 runs total).**
+
+**Everything below the "SUPERSEDED" line is the original 2026-07-17 twelve-week build. It is kept for its reasoning, its physiology, and its fuelling/cadence/checkpoint protocols — all of which still apply. Its GOAL, its WEEK TABLE, its WEEKLY TEMPLATE and its NUTRITION numbers are dead. Read this section first and let it win every conflict.**
+
+## What changed 2026-08-31
+
+| | Was (Jul 17 plan) | Now |
+|---|---|---|
+| Goal | sub-2:50 (5:40/km) | **sub-3:10 (6:20/km)**; stretch sub-3:00 |
+| Runway | 12 weeks | **6 weeks** (Aug 31 → Oct 11) |
+| Week driver | waiter shifts (44 km/wk walked) | **❌ job over** — classes Mon 12–17, Tue–Thu 8–12, Fri–Sun free |
+| Steps | Tier 1 LOAD | **Tier 3** — all step gates dormant |
+| Gym | barbell Legs/Push/Pull | **calisthenics 2×/wk**, Mon AM + Fri AM → `workouts/cali_fullbody.md` |
+| Nutrition | slow cut, maint 2700 | **cut CLOSED at BW 75.0** — maintenance **~2400**, protein 150–165 g |
+| Peak long | 24 k | **22 k** |
+
+**Why sub-2:50 died:** it required volume that a 34-day gap ate. Not an engine failure — the same failure mode as Jul 1–16, which killed the 50 km build. **This user's targets die from dark months, never from slow days.** Logging is the countermeasure and it restarts Mon 2026-08-31.
+
+**The new binding constraint:** peak long ≈ **22 k** against a **30 k** race = **+36% over longest**. That makes this a **finishing problem first, a pace problem second.** There is zero training data past 22 k, so a faster target is not a stretch — it is a blow-up risk at km 22–25.
+
+## 6-week block table — LIVE
+
+| Wk | Dates | Km | Long | Notes |
+|----|-------|----|------|-------|
+| **A** | **Aug 31 – Sep 6** | 26 | 10 k | Re-entry. ALL easy Z2, bone-gated |
+| B | Sep 7–13 | 29 | 12 k | |
+| C | Sep 14–20 | 33 | 15 k | **Checkpoint Fri Sep 18: 8 k benchmark** → decides the stretch target |
+| D | Sep 21–27 | 36 | 18 k | |
+| E | Sep 28 – Oct 4 | 36 | **22 k** | Peak long + full kit/fuel rehearsal |
+| F | Oct 5–11 | ~14 | race | Taper: Tue 6 k, Fri 4 k shakeout, Sat rest, **Sun 11 RACE** |
+
+Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). **Stacked and at the ceiling. There is no down week — it was sacrificed to the runway.** Compensations, and they are not optional: every easy day stays genuinely easy, 3 full rest days every week, and no quality work at all before the Wk-C checkpoint.
+
+## Weekly template — CLASS-FITTED
+
+| Day | Class | Session | Timing |
+|-----|-------|---------|--------|
+| Mon | 12:00–17:00 | **Cali gym — no run** | AM, pre-class |
+| Tue | 08:00–12:00 | Run easy Z2 | PM ~13:00 |
+| Wed | 08:00–12:00 | **REST — full** | — |
+| Thu | 08:00–12:00 | Run easy Z2 — **shortest** | PM ~13:00 |
+| Fri | free | **Cali gym AM + Run PM** | run ~16:00. Checkpoint slot |
+| Sat | free | **REST — full** | long-run primer |
+| Sun | free | Run — **LONG** | **AM** |
+
+4 run / 2 cali / 3 rest. Max 2 consecutive loaded days. **Long run always off a full rest day.** Same shape that was validated on 7/27 — re-pegged from shifts to classes.
+
+**Cali days do not tax the legs: RPE 6 hard cap, every session.** Monday precedes Tuesday's run, Friday precedes Sunday's long. See `workouts/cali_fullbody.md`.
+
+## Still fully in force from the original plan
+
+- **⚠️ TIBIA GATES EVERYTHING.** Pinpoint bone pain = STOP. Shin check every AM. Distance set by bone, not breath — **engine ≠ chassis**, and the gap hurt impact tolerance far more than it hurt the aerobic system.
+- **Cadence 165+**, metronome cued on every easy run. Last streak 166/166/168/167 (Jul). Rebuild from run 1.
+- **Fuelling protocol, checkpoint design, HR caps (Z2 ≤150), shoe rules** — unchanged, see below.
+- **Consistency > any hero session.** Twice proven, expensively.
+
+---
+
+# ⬇️ SUPERSEDED — original 2026-07-17 twelve-week build (reasoning kept, numbers dead) ⬇️
+
+## ~~Running — Block 2: Sub-2:50 30K (Mon Jul 20 → race Sun Oct 11, 2026)~~
 
 > **GOAL: 30K in sub-2:50 (5:40/km). Floor sub-3:00 (6:00/km).** 12 weeks exactly, race = last day of W12. Built 2026-07-17 from the evidence prompt (`docs/block2_plan_prompt.md`). Replaces the dead 50 km ultra build.
 
@@ -6,7 +68,7 @@
 
 ---
 
-## ⚠️ JOB LOAD — the waiter variable (added 2026-07-27, restructures the week)
+## ⚠️ JOB LOAD — ❌ DORMANT 2026-08-31 (job ended). The waiter variable, kept in case it returns
 
 **User works as a waiter. 12,000+ steps on a rest day; 17–30 k on a shift day.** This was unmodeled when the plan was built and it is the single largest leg-load input in the week.
 
