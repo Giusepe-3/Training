@@ -9,7 +9,7 @@ Project memory for Claude Code. Read on every session.
 **Supersedes the 2026-07-17 and 2026-07-27 overrides below on every point it touches. Read this first.**
 
 - **34-day dark gap Jul 29 → Aug 30. ~2 runs total in 5 weeks.** Longest run of Block 2 is still **8.01 km** (7/19). Longest ever 18 km (6/22), now stale.
-- **🎯 ACTIVE GOAL RESET: 30K in sub-3:10 (6:20/km), Sun Oct 11, 2026.** Stretch = sub-3:00, opens only if the Wk-C checkpoint (Fri Sep 19, 8 k benchmark) clears. **❌ sub-2:50 RETIRED 2026-08-31** — it required the volume the gap ate. If any doc still says "sub-2:50", it is stale — fix it. **Binding constraint: peak long ≈ 22 k, race is +36% over longest. This is a FINISHING problem first, a pace problem second.**
+- **🎯 ACTIVE GOAL RESET: 30K in sub-3:10 (6:20/km), Sun Oct 11, 2026.** Stretch = sub-3:00, opens only if the Wk-C checkpoint (Fri Sep 18, 8 k benchmark) clears. **❌ sub-2:50 RETIRED 2026-08-31** — it required the volume the gap ate. If any doc still says "sub-2:50", it is stale — fix it. **Binding constraint: peak long ≈ 22 k, race is +36% over longest. This is a FINISHING problem first, a pace problem second.**
 - **❌ THE WAITER JOB IS OVER. User is not working (confirmed 2026-08-31).** The entire 7/27 restructure was built on it. **Steps DEMOTED Tier 1 → Tier 3.** The >22 k-step gate, the two-consecutive-25 k rule, and "run before the shift" are all **DORMANT** (kept, not deleted — the job may return). Recovery budget is much larger; mornings are free.
 - **🏫 CLASS SCHEDULE replaces the shift schedule.** Mon 12:00–17:00 · Tue 08:00–12:00 · Wed 08:00–12:00 · Thu 08:00–12:00 · **Fri/Sat/Sun free.**
 - **🤸 GYM = CALISTHENICS, 2×/wk, FIXED CLASS TIMES: Monday AM + Friday AM.** Class content is NOT user-controlled. **The barbell Legs/Push/Pull template and `workouts/*.md` are DORMANT** — no loaded squat/RDL/leg press to prescribe. **Tibialis Raise 3×20 BW is bolted onto BOTH cali days, non-negotiable** — anterior tib is the bone armor and nothing in calisthenics trains it.
@@ -73,7 +73,7 @@ scripts/{build_log,progression_check}.py        — workbook tooling
 | Tue | 08:00–12:00 | Run easy Z2 | PM ~13:00, post-class |
 | Wed | 08:00–12:00 | **REST — full** | — |
 | Thu | 08:00–12:00 | Run easy Z2 — **shortest run** | PM ~13:00, post-class |
-| Fri | free | **Cali gym AM + Run PM** | gym class AM, run ~16:00. + Tibialis Raise. **Checkpoint slot (Wk C, Fri Sep 19)** |
+| Fri | free | **Cali gym AM + Run PM** | gym class AM, run ~16:00. + Tibialis Raise. **Checkpoint slot (Wk C, Fri Sep 18)** |
 | Sat | free | **REST — full** | long-run primer; the one genuinely free night for a pre-midnight bedtime |
 | Sun | free | Run — **LONG** | **AM**, free morning |
 
@@ -253,7 +253,7 @@ Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg wh
 | Target | Time | Pace | Notes |
 |--------|------|------|-------|
 | **Primary** | **sub-3:10** | **6:20/km** | Set 2026-08-31 off a 6-wk runway, 8 k longest run, BW 75.0 |
-| Stretch | sub-3:00 | 6:00/km | Opens only if Wk-C checkpoint (Fri Sep 19, 8 k benchmark) clears |
+| Stretch | sub-3:00 | 6:00/km | Opens only if Wk-C checkpoint (Fri Sep 18, 8 k benchmark) clears |
 | ~~Retired~~ | ~~sub-2:50~~ | ~~5:40/km~~ | Killed by the Jul 29 – Aug 30 dark month, not by the engine |
 | Floor | sub-3:00 | 6:00/km | Still faster pace than Madrid (6:09/km) over +9 km. A strong day. |
 | ~~Retired~~ | ~~sub-2:20~~ | ~~4:40/km~~ | Needed a 1:36 HM / 20:57 5K. Naive addition, not pace math. |
