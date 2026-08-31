@@ -1106,3 +1106,87 @@ W1's engine was excellent and W1's calendar was wrong. Three runs at 6:44–6:51
 - **Thu is permanently the week's shortest run** — it follows Wednesday's 9 h shift, which is the predictable >22 k-step day. Run it pre-shift (~13:00), easy, short.
 - **Fri = the free day and the future quality slot** (from W5). This week it's just 6 k easy + Push.
 - **Sun 10 k = first long run of Block 2 and first double-digit run since 6/22.** Fuel 30–40 g/h, sips minimum. Off a full rest day, off a work-free Saturday — nothing obstructs it. This is the session the entire restructure exists to protect.
+
+---
+
+## ⚠️ RE-PLAN 2026-08-31 — 34-day dark gap closed, block re-cut for 6 weeks
+
+**Gap: Jul 29 → Aug 30 unlogged. ~2 runs total in 5 weeks.** Longer than the Jul 1–16 stretch that killed the 50k. Race Sun Oct 11 is **6 weeks out**.
+
+### Three structural changes (all confirmed by user 2026-08-31)
+
+1. **❌ WAITER JOB — OVER. User not working.** The single biggest input to the 7/27 restructure is gone. ~44 km/wk walked, 17–30 k step shifts, 8 h standing → **zero**.
+   - **Steps DEMOTED from Tier 1 back to Tier 3.** The >22 k-step gate, the "two consecutive 25 k days" rule, and the "run before the shift" rule all go **DORMANT** (not deleted — the job may return).
+   - **Recovery budget up sharply.** Rest days no longer need pinning to shifts. Morning runs available every day.
+   - **Maintenance kcal drops.** 2700 was empirical *with the job inside it*. New estimate **~2400** at 75 kg with 4 runs/wk and no shift walking.
+2. **🏫 CLASS SCHEDULE replaces shift schedule.** Mon 12:00–17:00 · Tue 08:00–12:00 · Wed 08:00–12:00 · Thu 08:00–12:00 · **Fri/Sat/Sun free.** All mornings free except Tue–Thu; all afternoons free except Mon.
+3. **🤸 GYM = CALISTHENICS, 2×/wk, FIXED CLASS TIMES: Monday morning + Friday morning.** Barbell Legs/Push/Pull template is **DORMANT** — no loaded squat/RDL/leg press. Class content is not user-controlled.
+
+### Target reset — sub-2:50 RETIRED 2026-08-31
+
+| Target | Time | Pace | Note |
+|--------|------|------|------|
+| **Primary** | **sub-3:10** | **6:20/km** | Set 2026-08-31 off a 6-week runway and an 8 k longest run |
+| Stretch | sub-3:00 | 6:00/km | Only opens if the Wk-C checkpoint (Fri Sep 19) clears |
+| ~~Retired~~ | ~~sub-2:50~~ | ~~5:40/km~~ | Required the volume that the 34-day gap ate. Not a failure of the engine — a failure of consistency, exactly as the plan warned. |
+
+**Why sub-3:10 and not lower:** peak long run achievable in 6 weeks off this base is ~22 k. Race day = **+36% over longest**. That is the binding constraint, and it is a *finishing* constraint. Pace targets below 6:20 risk a blowup at 22–25 k where he has no training data at all. BW 75.0 (−2.6 from 77.6) is worth ~5–6 s/km and is already banked.
+
+### Nutrition — CUT CLOSED 2026-08-31
+
+**Cut is OFF for the remainder of Block 2.** BW 75.0 achieved (goal was ~73; taking 75 into the race is the right trade). Reasons: (a) a 6-week volume ramp on 5-weeks-detrained legs cannot run in a deficit; (b) CLAUDE.md already mandates maintenance for the final 3–4 weeks and taper — we are inside that window; (c) bone remodelling under a re-entry ramp wants fuel, and the tibia gates everything.
+- **Eat maintenance ~2400 kcal/d** (recalc off the BW 7-day trend; 2700 is stale, it contained the job).
+- **Protein 150–165 g** (2.0–2.2 g/kg @ 75 kg). Non-negotiable — 2 kg came off partly unfuelled and lean mass is at risk.
+- Creatine 5 g/d. Carbs up on Sun long-run days.
+- Post-race: resume the cut to 73 if still wanted.
+
+### 6-week block — long-run driver
+
+| Wk | Dates | Km | Long | Notes |
+|----|-------|----|------|-------|
+| **A** | Sep 1–7 | **26** | **10 k** | Re-entry. ALL easy Z2, bone-gated. |
+| B | Sep 8–14 | 29 | 12 k | |
+| C | Sep 15–21 | 33 | 15 k | **Checkpoint Fri Sep 19: 8 k benchmark** → decides stretch target |
+| D | Sep 22–28 | 36 | 18 k | Peak-ish |
+| E | Sep 29–Oct 5 | 36 | **22 k** | **Peak long + full fuel/kit rehearsal** |
+| F | Oct 6–11 | ~14 | race | Taper. Tue 6 k, Fri 4 k shakeout, Sat rest, **Sun 11 RACE** |
+
+Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stacked and at the ceiling — **the down week is sacrificed to the runway**. Compensating: all easy days stay genuinely easy, 3 rest days every week, no quality work until the Wk-C checkpoint.
+
+### Weekly template — CLASS-FITTED (replaces the 7/27 shift-fitted template)
+
+| Day | Class | Session | Timing |
+|-----|-------|---------|--------|
+| Mon | 12:00–17:00 | **Cali gym** — no run | **AM class, pre-uni** |
+| Tue | 08:00–12:00 | Run easy Z2 | PM, post-class ~13:00 |
+| Wed | 08:00–12:00 | **REST — full** | — |
+| Thu | 08:00–12:00 | Run easy Z2 — shortest | PM, post-class ~13:00 |
+| Fri | free | **Cali gym AM** + Run PM | gym class AM, run ~16:00. Checkpoint slot |
+| Sat | free | **REST — full** | long-run primer |
+| Sun | free | Run — **LONG** | **AM, free morning** |
+
+4 run / 2 cali / 3 rest. Max 2 consecutive loaded days. Long run off a full rest day. Same shape that worked on 7/27 — just re-pegged to classes instead of shifts.
+
+---
+
+### Week A — Sep 1–7 · 26 km · long 10 k · maintenance ~2400 · ALL EASY
+
+| Day | Session | Detail |
+|-----|---------|--------|
+| Mon 9/1 | **Cali gym AM** | Class content not user-controlled. **Add Tibialis Raise 3×20 BW after class — non-negotiable.** Keep legs light; Tue is a run day. |
+| Tue 9/2 | **Run 5 k easy Z2** | PM ~13:00. HR ≤150. Metronome 166. |
+| Wed 9/3 | **REST — full** | — |
+| Thu 9/4 | **Run 5 k easy Z2** | PM ~13:00. Shortest run of the week. |
+| Fri 9/5 | **Cali gym AM + Run 6 k easy Z2 PM** | Gym class AM, run ~16:00. **Tibialis Raise 3×20 again.** Run easy regardless of what the class did. |
+| Sat 9/6 | **REST — full** | Pre-midnight bedtime — the one night it's genuinely free, and it sits directly before the block's most important session. |
+| Sun 9/7 | **Run LONG 10 k** | **AM.** Easy Z2, HR ≤150. Fuel 30 g/h. **First double-digit run since 2026-06-22.** |
+
+= 26 km (5 + 5 + 6 + 10).
+
+**Week A rules:**
+- **ALL runs easy. Zero quality.** Re-entering after 5 sporadic weeks — the aerobic engine is fine, the impact tolerance is not. Engine ≠ chassis. Set distance by bone, not by breath.
+- **⚠️ TIBIA GATE ACTIVE.** Pinpoint bone pain = STOP the run, log it, next session cancelled pending 48 h clean. Shin check every AM.
+- **Pace will feel too easy — let it.** Expect ~6:40–7:10/km @ HR ≤150; lighter at 75 kg. Do not chase pace.
+- **Cadence: metronome 166 on every run.** Last logged streak was 166/166/168/167 (4 straight, Jul). Re-establish it from run 1 — it is the one open item carried from the ultra build.
+- **Cali: report what the class actually contains** after Mon 9/1 so the block can be programmed around it (esp. whether it hits legs, and how hard).
+- **Logging restarts Mon 9/1.** Two-touch AM + PM, per templates. The 34-day gap is what cost the sub-2:50 — the log is the countermeasure.
