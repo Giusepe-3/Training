@@ -16,17 +16,20 @@ training/
 ├── README.md                   ← you are here
 ├── PLAN.md                     ← 11-week phase structure + week-by-week
 ├── workouts/
-│   ├── upper_A.md              ← Monday: chest/back priority
-│   ├── lower_A.md              ← Tuesday: squat focus
-│   ├── upper_B.md              ← Thursday: shoulders/arms priority
-│   └── lower_B.md              ← Friday: hinge/posterior
+│   ├── cali_fullbody.md        ← ✅ ACTIVE: Mon AM + Fri AM calisthenics, full body
+│   ├── upper_A.md              ← ⏸️ DORMANT (barbell gym gone 2026-08-31)
+│   ├── lower_A.md              ← ⏸️ DORMANT
+│   ├── upper_B.md              ← ⏸️ DORMANT
+│   └── lower_B.md              ← ⏸️ DORMANT
 ├── docs/
-│   ├── running.md              ← running plan (Wed + Sat)
+│   ├── running.md              ← running plan (⚠️ STALE: still the sub-2:50 / shift-fitted build)
 │   ├── nutrition.md            ← recomp principles
-│   └── handoff.md              ← STALE: written for a sub-2:00 HM block. Rewrite for sub-2:50 30K.
+│   └── handoff.md              ← STALE: written for a sub-2:00 HM block. Rewrite for sub-3:10 30K.
 ├── logs/
-│   ├── training_log.xlsx       ← master logger (multi-tab)
-│   └── session_log.md          ← daily narrative journal
+│   ├── training_log.xlsx       ← master logger (multi-tab; ⚠️ stale since 2026-07-27)
+│   ├── session_log.md          ← daily narrative journal ← SOURCE OF TRUTH
+│   ├── sessions/               ← filled per-session logs
+│   └── templates/              ← locked AM/PM/session/weekly templates
 └── scripts/
     ├── build_log.py            ← regenerate workbook
     ├── progression_check.py    ← analyze progression from log

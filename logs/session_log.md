@@ -1173,7 +1173,7 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 
 | Day | Session | Detail |
 |-----|---------|--------|
-| Mon 8/31 | **Cali gym** | ⚠️ **Today. AM slot already gone (re-plan written 14:37, user in class 12–17) → run it POST-class ~17:30.** Class content not user-controlled. **Add Tibialis Raise 3×20 BW — non-negotiable.** Keep legs light; Tue is a run day. From Wk B on, cali is the normal Mon AM pre-class slot. |
+| Mon 8/31 | **Cali Full Body** | ⚠️ **Today. AM slot already gone (re-plan written 14:37, user in class 12–17) → session runs POST-class ~17:30.** Session designed + staged → `workouts/cali_fullbody.md`, fillable log → `logs/sessions/2026-08-31_cali_fullbody.md`. **Legs RPE 6 HARD CAP** (5k run tomorrow). **Tibialis Raise 3×20 mandatory.** From Wk B on, cali returns to the normal Mon AM pre-class slot. |
 | Tue 9/1 | **Run 5 k easy Z2** | PM ~13:00. HR ≤150. Metronome 166. |
 | Wed 9/2 | **REST — full** | — |
 | Thu 9/3 | **Run 5 k easy Z2** | PM ~13:00. Shortest run of the week. |
@@ -1190,3 +1190,14 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 - **Cadence: metronome 166 on every run.** Last logged streak was 166/166/168/167 (4 straight, Jul). Re-establish it from run 1 — it is the one open item carried from the ultra build.
 - **Cali: report what the class actually contains** after today (Mon 8/31) so the block can be programmed around it (esp. whether it hits legs, and how hard).
 - **Logging restarts TODAY, Mon 8/31.** Two-touch AM + PM, per templates. The 34-day gap is what cost the sub-2:50 — the log is the countermeasure.
+
+---
+
+### Daily log — Week A
+
+- **Mon 8/31 — Cali Full Body — STAGED.** First lifting session in **39 days** (last: Push 7/23) and the first calisthenics session ever — **no prior cali data exists, this is a pure baseline session.** Seeded 28 working sets: Push-up 4×8–12 · Inverted Row 4×8–12 · Pull-up (assisted/negatives) 3×5–8 · Pike Push-up 3×6–10 · Bulgarian Split Squat BW 3×10/leg · Single-Leg RDL BW 3×10/leg · **Tibialis Raise 3×20** · Hanging Knee Raise 3×8–12 · Side Plank 2×30 s.
+  - **⚠️ Programming constraint that governs every cali day this block: LEGS RPE 6 HARD CAP.** Monday precedes Tuesday's run, Friday precedes Sunday's long. There is no week in this block where sore legs are acceptable. Upper carries all intensity; legs get quality reps + stability only. **Do not "fix" the low leg volume — it is deliberate.**
+  - **⭐ The one number that matters tonight: which pull-up regression gave 5 clean reps** (band colour / negatives). It seeds the entire upper-pull progression ladder for the remaining 6 weeks.
+  - Timing exception: post-class ~17:30, not AM — the re-plan itself was written at 14:37 today.
+  - Full prescription + progression ladders → `workouts/cali_fullbody.md`. Fillable log → `logs/sessions/2026-08-31_cali_fullbody.md`.
+  - **Next: Tue 9/1 — Run 5 k easy Z2, PM ~13:00, HR ≤150, metronome 166.** Gate: if legs are sore beyond a 3/10 tomorrow AM, the run still happens but drops to 4 k — the cap exists precisely so this does not trigger.

@@ -12,7 +12,10 @@ Project memory for Claude Code. Read on every session.
 - **🎯 ACTIVE GOAL RESET: 30K in sub-3:10 (6:20/km), Sun Oct 11, 2026.** Stretch = sub-3:00, opens only if the Wk-C checkpoint (Fri Sep 18, 8 k benchmark) clears. **❌ sub-2:50 RETIRED 2026-08-31** — it required the volume the gap ate. If any doc still says "sub-2:50", it is stale — fix it. **Binding constraint: peak long ≈ 22 k, race is +36% over longest. This is a FINISHING problem first, a pace problem second.**
 - **❌ THE WAITER JOB IS OVER. User is not working (confirmed 2026-08-31).** The entire 7/27 restructure was built on it. **Steps DEMOTED Tier 1 → Tier 3.** The >22 k-step gate, the two-consecutive-25 k rule, and "run before the shift" are all **DORMANT** (kept, not deleted — the job may return). Recovery budget is much larger; mornings are free.
 - **🏫 CLASS SCHEDULE replaces the shift schedule.** Mon 12:00–17:00 · Tue 08:00–12:00 · Wed 08:00–12:00 · Thu 08:00–12:00 · **Fri/Sat/Sun free.**
-- **🤸 GYM = CALISTHENICS, 2×/wk, FIXED CLASS TIMES: Monday AM + Friday AM.** Class content is NOT user-controlled. **The barbell Legs/Push/Pull template and `workouts/*.md` are DORMANT** — no loaded squat/RDL/leg press to prescribe. **Tibialis Raise 3×20 BW is bolted onto BOTH cali days, non-negotiable** — anterior tib is the bone armor and nothing in calisthenics trains it.
+- **🤸 GYM = CALISTHENICS, 2×/wk at fixed slots: Monday AM + Friday AM. SELF-PROGRAMMED — clarified 2026-08-31, Claude writes the session.** (Initially recorded as a coached class; it is not.) **Prescribe from `workouts/cali_fullbody.md`** — full body, upper-dominant, 28 working sets, ~60 min, with regression↔progression ladders per movement. The barbell `upper_A/upper_B/lower_A/lower_B` files are **DORMANT** (no loaded squat/RDL/leg press available).
+  - **⚠️ LEGS ARE RPE 6 HARD-CAPPED ON EVERY CALI DAY.** Monday precedes Tuesday's run; Friday precedes Sunday's long run. There is no week in this block where sore legs are acceptable. Upper carries all the intensity. **Do not "fix" the low leg volume — it is deliberate. Running owns the legs.**
+  - **Bodyweight progresses by LEVERAGE, not load.** Same slow-steady gate: all sets at top of range AND every set RPE ≤7 → advance ONE step on the ladder. Reps before leverage.
+  - **Tibialis Raise 3×20 BW on BOTH cali days, non-negotiable** — anterior tib is the bone armor, the tibia gates the block, and nothing else in the session (or in running, or in walking) trains it. If time runs short, cut from the bottom up; **D1 Tibialis Raise survives every cut.**
 - **❌ CUT CLOSED 2026-08-31. BW 75.0 kg reached** (from 77.05 on 7/27, 77.6 at block start). Economy gain banked ≈ 5–6 s/km. **Eat maintenance ~2400 kcal/d** — the old 2700 was empirical *with ~44 km/wk of job walking inside it* and is now stale. **Protein 150–165 g (2.0–2.2 g/kg @ 75 kg)** — 2 kg came off partly unfuelled, lean mass is at risk. No deficit for the rest of the block: a 6-week volume ramp on 5-weeks-detrained legs cannot run in one, and bone remodelling wants fuel. Resume the cut to 73 post-race if still wanted.
 - **⚠️ TIBIA STILL GATES EVERYTHING.** Shin reported fine 2026-08-31. Engine ≠ chassis: the aerobic system survived the gap far better than impact tolerance did. **Set distance by bone, not by breath.** Week A is 100% easy for this reason.
 - **The lesson, again: this target died from a dark month, not from slow days.** Jul 1–16 killed the 50k; Jul 29 – Aug 30 killed sub-2:50. **Logging restarts Mon 2026-09-01 and is the countermeasure.**
@@ -141,7 +144,9 @@ Drop sets, myo-reps, lengthened partials. Isolation only Wks 5–7. Compounds Wk
 
 ---
 
-## Locked exercise subs (do not suggest swaps)
+## Locked exercise subs — ⏸️ DORMANT 2026-08-31 (barbell gym gone; see `workouts/cali_fullbody.md` §Substitutions for the live list)
+
+### ~~Locked exercise subs (do not suggest swaps)~~
 
 Upper A: **Pec Deck** (vs Cable Fly), **Face Pull** (vs Rear Delt Fly), **DB Curl** (vs Hammer).
 Lower A: **Lying Leg Curl** (vs Seated).
