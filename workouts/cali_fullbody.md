@@ -56,15 +56,21 @@ Couch stretch 45 s/side · calf stretch 30 s/side · easy walk.
 
 Bodyweight training progresses by **leverage, not load**. The gate is unchanged in spirit: **all sets at the top of the rep range AND every set RPE ≤7 → advance one step on the ladder.** A set creeping to RPE 8 = hold and clean it. Reps before leverage.
 
-| Movement | Regression ← → Progression ladder |
-|----------|-----------------------------------|
-| Push-up | wall → incline bar → knee → **strict floor** → feet elevated → archer → one-arm progressions |
-| Inverted Row | bar high (upright) → **bar hip height** → bar lower → feet elevated → tuck front lever row |
-| Pull-up | dead hang → scap pull-up → **band-assisted / 5 s negatives** → strict → weighted |
-| Pike Push-up | hands elevated → **floor pike** → feet elevated → wall-supported HSPU |
-| Bulgarian Split Squat | assisted (hold support) → **BW** → paused → deficit (⚠️ only if running volume allows) |
-| Single-Leg RDL | fingertips on support → **BW** → BW + reach → light DB |
-| Tibialis Raise | **BW heels-on-wall** → BW slow eccentric → weighted (plate on toes / tib bar) |
+**Bold = current position, set by the 2026-08-31 baseline session. Update this table after every cali day.**
+
+| Movement | Regression ← → Progression ladder | Next step |
+|----------|-----------------------------------|-----------|
+| Push-up | wall → **incline bar (setting 3)** → incline 2 → strict floor → feet elevated → archer → one-arm | **→ incline 2.** Gate cleared 4×12 @ RPE 6. Do NOT skip to feet-elevated |
+| Inverted Row | bar high (upright) → bar setting 4 → **bar setting 3 (TOO LOW)** → bar lower → feet elevated → tuck front lever row | **← raise to setting 4.** Ran 11→10→8→7 @ RPE 9 |
+| Pull-up | dead hang → scap pull-up → **low bar, feet-assisted (5 clean reps)** → less assist → band-assisted → strict → weighted | **hold, add foot assist → RPE 8.** Ran RPE 10 RIR 0 ×3 |
+| Pike Push-up | hands elevated → **high box** → low box → floor pike → feet elevated → wall-supported HSPU | **hold.** Build 7 → 10 reps first |
+| Bulgarian Split Squat | assisted (hold support) → **BW** → paused → deficit (⚠️ only if running volume allows) | **hold BW.** 6–7/leg at the RPE 6 cap |
+| Single-Leg RDL | fingertips on support → **BW** → BW + reach → light DB | **hold BW.** 7–8/leg at the cap |
+| Tibialis Raise | **BW heels-on-wall (20/15/15)** → BW slow eccentric → weighted (plate on toes / tib bar) | **hold BW 3×20.** No load until all 3 sets are 20 @ RPE ≤7 |
+| Hanging Knee Raise | bent-knee tuck → **BW knee raise (3×8)** → straight-leg → toes-to-bar | **hold.** Build 8 → 12 |
+| Side Plank | knees down → **BW 2×30 s @ RPE 8** → 2×45 s → feet stacked / star | **hold** until RPE ≤7 |
+
+⚠️ **Structural note from the baseline: this session is push-light and pull-heavy** — push avg RPE 5.9, **pull 9.4**. The A1/A2 superset compounds it: rows at RPE 9 fry the pull system before pull-ups even start. Balance the two before adding volume anywhere.
 | Hanging Knee Raise | lying knee raise → **hanging knee** → hanging knee to chest → toes-to-bar |
 
 **Never re-open at a level that produced RPE 9+.** Off a layoff: seed conservative, autoregulate up — loads landing under prescription is EXPECTED, not a flag.

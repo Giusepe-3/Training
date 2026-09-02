@@ -1201,3 +1201,28 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
   - Timing exception: post-class ~17:30, not AM — the re-plan itself was written at 14:37 today.
   - Full prescription + progression ladders → `workouts/cali_fullbody.md`. Fillable log → `logs/sessions/2026-08-31_cali_fullbody.md`.
   - **Next: Tue 9/1 — Run 5 k easy Z2, PM ~13:00, HR ≤150, metronome 166.** Gate: if legs are sore beyond a 3/10 tomorrow AM, the run still happens but drops to 4 k — the cap exists precisely so this does not trigger.
+
+- **Mon 8/31 — Cali Full Body — ✅ DONE.** 16:20→17:30 (70 min). **28/28 working sets, 278 reps, avg RPE 7.3 (set-weighted), session RPE 7/10.** Zero external load — BW 75.0. Shin **clean**, no pain/tweaks. Full log → `logs/sessions/2026-08-31_cali_fullbody.md`.
+  - **The headline: the session was one-sided.** Push 5.9 avg RPE · **pull 9.4** · legs 5.7 · core/tib 7.5. Push-ups cleared the progression gate on the first try (4×12 @ RPE 6) while the pull work ran at RPE 9–10 with rep decay. User answered **both** "under-loaded Y" and "over-loaded Y" — that is not a contradiction, it is exactly this split.
+  - **⭐ Pull-up baseline established: short/low bar, feet-assisted, 5 clean reps ×3.** That is the ladder anchor for the block. But it came in at **RPE 10 / RIR 0 on all three sets** — over-cap, and inflated by the 4 preceding inverted-row sets at RPE 9. **Next Fri: add foot assist to land RPE 8.** No leverage progression until 3×5 @ RPE ≤7.
+  - **⚠️ Inverted Row was the mis-set.** Bar at the same notch as the push-ups (setting 3) → 11→10→8→7 with RPE pinned at 9. Rep decay with flat RPE = too hard, full stop. **Raise the bar one notch (setting 4)** for 4×8–12 @ RPE 7–8.
+  - **Push-up caveat: the gate cleared on the INCLINE, not on the floor.** Prescription said start strict floor; actual was incline setting 3. So the step owed is **incline 2 → then strict floor**. Feet-elevated is two rungs up — do not skip to it.
+  - **✅ LEGS RPE 6 HARD CAP RESPECTED — the single best thing about this session.** BSS stopped at 6–7/leg instead of chasing 10; SL-RDL 7–8/leg. Both capped at RPE 6. **Short of the prescribed reps is CORRECT execution here, not a miss. Do not "fix" it.**
+  - **✅ Tibialis Raise 3×20 done — 20/15/15, RPE 8→7.** Rep decay and RPE 8 on set 1 = anterior tib is untrained, as expected. Hold BW 3×20, no load, until all three sets hit 20 @ RPE ≤7. **Shin-muscle soreness ≠ bone. Pinpoint bone pain is the flag; tib DOMS is the training working.**
+  - **Next session bumps (Fri 9/4 cali):**
+    - Push-up: **incline setting 3 → setting 2**, 4×8–12 @ RPE ≤7 (one rung; NOT feet-elevated)
+    - Inverted Row: **setting 3 → setting 4 (bar higher)**, 4×8–12, target RPE 7–8, no rep decay
+    - Pull-up: same low bar, **more foot assist**, 3×5 @ RPE 8. Hold until RPE ≤7
+    - Pike Push-up: **hold high box**, build 7 → 10 reps before lowering
+    - BSS / SL-RDL: **hold BW, hold the RPE 6 cap.** Friday precedes Sunday's 10 k long — the cap matters more Friday than Monday
+    - Tibialis Raise: **hold BW 3×20**, no load
+    - Hanging Knee Raise: hold BW, build 8 → 12
+    - Side Plank: hold 2×30 s until RPE ≤7, then 2×45 s
+
+- **Tue 9/1 — Run 5 k easy Z2 — ❌ SKIPPED (rest day taken).** First planned session of the re-entry block missed. Not a bone flag, not an injury — a rest day taken after the first lifting session in 39 days. Reasonable in isolation; the risk is structural, since Wed 9/2 was also scheduled REST → **two consecutive rest days at the start of a block whose stated failure mode is dark weeks.**
+
+- **Wed 9/2 — REST → ⚠️ SWAPPED TO RUN 5 k easy Z2.** Wed rest and Thu run trade places. Rationale: 2 days post-cali, legs fresh, shin clean, and the block cannot afford a 3-day gap in week A of a 6-week runway. **Thu 9/3 becomes full REST.**
+  - **Revised Week A: Mon cali ✅ · Tue rest ✅ · Wed run 5 k · Thu REST · Fri cali + run 6 k · Sat REST · Sun LONG 10 k = 21 km** (planned 26).
+  - **The missing 5 km is written off, not clawed back.** Per the standing rule: repeat, don't compress. 21 → 29 km into Wk B is a bigger step than planned; if Wk B feels hot, hold Wk A volume and repeat rather than forcing the ramp.
+  - Rules unchanged: HR ≤150, metronome **166**, easy Z2, shin check. Expect ~6:40–7:10/km at 75 kg.
+
