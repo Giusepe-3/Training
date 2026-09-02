@@ -1226,3 +1226,12 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
   - **The missing 5 km is written off, not clawed back.** Per the standing rule: repeat, don't compress. 21 → 29 km into Wk B is a bigger step than planned; if Wk B feels hot, hold Wk A volume and repeat rather than forcing the ramp.
   - Rules unchanged: HR ≤150, metronome **166**, easy Z2, shin check. Expect ~6:40–7:10/km at 75 kg.
 
+- **Wed 9/2 — Run 5 k easy Z2 — ✅ DONE.** 5.0 km, 37:34, **7:30/km**, avg HR **145**, max 176, **94 % Z2**, cadence **160**, 4 walk breaks, RPE **4**. Night, humid, 16 °C. **Shin CLEAN — check #10.** Legs: good, ready to build back. Full log → `logs/sessions/2026-09-02_run.md`.
+  - **✅ THE HEADLINE: the 34-day gap cost nothing aerobically.** HR 145 today vs **144 on 7/22** (6 k @ 6:44/km). Raw pace is 46 s/km slower — but **4 walk breaks sit inside the 37:34**; back out ~4 min and running pace is **≈6:43/km, dead-on the July reference at the same heart rate.** Do not read 7:30 as detraining. Engine ≠ chassis still holds, and it is the chassis that needs the 6 weeks.
+  - **RPE 4 at 94 % Z2** = the easiest run in the log. Executed correctly as an easy day.
+  - **❌ CADENCE 160 — the one real regression, and it is the block's oldest open item.** Streak was 166 → 166 → **168 (PR)** → 167 across 7/19–7/25. It fell straight back into the pre-metronome band (159–164) the moment the streak broke. **This settles the W8 question early: the habit was never habitual.** ~6 cued runs built it, 5 dark weeks erased it. **Metronome 166 mandatory on every run from here, long runs included.** Treat as a BONE lever, not a cosmetic one — higher cadence = shorter ground contact = lower tibial impact, and the tibia gates everything.
+  - **❌ 4 walk breaks.** July had closed the continuous-run item green (0 breaks on 7/22, again on 7/25 on a bad-feel day). First run back off a 34-day gap — fine today, not fine as a trend. Watch Fri.
+  - **Max HR 176 on a 94 % Z2 run** — brief spike, most likely a restart surge off a walk break. Non-issue unless it repeats.
+  - **Fuel: 3377 kcal vs ~2400 maintenance = +977. Protein 157 g ✅ (in band), creatine ✅.** One surplus day is noise and needs no correction — but the cut was closed at 75.0 kg precisely to HOLD that weight; the ~5–6 s/km economy gain is banked and giving it back is a real cost to Oct 11. Watch the 7-day BW trend.
+  - **Next: Thu 9/3 — REST, full** (swapped with today). Then **Fri 9/4 — cali AM + 6 k easy PM**, metronome 166, target 0 walk breaks.
+
