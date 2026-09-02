@@ -1235,3 +1235,14 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
   - **Fuel: 3377 kcal vs ~2400 maintenance = +977. Protein 157 g ✅ (in band), creatine ✅.** One surplus day is noise and needs no correction — but the cut was closed at 75.0 kg precisely to HOLD that weight; the ~5–6 s/km economy gain is banked and giving it back is a real cost to Oct 11. Watch the 7-day BW trend.
   - **Next: Thu 9/3 — REST, full** (swapped with today). Then **Fri 9/4 — cali AM + 6 k easy PM**, metronome 166, target 0 walk breaks.
 
+- **Thu 9/3 — REST (full) — STAGED.** Swapped from a run day after Tue's skip. No run, no gym, no "light shakeout". 3 rest days/wk is what makes the no-down-week ramp survivable, and Friday is a double. AM asks for two things specifically: **BW** (first since 75.0 on 8/31, following a +977 kcal day — log it, do not react to it; the 7-day trend is the number) and **shin check #11** (48 h off the tib raises, 12 h off the run). → `logs/sessions/2026-09-03_daily.md`.
+
+- **Fri 9/4 — Cali Full Body (session 2) AM + Run 6 k easy PM — STAGED.** → `logs/sessions/2026-09-04_cali_fullbody.md`.
+  - **The whole point of this session is fixing the 8/31 imbalance: push goes UP a rung, pull comes DOWN.** Baseline was push RPE 5.9 / pull 9.4. **No volume gets added anywhere until that gap closes.**
+  - **Push-up: incline 3 → incline 2** (rung earned by 4×12 @ RPE 6). Expect reps to fall to 8–10 — correct. Not strict floor, not feet-elevated.
+  - **Inverted Row: setting 3 → setting 4 (higher/easier).** Target RPE 7–8 with **no rep decay**. Rep decay at flat RPE = too hard, always.
+  - **Pull-up: more foot assist → RPE 8.** Anchor stays 5 reps. No leverage progression until 3×5 @ RPE ≤7.
+  - **Hold everything else**: pike high box (build 7→10), BSS/SL-RDL BW at the cap, **tibialis BW 3×20 no load**, knee raise build 8→12, side plank 2×30 s.
+  - **⚠️ LEGS RPE 6 CAP MATTERS MORE TODAY THAN MONDAY — Sunday is the 10 k long run**, the first double-digit run since 2026-06-22.
+  - **PM run, the two live items: METRONOME 166 from step one** (9/2 came in at 160; the July streak evaporated, so the habit is proven not habitual — cue every run for the rest of the block) **and target 0 walk breaks** (4 on 9/2; 0 was held twice in July, in reach on a 6 k).
+
