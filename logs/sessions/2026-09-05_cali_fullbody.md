@@ -1,6 +1,12 @@
-# 2026-09-04 (Fri) — Cali Full Body (session 2) + Run 6 k PM — Wk A, Day 5 — STAGED
+# 2026-09-05 (Sat) — Cali Full Body (session 2) — Wk A, Day 6 — STAGED
 
-**Double day.** Cali AM (normal Friday slot), run 6 k easy PM ~16:00.
+**⚠️ MOVED from Fri 9/4 at user request ("ill gym tomorrow morning", stated 9/4 PM). Saturday was a full REST day — the long-run primer. It is now a loaded day sitting 24 h before the block's biggest session (Sun 10 k, first double-digit run since 2026-06-22), instead of 48 h.**
+
+**Consequence — one rule tightens and nothing else changes:**
+- **LEGS RPE 6 CAP IS NOW HARD-HARD.** BSS + SL-RDL bodyweight only, stop 2 reps short of the cap, zero chasing. A sore quad Sunday costs the 10 k; there is no version of this where Saturday's legs matter more than Sunday's long run.
+- **Tibialis Raise 3×20 stays. Never cut.** It survives every cut, including this one.
+- Upper work is unaffected — carry the full push/pull fix below.
+- **Contingency:** if Sunday AM legs feel off, the long drops to **8 k**, not skipped. Long run survives; volume flexes.
 **⚠️ Friday's cali precedes Sunday's 10 k long run — the LEGS RPE 6 HARD CAP matters more today than it did Monday.**
 
 ## ☀️ AM (on wake) — STANDARD FORMAT — DO NOT CHANGE

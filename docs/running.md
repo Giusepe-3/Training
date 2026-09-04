@@ -52,7 +52,7 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). **St
 ## Still fully in force from the original plan
 
 - **⚠️ TIBIA GATES EVERYTHING.** Pinpoint bone pain = STOP. Shin check every AM. Distance set by bone, not breath — **engine ≠ chassis**, and the gap hurt impact tolerance far more than it hurt the aerobic system.
-- **Cadence 165+**, metronome cued on every easy run. Last streak 166/166/168/167 (Jul). Rebuild from run 1.
+- **Cadence 165+**, metronome cued on **every** run, longs included — never uncued (settled 2026-09-04: cue-dependent, 160 uncued 9/2 → 166 cued 9/4). Streak 166/166/168/167 (Jul), re-hit 166 on 9/4.
 - **Fuelling protocol, checkpoint design, HR caps (Z2 ≤150), shoe rules** — unchanged, see below.
 - **Consistency > any hero session.** Twice proven, expensively.
 
@@ -206,15 +206,16 @@ Paces: easy = by HR not pace (~6:50–7:30 expected) · threshold (T) = 5:25–5
 
 ---
 
-## Cadence — 165+ made habitual (the carried miss)
+## Cadence — ✅ SETTLED 2026-09-04: CUE-DEPENDENT, NOT LOST
 
-Pace-linked at 159–166, parked 164 all build. Fix at EASY pace, where it always regresses — and it cuts tibial load 5–10% exactly when bone is vulnerable.
+**The question is answered. Two runs settled it:** 9/2, first run after the 34-day gap, uncued → **160** (straight back into the pre-metronome band 159–164). 9/4, metronome from step one → **166 exactly**, recovered in a single session. The July streak (166/166/168 PR/167) was never detrained — **turnover simply does not appear without the cue.**
 
-- **W1–2:** metronome/watch alarm @ 166 — 6×2′ on/off within every easy run.
-- **W3–4:** cued for the full first half of every easy run.
-- **W5+:** every easy run full-run 165+, cue only when field drops.
-- **W8 habit test:** one uncued easy run ≥165 avg = solved. Below → keep cueing through W11.
+**⇒ THE RULE FOR THE REST OF THE BLOCK: metronome 166 on EVERY run, long runs included. No uncued runs. No "I'll feel it out today."** This is a **bone lever, not a cosmetic one** — higher cadence = shorter ground contact = ~5–10% lower tibial impact, and the tibia gates the block.
+
 - Log cadence in every PM run block (already convention).
+- **The W8 uncued habit test is MOOT — 9/2 already ran it, uncued, and it failed.** Do not re-run it and do not drop the cue to "test" anything.
+
+> **DORMANT — original W1→W8 weaning protocol (2026-07-17), superseded 2026-09-04.** It assumed the cue could be tapered out: W1–2 metronome 6×2′ on/off · W3–4 cued for the first half · W5+ cue only when the field drops · W8 uncued test ≥165 = solved. The 34-day gap ran that test early and it came back 160.
 
 ---
 
