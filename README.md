@@ -1,11 +1,11 @@
 # Training — 11-Week Hypertrophy Block
 
-> 4 days lifting + 2 days running. Bridge from Madrid HM recovery to **sub-2:50 30K** block (race Oct 11).
+> 4 days lifting + 2 days running. Bridge from Madrid HM recovery to the **sub-3:10 30K** block (race Oct 11; re-cut 2026-08-31, was sub-2:50).
 
 **Block dates:** April 27 – July 12, 2026 (11 weeks)
 **Goal:** Maximum upper-body hypertrophy. +3–4 kg lean mass realistic, visible chest/back/shoulder/arm change.
 **Approach:** Recomp at maintenance calories, RPE 8 from session 1 of accumulation, intensity techniques week 5+.
-**Block 2:** July 13 – October 11, 2026 (13 weeks). **Sub-2:50 30K** target (5:40/km; floor sub-3:00). Race Sun Oct 11, 2026.
+**Block 2:** July 13 – October 11, 2026. **⚠️ RE-CUT 2026-08-31 → sub-3:10 30K** (6:20/km; stretch sub-3:00, gated on the Fri Sep 18 checkpoint). Race Sun Oct 11, 2026. **❌ sub-2:50 RETIRED** — killed by the 34-day dark gap, not by the engine. Live block table → `logs/session_log.md` § "RE-PLAN 2026-08-31".
 
 ---
 
@@ -81,4 +81,4 @@ training/
 - **Runs Wed & Sat:** both fall the day after a lower session — legs not pre-fatigued for quality lift, runs aid recovery rather than blunt it.
 - **Recomp not bulk:** finished race lean. Add muscle slowly without piling fat to cut later before race block.
 
-🏁 Block 1 ends Sun July 12, 2026. Block 2 (**sub-2:50 30K**) starts Mon July 13. Race Sun October 11, 2026.
+🏁 Block 1 ends Sun July 12, 2026. Block 2 (**sub-3:10 30K** — re-cut 2026-08-31, was sub-2:50) starts Mon July 13. Race Sun October 11, 2026.

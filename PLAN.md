@@ -3,7 +3,7 @@
 **Dates:** April 27 – July 12, 2026 (11 weeks)
 **Goal:** Maximum upper-body hypertrophy. +3–4 kg lean mass realistic.
 **Approach:** 4 lifts + 2 runs/week. Recomp at maintenance. Push from day 1 of accumulation.
-**Block 2:** July 13 – October 11, 2026 (13 weeks). **Sub-2:50 30K** (5:40/km; floor sub-3:00). Race Sun Oct 11, 2026. Target reset 2026-07-17 — the old "sub-2:20" (4:40/km) was implausible vs a 6:09/km HM PR. **12-week program built 2026-07-17 → `docs/running.md`** (evidence prompt: `docs/block2_plan_prompt.md`).
+**Block 2:** July 13 – October 11, 2026. **⚠️ RE-CUT 2026-08-31 → SUB-3:10 30K** (6:20/km; stretch sub-3:00, opens only if the Fri Sep 18 checkpoint clears). Race Sun Oct 11, 2026. **❌ sub-2:50 RETIRED 2026-08-31** — killed by the 34-day dark gap (Jul 29 → Aug 30), not by the engine; ❌ the older "sub-2:20" (4:40/km) was retired 2026-07-17 as implausible vs a 6:09/km HM PR. **Live 6-week block table → `logs/session_log.md` § "RE-PLAN 2026-08-31"**; program history → `docs/running.md`.
 
 ---
 
@@ -182,4 +182,4 @@ Novice/early-int tier = HUGE gain potential over 11 weeks.
 - 1–2 PRs on priority compounds (bench, OHP, weighted pull-up)
 - Strength jumps: bench +10–15 kg, DL +15–20 kg, weighted PU +10–15 kg added load (realistic at novice/early-int tier)
 
-🏁 Block ends Sun Jul 12, 2026. Block 2 (**sub-2:50 30K**) starts Mon Jul 13. Race Sun Oct 11, 2026.
+🏁 Block ends Sun Jul 12, 2026. Block 2 (**sub-3:10 30K** — re-cut 2026-08-31, was sub-2:50) starts Mon Jul 13. Race Sun Oct 11, 2026.

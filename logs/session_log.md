@@ -1277,3 +1277,122 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
   - **⚠️ RED FLAG — FUEL. Third consecutive surplus day: 9/2 +977 · 9/4 +546 · 9/5 +937 ≈ +2460 over three days ≈ +0.3 kg of actual fat**, on top of the +0.85 kg already on the scale (75.0 → 75.85). **One surplus day was noise; three of three is a pattern.** The cut was closed at 75.0 kg **to hold 75.0** — the ~5–6 s/km economy gain is the cheapest time available for Oct 11 and it is being handed back. **Protein 227 g = 3.0 g/kg, ~60 g over the 155–165 band for zero extra benefit; trimming to 165 g alone is ≈ −250 kcal.** **Sunday cap ~2600** — a long-run day earns carbs, not a third +900. **Weigh in Sunday AM.**
   - **Next: Sun 9/6 — LONG 10 k AM.** First double-digit run since 2026-06-22. Metronome **166** from step one, HR ≤150, fuel 30 g/h, target 0 walk breaks. **Watch % Z2 — below ~75 % means the pace is too fast for the day.** Contingency stands: legs off at AM check → drop to 8 k, do not skip. Legs finished today at RPE 6 with no pain, so the 10 k is green as of tonight.
   - **Then Mon 9/7 — Cali session 3, back in the normal Mon AM pre-class slot**, opening Wk B (29 km, long 12 k). Full bump list in the session file.
+
+- **Sun 9/6 — AM check ✅ GREEN. LONG 10 k runs as staged, no cut.** Sleep **9:30 / 9**, **RHR 46 (Δ+2)**, motivation 9, energy **10**, stress 1, joints all clear. **SHIN CLEAN — check #14** (14 straight). Contingency (drop to 8 k) NOT triggered.
+  - **✅ Legs all 1 across the board** (quad/ham/glute/calf/tib) **20 h after cali #2.** Sat's calf 2 / tib 2 cleared overnight. **Second consecutive time the RPE 6 leg cap delivered fresh legs into a run day** — and this time off a 24 h gap, not 48 h. The Fri→Sat cali move cost nothing. The cap is validated, not just tolerated.
+  - **Upper DOMS 3/3/2/2 (chest/delt/back/arm) = the push/pull fix landing, on schedule.** Push jumped 5.9 → 8.0 RPE yesterday; chest+delt at 3 is the expected price of that rung. **Irrelevant to the run.** Only watch item: heavy arm carriage late → do not let it pull cadence down.
+  - **RHR +2 is noise off a 65-min session, not a flag.** Sleep 9:30 + energy 10 + stress 1 = best readiness state in the log, two days running.
+  - **✅ BW 75.85 — FLAT vs Sat, the first non-rising point in the fuel drift.** 9/5 ran +937 kcal and the scale did not move → confirms the +0.85 kg over the 75.0 close is mostly glycogen + water, not fat. **Does not close the flag: hold ~2600 today** (long-run day earns carbs, not a fourth +900), **protein 155–165 not 227.** 7-day trend call Mon AM.
+  - **Session: 1 k WU + 8 k Z2 + 1 k CD. Metronome 166 from step one incl. cooldown · HR ceiling 150 · 0 walk breaks · fuel 30 g/h, first feed ~35 min.** Expect ~7:05–7:25/km at 75.85 kg — **do not chase 6:44; distance is the goal, not pace.**
+  - **⭐ The number that matters today is % Z2, not pace.** 9/4 drifted 94 → 80 over 6 k; 10 k has far more room to drift. **Below ~75 % = the pace was too fast for the day.**
+  - **+36 % step over Fri's 6 k — the biggest single jump of the block.** First double-digit run since 2026-06-22 (18 k). Pinpoint tibia pain mid-run = stop and walk in, non-negotiable.
+  - Post-run to log: shin check #15, walk breaks, cadence, % Z2, RPE, HR avg/max.
+
+---
+
+## ⚠️ ADDENDUM 2026-09-06 — GOAL-PACE EXPOSURE (GATED, does not open before Fri Sep 18)
+
+**The gap this closes:** race pace 6:20/km sits at roughly **HR 160–168**. Under the block as written, the user arrives at Oct 11 having never run a step there. Only data at that intensity is Madrid 2026-04-26 — all-out, 78 % Z5, avg HR 180. **Untested race pace over 30 k is precisely the blowup scenario the sub-3:10 target exists to avoid.**
+
+**The fix is ~8 km of goal pace total, placed INSIDE the two longest runs — no extra sessions, no extra impact days, no hero workouts on the bone.** Goal pace on already-fatigued legs is the only version that transfers to km 25 of a race that is +36 % over the longest training run.
+
+| Date | Session | Prescription |
+|------|---------|--------------|
+| **Fri Sep 18** (Wk C) | **8 k benchmark** — already in the block | 2 k WU easy → **8 k at hardest pace holdable for 8 k** → 2 k CD. Metronome 166. Log avg pace, avg HR, max HR. |
+| **Sun Sep 27** (Wk D) | Long 18 k | **15 k easy @ HR ≤150 → final 3 k @ 6:20/km.** Hit 6:20 and hold — not a sprint finish. |
+| **Sun Oct 4** (Wk E) | Long 22 k | **17 k easy @ HR ≤150 → final 5 k @ 6:20/km.** Full rehearsal: race kit, race shoes, race fuel, race breakfast. |
+
+**Sep 18 gate — how to read the benchmark:**
+- **≤5:50/km** → sub-3:00 stretch OPENS
+- **5:50–6:10/km** → sub-3:10 CONFIRMED, run it
+- **slower than 6:10/km** → sub-3:10 is itself the stretch; race conservative, target finishing
+- **any pinpoint shin pain, before or after** → **the entire addendum VOIDS.** Block finishes 100 % easy. The tibia gate outranks this and every other item.
+
+**Guardrails (non-negotiable):**
+- **Nothing above HR 150 before Fri Sep 18.** Weeks A and B stay 100 % easy as written.
+- This adds **zero** sessions and zero run-days. It changes the last third of two long runs, nothing else.
+- The RPE 6 leg cap on cali days, the 3 rest days/wk, and metronome 166 on every run all stand unchanged.
+- **Consistency still outranks intensity.** This target dies from dark weeks, not from slow days. If a week goes dark, the goal-pace work is the first thing cut, not the volume.
+
+- **Sun 9/6 — Run LONG 10 k easy Z2 — ✅ DONE.** 10.0 km, **1:15:09**, **7:31/km**, avg HR **150**, max 161, **97 % Z2**, cadence **167**, **0 walk breaks**, RPE **4**. Sunny, calm. Fuel: half a banana + 80 % of a Powerade (~30–40 g carbs / 75 min = on target). **SHIN CLEAN — check #15.** Full log → `logs/sessions/2026-09-06_run.md`.
+  - **✅ THE HEADLINE: the best-executed run of the block, on its hardest session.** Longest run since **2026-06-22 (18 k)**, a **+36 % step** over Friday's 6 k, taken 20 h after a lifting session instead of the usual 48 h — and every process metric came back green.
+  - **✅ 97 % Z2 — highest in the log.** 94 (5 k) → 80 (6 k) → **97 (10 k)**. The 9/4 note set the gate at "below ~75 % means too fast"; the answer was 97. **Easy-day discipline scaled UP with distance instead of eroding.**
+  - **✅ CADENCE 167 — THE BLOCK'S OLDEST OPEN ITEM IS CLOSED.** Third cued run, third hit: 166 → 166 → **167**, one spm off the 168 PR, held through 75 minutes where fatigue had every opportunity to drag turnover down. Carried unsolved since the ultra build. **It was never lost, only uncued.** Metronome stays on every run to the race — bone insurance, not cosmetics.
+  - **✅ 0 walk breaks over 10 k.** Continuous running now green at 6 k and at 10 k under fatigue. The 4 breaks on 9/2 were first-run-back rust, not a pattern.
+  - **✅ Shin clean, check #15, through the biggest distance jump of the block.** Bone gate wide open.
+  - **⚠️ The honest pace read: 7:31/km @ HR 150 today vs 7:08/km @ HR 145 on 9/4 — slower pace at a HIGHER heart rate.** Over 67 % more distance in sun rather than 13 °C rain, that is ordinary decoupling on a re-entry long run and **not a flag**. Max 161 = steady drift, no spikes. But the run was spent **AT the ceiling, not under it.** **Action for Wk B's 12 k: open slower than feels right** — the extra 2 km comes out of the first half's pace budget, not the second half's heart rate.
+  - **⭐ "A bit tired but I could have done 15 km chill" — the most important sentence of the week.** RPE 4 on the longest run since June. **The engine is ahead of the chassis and ahead of the plan.** See the extraction audit in the Week A wrap: the lever is compliance, not more kilometres.
+  - **✅ FUEL DRIFT ARRESTED. 2693 kcal vs the ~2600 long-day cap = +93**, after +977 / +546 / +937. **Protein 170 g**, down from 227 and five over band on a long day — the correction landed. Creatine ✅. **Weigh in Mon AM; that reading makes the 7-day trend call.**
+
+---
+
+## 📊 WEEK A WRAP — Aug 31 – Sep 6 · ⚡ PERFORMANCE EXTRACTION AUDIT FIRST (mandatory Sunday)
+
+### ⚡ 1. EXTRACTION AUDIT — is the plan UNDER-dosing a fast-adapting engine?
+
+**Model said · reality said:**
+
+| Item | Modeled | Actual | Read |
+|---|---|---|---|
+| Easy pace | 6:40–7:10/km | 7:30 · 7:08 · 7:31 | **Behind model.** Chassis, not engine. |
+| Easy HR | ≤150 | 145 · 145 · 150 | On/under ceiling every run |
+| Easy RPE | 4–5 | 4 · 3 · 4 | **Ahead of model** |
+| Long run | 10 k, hard step | 10 k @ RPE 4, *"could have done 15 k chill"* | **Well ahead of model** |
+| Cadence | rebuild over weeks | **closed in 3 runs** (166/166/167) | **Far ahead of model** |
+| Shin | the block's gate | 15/15 clean, through +36 % | **Ahead of model** |
+| RHR | — | 44 · 46 vs baseline 44 | Flat at build-best |
+
+**VERDICT: the engine is ahead; the chassis is exactly on schedule; the two are being confused.** 9/2 came in at **HR 145 vs 144 on 7/22** — the 34-day gap cost essentially nothing aerobically. RPE 4 on the longest run since June, with 5 km declared in reserve, is genuine un-cashed capacity. **But pace is 24 s/km down at the same HR, and that is impact tolerance, which is bought only with weeks.** Engine ≠ chassis, as written at the top of the block.
+
+**⭐ Where the un-cashed performance actually is — and it is NOT the long run:**
+1. **Session compliance. Week A ran 3 of 4 prescribed runs (21 km of 26).** The missed Tue 9/1 run is the single largest gap between plan and reality this week. **Running 4 of 4 in Wk B is worth ~+8 km of the safest kilometres available** — short, easy, distributed — with **zero** added long-run bone exposure. That is the whole ratchet.
+2. Nothing else. The long-run ramp (10 → 12 → 15 → 18 → 22) is **already stacked at its ceiling with the down week sacrificed**; there is no room to add there.
+
+**❌ EXPLICITLY REJECTED: raising Wk B's long run above 12 k on the strength of "could have done 15 k."** RPE 4 is a *breath* signal. **The standing rule is set distance by bone, not by breath**, and 15 clean shin checks are the product of a conservative ramp, not a licence to abandon it. **Guardrail applies: the tibia gate and consistency > hero session win every tie.** The 6:20/km question gets answered by the **Sep 18 benchmark**, not by improvising on a long run.
+
+### 2. Compliance scoreboard
+
+| | Planned | Actual | |
+|---|---|---|---|
+| Runs | 4 (26 km) | **3 (21.0 km)** | ⚠️ 81 % km, 75 % sessions |
+| Run time | — | **2:35:32** | |
+| Cali | 2 | **2** | ✅ 100 % (Fri→Sat moved) |
+| Rest days | 3 | **2** (9/1, 9/3) | ⚠️ Sat rest became cali |
+| Shin checks | 7 | **7 clean** | ✅ 15 straight overall |
+| Cadence cued | 3 runs | **3/3 on target** | ✅ |
+| Walk breaks | 0 | 4 → 0 → 0 | ✅ closed |
+
+**The 5 km shortfall is written off, not clawed back** — standing rule, repeat don't compress.
+
+### 3. Trends
+
+- **Runs:** 5 k @ 7:30/HR145/94 % Z2 → 6 k @ 7:08/HR145/80 % → **10 k @ 7:31/HR150/97 %**. **True post-gap easy benchmark = 7:08/km @ HR 145** (9/4, the clean comparable). vs **7/22: 6:44/km @ HR 144** → **~24 s/km chassis cost off 34 dark days.** Returns with volume; do not chase it.
+- **Cali:** 2 sessions, **56/56 working sets, 568 reps.** Push/pull RPE gap **3.5 → 0.3 in one session** — the block's programming problem, solved. Legs held at the RPE 6 cap both times and **delivered DOMS-1 legs into a run day on 20 h of recovery.** The cap is validated, not merely tolerated. Tibialis 20/15/15 @ RPE 8 → **20/20/15 @ RPE 6**, one set short of the gate.
+- **BW:** 75.0 (8/31) → 75.85 (9/5) → **75.85 (9/6, flat)**. **+0.85 over the close; mostly glycogen + water — 9/5 ran +937 kcal and the scale did not move.**
+- **Fuel:** +977 · +546 · +937 · **+93**. **Drift arrested on the day it was called.** Protein 157 · 151 · 227 · 170 (avg 176, band 155–165 — the 227 spike corrected). Creatine 4/4 ✅.
+- **RHR 44 → 46 vs baseline 44. Sleep 9:21 and 9:30. Energy 10/10 twice.** Best readiness stretch in the log.
+
+### 4. Decisions for Wk B (Sep 7–13 · 29 km · long 12 k)
+
+1. **4 runs of 4. Non-negotiable — this is the week's only real lever** and the direct output of the audit.
+2. **Long stays 12 k.** Not 13, not 15. Bone sets distance.
+3. **Open the 12 k slower than feels right** — target ~7:35–7:50/km early. Today's 10 k ran **at** the HR ceiling, not under it; the extra 2 km must come from the first half's pace budget, not the second half's heart rate.
+4. **Metronome every run, no exceptions.** Item closed; keep it closed.
+5. **Zero work above HR 150 before Fri Sep 18.** The gated goal-pace addendum stays shut.
+6. **Cali returns to the Mon AM pre-class slot** — restores 48 h between lifting and the long run.
+7. **Weigh in Mon AM.** That reading makes the 7-day trend call. Non-long days ~2400, protein 155–165.
+
+### 5. Wk B schedule — 29 km
+
+| Day | Session | Km |
+|---|---|---|
+| Mon 9/7 | **Cali #3** AM, pre-class · legs RPE 6 cap · tibialis 3×20 | — |
+| Tue 9/8 | Run easy Z2, PM ~13:00 | 6 |
+| Wed 9/9 | **REST — full** | — |
+| Thu 9/10 | Run easy Z2 — shortest, PM ~13:00 | 5 |
+| Fri 9/11 | **Cali #4** AM + Run easy PM ~16:00 | 6 |
+| Sat 9/12 | **REST — full** | — |
+| Sun 9/13 | Run **LONG**, AM · fuel 30 g/h | **12** |
+| | | **29** |
+
+**Mon 9/7 cali bumps (from 9/5):** push-up **2 sets @ setting 2 + 2 sets @ setting 3** (all four to setting 2 once setting 2 gives 4×8 @ ≤8) · inverted row **hold setting 3, 4×8** until all four land ≤8, then build reps to 12 — **the rep cap fixed the decay, not the bar height; not re-fighting the setting** · pull-up **one more notch of foot assist**, anchor stays 3×5, no leverage progression until 3×5 @ ≤7 · pike and side plank **hold and rebuild** (both regressed from upstream fatigue, not detraining) · BSS/SL-RDL **BW at the RPE 6 cap** · **tibialis BW 3×20, no load, never cut.**
