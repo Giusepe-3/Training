@@ -1434,3 +1434,9 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 7. **New flag to watch:** quad/hip-flexor DOMS ≥2 on a run morning, or the Tue/Thu easy pace drifting at a held HR. Either = the bike is eating the runs → drop the commute to Z1 only, or ride one leg and walk/transit the other on the heaviest day.
 
 **Every PM block from today carries `Bike km:`.**
+  - **Mon 9/7 — Run easy 5 k shakeout — ✅ DONE.** 5.0 km, **36:30**, **7:18/km**, avg HR **147**, max 162, **97 % Z2**, cadence **167**, **0 walk breaks**, RPE **3**. Outdoor. *"Chill day."* **SHIN CLEAN — check #17.** Bike 24 km (uni day).
+    - **Ran 7:18/km against a 7:35–7:50 prescription — ~20 s/km hot.** Allowed to stand: **HR 147 came in under the 150 ceiling**, 97 % Z2, RPE 3. The gate held even though the pace instruction did not. **But the pattern is the one the block keeps repeating — feeling good becomes faster, not easier. On the 12 k Sunday that costs the back half; open that one at 7:50 and mean it.**
+    - **Best efficiency point of the block: 7:18/km @ HR 147, 24 h after a 10 k.** The clean comparable is 9/4 (7:08 @ 145, fully rested) — **10 s/km slower at +2 bpm on a day-after-long shakeout is a good reading, not a bad one.** Chassis is recovering faster than the ramp assumed.
+    - **RPE 3 is the lowest run RPE in the log.** Cadence 167 = **4th straight cued run on target** (166/166/167/167). Walk breaks 0 for the third run running.
+    - **Fuel:** 2566 kcal vs the corrected uni-day ~2650–2700 → **~100 under, noise, no action.** Protein **169 g** (band 155–165, marginally high, fine — see 9/6's 227 for what actually needs correcting). Creatine ✅. Alcohol 0. Steps 9100.
+    - **Wk B compliance: run 1 of 4 done.** The whole week's lever.
