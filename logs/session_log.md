@@ -1396,3 +1396,41 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 | | | **29** |
 
 **Mon 9/7 cali bumps (from 9/5):** push-up **2 sets @ setting 2 + 2 sets @ setting 3** (all four to setting 2 once setting 2 gives 4×8 @ ≤8) · inverted row **hold setting 3, 4×8** until all four land ≤8, then build reps to 12 — **the rep cap fixed the decay, not the bar height; not re-fighting the setting** · pull-up **one more notch of foot assist**, anchor stays 3×5, no leverage progression until 3×5 @ ≤7 · pike and side plank **hold and rebuild** (both regressed from upstream fatigue, not detraining) · BSS/SL-RDL **BW at the RPE 6 cap** · **tibialis BW 3×20, no load, never cut.**
+
+---
+
+## WEEK B — Mon Sep 7 → Sun Sep 13 · 29 km · long 12 k
+
+- **Mon 9/7 — Cali #3 MOVED to Wed 9/9; Cali #4 MOVED Fri → Sat 9/12. Monday converts REST → the week's shortest run (5 k, PM post-class).** User elected the swap. **Wednesday's full rest day is consumed; Thursday's rest is NOT created** — the week now runs **Tue run · Wed cali · Thu run · Fri cali + run** = **4 consecutive loaded days, a first for this block.** Accepted with mitigations: all three of those runs stay easy Z2, **legs stay hard-capped RPE 6 on both cali days**, Sat full REST is untouched, and **Sun's 12 k long still sits off a full rest day** — the one structural rule that never bends. **Upside of the move: shoulders (DOMS 3 today, 2 days off cali #2) get 4 days of recovery instead of 2 before pressing again.** Contingency: if Fri AM legs or shoulders read ≥2, Friday's cali cuts from the bottom up — tibialis 3×20 survives every cut.
+  - **AM block:** Sleep **9:00 h**, quality **10/10** (bed 00:00, wake 09:00). BW AM **75.85**. RHR **46** (Δ −2 vs 7 d). Motivation **10**, energy **10**, stress **2**. DOMS — chest 2, back 1, **shldr 3**, arm 1, quad 1, ham 1, glute 1, calf 1. Joints clean. **SHIN PERFECT — check #16.**
+  - **BW call made: 75.85 for the third consecutive day (9/5 · 9/6 · 9/7) after +937 and +93 kcal days. Flat under a surplus = the +0.85 kg over the 8/31 close is glycogen + water, not fat.** No kcal change. Hold **~2400 non-long / ~2600 long**, protein **155–165 g**.
+  - **2nd swap same morning — Cali #4 Fri → Sat 9/12.** Taken naively the week became **Tue · Wed · Thu · Fri · Sat · Sun = 6 consecutive loaded days on ONE rest day.** Rejected. **Rebalanced instead: Monday's rest is spent on the week's shortest run (5 k), Thursday becomes the full rest day.** Result: 4 runs / 29 km / 2 cali all preserved, **two full rest days, no session stacked as a double, every session in its natural slot, max 3 consecutive loaded.** Cost accepted: today's 5 k runs 24 h after Sunday's 10 k long — supported by the AM read (all leg DOMS 1, shin perfect, energy 10, RHR trending down); it is a post-long shakeout, **easy Z2, metronome 166, hard ceiling HR 150.**
+  - **Sat cali → Sun long now sits at 24 h, not 48 h — same shape as 9/5 → 9/6, which passed clean** (Sun 10 k, RPE 4, 97 % Z2, shin clean). Same tightening carries over: **Saturday legs go hard-hard — BSS + SL-RDL bodyweight only, stop 2 reps short, RPE 6 cap enforced as a ceiling not a target; tibialis 3×20 survives every cut.** Upper unaffected. **Contingency: if Sun AM legs read off, the long drops to 10 k — not skipped.**
+  - **Wk B revised:** Mon 9/7 run 5 · Tue 9/8 run 6 · Wed 9/9 **Cali #3** · Thu 9/10 **REST** · Fri 9/11 run 6 · Sat 9/12 **Cali #4** · Sun 9/13 **LONG 12 k**. Total **29 km, 4 runs, 2 cali, 2 rest.**
+
+---
+
+## 🚲 BIKE COMMUTE — DISCLOSED 2026-09-07. TIER 1 LOAD, NOT TRANSPORT.
+
+**User cycles 24 km every uni day — 12 km each way.** Uni days are **Mon · Tue · Wed · Thu** → **96 km/week, ~4–5 h of riding.** This was completely unmodeled until today.
+
+**This is the waiter-job mistake repeating.** In July the job's ~44 km/wk of walking was read as a NEAT footnote and it was Tier 1 load. **Same call here: 96 km/wk of cycling is training, and it goes in the log every uni day.** Never file it as "commute".
+
+**The read — mostly good news, one real cost, one accounting error:**
+
+- ✅ **Zero bone cost.** Cycling is non-impact. It does **not** spend the tibia's budget, which is the single gate on this block. This is the best possible form of extra aerobic volume for an athlete whose limiter is impact tolerance, not breath.
+- ✅ **Aerobic support, and it is not small.** ~4–5 h/wk of Z1–Z2 riding is *more clock time than the 29 km of running*. Block history already proved the transfer: the 34-day dark gap cost **~1 bpm** at the same easy pace (HR 145 on 9/2 vs 144 on 7/22) because cycling held the engine. **This partly explains why the engine keeps reading ahead of the chassis in the Sunday audits.**
+- ⚠️ **The real cost is quads, hip flexors and systemic recovery — not the shin.** Four consecutive riding days land Mon–Thu, exactly where the loaded training days now sit.
+- ❌ **The ~2400 kcal maintenance number is STALE, and stale the same way 2700 was.** 2400 was set 8/31 by *subtracting* the job's walking. The bike was never added back. **24 km of cycling ≈ +250–350 kcal.** This also explains **BW 75.85 flat across 9/5–9/7 on +937 and +93 kcal days** — that was not a mystery, it was an unlogged 96 km/wk.
+
+### Rules — effective immediately
+
+1. **Log `Bike km:` in the PM block every day.** Uni day = 24. Non-uni = whatever it was.
+2. **The commute rides EASY. Z1 spin, conversational, no traffic-light racing** — especially the ride home before a PM run, and every ride on Wed (cali) and Thu.
+3. **Do NOT add running km because the bike is there.** Bone sets running distance; the bike buys aerobic fitness, not impact tolerance. Standing rule, unchanged.
+4. **Do NOT cut the commute either.** It is free aerobic volume at zero bone cost, and this race is a finishing problem.
+5. **Fuel corrected: uni days (Mon–Thu) ~2650–2700 kcal · non-uni (Fri/Sat/Sun) ~2400 · Sunday long ~2700.** Protein stays 155–165 g.
+6. ✅ **Sat and Sun are bike-free.** The long run is fully protected — the only day of the week with no cycling in the preceding 24 h is Sunday. Leave it that way.
+7. **New flag to watch:** quad/hip-flexor DOMS ≥2 on a run morning, or the Tue/Thu easy pace drifting at a held HR. Either = the bike is eating the runs → drop the commute to Z1 only, or ride one leg and walk/transit the other on the heaviest day.
+
+**Every PM block from today carries `Bike km:`.**

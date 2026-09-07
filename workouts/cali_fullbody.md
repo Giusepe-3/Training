@@ -29,7 +29,7 @@ Corollary: **do not "fix" the low leg volume.** It is deliberate. Lifting is at 
 | A1 | Push-up | 4 × 8–12 | 7 → 8 | 90 s | Elbows ~45°, ribs down, full lockout. Superset with A2. |
 | A2 | Inverted Row | 4 × 8–12 | 7 → 8 | 90 s | Chest to bar, 1 s squeeze, no hip sag. |
 | B1 | Pull-up (assisted / negatives) | 3 × 5–8 | 7 → 8 | 120 s | Dead hang start, chin over bar. Log the assist level. |
-| B2 | Pike Push-up | 3 × 6–10 | 7 | 90 s | Hips high, crown of head between hands. Vertical push. |
+| B2 | **Push-up — 2nd block, incline setting 3** | 3 × 6–10 | 7 | 90 s | Same movement as A1, **one setting EASIER** (lands after 4 superset sets). Elbows ~45°, ribs down, full lockout. **User choice 2026-09-07** after rejecting pike, dip and close-grip. Set count unchanged: push stays 7, pull stays 7. |
 | C1 | Bulgarian Split Squat (BW) | 3 × 10/leg | **6 CAP** | 60 s | Front shin vertical, slight forward lean. Quality, not stimulus. |
 | C2 | Single-Leg RDL (BW) | 3 × 10/leg | **6 CAP** | 60 s | Hips square, slow eccentric, reach to mid-shin. |
 | D1 | **Tibialis Raise** | 3 × 20 | 7–8 | 60 s | **MANDATORY, never cut.** Full ROM, slow lower. |
@@ -63,12 +63,14 @@ Bodyweight training progresses by **leverage, not load**. The gate is unchanged 
 | Push-up | wall → incline bar (setting 3) → **incline 2 (partial — 2 sets)** → strict floor → feet elevated → archer → one-arm | **2 sets @ incline 2 + 2 sets @ incline 3.** Full setting 2 was one rung too far (8@8 → 6@9). All four move to setting 2 once setting 2 gives 4×8 @ RPE ≤8. Never skip to floor/feet-elevated |
 | Inverted Row | bar high (upright) → bar setting 4 → **bar setting 3, 4×8** → bar lower → feet elevated → tuck front lever row | **HOLD setting 3 at 4×8** until all four sets ≤8 (S4 came in at 9), then build reps 8 → 12. Capping reps at 8 killed the decay — 8/8/8/8 vs 11→10→8→7 |
 | Pull-up | dead hang → scap pull-up → **low bar, feet-assisted (3×5)** → less assist → band-assisted → strict → weighted | **one more notch of foot assist** → all three sets RPE 8 (ran 8/9/9). No leverage progression until 3×5 @ RPE ≤7 |
-| Pike Push-up | hands elevated → **high box** → low box → floor pike → feet elevated → wall-supported HSPU | **hold.** Rebuild 6 → 10 reps (7@7 → 6@8, upstream fatigue) |
+| Push-up **B2 (2nd block)** | wall → incline 4 → **incline setting 3 (SEED 3×6–10 @ RPE 7)** → incline 2 → floor → feet elevated | **SEED session 3 (Wed 9/9).** Always tracks **one setting behind A1** — it runs on pre-fatigued triceps. Advances when A1 advances, never before. **Never open on the floor** |
 | Bulgarian Split Squat | assisted (hold support) → **BW** → paused → deficit (⚠️ only if running volume allows) | **hold BW at the RPE 6 cap.** Reps rose 6–7/leg → 10/10/7 at the identical cap |
 | Single-Leg RDL | fingertips on support → **BW** → BW + reach → light DB | **hold BW.** 10/7/7 per leg at the cap |
 | Tibialis Raise | **BW heels-on-wall (20/20/15 @ RPE 6)** → BW slow eccentric → weighted (plate on toes / tib bar) | **hold BW 3×20, no load.** One set short of the gate (all 3 at 20 @ RPE ≤7) |
 | Hanging Knee Raise | bent-knee tuck → **BW knee raise (3×10 @ RPE 8)** → straight-leg → toes-to-bar | **hold.** Build 10 → 12; reps come when RPE drops off 8 |
 | Side Plank | knees down → **BW 2×30 s** → 2×45 s → feet stacked / star | **hold 2×30 s** until both sets RPE ≤7 (ran 30@8 / 20@9), then 2×45 s |
+
+📌 **B2 slot history (2026-09-07):** Pike Push-up → rejected (dislike) → Parallel Bar Dip → rejected (cannot dip, no assistance) → Close-Grip Push-up → rejected → **settled as a second Push-up block at one setting easier.** Push/pull set balance is untouched at **7/7** by every one of those swaps. ⚠️ **Consequence: the block now contains NO overhead/vertical pressing.** Irrelevant to Oct 11; revisit in the post-race strength block.
 
 ✅ **Structural note — RESOLVED 2026-09-05.** The baseline session was push-light and pull-heavy (push RPE 5.9 vs **pull 9.4**); the A1/A2 superset compounded it, with rows at RPE 9 frying the pull system before pull-ups started. **Regressing the pull and capping row reps at 8 closed it in one session: push 8.0 / pull 8.3, gap 3.5 → 0.3, at identical 28-set volume.** Volume may now be added. Watch that it stays closed.
 
@@ -81,7 +83,7 @@ Bodyweight training progresses by **leverage, not load**. The gate is unchanged 
 | Movement | Sub |
 |----------|-----|
 | Inverted Row | Ring row · TRX row |
-| Pike Push-up | Wall-supported handstand hold · DB shoulder press if gym has DBs |
+| Push-up (B2) | ⛔ **Do not re-propose pike push-ups, dips of any kind, close-grip/diamond push-ups, or anything needing a band, ring or dumbbell.** Training venue is a **calisthenics park — bars only, no assistance.** If B2 ever needs varying, the only fair-game direction is another push-up leverage (wide grip, archer, pseudo-planche) — and only if the user asks. |
 | Hanging Knee Raise | Hollow hold · Ab wheel |
 | Bulgarian Split Squat | Reverse lunge · Step-up (⚠️ keep RPE 6 cap either way) |
 
