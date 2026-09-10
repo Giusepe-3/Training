@@ -29,12 +29,12 @@ Corollary: **do not "fix" the low leg volume.** It is deliberate. Lifting is at 
 | A1 | Push-up | 4 × 8–12 | 7 → 8 | 90 s | Elbows ~45°, ribs down, full lockout. Superset with A2. |
 | A2 | Inverted Row | 4 × 8–12 | 7 → 8 | 90 s | Chest to bar, 1 s squeeze, no hip sag. |
 | B1 | Pull-up (assisted / negatives) | 3 × 5–8 | 7 → 8 | 120 s | Dead hang start, chin over bar. Log the assist level. |
-| B2 | **Push-up — 2nd block, incline setting 3** | 3 × 6–10 | 7 | 90 s | Same movement as A1, **one setting EASIER** (lands after 4 superset sets). Elbows ~45°, ribs down, full lockout. **User choice 2026-09-07** after rejecting pike, dip and close-grip. Set count unchanged: push stays 7, pull stays 7. |
+| B2 | **Push-up — 2nd block, incline setting 3** | 3 × 6–8 | 7 | 90 s | Same movement as A1, **one setting EASIER** (lands after 4 superset sets). Elbows ~45°, ribs down, full lockout. **User choice 2026-09-07** after rejecting pike, dip and close-grip. Set count unchanged: push stays 7, pull stays 7. |
 | C1 | Bulgarian Split Squat (BW) | 3 × 10/leg | **6 CAP** | 60 s | Front shin vertical, slight forward lean. Quality, not stimulus. |
 | C2 | Single-Leg RDL (BW) | 3 × 10/leg | **6 CAP** | 60 s | Hips square, slow eccentric, reach to mid-shin. |
-| D1 | **Tibialis Raise** | 3 × 20 | 7–8 | 60 s | **MANDATORY, never cut.** Full ROM, slow lower. |
+| D1 | **Tibialis Raise — SLOW ECCENTRIC (3 s lower)** | 3 × 20 | 7–8 | 60 s | **MANDATORY, never cut.** ⬆️ Advanced 2026-09-09 after 20/20/20 @ RPE 6 cleared the gate. Full ROM. |
 | D2 | Hanging Knee Raise | 3 × 8–12 | 8 | 60 s | No swing, PPT at top. Sub Hollow Hold 3×30 s if grip fails. |
-| D3 | Side Plank | 2 × 30 s/side | 7 | 45 s | Stack hips, bottom hip does not drop. |
+| D3 | Side Plank | 2 × 45 s/side | 7 | 45 s | Stack hips, bottom hip does not drop. ⬆️ Advanced 2026-09-09 (2×30 s came in at RPE 4). |
 
 **28 working sets.**
 
@@ -60,15 +60,15 @@ Bodyweight training progresses by **leverage, not load**. The gate is unchanged 
 
 | Movement | Regression ← → Progression ladder | Next step |
 |----------|-----------------------------------|-----------|
-| Push-up | wall → incline bar (setting 3) → **incline 2 (partial — 2 sets)** → strict floor → feet elevated → archer → one-arm | **2 sets @ incline 2 + 2 sets @ incline 3.** Full setting 2 was one rung too far (8@8 → 6@9). All four move to setting 2 once setting 2 gives 4×8 @ RPE ≤8. Never skip to floor/feet-elevated |
-| Inverted Row | bar high (upright) → bar setting 4 → **bar setting 3, 4×8** → bar lower → feet elevated → tuck front lever row | **HOLD setting 3 at 4×8** until all four sets ≤8 (S4 came in at 9), then build reps 8 → 12. Capping reps at 8 killed the decay — 8/8/8/8 vs 11→10→8→7 |
+| Push-up | wall → **incline bar setting 3, 4×8** → incline 2 → strict floor → feet elevated → archer → one-arm | ⚠️ **SPLIT LADDER WITHDRAWN 9/9. HOLD all four sets @ setting 3.** 9/9 ran all four at setting 3 and still decayed 7→8→9→9 — not detraining, the **B2 block took weekly push sets 4 → 7** and A1 now sits upstream of 3 more push sets. Correct autoregulation. **Gate to reopen setting 2 = 4×8 @ RPE ≤8 at setting 3.** Never skip to floor/feet-elevated |
+| Inverted Row | bar high (upright) → bar setting 4 → **bar setting 3, 4×8** → bar lower → feet elevated → tuck front lever row | **HOLD setting 3 at 4×8** — S4 hit RPE 9 for the **second straight session** (9/5 and 9/9), gate not cleared. Reps build 8 → 12 only once all four land ≤8. The cap killed the decay (8/8/8/8 twice now vs 11→10→8→7); **do not re-fight bar height** |
 | Pull-up | dead hang → scap pull-up → **low bar, feet-assisted (3×5)** → less assist → band-assisted → strict → weighted | **one more notch of foot assist** → all three sets RPE 8 (ran 8/9/9). No leverage progression until 3×5 @ RPE ≤7 |
-| Push-up **B2 (2nd block)** | wall → incline 4 → **incline setting 3 (SEED 3×6–10 @ RPE 7)** → incline 2 → floor → feet elevated | **SEED session 3 (Wed 9/9).** Always tracks **one setting behind A1** — it runs on pre-fatigued triceps. Advances when A1 advances, never before. **Never open on the floor** |
+| Push-up **B2 (2nd block)** | wall → incline 4 → **incline setting 3, 3×6 → build to 3×8** → incline 2 → floor → feet elevated | ✅ **SEED PASSED 9/9** — 3×6 @ RPE 7/7/8 on pre-fatigued triceps at the *same* setting as A1, better than modeled. **Hold setting 3, build reps 6 → 8.** Tracks one setting behind A1 in principle; both sit at 3 until A1 clears its gate. **Never open on the floor** |
 | Bulgarian Split Squat | assisted (hold support) → **BW** → paused → deficit (⚠️ only if running volume allows) | **hold BW at the RPE 6 cap.** Reps rose 6–7/leg → 10/10/7 at the identical cap |
 | Single-Leg RDL | fingertips on support → **BW** → BW + reach → light DB | **hold BW.** 10/7/7 per leg at the cap |
-| Tibialis Raise | **BW heels-on-wall (20/20/15 @ RPE 6)** → BW slow eccentric → weighted (plate on toes / tib bar) | **hold BW 3×20, no load.** One set short of the gate (all 3 at 20 @ RPE ≤7) |
+| Tibialis Raise | BW heels-on-wall → **BW SLOW ECCENTRIC 3×20, 3 s lower** → weighted (plate on toes / tib bar) | 🔒 ⬆️ **GATE CLEARED 9/9, first time — 20/20/20 @ RPE 6** (20/15/15@8 → 20/20/15@6 → 20/20/20@6). **ADVANCE to slow eccentric, 3 s lower, still BW.** Expect RPE back to 7–8 — that is the point. Highest-value bump in the session |
 | Hanging Knee Raise | bent-knee tuck → **BW knee raise (3×10 @ RPE 8)** → straight-leg → toes-to-bar | **hold.** Build 10 → 12; reps come when RPE drops off 8 |
-| Side Plank | knees down → **BW 2×30 s** → 2×45 s → feet stacked / star | **hold 2×30 s** until both sets RPE ≤7 (ran 30@8 / 20@9), then 2×45 s |
+| Side Plank | knees down → BW 2×30 s → **BW 2×45 s/side** → feet stacked / star | ⬆️ **GATE CLEARED 9/9 — 2×30 s @ RPE 4 both sets** (was 30@8 / 20@9). **ADVANCE to 2×45 s/side.** First thing to cut if short on time |
 
 📌 **B2 slot history (2026-09-07):** Pike Push-up → rejected (dislike) → Parallel Bar Dip → rejected (cannot dip, no assistance) → Close-Grip Push-up → rejected → **settled as a second Push-up block at one setting easier.** Push/pull set balance is untouched at **7/7** by every one of those swaps. ⚠️ **Consequence: the block now contains NO overhead/vertical pressing.** Irrelevant to Oct 11; revisit in the post-race strength block.
 
