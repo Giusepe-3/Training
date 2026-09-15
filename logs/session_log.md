@@ -1290,7 +1290,7 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 
 ---
 
-## ⚠️ ADDENDUM 2026-09-06 — GOAL-PACE EXPOSURE (GATED, does not open before Fri Sep 18)
+## ⚠️ ADDENDUM 2026-09-06 — GOAL-PACE EXPOSURE (GATED, does not open before ~~Fri Sep 18~~ **Fri Sep 25 — benchmark DEFERRED 2026-09-15 for illness, see WEEK C**)
 
 **The gap this closes:** race pace 6:20/km sits at roughly **HR 160–168**. Under the block as written, the user arrives at Oct 11 having never run a step there. Only data at that intensity is Madrid 2026-04-26 — all-out, 78 % Z5, avg HR 180. **Untested race pace over 30 k is precisely the blowup scenario the sub-3:10 target exists to avoid.**
 
@@ -1298,7 +1298,7 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 
 | Date | Session | Prescription |
 |------|---------|--------------|
-| **Fri Sep 18** (Wk C) | **8 k benchmark** — already in the block | 2 k WU easy → **8 k at hardest pace holdable for 8 k** → 2 k CD. Metronome 166. Log avg pace, avg HR, max HR. |
+| ~~**Fri Sep 18**~~ → **Fri Sep 25** (Wk D) ⚠️ **DEFERRED 2026-09-15 — illness** | **8 k benchmark** — already in the block | 2 k WU easy → **8 k at hardest pace holdable for 8 k** → 2 k CD. Metronome 166. Log avg pace, avg HR, max HR. |
 | **Sun Sep 27** (Wk D) | Long 18 k | **15 k easy @ HR ≤150 → final 3 k @ 6:20/km.** Hit 6:20 and hold — not a sprint finish. |
 | **Sun Oct 4** (Wk E) | Long 22 k | **17 k easy @ HR ≤150 → final 5 k @ 6:20/km.** Full rehearsal: race kit, race shoes, race fuel, race breakfast. |
 
@@ -1309,7 +1309,7 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 - **any pinpoint shin pain, before or after** → **the entire addendum VOIDS.** Block finishes 100 % easy. The tibia gate outranks this and every other item.
 
 **Guardrails (non-negotiable):**
-- **Nothing above HR 150 before Fri Sep 18.** Weeks A and B stay 100 % easy as written.
+- **Nothing above HR 150 before ~~Fri Sep 18~~ Fri Sep 25** (moved with the benchmark, 2026-09-15). **Weeks A, B and C stay 100 % easy as written.**
 - This adds **zero** sessions and zero run-days. It changes the last third of two long runs, nothing else.
 - The RPE 6 leg cap on cali days, the 3 rest days/wk, and metronome 166 on every run all stand unchanged.
 - **Consistency still outranks intensity.** This target dies from dark weeks, not from slow days. If a week goes dark, the goal-pace work is the first thing cut, not the volume.
@@ -1496,3 +1496,74 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
     - ⚠️ **BW trend call VOID.** 76.20 (9/11) is now confounded by 9/10 unlogged + two illness days (appetite, hydration, glycogen). **Mon 9/14 AM reads nothing useful. Next real BW call ~9/17.** No kcal change on illness data.
     - ⚠️ **FRI SEP 18 BENCHMARK NOW AT RISK — this is the decision Wk C turns on.** The 8 k benchmark gates the entire goal-pace addendum (sub-3:00 vs sub-3:10, and the 3 k @ 6:20 inside the 18 k). **A benchmark run on a post-illness engine reads falsely slow and would retire the stretch goal for the wrong reason. The benchmark is moveable; the bone is not.** Call gets made off the first clean AM, not before.
     - **Wk C prescription deferred to the first symptom-free AM.** Re-entry shape when it comes: one easy short run first, HR ceiling 140, distance set by bone as always — not a jump back onto the ramp where it was interrupted.
+
+---
+
+## WEEK C — Wed Sep 16 → Sun Sep 20 · 21 km · long 12 k · **ILLNESS RE-ENTRY WEEK**
+
+**Set 2026-09-15 (Tue). Week opens Wednesday — Mon 9/14 and Tue 9/15 are rest/illness days, not a compressed start.**
+
+- **Mon 9/14 — REST. Illness (day 3). No AM/PM data.** Uni day, bike commute ridden. No run, no cali. **Mon AM cali slot lost — not made up.**
+- **Tue 9/15 — REST. Illness clearing; symptom-free from this morning only (<24 h).** Uni day, bike commute ridden, no other training. **Per the neck-check rule, 24 h FULLY symptom-free is the gate and it is not met today. No re-entry run today.**
+  - **BW trend still VOID** — 9/10 unlogged, 9/12–9/14 illness, no weigh-ins 9/14–9/15. **First honest reading is Thu 9/17; trend call Sun 9/20.** No kcal change off illness data.
+  - **Run gap now 5 days (last run Fri 9/11, 6 k).** This is illness, not drift. **No make-ups, no clawed-back km, repeat don't compress** — Wk C reuses Wk B's lost long (12 k) rather than jumping to where the ramp stopped.
+
+### ❌ Fri Sep 18 8 k BENCHMARK — DEFERRED → **Fri Sep 25** (decision 2026-09-15)
+
+**The 2026-09-06 addendum's Sep 18 row is superseded by this date, nothing else about the addendum changes.**
+
+- An 8 k all-out run off **two sick days and a 5-day run gap** reads falsely slow. It gates sub-3:00 vs sub-3:10 and the goal-pace work inside both remaining long runs. **Retiring the stretch goal on a post-illness engine would be retiring it for the wrong reason.**
+- **The benchmark is moveable; the bone is not.** Fri Sep 25 still lands **2 days before the Sun Sep 27 long**, so the addendum's structure survives intact — 8 k benchmark → 3 k @ 6:20 inside the 18 k → 5 k @ 6:20 inside the 22 k.
+- **Gate thresholds unchanged:** ≤5:50/km → sub-3:00 opens · 5:50–6:10 → sub-3:10 confirmed · >6:10 → race conservative. **Any pinpoint shin pain voids the whole addendum.**
+- **Consequence: nothing above HR 150 now runs through Fri Sep 25, not Sep 18.** Wk C is 100 % easy.
+
+### Wk C schedule — 21 km · 3 runs · 1 cali · 2 rest
+
+| Day | Session | Km | Timing |
+|---|---|---|---|
+| Wed 9/16 | **Run RE-ENTRY — easy, shortest** · HR ceiling **140** | **4** | PM ~13:00, post-class. Bike **12 km, not 24** |
+| Thu 9/17 | **REST — full** | — | uni day, bike 24 km **strict Z1** |
+| Fri 9/18 | **Cali #4** AM + **Run easy** PM ~16:00 | **5** | bike-free |
+| Sat 9/19 | **REST — full** | — | long-run primer |
+| Sun 9/20 | **Run LONG** AM · fuel 30 g/h | **12** | bike-free |
+| | | **21** | |
+
+**Wednesday is gated:** re-entry run happens only if the AM check is **still fully symptom-free** (Wed AM = the 24 h mark). Any symptom returning → Wednesday is rest and the whole week slides one day. **Fever or anything below the neck = hard stop, zero training.**
+
+### Run rules — Wk C
+
+1. **Wed 4 k — ONE easy SHORT run before anything loaded, as the illness rule requires.** HR **hard ceiling 140** (not 150 — post-illness). Metronome **166**. At HR 140 pace will sit near 7:50–8:10/km; **let it be slow, that is the prescription, not a failure.** Abort on pinpoint shin pain, or HR climbing at held effort.
+2. **Fri 5 k — easy.** HR ceiling **145**. Metronome 166.
+3. **Sun 12 k — the session the week exists for. OPEN AT 7:50/km AND MEAN IT.** Fourth re-statement; the correction has decayed after exactly one run every time (9/7 ran 7:18 vs 7:35–7:50 → 9/8 obeyed at 8:01 → 9/11 ran 7:22 vs 7:50). **If the watch reads sub-7:40 inside the first 2 km, that day's cadence number is VOID.**
+4. **Metronome 166 on every run including the long. Match the beat by SHORTENING STRIDE, never by speeding up.** 8:01/km produced 163 on 9/8 — the long opens in exactly that band. **Bone lever, not cosmetic.**
+5. **Nothing above HR 150 all week.** Goal-pace addendum stays shut until Fri Sep 25.
+6. **Distance is set by BONE, not by breath.** The re-entry run will feel easy — the engine survived the illness better than the chassis survived the 5 dark days. **RPE is a breath signal. Do not raise a run because it felt easy.**
+
+### Fri 9/18 — Cali #4 prescription (7 days off + illness → seed conservative)
+
+**Only the two gates cleared on 9/9 advance. Everything else HOLDS at 9/9 leverage.**
+
+| Slot | Prescription | RPE | Note |
+|---|---|---|---|
+| A1 Push-up | 4×8 @ **setting 3** | ≤8 | Split ladder still withdrawn. Gate to reopen setting 2 = 4×8 @ ≤8 |
+| A2 Inverted Row | 4×8 @ **setting 3** | ≤8 | 8-rep cap holds; reps → 12 only once all four land ≤8 |
+| B1 Pull-up | 3×5 · assist **open 4, settle 3** | ≤8 | No leverage progression until 3×5 @ ≤7 |
+| B2 Push-up 2nd block | 3×**6** @ setting 3 | 7 | **HOLD 6 — do not build to 8.** 7 days off + illness overrides the 9/9 bump |
+| C1 Bulgarian Split Squat | 3×8–10 BW | **6 HARD CAP** | Sun long in 48 h. Stop 2 reps short |
+| C2 SL-RDL | 3×10 BW | **6 HARD CAP** | Same |
+| **D1 Tibialis Raise** | **3×20 SLOW ECCENTRIC, 3 s lower** | 7–8 | ⬆️ gate cleared 9/9. **Survives every cut.** RPE jumping to 7–8 is the point |
+| D2 Hanging Knee Raise | 3×8 | 8 | Hold 8; build to 10 when RPE drops off 8 |
+| D3 Side Plank | **2×45 s**/side | ≤6 | ⬆️ gate cleared 9/9 |
+
+Push 7 / pull 7 — **gap stayed 0.0 at 9/9, item closed, stop re-checking.** **Legs hard-capped RPE 6: Sunday's long sits 48 h downstream and there is no week in this block where sore legs are acceptable.** If time runs short, cut from the bottom up — **D1 survives every cut.**
+
+### Fuel — Wk C
+
+Uni days (Wed/Thu) **2650–2700** · Fri/Sat **2400** · Sun long **2700** · **protein 155–165 g** · creatine 5 g/d.
+⚠️ **Protein is drifting UP — 227 → 169 → 178. Pull to ~160.** ⚠️ **No kcal change on illness data.** First honest BW Thu 9/17, trend call Sun 9/20.
+
+### ⚠️ DECISION DUE Sun Sep 20 — the 12 → 18 → 22 ramp
+
+- As written the last three long runs are **12 (9/20) → 18 (9/27) → 22 (10/4)**. **12 → 18 is +50 % in one week, on bone that will have run 21 km in the preceding three weeks.**
+- **Recommendation to be confirmed off the 9/20 long: 9/27 = 16 k, 10/4 = 20 k.** Peak long 20 k vs a 30 k race is +50 %; peak 22 k is +36 %. **At this point the finishing problem is barely changed by 2 km of peak long run, but the tibia gate very much is.**
+- **Decide off the 9/20 run's shin check and back-half pace, not off the calendar and not today.**
