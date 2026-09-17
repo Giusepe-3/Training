@@ -1,84 +1,93 @@
-# Training — 11-Week Hypertrophy Block
+# Training
 
-> 4 days lifting + 2 days running. Bridge from Madrid HM recovery to the **sub-3:10 30K** block (race Oct 11; re-cut 2026-08-31, was sub-2:50).
+A personal, fully-versioned endurance + calisthenics training log — and the coaching system built around it.
 
-**Block dates:** April 27 – July 12, 2026 (11 weeks)
-**Goal:** Maximum upper-body hypertrophy. +3–4 kg lean mass realistic, visible chest/back/shoulder/arm change.
-**Approach:** Recomp at maintenance calories, RPE 8 from session 1 of accumulation, intensity techniques week 5+.
-**Block 2:** July 13 – October 11, 2026. **⚠️ RE-CUT 2026-08-31 → sub-3:10 30K** (6:20/km; stretch sub-3:00, gated on the Fri Sep 18 checkpoint). Race Sun Oct 11, 2026. **❌ sub-2:50 RETIRED** — killed by the 34-day dark gap, not by the engine. Live block table → `logs/session_log.md` § "RE-PLAN 2026-08-31".
+Every session, body metric, macro total and decision lives in this repo as plain Markdown, reviewed and prescribed session-by-session with [Claude Code](https://claude.com/claude-code). `CLAUDE.md` is the coach's standing brief; `logs/session_log.md` is the source of truth.
+
+**Races**
+
+| | Race | Result |
+|---|---|---|
+| 🏁 | [Rock 'n' Roll Madrid Half Marathon — 21K](https://rocknrollmadridrun.com/recorrido-21k/) · Apr 26, 2026 | **2:09:38** (6:09/km, 339 m climb, avg HR 180) — trained for in this repo |
+| 🎯 | [Run in Budapest — 30K](https://marathon.runinbudapest.com/30-km/) · Oct 11, 2026 | **Target sub-3:10** (6:20/km) · stretch sub-3:00 — *in progress* |
 
 ---
 
-## Repo Map
+## Current block — sub-3:10 30K
+
+| | |
+|---|---|
+| **Race** | Budapest 30K, Sun Oct 11, 2026 |
+| **Primary** | sub-3:10 — 6:20/km |
+| **Stretch** | sub-3:00 — gated on an 8 km benchmark, Fri Sep 25 |
+| **Week** | 4 runs / 2 calisthenics / 3 full rest, fitted around a university timetable |
+| **Constraint** | Right-tibia stress-fracture history. **Distance is set by bone, not by breath.** |
+
+**The core read:** a 25:58 5K predicts a 1:59 half; Madrid came in at 2:09:38. That ~10-minute spread isn't a speed problem — it's an endurance deficit from treadmill-only, low-volume training. Volume is the lever that closes it, so the plan optimises for *zero dark weeks* over hero sessions. Two goals have already died to month-long training gaps (a 50K ultra, then a sub-2:50 30K); consistency is the whole thesis.
+
+**And the hard part:** peak long run is ~22 km against a 30 km race. That's +36% over the longest run ever done in the block — a finishing problem first, a pace problem second.
+
+---
+
+## Repo map
 
 ```
-training/
-├── README.md                   ← you are here
-├── PLAN.md                     ← 11-week phase structure + week-by-week
+├── CLAUDE.md               ← the coaching brief: active goal, rules, gates, logging conventions
+├── PLAN.md                 ← Block 1 phase structure + week-by-week (archived)
 ├── workouts/
-│   ├── cali_fullbody.md        ← ✅ ACTIVE: Mon AM + Fri AM calisthenics, full body
-│   ├── upper_A.md              ← ⏸️ DORMANT (barbell gym gone 2026-08-31)
-│   ├── lower_A.md              ← ⏸️ DORMANT
-│   ├── upper_B.md              ← ⏸️ DORMANT
-│   └── lower_B.md              ← ⏸️ DORMANT
+│   ├── cali_fullbody.md    ← ACTIVE — full-body calisthenics, Mon + Fri AM
+│   └── {upper,lower}_{A,B}.md  ← dormant barbell split (no longer have the gym)
 ├── docs/
-│   ├── running.md              ← ✅ running plan (re-cut 2026-08-31: sub-3:10, 6-wk, class-fitted)
-│   ├── nutrition.md            ← recomp principles
-│   └── handoff.md              ← STALE: written for a sub-2:00 HM block. Rewrite for sub-3:10 30K.
+│   ├── running.md          ← the running plan: weekly km, pacing, checkpoints
+│   ├── nutrition.md        ← macro targets + cut/maintenance logic
+│   ├── handoff.md          ← archived block-to-block handoff
+│   └── block2_plan_prompt.md  ← the research prompt used to generate the current block
 ├── logs/
-│   ├── training_log.xlsx       ← master logger (multi-tab; ⚠️ stale since 2026-07-27)
-│   ├── session_log.md          ← daily narrative journal ← SOURCE OF TRUTH
-│   ├── sessions/               ← filled per-session logs
-│   └── templates/              ← locked AM/PM/session/weekly templates
+│   ├── session_log.md      ← SOURCE OF TRUTH — daily narrative journal
+│   ├── sessions/           ← one filled log per session
+│   ├── templates/          ← locked AM / PM / session / weekly formats
+│   └── training_log.xlsx   ← generated workbook (sets, reps, load, HR, body)
 └── scripts/
-    ├── build_log.py            ← regenerate workbook
-    ├── progression_check.py    ← analyze progression from log
-    └── README.md               ← how to run scripts
+    ├── build_log.py        ← regenerate the workbook from the logs
+    └── progression_check.py ← analyse progression trends
 ```
 
 ---
 
-## Weekly Schedule
+## How the system works
 
-| Day | Session | Duration |
-|-----|---------|----------|
-| Mon | Upper A (chest/back priority) | ~75 min |
-| Tue | Lower A (squat focus) | ~75 min |
-| Wed | Full rest | — |
-| Thu | **Easy run** outdoor Z2 | 30–45 min |
-| Fri | Upper B (shoulders/arms priority) | ~75 min |
-| Sat | Lower B (hinge/posterior) | ~75 min |
-| Sun | **Easy run** outdoor Z2 (slightly longer) | 35–50 min |
+**Two-touch daily logging.** An AM block on waking (bodyweight fasted, sleep, resting HR vs baseline, motivation/energy/stress, per-muscle DOMS, joint flags) and a PM block before bed (session result, macros, bike km). ~4 minutes total. Templates are locked — no freeform entries, so the data stays comparable across months.
 
----
+**A tracked-variable hierarchy.** Tier 1 (working sets per muscle, RPE, load/e1RM, protein, kcal) is logged every session; Tier 2 is daily; Tier 3 is weekly. What gets logged gets progressed.
 
-## Quick Start
+**Explicit adjustment triggers**, written down *before* they're needed, so decisions aren't made on a bad morning: sleep <6 h + resting HR +10 → cut volume 20% · bodyweight loss >0.7 kg/wk for 2 weeks → eat more · HR drift +5 bpm at the same easy pace → drop a run · joint pain >3 days → swap the movement, never push through · fever → zero training, no exceptions.
 
-1. **Read** `PLAN.md` — the 11-week phase structure
-2. **Open** `logs/training_log.xlsx` — log every set/run/body metric here
-3. **Each session day**, open the relevant workout file in `workouts/`
-4. **Check Wed/Sat against** `docs/running.md` for that week's run prescription
-5. **Weekly review:** Sundays, run `python scripts/progression_check.py`
-6. **End of Week 11 (Sun Jul 12):** lift retest + body measurements + Block 2 handoff
+**A weekly audit that hunts under-training.** Most training systems only catch over-reaching. Every Sunday this one also runs the reverse check — is the plan *lagging* an engine that's adapting faster than modelled? Madrid was under-run because a conservative read left fitness un-cashed; the audit exists so that doesn't repeat.
+
+**Progression by the slowest increment that still moves.** All sets at the top of the rep range *and* every set at RPE ≤7 → then, and only then, the smallest available bump. Reps before load; bodyweight movements progress by leverage, not weight. Horizon is years, injury count is zero.
 
 ---
 
-## Core Rules
+## Things this log got wrong (kept on purpose)
 
-- **Track every set.** What gets logged gets progressed.
-- **RPE 8 on working sets in accumulation+ phases.** Top sets close to limits on isolation. 1–2 RIR on compounds.
-- **Aggressive double progression.** Top of rep range on all sets at prescribed RPE → +2.5 kg compound, +1–2 kg isolation NEXT session. Don't sit at the same weight for 2 weeks.
-- **Sleep 7+ hrs.** Recomp + hypertrophy fails without it.
-- **Don't chase the run.** These 2 runs are aerobic maintenance, not training. Easy means easy. Hold Z2.
-- **When in doubt, push.** Adjust down only if fatigue markers actually fail (sleep, RHR, lift performance).
+The failures are version-controlled alongside the wins, because they're the useful part:
+
+- **A 50K ultra, abandoned** — 17 dark days left an 18 km ceiling 22 days out.
+- **"Sub-2:20 30K", retired** — the number came from naive addition (21 km in 2:09 → "30 km in 2:20"), never a pace conversion. It implied a 1:36 half against a 2:09 PR.
+- **Sub-2:50, retired** — killed by a 34-day gap, not by a bad session.
+- **A job that was never modelled** — 44 km/week of walking as a waiter, logged as "steps" instead of as training load. The same mistake nearly repeated with a 96 km/week bike commute; it's now Tier 1 load.
+- **Cadence, still unsolved** — a 166 metronome holds at 7:10/km and fails at 8:00/km. Turnover is pace-linked, not habitual.
 
 ---
 
-## Why this structure
+## Reproducing the tooling
 
-- **4 lifts vs 2 runs:** running was suppressing hypertrophy recovery during the half-marathon block — flipped ratio for 11 weeks.
-- **Upper twice, lower twice:** maximizes hypertrophy frequency for priority muscle groups while still hitting legs.
-- **Runs Wed & Sat:** both fall the day after a lower session — legs not pre-fatigued for quality lift, runs aid recovery rather than blunt it.
-- **Recomp not bulk:** finished race lean. Add muscle slowly without piling fat to cut later before race block.
+```bash
+pip install openpyxl
+python scripts/build_log.py         # rebuild logs/training_log.xlsx from the logs
+python scripts/progression_check.py # progression analysis
+```
 
-🏁 Block 1 ends Sun July 12, 2026. Block 2 (**sub-3:10 30K** — re-cut 2026-08-31, was sub-2:50) starts Mon July 13. Race Sun October 11, 2026.
+---
+
+*Personal training data — bodyweight, heart rate, sleep and illness notes — is published deliberately. Reuse the structure freely; the numbers are one person's and are not a prescription for anyone else.*

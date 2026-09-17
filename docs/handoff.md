@@ -1,5 +1,7 @@
 # Handoff — Hypertrophy Block → Sub-2:00 Half Marathon Block
 
+> ⚠️ **ARCHIVED.** Written mid-2026 for a sub-2:00 half-marathon block that never ran — superseded by the 30K block in `docs/running.md`. Kept for the Madrid post-race analysis and the treadmill-vs-outdoor pacing lesson. Do not train off it.
+
 > Read this at the end of Week 8 (Sun Jun 22, 2026) when transitioning back to half marathon training.
 
 ---

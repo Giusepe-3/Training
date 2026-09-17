@@ -1,9 +1,11 @@
 # Block 1 — 11-Week Hypertrophy Plan
 
+> 📦 **ARCHIVED — Block 1 (closed).** The live plan is the 30K block: see `README.md`, `docs/running.md`, and `logs/session_log.md`.
+
 **Dates:** April 27 – July 12, 2026 (11 weeks)
 **Goal:** Maximum upper-body hypertrophy. +3–4 kg lean mass realistic.
 **Approach:** 4 lifts + 2 runs/week. Recomp at maintenance. Push from day 1 of accumulation.
-**Block 2:** July 13 – October 11, 2026. **⚠️ RE-CUT 2026-08-31 → SUB-3:10 30K** (6:20/km; stretch sub-3:00, opens only if the Fri Sep 18 checkpoint clears). Race Sun Oct 11, 2026. **❌ sub-2:50 RETIRED 2026-08-31** — killed by the 34-day dark gap (Jul 29 → Aug 30), not by the engine; ❌ the older "sub-2:20" (4:40/km) was retired 2026-07-17 as implausible vs a 6:09/km HM PR. **Live 6-week block table → `logs/session_log.md` § "RE-PLAN 2026-08-31"**; program history → `docs/running.md`.
+**Block 2:** July 13 – October 11, 2026. **⚠️ RE-CUT 2026-08-31 → SUB-3:10 30K** (6:20/km; stretch sub-3:00, opens only if the Fri Sep 25 checkpoint clears). Race Sun Oct 11, 2026. **❌ sub-2:50 RETIRED 2026-08-31** — killed by the 34-day dark gap (Jul 29 → Aug 30), not by the engine; ❌ the older "sub-2:20" (4:40/km) was retired 2026-07-17 as implausible vs a 6:09/km HM PR. **Live 6-week block table → `logs/session_log.md` § "RE-PLAN 2026-08-31"**; program history → `docs/running.md`.
 
 ---
 
