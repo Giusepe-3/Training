@@ -1567,3 +1567,20 @@ Uni days (Wed/Thu) **2650–2700** · Fri/Sat **2400** · Sun long **2700** · *
 - As written the last three long runs are **12 (9/20) → 18 (9/27) → 22 (10/4)**. **12 → 18 is +50 % in one week, on bone that will have run 21 km in the preceding three weeks.**
 - **Recommendation to be confirmed off the 9/20 long: 9/27 = 16 k, 10/4 = 20 k.** Peak long 20 k vs a 30 k race is +50 %; peak 22 k is +36 %. **At this point the finishing problem is barely changed by 2 km of peak long run, but the tibia gate very much is.**
 - **Decide off the 9/20 run's shin check and back-half pace, not off the calendar and not today.**
+
+### Wk C — daily bullets
+
+- **Wed 9/16 — Run RE-ENTRY 4 k — ⚠️ DONE, OFF-PRESCRIPTION.** 4.0 km @ **6:14/km**, avg HR **159** (hard ceiling was **140**), max 176, **51 % Z3**, RPE 5, cadence 167, bike **24 km** (prescribed 12), steps 23249. Shin **CLEAN #24**, zero illness symptoms. Athlete note: *"Good run I was feeling good so I just ran."* Full log → `logs/sessions/2026-09-16_run.md`.
+  - ❌ **HR ceiling blown by 19 bpm; HR-150 block gate breached.** Ran **6 s/km faster than 30 k race pace** on the single most tightly capped session in the block — the illness rule's mandatory one easy short run.
+  - ❌ **Bike 24 km vs 12.** The halving *was* the re-entry recovery budget.
+  - 🚫 **Cadence 167 VOID** — pace 6:14 is far under the 7:40 validity line. Metronome still has **zero successful reps below ~7:20/km**; 9/8 (8:01 → 163) remains the only honest test.
+  - ✅ **Engine datapoint, and it is a big one:** 6:14/km at **HR 159, RPE 5**, five days detrained, post-illness. Addendum modelled 6:20/km ≈ HR 160–168 → he beat goal pace at the **bottom** of the band. **Does not open sub-3:00 and does not move any distance** — 4 km is 13 % of the race, and sub-3:10 is gated by km 25 off a 22 k longest run, not by 4 km of pace. It does make the Sep 25 benchmark very likely to clear, which is a reason to run it *rested and measured*, not to pre-spend it.
+  - ⚠️ **Bone verdict deferred.** Shin check was taken the same night; stress reaction surfaces at 24–72 h. **Thu 9/17 + Fri 9/18 AM shin checks are the ones that count.**
+  - ❌ AM block and macros not supplied — written off, not reconstructed.
+  - **Consequence → Fri 9/18 5 k: HR ceiling 145 stands and is now the make-good session. Sep 25 benchmark unmoved. Sun 9/20 long opens at 7:50/km.**
+
+- **Thu 9/17 — REST — ✅ DONE, FULL.** Prescribed rest + 24 km strict-Z1 bike commute; athlete took **full rest, bike 0 km.** Feels fine, no illness symptoms. Creatine Y. Kcal counted (numbers pending).
+  - ✅ **Correct call, unprompted.** Yesterday's re-entry ran 19 bpm over ceiling at 6:14/km on 5-day-detrained legs **plus** a doubled 24 km bike. Dropping today's 24 km is exactly the right lever — **bike is the load to spend when legs and recovery collide; it carries zero bone value.** Net over the two days: prescribed 36 km bike, ridden 24 km. Budget balanced.
+  - ✅ **SHIN CLEAN — check #25, the 24 h read on yesterday's 6:14/km.** This is the one that counts: same-night checks miss bone stress, 24–72 h does not. Highest per-strike impact of the block on 5-day-detrained legs, and the tibia took it. **25/25 clean this block.** Fri 9/18 AM closes the 72 h window.
+  - ❌ **Macros not counted 9/16 or 9/17 — written off, not reconstructed, not re-asked.** Creatine Y both days.
+  - Consequence: **Fri 9/18 lands on a genuinely clean 48 h.** Cali #4 + 5 k run both go as written, no cuts owed.
