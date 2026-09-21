@@ -1584,3 +1584,89 @@ Uni days (Wed/Thu) **2650–2700** · Fri/Sat **2400** · Sun long **2700** · *
   - ✅ **SHIN CLEAN — check #25, the 24 h read on yesterday's 6:14/km.** This is the one that counts: same-night checks miss bone stress, 24–72 h does not. Highest per-strike impact of the block on 5-day-detrained legs, and the tibia took it. **25/25 clean this block.** Fri 9/18 AM closes the 72 h window.
   - ❌ **Macros not counted 9/16 or 9/17 — written off, not reconstructed, not re-asked.** Creatine Y both days.
   - Consequence: **Fri 9/18 lands on a genuinely clean 48 h.** Cali #4 + 5 k run both go as written, no cuts owed.
+
+---
+
+## WEEK D — Mon Sep 21 → Sun Sep 27 · 35 km · long 15 k · **8 K BENCHMARK WEEK**
+
+**Set 2026-09-21 (Mon). ⚠️ Fri 9/18, Sat 9/19, Sun 9/20 are UNLOGGED at time of writing — this week is prescribed off the last confirmed data point (Thu 9/17, shin #25 clean). Sunday's distance is provisional until the 9/20 long is reported.**
+
+### Volume call — 36 → 35 km, long 18 → 15 k
+
+- Block table says Wk D = 36 km / long 18 k. **That row assumed Wk C delivered 33 km and a 15 k long. Illness cut Wk C to 21 planned (12 k long).** Ramping 21 → 36 with an 18 k long is **+50 % week volume and +50 % long in one step**, on bone whose last three weeks read 17 · 21 · ~21 km.
+- **Repeat, don't compress.** Wk D takes the long that illness ate (**15 k**, not 12 — Wk C's own prescription was 15 in the block table and 12 in the re-entry re-cut; 15 is the honest next rung off 12).
+- Week total still lands ~35 km because **the benchmark session itself costs 10 km**. Session count 4, unchanged.
+- **Consequence for Wk E: peak long = 20 k, not 22.** 20 k vs a 30 k race = +50 % on the day; 22 k = +36 %. Two km of peak long barely moves the finishing problem; it moves the tibia gate a lot. **Confirm off the 9/27 shin check.**
+
+### Wk D schedule
+
+| Day | Session | Km | Timing |
+|---|---|---|---|
+| Mon 9/21 | ~~Cali #5~~ → **Run easy Z2** (SWAP, user 9/21) | **6** | AM ~10:00 pre-class. Uni day, bike 24 Z1 |
+| Tue 9/22 | ~~Run~~ → **Cali #5** full session (SWAP) | — | PM ~13:00, post-class. Bike 24 Z1 |
+| Wed 9/23 | **REST — full** | — | Uni day, bike 24 Z1 |
+| Thu 9/24 | Run easy — shortest | **4** | PM ~13:00. Bike 24 Z1 |
+| Fri 9/25 | **Cali #6 (upper only, AM)** + **8 K BENCHMARK** PM ~16:00 | **10** | bike-free. 2 k WU + **8 k benchmark** |
+| Sat 9/26 | **REST — full** | — | long-run primer |
+| Sun 9/27 | Run **LONG** AM — 12 k easy + **final 3 k @ 6:20** | **15** | bike-free. Fuel 30 g/h |
+| | | **35** | |
+
+### ✅ Fri Sep 25 — 8 K BENCHMARK — the gate opens
+
+**First session above HR 150 since Madrid. The HR-150 block ceiling lifts on this run and on this run only.**
+
+- 2 k WU easy (HR ≤145) → **8 k as fast as is sustainable for 8 k**, even effort, no heroic first km → walk CD.
+- **Thresholds (unchanged):** **≤5:50/km → sub-3:00 OPENS** · **5:50–6:10/km → sub-3:10 CONFIRMED** · **>6:10/km → race conservative.**
+- **Any pinpoint shin pain VOIDS the whole goal-pace addendum** — stop the run, the benchmark is not worth the tibia.
+- ⚠️ **Do not pre-spend it.** 9/16 ran 6:14/km @ HR 159 RPE 5 on detrained legs — that makes this very likely to clear, which is a reason to arrive **rested and measured**, not to treat the result as already banked.
+- Metronome 166 (at benchmark pace the cue has never failed; cadence here is free).
+
+### Fri 9/25 Cali #6 — **UPPER ONLY, LEGS CUT**
+
+Benchmark run is 6 h downstream and the 15 k long is 48 h after that. **C1 BSS and C2 SL-RDL are CUT this week — not reduced, cut.** Running owns the legs and this is the one week the legs have a measured job.
+
+- **D1 Tibialis Raise 3×20 slow eccentric MOVED to Fri PM, post-run.** The non-negotiable survives; pre-fatiguing anterior tib hours before the fastest 8 k of the block does not.
+- Everything else (A1/A2/B1/B2/D2/D3) runs as written.
+
+### Cali #5 (Mon 9/21) — full session
+
+Holds at the 9/18 prescription. **Advance a slot only if it is reported gate-cleared on 9/18** (all sets top of range AND every set RPE ≤7).
+
+| Slot | Prescription | RPE | Note |
+|---|---|---|---|
+| A1 Push-up | 4×8 @ setting 3 | ≤8 | Gate to reopen setting 2 = 4×8 @ ≤8 |
+| A2 Inverted Row | 4×8 @ setting 3 | ≤8 | 8-rep cap holds |
+| B1 Pull-up | 3×5 · assist open 4, settle 3 | ≤8 | No leverage progression until 3×5 @ ≤7 |
+| B2 Push-up 2nd block | 3×6–8 @ setting 3 | 7 | Build 6→8 **only if 9/18 ran clean** |
+| C1 Bulgarian Split Squat | 3×8–10 BW | **6 HARD CAP** | Tue run in 24 h. Stop 2 reps short |
+| C2 SL-RDL | 3×10 BW | **6 HARD CAP** | Same |
+| **D1 Tibialis Raise** | **3×20 SLOW ECCENTRIC, 3 s lower** | 7–8 | Survives every cut |
+| D2 Hanging Knee Raise | 3×8 | 8 | Build to 10 when RPE drops off 8 |
+| D3 Side Plank | 2×45 s/side | ≤6 | |
+
+### Run rules — Wk D
+
+1. **Tue 6 k / Thu 4 k — 100 % easy. HR ceiling 150.** The benchmark is Friday; Tuesday and Thursday exist to arrive at it rested, not to audition for it.
+2. **Fri is the ONLY session above HR 150 this week.** Sunday's 3 k @ 6:20 is the second — nothing else.
+3. **Sun 15 k — OPEN AT 7:50/km AND MEAN IT. Fifth re-statement.** Decay history: 9/7 ran 7:18 vs 7:35–7:50 · 9/8 obeyed at 8:01 · 9/11 ran 7:22 vs 7:50 · 9/16 ran 6:14 vs a 140 HR ceiling. **The correction has never survived two runs.** If the watch reads sub-7:40 inside the first 2 km, that day's cadence number is VOID and the final 3 k @ 6:20 comes off a spent first half.
+4. **Sun structure: 12 k easy @ ~7:50/km, HR ≤150 → final 3 k @ 6:20/km.** This is the first goal-pace rep of the block and it is placed inside the long on purpose — **no extra session, no extra impact day.** Fuel 30 g/h from km 5.
+5. **Metronome 166 on every run including the long.** Match the beat by **SHORTENING STRIDE**, never by speeding up. 8:01/km → 163 (9/8) is still the only honest sub-7:20 test and it failed.
+6. **Distance is set by BONE, not by breath.** Shin clean 25/25. Any pinpoint pain stops the session and voids the addendum.
+
+### Fuel — Wk D
+
+Uni days Mon–Thu **2650–2700** · Fri **2400** · Sat **2400** · Sun long **2700** · **protein 155–165 g** (pull it down — 227 → 169 → 178 is drifting up) · creatine 5 g/d · carbs up Sat for Sunday.
+
+### ⚠️ OPEN — blocks nothing, but needed
+
+Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunday's 15 k is provisional on the 9/20 result:** long missed or cut short → **Sun 9/27 drops to 13 k**, benchmark unchanged.
+
+### 🔁 SWAP Mon↔Tue — user, 2026-09-21. **APPROVED, and it is a small upgrade.**
+
+- Mon 9/21 = **run 6 k** · Tue 9/22 = **cali #5**. Week total, session count and every other day unchanged.
+- ✅ **Legs get more room, not less.** Original ran cali Mon → run Tue at **24 h**. Swap runs cali Tue → run Thu at **48 h**. The RPE-6 leg cap now has two clear days in front of it instead of one.
+- ✅ Loaded-day rule intact: Mon + Tue loaded (2), Wed full rest. Max-2 holds.
+- ⚠️ **Mon carries bike 24 km + run 6 k.** Same stack Tuesday would have carried. **Run AM ~10:00 pre-class, bike Z1 both legs.** Running post-class at 17:30 on legs that already rode 12 km and sat 5 h is the worse half of the trade.
+- ⚠️ Tue cali lands **post-class ~13:00, after the 12 km outbound ride.** Upper-dominant session, legs capped at 6 — acceptable. Do not move it to Tue AM; class starts 08:00 and a rushed cali is how the tibialis block gets cut.
+
+- **Mon 9/21 — Run easy 6 k — PRESCRIBED.** AM ~10:00. **Deliberate slow-pace cadence test: hold 7:45–8:00/km and hit 166 by SHORTENING STRIDE.** The metronome still has zero successful reps below ~7:20/km (9/8: 8:01 → 163). This is the cheapest possible place to run that test — 6 easy km, nothing downstream until Thursday — and it is a direct rehearsal of Sunday's opening 2 km. **If pace drifts under 7:40 the data point is void again, fourth time.** HR ceiling 150, target 140–148.
