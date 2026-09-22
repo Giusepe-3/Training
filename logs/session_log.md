@@ -1686,3 +1686,13 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - ⚠️⚠️ **BW SERIES IS DARK — 10 days, and this now blocks a real decision.** Last weigh-in **76.20 on 9/11**, itself confounded (9/10 data hole + illness onset). **9/14, 9/17, 9/20 and 9/21 all took no BW.** Every trend call scheduled since has been void on arrival. **No kcal change can be made off this, and none is being made.** Fuel holds: uni 2650–2700 · non-uni ~2400 · Sun long ~2700 · protein 155–165 g. **Fix = consecutive clean fasted mornings, not one reading.** Asked once; not chased.
 
 - **Mon 9/21 — original prescription (superseded by the result above).** AM ~10:00. **Deliberate slow-pace cadence test: hold 7:45–8:00/km and hit 166 by SHORTENING STRIDE.** The metronome still has zero successful reps below ~7:20/km (9/8: 8:01 → 163). This is the cheapest possible place to run that test — 6 easy km, nothing downstream until Thursday — and it is a direct rehearsal of Sunday's opening 2 km. **If pace drifts under 7:40 the data point is void again, fourth time.** HR ceiling 150, target 140–148.
+
+- **Tue 9/22 — Cali #5 full — ✅ DONE, 45 min.** 28/28 sets. Avg set RPE 7.4, retro 7.5, **3 sets at RPE 10.** Shin **CLEAN #27.** Bike 24 · kcal 2772 · protein 161 ✅ · creatine Y. Pain none. Full log → `logs/sessions/2026-09-22_cali_fullbody.md`.
+  - ✅ **Legs RPE 6 held on every C set** (8/6/6 both). Thu 4 k has 48 h clear.
+  - ✅ **A1 push-up 4×10 @ 6/7/7/9** — reps up 8 → 10 off a 13-day layoff. Setting 2 not yet (S4 = 9).
+  - ⚠️ **Row cap broken: 10/9/9/7 @ 8/9/9/10.** Same decay the 8-rep cap killed on 9/5. Push/pull gap 0.0 → **1.14**, from this alone. Cap reinstated.
+  - ⚠️ **B1 switched to negatives, 9/5/5 @ 8/8/10.** S1 overshoot spent S3. Capped at 5.
+  - ⚠️ **D3 side plank 45 s rung failed — 20 s @ 8/9.** Regress to 30 s.
+  - ⚠️ **45 min vs 60 planned** — rests compressed; drives the RPE 10s.
+  - **Next session bumps (Fri 9/25, UPPER ONLY):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 setting 3 3×6 · C1/C2 CUT · D1 3×20 slow ecc Fri PM post-run · D2 3×6 · D3 2×30 s.
+
