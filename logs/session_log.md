@@ -1608,8 +1608,8 @@ Uni days (Wed/Thu) **2650–2700** · Fri/Sat **2400** · Sun long **2700** · *
 | Thu 9/24 | Run easy — shortest | **4** | PM ~13:00. Bike 24 Z1 |
 | Fri 9/25 | **Cali #6 (upper only, AM)** + **8 K BENCHMARK** PM ~16:00 | **10** | bike-free. 2 k WU + **8 k benchmark** |
 | Sat 9/26 | **REST — full** | — | long-run primer |
-| Sun 9/27 | Run **LONG** AM — 12 k easy + **final 3 k @ 6:20** | **15** | bike-free. Fuel 30 g/h |
-| | | **35** | |
+| Sun 9/27 | Run **LONG** AM — ~~12 k easy~~ **10 k easy** + **final 3 k @ 6:20** | ~~15~~ **13** | bike-free. Fuel 30 g/h. **Cut 9/23 — 9/20 long MISSED** |
+| | | ~~35~~ **33** | |
 
 ### ✅ Fri Sep 25 — 8 K BENCHMARK — the gate opens
 
@@ -1695,4 +1695,12 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - ⚠️ **D3 side plank 45 s rung failed — 20 s @ 8/9.** Regress to 30 s.
   - ⚠️ **45 min vs 60 planned** — rests compressed; drives the RPE 10s.
   - **Next session bumps (Fri 9/25, UPPER ONLY):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 setting 3 3×6 · C1/C2 CUT · D1 3×20 slow ecc Fri PM post-run · D2 3×6 · D3 2×30 s.
+
+- **Wed 9/23 — REST — AM ✅.** Sleep **8 h** (02:00–10:00), q 8 · **BW 76.40** · RHR **46 (−2)** · mot 10 / energy 10 / stress 2 · DOMS back **3** / shldr **3** / arm **3** / chest — · quad/ham/glute/calf **1** · joints fine · **SHIN CLEAN #28.**
+  - ❌ **Sun 9/20 long MISSED (user, 9/23).** Pre-set rule fires: **Sun 9/27 = 13 k (10 easy + final 3 @ 6:20), week 35 → 33 km.** Longest recent run stays **10 k (9/6)** → 13 k = +30 %. Benchmark Fri unchanged. Fri 9/18 / Sat 9/19 still unlogged — written off, not chased.
+  - ⚠️ **Wk E peak long 20 k is now OFF.** 13 → 20 = +54 % in one week. Re-cut Sun 9/27 off the shin check; expect **~16–17 k**. Race becomes ~+75 % over longest — sub-3:10 is a finishing problem even more than before; the benchmark decides pace, the long decides whether he gets to km 25.
+  - ✅ **Engine fully recovered:** RHR 46 (−2), energy 10, legs at 1 everywhere. Thu 4 k goes as written.
+  - ⚠️ **Upper DOMS 3/3/3 = the 9/22 RPE-10 sets + 45-min compressed rests, paid in full.** Fri cali #6 rule: **back/arm still ≥2 Fri AM → A2 rows 3×8 and B1 negatives 2×5, RPE ≤8.** ≤1 → as written. Tibialis/legs unaffected.
+  - ⚠️ **BW 76.40 — first reading in 12 days, single point, sore-muscle water + 2772 kcal yesterday.** vs 76.20 (9/11), 75.0 (8/31). **No kcal change.** Need daily weigh-ins Thu → Sun; trend call Sun 9/27 only if ≥3 readings.
+  - Bedtime 02:00 on a rest day — no issue. **Sat 9/26 is the night that matters** (pre-long).
 
