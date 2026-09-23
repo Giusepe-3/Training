@@ -1703,4 +1703,8 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - ⚠️ **Upper DOMS 3/3/3 = the 9/22 RPE-10 sets + 45-min compressed rests, paid in full.** Fri cali #6 rule: **back/arm still ≥2 Fri AM → A2 rows 3×8 and B1 negatives 2×5, RPE ≤8.** ≤1 → as written. Tibialis/legs unaffected.
   - ⚠️ **BW 76.40 — first reading in 12 days, single point, sore-muscle water + 2772 kcal yesterday.** vs 76.20 (9/11), 75.0 (8/31). **No kcal change.** Need daily weigh-ins Thu → Sun; trend call Sun 9/27 only if ≥3 readings.
   - Bedtime 02:00 on a rest day — no issue. **Sat 9/26 is the night that matters** (pre-long).
+  - **PM ✅ — REST DONE, FULL.** Bike **0** · shin **N (clean)** · kcal **2933** · protein **169** · creatine Y. *"Chill rest day."*
+    - ⚠️ **Kcal +530 over target.** Bike-free uni day = **~2400**, not 2650–2700. One day, not a flag on its own — but it lands on the first BW reading in 12 days already up at 76.40. **Still no kcal change off BW**; just hit the day's number: Thu **2650–2700 if bike ridden, ~2400 if not.**
+    - Protein 169 — 4 g over the 155–165 band. Fine.
+    - ❓ **Bike 0 on 3 of the last 4 logged uni days (9/17, 9/21, 9/23).** If the commute has stopped, the uni-day kcal target (2650–2700) is wrong and every uni day drops to ~2400. Asked once.
 
