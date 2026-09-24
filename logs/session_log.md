@@ -1715,4 +1715,11 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - ⚠️ **Upper 3/3/3/3, chest now 3 too** (was — yesterday). 48 h peak of the RPE-10 session. Fri gate still live: **back/arm ≥2 Fri AM → A2 rows 3×8, B1 negatives 2×5, RPE ≤8.** Add: **chest ≥2 → A1 3×10, B2 2×6.**
   - ⚠️ **BW 77.05 (+0.65 d/d)** on 2933 kcal + DOMS water at peak. 2 readings (76.40, 77.05) — still no kcal change. Trend call Sun 9/27 needs Fri/Sat/Sun weigh-ins.
   - **Bike: 0 on 4 of the last 5 uni days.** Treat uni days as **~2400 kcal** until a ride is logged again. Today **~2400**, protein 155–165.
-  - **Prescribed:** 4 k easy outdoor, open 8:00/km, never under 7:40, **HR ceiling 150**, metronome 166 floor, no pickups. Drift check vs 9/21 (145 @ 7:56): ≥150 at same pace = second +5 → flag. Shin pinpoint → stop + benchmark void. PM pending.
+  - **Prescribed:** 4 k easy outdoor, open 8:00/km, never under 7:40, **HR ceiling 150**, metronome 166 floor, no pickups. Drift check vs 9/21 (145 @ 7:56): ≥150 at same pace = second +5 → flag. Shin pinpoint → stop + benchmark void.
+  - **PM ⚠️ — DONE, OFF-PRESCRIPTION.** 4.0 km, **26:23**, **6:35/km**, HR **154 / 167**, Z1 7 / **Z2 80** / Z3 13, cadence **165**, 0 walk breaks, RPE **4**, outdoor sunny. *"All good I felt really good."* **SHIN CLEAN #30.** Bike **0** · kcal **2596** · protein **175** · creatine Y · alcohol 0 · steps 9891. Full log → `logs/sessions/2026-09-24_run.md`.
+    - ❌ **Pace floor 7:40 missed by ~1:05/km, HR ceiling 150 broken (avg 154).** Decay pattern intact: 9/21 obeyed → 9/24 hot. Correction survives one run, never two.
+    - 🚫 **Cadence 165 VOID** (pace <7:40) — but note: 170 @ 7:56 vs 165 @ 6:35. Faster = longer stride. **Benchmark: metronome on, 166 floor.**
+    - 🚫 **Drift check VOID** (pace not matched). Engine line consistent with 9/16 (6:14 @ 159). No flag.
+    - ✅ **Benchmark Fri 9/25 stands.** 26 min, 80 % Z2, RPE 4 = small cost. **Gate = Fri AM shin check.**
+    - ⚠️ **Kcal +196 over ~2400** — 2nd day over (+530, +196) on BW 76.40 → 77.05. Rule holds: no kcal change, trend call Sun 9/27 on ≥3 readings. **Fri target ~2400.** Protein 175 → pull to 160.
+    - **Wk D after Thu: 2 of 4 runs, 10 of 33 km.**
