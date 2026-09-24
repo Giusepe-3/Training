@@ -1708,3 +1708,11 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     - Protein 169 — 4 g over the 155–165 band. Fine.
     - ❓ **Bike 0 on 3 of the last 4 logged uni days (9/17, 9/21, 9/23).** If the commute has stopped, the uni-day kcal target (2650–2700) is wrong and every uni day drops to ~2400. Asked once.
 
+
+- **Thu 9/24 — Run easy 4 k — AM ✅.** Sleep **8:45** (23:45–08:30), q 8 · **BW 77.05** · RHR **45 (−2)** · mot 10 / energy 10 / stress 2 · DOMS chest **3** / back **3** / shldr **3** / arm **3** · quad **2** / ham **2** / glute 1 / calf 1 · tendons clean · **SHIN CLEAN #29.** Bike today **N**.
+  - ✅ **Engine: RHR 45 = new low-band.** Run goes as written — 4 k easy, Z2, metronome 166.
+  - ⚠️ **Quad/ham 1 → 2 on a bike-free rest day** = 48 h DOMS peak from Tue cali legs, not accumulation. Bike flag does not apply (no ride). 4 k easy is fine on DOMS 2; shin clean is the gate.
+  - ⚠️ **Upper 3/3/3/3, chest now 3 too** (was — yesterday). 48 h peak of the RPE-10 session. Fri gate still live: **back/arm ≥2 Fri AM → A2 rows 3×8, B1 negatives 2×5, RPE ≤8.** Add: **chest ≥2 → A1 3×10, B2 2×6.**
+  - ⚠️ **BW 77.05 (+0.65 d/d)** on 2933 kcal + DOMS water at peak. 2 readings (76.40, 77.05) — still no kcal change. Trend call Sun 9/27 needs Fri/Sat/Sun weigh-ins.
+  - **Bike: 0 on 4 of the last 5 uni days.** Treat uni days as **~2400 kcal** until a ride is logged again. Today **~2400**, protein 155–165.
+  - **Prescribed:** 4 k easy outdoor, open 8:00/km, never under 7:40, **HR ceiling 150**, metronome 166 floor, no pickups. Drift check vs 9/21 (145 @ 7:56): ≥150 at same pace = second +5 → flag. Shin pinpoint → stop + benchmark void. PM pending.
