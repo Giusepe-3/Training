@@ -1723,3 +1723,7 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     - ✅ **Benchmark Fri 9/25 stands.** 26 min, 80 % Z2, RPE 4 = small cost. **Gate = Fri AM shin check.**
     - ⚠️ **Kcal +196 over ~2400** — 2nd day over (+530, +196) on BW 76.40 → 77.05. Rule holds: no kcal change, trend call Sun 9/27 on ≥3 readings. **Fri target ~2400.** Protein 175 → pull to 160.
     - **Wk D after Thu: 2 of 4 runs, 10 of 33 km.**
+
+- **Fri 9/25 — Cali #6 (upper only, AM) + 8 K BENCHMARK (PM ~16:00) — PENDING AM.** Bike-free. Kcal **~2400**, protein ~160.
+  - **AM gates:** shin pinpoint → NO benchmark, addendum void · back/arm ≥2 → A2 rows 3×8, B1 negatives 2×5, RPE ≤8 · chest ≥2 → A1 3×10, B2 2×6 · else as written (A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 setting 3 3×6 · D2 3×6 · D3 2×30 s). **C1/C2 CUT.** D1 tibialis 3×20 slow ecc **PM post-run.**
+  - **Benchmark:** 2 k WU HR ≤145 → **8 k even effort, no hero first km** → walk CD. Metronome 166 floor (9/24: 165 @ 6:35 — stride lengthens at speed). ≤5:50 → sub-3:00 opens · 5:50–6:10 → sub-3:10 confirmed · >6:10 → conservative. Shin pain mid-run → stop.
