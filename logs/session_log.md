@@ -1732,3 +1732,22 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - 🔁 **CALI #6 → SAT 9/26 AM (user).** Approved with conditions. Technically breaks "long off a full rest day" (Fri → Sat → Sun = 3 loaded), but that rule protects the legs, and this session is **upper only with zero leg work**. Conditions: **finish by ~12:00** (≥20 h before the long) · **RPE ≤8 on every set** · **no C1/C2** · **tibialis moves to Fri, right after the benchmark**: slow eccentrics the day before the long pre-tire anterior tib. Upside: back/arm DOMS 2 gets 24 h more to clear, so the pull gate may lift Sat AM (re-check).
   - **AM gates:** shin pinpoint → NO benchmark, addendum void · back/arm ≥2 → A2 rows 3×8, B1 negatives 2×5, RPE ≤8 · chest ≥2 → A1 3×10, B2 2×6 · else as written (A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 setting 3 3×6 · D2 3×6 · D3 2×30 s). **C1/C2 CUT.** D1 tibialis 3×20 slow ecc **PM post-run.**
   - **Benchmark:** 2 k WU HR ≤145 → **8 k even effort, no hero first km** → walk CD. Metronome 166 floor (9/24: 165 @ 6:35 — stride lengthens at speed). ≤5:50 → sub-3:00 opens · 5:50–6:10 → sub-3:10 confirmed · >6:10 → conservative. Shin pain mid-run → stop.
+  - **PM (Strava pull) ✅ — BENCHMARK DONE, AM 09:34.** Full log → `logs/sessions/2026-09-25_run.md`. 9.01 km, moving **52:26**, elapsed 54:43, HR **173 / 198**, cadence **165** (Strava 82.5×2), 14 m gain, route incl. Ballerup track. **Shin / RPE / tibialis: pending from user.**
+    - **Splits (1 k auto-lap, moving):** WU **6:46 @ 146** (1 k, not 2) · **5:21 @ 179** · 6:05 @ 172 (+42 s stop @ 2.09 km) · 5:59 @ 174 · 5:52 @ 177 · 5:53 @ 177 · 6:03 @ 174 · 5:48 @ 177 · **4:37 @ 190, max 198** (+44 s stop @ 8.38 km). No CD.
+    - **8 k benchmark (km 2–9): 5:42/km moving · 5:58/km elapsed.** Even-effort core km 3–8 = **5:57/km @ HR ~175.**
+    - ⚖️ **VERDICT: sub-3:10 CONFIRMED. sub-3:00 does NOT open.** 5:42 is propped by a 5:21 hero opener (explicitly ruled out), ~86 s of stops, and a 4:37 kick at HR 198. Steady-state 5:57 and elapsed 5:58 both land inside 5:50–6:10. Plus the binding constraint is unchanged: longest recent run 10 k, race 30 k — finishing problem first.
+    - ✅ **Race-pace HR model holds:** 5:57 @ ~175 → 6:20 ≈ HR 163–168, inside the 160–168 band. Sun 9/27 final 3 k @ 6:20 is the check.
+    - Cadence: benchmark laps 163–170, avg ~166 ✅. WU **159** @ 6:46 — below floor (metronome on?).
+    - **Wk D after Fri: 3 of 4 runs, 19 of 33 km.** Sun 9/27 13 k (10 easy @ open 7:50 + final 3 @ 6:20) stands, pending shin.
+    - **PM macros:** kcal **2706** · protein **178** · creatine Y · alcohol 0 · steps 14538. **Shin / RPE / tibialis / stops: still pending.**
+    - ⚠️ **Kcal +306 over ~2400** — 3rd straight day over (+530 Wed, +196 Thu, +306 Fri). Today defensible: 684 kcal benchmark. BW 77.05 ×2. **Still no kcal change — trend call Sun 9/27 on Sat+Sun readings.** Sat rest target **~2400**; Sun long **~2700**.
+    - Protein 178 — 3rd day above 165 (175, 178). Harmless, but pull to ~160.
+    - **User PM:** **SHIN CLEAN #32** · RPE **9** · stops = traffic lights · **tibialis NOT done → moved.**
+    - Verdict unchanged: stops were involuntary but still gave recovery (HR 176 → 159 at stop 1). Core 5:57 is already moving time. RPE 9 @ 8 k ≠ 6:00/km for 30 k off a 10 k longest. **sub-3:10 confirmed, sub-3:00 closed.** Shin clean → addendum stays live.
+    - **Tibialis:** tonight if possible (3×20, normal tempo, 5 min). Else Sat end of cali #6, **normal tempo, NO slow eccentrics** — day before the long.
+    - **Sun 9/27 AM gate added:** shin pinpoint → easy only, addendum void · quad/calf DOMS ≥2 (RPE 9 + HR 198 hangover) → drop the 3 k @ 6:20, run 13 k all easy · else 10 easy (open 7:50) + final 3 @ 6:20, metronome 166.
+
+- **Sat 9/26 — Cali #6 (UPPER ONLY, AM, done by ~12:00) — STAGED.** Day before the long. Bike-free. Kcal **~2400**, protein ~160.
+  - **AM gates:** back/arm ≥2 → A2 rows 3×8, B1 negatives 2×5 · chest ≥2 → A1 3×10, B2 2×6 · else as written. **Every set RPE ≤8** (no RPE 10 the day before the long).
+  - **As written:** A1 push-up setting 3 4×10 · A2 row setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 push-up setting 3 3×6 · **C1/C2 CUT** · **D1 tibialis 3×20 NORMAL tempo, no slow ecc** (carried from Fri) · D2 3×6 · D3 side plank 2×30 s.
+  - Evening: **Sat is the night that matters — pre-midnight bedtime.** Carbs up at dinner for the long.
