@@ -1764,3 +1764,14 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     - ⚠️ Gate correction: 9/22 wrote "setting 2 opens at RPE ≤8" — wrong. Governing gate = every set ≤7. A1 holds.
     - **Next session bumps (Mon 9/28 cali #7, full body):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · **B2 setting 3 3×7** · C1/C2 3×8/leg RPE 6 cap (Mon leg DOMS ≥2 → 2×8) · D1 3×20 slow ecc · D2 3×6 · **D3 2×20 s**.
     - Tonight: bed pre-midnight, carbs up at dinner. **Sun 9/27 AM gate:** shin pinpoint → easy only, addendum void · quad/calf ≥2 → 13 k all easy · else 10 easy (open **7:50**, never under 7:40) + final 3 @ 6:20, metronome 166. Kcal ~2700.
+
+- **Sun 9/27 — Run LONG 13 k (AM) — STAGED.** Bike-free. Wk D closer: **4 of 4 runs, 33 km** if completed. Longest recent run **10 k (9/6)** → 13 k = +30 %. Kcal **~2700**, protein ~160. **BW trend call today** (5th reading).
+  - **AM gates (in order):**
+    1. **Shin pinpoint on bone → 13 k all easy at most (or shorter), addendum VOID.** Diffuse tib-ant muscle ache from Sat's 20/20/20 @ 7–8 ≠ bone — expected, does not trip the gate.
+    2. **Quad or calf DOMS ≥2 → drop the 3 k @ 6:20, run 13 k ALL EASY.** Sat AM read 2/2/2/2 (benchmark hangover) → **likely branch.** Not a loss: the long is the finishing problem; the 6:20 check moves to Sun 10/4.
+    3. Else → **10 k easy + final 3 k @ 6:20.**
+  - **Easy portion:** **OPEN 7:50/km, never under 7:40** — re-stated because it decays (9/21 obeyed → 9/24 hot at 6:35). **HR ceiling 150.** Metronome **166 floor**, shorten stride at slow pace. Cadence counts only if pace obeyed.
+  - **Final 3 k @ 6:20 (if gate 3):** hit 6:20 and HOLD — not a kick, not the benchmark. Expected HR **163–168**. **HR >172 or form breaks → back to easy, finish the 13 k.** This is the race-pace HR model check (5:57 @ 175 → 6:20 ≈ 163–168).
+  - **Fuel:** ~50–70 g easy carbs 60–90 min pre-run. **30 g carbs at ~40 min and ~75 min** (run ≈ 95–100 min). Water.
+  - **Walk CD 5 min.** No walk breaks during.
+  - **Post:** shin check (#35) + quad/calf report → decides **Wk E long (~16–17 k, 20 k is OFF).**
