@@ -1756,3 +1756,11 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - **AM gates:** back/arm ≥2 → A2 rows 3×8, B1 negatives 2×5 · chest ≥2 → A1 3×10, B2 2×6 · else as written. **Every set RPE ≤8** (no RPE 10 the day before the long).
   - **As written:** A1 push-up setting 3 4×10 · A2 row setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 push-up setting 3 3×6 · **C1/C2 CUT** · **D1 tibialis 3×20 NORMAL tempo, no slow ecc** (carried from Fri) · D2 3×6 · D3 side plank 2×30 s.
   - Evening: **Sat is the night that matters — pre-midnight bedtime.** Carbs up at dinner for the long.
+  - **PM ✅ — CALI #6 DONE, 11:50–12:45 (55 min).** 22/22 sets, push 7 / pull 7. Avg set RPE **7.6**, retro **7.5**, **RPE 10 sets 0** (9/22: 3). Shin **CLEAN #34.** Pain none. Bike 0 · kcal **2485** (+85) · protein **171** · creatine Y. *"Good training day."* Full log → `logs/sessions/2026-09-26_cali_fullbody.md`.
+    - ✅ **Row cap OBEYED: 8/8/8/8 @ 8/8/7/8** (9/22: 10/9/9/7 @ …/10). Push/pull gap 1.14 → **0.71**.
+    - ✅ **A1 4×10 @ 7/8/7/8** (S4 9 → 8) · **B2 6/6/6 @ 7/7/7 → gate cleared, 3×7 next.**
+    - ⚠️ **≤8 cap missed on 3 sets:** B1 S2 (9) + side plank both (9). **Side plank 30 s failed (30/20 @ 9)** → regress 2×20 s.
+    - ⚠️ **Tibialis 20/20/20 @ 7/7/8** vs ≤6 cap. Sun AM: front-of-shin *muscle* ache = tib ant, expected · **pinpoint on bone = stop, addendum void.** Don't confuse the two.
+    - ⚠️ Gate correction: 9/22 wrote "setting 2 opens at RPE ≤8" — wrong. Governing gate = every set ≤7. A1 holds.
+    - **Next session bumps (Mon 9/28 cali #7, full body):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · **B2 setting 3 3×7** · C1/C2 3×8/leg RPE 6 cap (Mon leg DOMS ≥2 → 2×8) · D1 3×20 slow ecc · D2 3×6 · **D3 2×20 s**.
+    - Tonight: bed pre-midnight, carbs up at dinner. **Sun 9/27 AM gate:** shin pinpoint → easy only, addendum void · quad/calf ≥2 → 13 k all easy · else 10 easy (open **7:50**, never under 7:40) + final 3 @ 6:20, metronome 166. Kcal ~2700.
