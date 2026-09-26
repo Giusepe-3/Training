@@ -1747,7 +1747,12 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     - **Tibialis:** tonight if possible (3×20, normal tempo, 5 min). Else Sat end of cali #6, **normal tempo, NO slow eccentrics** — day before the long.
     - **Sun 9/27 AM gate added:** shin pinpoint → easy only, addendum void · quad/calf DOMS ≥2 (RPE 9 + HR 198 hangover) → drop the 3 k @ 6:20, run 13 k all easy · else 10 easy (open 7:50) + final 3 @ 6:20, metronome 166.
 
-- **Sat 9/26 — Cali #6 (UPPER ONLY, AM, done by ~12:00) — STAGED.** Day before the long. Bike-free. Kcal **~2400**, protein ~160.
+- **Sat 9/26 — Cali #6 (UPPER ONLY, AM, done by ~12:00) — AM ✅.** Sleep **9:15** (23:45–09:00), q **10** · **BW 76.70** · RHR **45 (−1)** · mot 10 / energy 10 / stress 2 · DOMS chest 0 / back 1 / shldr 1 / arm 1 · **quad 2 / ham 2 / glute 2 / calf 2** · tendons clean · **SHIN CLEAN #33.** Tibialis NOT done Fri → today. Day before the long. Bike-free. Kcal **~2400**, protein ~160.
+  - ✅ **Upper gates clear (back/arm 1, chest 0) → cali #6 AS WRITTEN**, RPE ≤8 cap every set. Push 7 / pull 7 restored.
+  - ⚠️ **Legs 2/2/2/2 = benchmark hangover** (RPE 9, HR 198 kick) at 24 h. DOMS peaks 24–72 h → **Sun AM likely still ≥2 → 3 k @ 6:20 probably drops, 13 k all easy.** Gate decides Sun AM, not today. Zero leg work today besides tibialis (anterior, RPE ≤6).
+  - ✅ **Engine: RHR 45, sleep 9:15 q10, pre-midnight bed** — best pre-long night of the block, and tonight is the one that counts.
+  - **BW 76.70 (−0.35 d/d).** 4 readings: 76.40 → 77.05 → 77.05 → 76.70. Trend call Sun 9/27. No kcal change.
+  - Start late (~11:15) → finish ~12:15, still ≥20 h before the long. Fine.
   - **AM gates:** back/arm ≥2 → A2 rows 3×8, B1 negatives 2×5 · chest ≥2 → A1 3×10, B2 2×6 · else as written. **Every set RPE ≤8** (no RPE 10 the day before the long).
   - **As written:** A1 push-up setting 3 4×10 · A2 row setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · B2 push-up setting 3 3×6 · **C1/C2 CUT** · **D1 tibialis 3×20 NORMAL tempo, no slow ecc** (carried from Fri) · D2 3×6 · D3 side plank 2×30 s.
   - Evening: **Sat is the night that matters — pre-midnight bedtime.** Carbs up at dinner for the long.
