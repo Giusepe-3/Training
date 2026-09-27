@@ -1770,7 +1770,7 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - Upper 2/2/2/2 = cali #6 DOMS, irrelevant to the run. **Mon 9/28 cali #7 gates apply** (chest ≥2 → A1 3×10, B2 2×6 · back/arm ≥2 → rows 3×8, negatives 2×5).
   - **BW TREND CALL (5 readings):** 76.40 → 77.05 → 77.05 → 76.70 → **76.00**, avg **76.64**. Peak 77.05 = DOMS water + kcal overshoot, now shedding. +1.0 vs 8/31 (75.0), −0.2 vs 9/11 (76.20). **No kcal change — maintenance to race holds (no deficit in the ramp).** But overshoot 4 days running (+530/+196/+306/+85) → **hit targets, don't exceed.** Re-check 7-day avg Sun 10/4.
   - Engine: RHR 45 two days running, 9 h q10 ×2. Best pre-long state of the block.
-- **Sun 9/27 — Run LONG 13 k — STAGED.** Bike-free. Wk D closer: **4 of 4 runs, 33 km** if completed. Longest recent run **10 k (9/6)** → 13 k = +30 %. Kcal **~2700**, protein ~160. **BW trend call today** (5th reading).
+- **Sun 9/27 — Run LONG 13 k — ✅ DONE (PM, 15:43).** Bike-free. Wk D closer: **4 of 4 runs, 33 km** if completed. Longest recent run **10 k (9/6)** → 13 k = +30 %. Kcal **~2700**, protein ~160. **BW trend call today** (5th reading).
   - **AM gates (in order):**
     1. **Shin pinpoint on bone → 13 k all easy at most (or shorter), addendum VOID.** Diffuse tib-ant muscle ache from Sat's 20/20/20 @ 7–8 ≠ bone — expected, does not trip the gate.
     2. **Quad or calf DOMS ≥2 → drop the 3 k @ 6:20, run 13 k ALL EASY.** Sat AM read 2/2/2/2 (benchmark hangover) → **likely branch.** Not a loss: the long is the finishing problem; the 6:20 check moves to Sun 10/4.
@@ -1780,3 +1780,13 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - **Fuel:** ~50–70 g easy carbs 60–90 min pre-run. **30 g carbs at ~40 min and ~75 min** (run ≈ 95–100 min). Water.
   - **Walk CD 5 min.** No walk breaks during.
   - **Post:** shin check (#35) + quad/calf report → decides **Wk E long (~16–17 k, 20 k is OFF).**
+  - **PM ✅ — 13.01 km · moving 1:38:55 · elapsed 1:46:38 (7.7 min stopped, 4.5 min at ~1.3 k) · avg HR 153 · max 179 · cadence 165 · RPE 6 · fuel 80 g · SHIN CLEAN #36.** DOMS quad/calf post **3**. Kcal **2800** (+100 vs ~2700) · protein **180** · creatine Y. *"Chill really good run."* Strava 20353804584.
+    - Splits (moving): 6:45 / 6:58 / 8:15 / 8:19 / 8:36 / 8:29 / 8:20 / 8:24 / 8:34 / 7:50 ‖ **6:19 / 6:06 / 5:54**. HR 140 / 151 / 150 / 148 / 147 / 148 / 152 / 150 / 145 / 151 ‖ **171 / 169 / 171**.
+    - **Easy 10 k: 8:03/km avg @ HR ~148, cadence ~164.** ❌ **Opening MISSED again — km 1–2 at 6:45/6:58 vs open 7:50** (HR to 164 before the stop). Decay history: 9/21 obeyed → 9/24 hot → **9/27 hot**. HR cap then forced km 3–9 to 8:15–8:36 (pace obeyed from km 3).
+    - ⚠️ **Cadence ~164 at 8:20/km with pace obeyed = 2 under the 166 floor** (km 9: 168). Not a re-open — shorten stride harder at 8:00+.
+    - ⚠️ **Easy HR high for pace: ~149 @ 8:24 (km 3–9) vs 145 @ 7:56 (9/21).** Confounded (13 k vs 6 k drift, hot opening, benchmark + DOMS, PM). Not a trip. **Tue 9/29 is the check: HR ≥150 at ~7:56 → +5 drift flag fires → drop a run.**
+    - **Final 3 k: 6:06/km avg @ HR 170, max 179.** ❌ Not held — progressed 6:19 → 6:06 → 5:54 (a kick, which it was told not to be). HR >172 rule breached early in km 11 (peaked 179), not obeyed. ✅ Legs had it at RPE 6 on km 11–13 of the longest run since 6/22.
+    - **Race-pace HR model: 6:19 @ ~171–172 steady, not 163–168** — on km 11 of a long, with drift. Fresh 6:20 still ≈ 165–168. **Race plan: 6:20 on the first 10 k should read HR ≤168; if it reads 172+ early, back off 5–10 s/km.**
+    - **Wk D CLOSED: 4 / 4 runs, 32 / 33 km.** Longest recent run **13 k** (+30 % over 10 k, shin clean).
+    - **Wk E long Sun 10/4 → 16 k = 11 k easy + final 5 k @ 6:20 HOLD** (13 → 16 = +23 %). Full kit/fuel rehearsal. **Provisional on quad/calf:** still ≥2 on Fri 10/2 AM → 15 k, final 3 k @ 6:20 only.
+    - **Mon 9/28 cali #7:** quad/calf 3 tonight → **Mon AM legs ≥2 → C1/C2 2×8 · legs 3 → C1/C2 CUT.** Tibialis stays (slow ecc OK — 6 days to the long).
