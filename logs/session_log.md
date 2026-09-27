@@ -1299,8 +1299,8 @@ Long-run steps: 10 → 12 (+20%) → 15 (+25%) → 18 (+20%) → 22 (+22%). Stac
 | Date | Session | Prescription |
 |------|---------|--------------|
 | ~~**Fri Sep 18**~~ → **Fri Sep 25** (Wk D) ⚠️ **DEFERRED 2026-09-15 — illness** | **8 k benchmark** — already in the block | 2 k WU easy → **8 k at hardest pace holdable for 8 k** → 2 k CD. Metronome 166. Log avg pace, avg HR, max HR. |
-| **Sun Sep 27** (Wk D) | Long 18 k | **15 k easy @ HR ≤150 → final 3 k @ 6:20/km.** Hit 6:20 and hold — not a sprint finish. |
-| **Sun Oct 4** (Wk E) | Long 22 k | **17 k easy @ HR ≤150 → final 5 k @ 6:20/km.** Full rehearsal: race kit, race shoes, race fuel, race breakfast. |
+| **Sun Sep 27** (Wk D) | Long ~~18~~ **13 k ✅ DONE** | ~~15 k easy~~ **10 k easy (8:03 @ ~148) → final 3 k 6:06 @ HR 170** — kicked, not held. Race-pace HR on fatigue ≈ 171. |
+| **Sun Oct 4** (Wk E) | Long ~~22~~ **16 k** (cut 9/27) | ~~17 k~~ **11 k easy @ HR ≤150 → final 5 k @ 6:20/km HOLD.** Full rehearsal: race kit, race shoes, race fuel, race breakfast. |
 
 **Sep 18 gate — how to read the benchmark:**
 - **≤5:50/km** → sub-3:00 stretch OPENS
@@ -1790,3 +1790,39 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     - **Wk D CLOSED: 4 / 4 runs, 32 / 33 km.** Longest recent run **13 k** (+30 % over 10 k, shin clean).
     - **Wk E long Sun 10/4 → 16 k = 11 k easy + final 5 k @ 6:20 HOLD** (13 → 16 = +23 %). Full kit/fuel rehearsal. **Provisional on quad/calf:** still ≥2 on Fri 10/2 AM → 15 k, final 3 k @ 6:20 only.
     - **Mon 9/28 cali #7:** quad/calf 3 tonight → **Mon AM legs ≥2 → C1/C2 2×8 · legs 3 → C1/C2 CUT.** Tibialis stays (slow ecc OK — 6 days to the long).
+
+## WEEK E — Mon Sep 28 → Sun Oct 4 · 32 km · long 16 k · **PEAK WEEK + FULL REHEARSAL**
+
+**Set 2026-09-27 (Sun PM) off Wk D close: 4/4 runs, 32 km, 13 k long, shin clean #36, quad/calf post 3.**
+
+### Volume call — hold 32 km flat, long 13 → 16 k
+
+- Block table said 36 km / 22 k. **Dead** — built on a Wk D that was meant to deliver 36 km with an 18 k long; it delivered 32 with 13.
+- **Week km flat (32 → 32)**, long +3 k (+23 %). Only the long moves. Bone sets distance; the easy runs stay where the shin already proved them.
+- Race is **+87 % over a 16 k longest** — the finishing problem stays open. Wk F is taper; this is the last load week. **No clawed-back km.**
+- **Easy-HR drift watch:** 9/27 read ~149 @ 8:24 vs 145 @ 7:56 (9/21). Confounded. **Tue 9/29 decides:** ≥150 at ~7:56 flat → +5 drift flag → drop Thu's run.
+
+### Wk E schedule
+
+| Day | Session | Km | Timing |
+|---|---|---|---|
+| Mon 9/28 | **Cali #7 — full body** | — | AM pre-class (class 12:00). Bike 24 Z1 |
+| Tue 9/29 | Run easy Z2 — **drift check** | **6** | PM ~13:00 post-class. Bike 24 Z1 |
+| Wed 9/30 | **REST — full** | — | Bike 24 Z1 |
+| Thu 10/1 | Run easy — shortest | **5** | PM ~13:00. Bike 24 Z1 |
+| Fri 10/2 | **Cali #8 (upper only, legs cut)** AM + run easy PM | **5** | bike-free. Sun-long gate read here |
+| Sat 10/3 | **REST — full** | — | pre-midnight bed, carbs up at dinner |
+| Sun 10/4 | Run **LONG** AM — **11 k easy + final 5 k @ 6:20 HOLD** | **16** | bike-free. **Full race rehearsal: kit, shoes, breakfast, fuel** |
+| | | **32** | |
+
+**Sun 10/4 gates:** shin pinpoint → easy only, addendum void · quad/calf ≥2 Fri AM or Sun AM → **15 k, final 3 k @ 6:20 only** · else as written.
+**Sun 10/4 rules:** open **7:50**, never under 7:40 (missed 9/24 AND 9/27 — third strike) · HR ≤150 easy · **5 k @ 6:20 = HOLD, not a kick** (9/27 went 6:19 → 6:06 → 5:54) · **HR >172 → 6:30, finish the 16 k** · metronome 166 floor, shorten stride at 8:00+ · fuel 30 g at ~40/75/105 min (race fuel).
+
+- **Mon 9/28 — Cali #7 (full body, AM pre-class) — STAGED.** Uni day, bike 24 Z1 (**log `Bike km:`**). Kcal **~2650–2700** if ridden, ~2400 if not. Protein ~160 (ran 171/180 last two days — pull down).
+  - **AM gates:**
+    1. **Legs (quad/calf) ≥2 → C1/C2 2×8/leg · legs 3 → C1/C2 CUT.** Sun post-run read 3 → likely ≥2. Tue run is the priority.
+    2. **Chest ≥2 → A1 3×10, B2 2×6.** (Sun AM read 2 — cali #6 DOMS.)
+    3. **Back/arm ≥2 → A2 rows 3×8, B1 negatives 2×5.** (Sun AM read 2.)
+    4. Shin pinpoint → no tibialis slow ecc (normal tempo), flag it.
+  - **As written (all gates clear):** A1 push-up setting 3 **4×10** · A2 row setting 3 **4×8 STOP AT 8** · B1 pull-up negatives **3×5** · B2 push-up setting 3 **3×7** · C1 BSS BW **3×8/leg RPE 6 CAP** · C2 SL-RDL BW **3×8/leg RPE 6 CAP** · D1 tibialis **3×20 slow ecc** (6 days to the long) · D2 hanging knee raise **3×6** · D3 side plank **2×20 s**.
+  - **Every set RPE ≤8.** Upper gate to advance = every set ≤7. Cut order if short: D3 → D2 → C2 → C1. **Never D1.**

@@ -56,7 +56,9 @@ Couch stretch 45 s/side · calf stretch 30 s/side · easy walk.
 
 Bodyweight training progresses by **leverage, not load**. The gate is unchanged in spirit: **all sets at the top of the rep range AND every set RPE ≤7 → advance one step on the ladder.** A set creeping to RPE 8 = hold and clean it. Reps before leverage.
 
-**Bold = current position. LAST UPDATED after session 5, Tue 2026-09-22. Update this table after every cali day.**
+**Bold = current position. LAST UPDATED after session 6, Sat 2026-09-26. Update this table after every cali day.**
+
+> **9/26 (#6) delta — overrides everything below where they differ:** A1 **setting 3, 4×10** (ran 10s @ 7/8/7/8 — gate = every set ≤7, hold) · A2 **setting 3, 4×8 HARD STOP** (cap held: 8/8/8/8 @ 8/8/7/8) · B1 **negatives 3×5** (S2 hit 9) · B2 **setting 3, 3×7** ⬆️ (6/6/6 @ 7/7/7 cleared) · C1/C2 **BW 3×8/leg @ 6** · D1 **3×20 slow ecc** · D2 **3×6** · D3 ⬇️ **2×20 s** (30 s failed @ 9). Push/pull gap 1.14 → 0.71.
 
 > **9/22 (#5) delta — overrides the table below where they differ:** A1 **setting 3, 4×10** (setting 2 opens at 4×10 @ ≤8) · A2 **setting 3, 4×8 HARD STOP** (cap broken 9/22 → 10/9/9/7 @ RPE 10) · B1 **negatives 3×5, stop at 5** · B2 **setting 3, 3×6** · C1/C2 **BW 3×8/leg @ 6** · D1 **3×20 slow ecc** (ran 15s @ 5.5) · D2 **3×6** rebuild to 8 · D3 ⬇️ **2×30 s** (45 s failed: 20 s @ 8/9).
 
