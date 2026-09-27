@@ -1765,7 +1765,12 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     - **Next session bumps (Mon 9/28 cali #7, full body):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP AT 8 · B1 negatives 3×5 · **B2 setting 3 3×7** · C1/C2 3×8/leg RPE 6 cap (Mon leg DOMS ≥2 → 2×8) · D1 3×20 slow ecc · D2 3×6 · **D3 2×20 s**.
     - Tonight: bed pre-midnight, carbs up at dinner. **Sun 9/27 AM gate:** shin pinpoint → easy only, addendum void · quad/calf ≥2 → 13 k all easy · else 10 easy (open **7:50**, never under 7:40) + final 3 @ 6:20, metronome 166. Kcal ~2700.
 
-- **Sun 9/27 — Run LONG 13 k (AM) — STAGED.** Bike-free. Wk D closer: **4 of 4 runs, 33 km** if completed. Longest recent run **10 k (9/6)** → 13 k = +30 %. Kcal **~2700**, protein ~160. **BW trend call today** (5th reading).
+- **Sun 9/27 — Run LONG 13 k (moved AM → PM, bike-free) — AM ✅.** Sleep **9:00** (00:00–09:00), q **10** · **BW 76.00** · RHR **45 (−1)** · mot 10 / energy 10 / stress 2 · DOMS **chest 2 / back 2 / shldr 2 / arm 2** · quad 1 / ham 1 / glute 1 / calf 1 · tendons clean · **SHIN CLEAN #35 (no pinpoint).**
+  - ✅ **Gate 3 fires → 10 k easy + final 3 k @ 6:20.** Legs cleared 2 → 1 in 24 h (benchmark hangover gone). Addendum live.
+  - Upper 2/2/2/2 = cali #6 DOMS, irrelevant to the run. **Mon 9/28 cali #7 gates apply** (chest ≥2 → A1 3×10, B2 2×6 · back/arm ≥2 → rows 3×8, negatives 2×5).
+  - **BW TREND CALL (5 readings):** 76.40 → 77.05 → 77.05 → 76.70 → **76.00**, avg **76.64**. Peak 77.05 = DOMS water + kcal overshoot, now shedding. +1.0 vs 8/31 (75.0), −0.2 vs 9/11 (76.20). **No kcal change — maintenance to race holds (no deficit in the ramp).** But overshoot 4 days running (+530/+196/+306/+85) → **hit targets, don't exceed.** Re-check 7-day avg Sun 10/4.
+  - Engine: RHR 45 two days running, 9 h q10 ×2. Best pre-long state of the block.
+- **Sun 9/27 — Run LONG 13 k — STAGED.** Bike-free. Wk D closer: **4 of 4 runs, 33 km** if completed. Longest recent run **10 k (9/6)** → 13 k = +30 %. Kcal **~2700**, protein ~160. **BW trend call today** (5th reading).
   - **AM gates (in order):**
     1. **Shin pinpoint on bone → 13 k all easy at most (or shorter), addendum VOID.** Diffuse tib-ant muscle ache from Sat's 20/20/20 @ 7–8 ≠ bone — expected, does not trip the gate.
     2. **Quad or calf DOMS ≥2 → drop the 3 k @ 6:20, run 13 k ALL EASY.** Sat AM read 2/2/2/2 (benchmark hangover) → **likely branch.** Not a loss: the long is the finishing problem; the 6:20 check moves to Sun 10/4.
