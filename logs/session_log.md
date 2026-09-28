@@ -1838,3 +1838,12 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - PM: **bike 0** (4th of last 5 uni days) · kcal **2541** (no-bike ~2400, +141) · protein **174** (+9) · creatine Y.
   - **Next session bumps (Fri 10/2 cali #8, UPPER ONLY, pre-long):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP · B1 negatives 3×5 · B2 setting 3 3×7 · **C1/C2 CUT** · D1 tibialis **NORMAL tempo 3×20, stop set at RPE 8** · **D2 3×7** · D3 2×20 s.
   - **Tue 9/29 run 6 k — drift check:** open 7:50, HR ceiling 150, metronome 166. **HR ≥150 at ~7:56 flat → +5 drift flag → drop Thu's run.**
+
+- **Tue 9/29 — Run easy 6 k — DRIFT CHECK — STAGED.** PM ~13:00 post-class. Uni day: bike 24 Z1 if ridden (**log `Bike km:`**). Kcal **~2650–2700 if ridden · ~2400 if not**. Protein ~160 (174 Mon — pull down).
+  - **AM gates:**
+    1. **Shin pinpoint on bone → no run, flag it.** Diffuse tib-ant *muscle* ache from Mon's 20/20/14 slow ecc @ 6/8/10 = expected, does not trip.
+    2. **Quad or calf ≥2 → 5 k, HR ceiling 145.** (Mon AM calf 2, ham/glute 2.)
+    3. Else → 6 k as written.
+  - **As written:** 6 k easy · **OPEN 7:50/km, never under 7:40** (missed 9/24 + 9/27) · **HR ceiling 150** · metronome **166 floor**, shorten stride at 8:00+ · 0 walk breaks · walk CD 5 min.
+  - **Drift check (the point of this run):** reference **9/21 = 145 @ 7:56, 6 k, cadence 170.** Read avg HR on km 2–6 at ~7:50–8:00. **≥150 → +5 flag fires → drop Thu 10/1 run** (week → 27 km, Sun 16 k untouched). 146–149 = noise, hold. **Void if pace under 7:40** — fourth hot opening voids the check.
+  - **Post:** shin check (#39) + quad/calf report.
