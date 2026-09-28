@@ -1826,3 +1826,7 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     4. Shin pinpoint → no tibialis slow ecc (normal tempo), flag it.
   - **As written (all gates clear):** A1 push-up setting 3 **4×10** · A2 row setting 3 **4×8 STOP AT 8** · B1 pull-up negatives **3×5** · B2 push-up setting 3 **3×7** · C1 BSS BW **3×8/leg RPE 6 CAP** · C2 SL-RDL BW **3×8/leg RPE 6 CAP** · D1 tibialis **3×20 slow ecc** (6 days to the long) · D2 hanging knee raise **3×6** · D3 side plank **2×20 s**.
   - **Every set RPE ≤8.** Upper gate to advance = every set ≤7. Cut order if short: D3 → D2 → C2 → C1. **Never D1.**
+- **Mon 9/28 — Cali #7 — AM ✅.** Sleep **8:20** (00:05–08:25), q **10** · **BW 76.45** · RHR **45 (−1)** · mot 10 / energy 10 / stress 2 · DOMS chest 1 / back 1 / shldr 1 / arm 1 · quad 1 / **ham 2 / glute 2 / calf 2** · joints clean · **SHIN CLEAN #37.**
+  - **Gate 1 fires (calf 2) → C1 BSS + C2 SL-RDL 2×8/leg, RPE 6 cap.** Ham/glute 2 = same posterior chain → C2 hard stop at RPE 6. Upper all 1 → A/B **as written**. Tibialis slow ecc OK.
+  - Legs 3 → 2 overnight post-13 k. Engine: RHR 45 three days running, q10 ×3.
+  - **BW 6 readings:** 76.40 / 77.05 / 77.05 / 76.70 / 76.00 / **76.45**, avg **76.61**. Flat. No kcal change.
