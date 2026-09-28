@@ -1830,3 +1830,11 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - **Gate 1 fires (calf 2) → C1 BSS + C2 SL-RDL 2×8/leg, RPE 6 cap.** Ham/glute 2 = same posterior chain → C2 hard stop at RPE 6. Upper all 1 → A/B **as written**. Tibialis slow ecc OK.
   - Legs 3 → 2 overnight post-13 k. Engine: RHR 45 three days running, q10 ×3.
   - **BW 6 readings:** 76.40 / 77.05 / 77.05 / 76.70 / 76.00 / **76.45**, avg **76.61**. Flat. No kcal change.
+- **Mon 9/28 — Cali #7 (full body, legs 2×8) — ✅ DONE.** 10:45–11:35 (50 min) · **26/26 sets** · avg set RPE **7.27** · retro **7** · ≤8 cap held **24/26** · **SHIN CLEAN #38** · *"Chill day to build."* → [logs/sessions/2026-09-28_cali_fullbody.md](sessions/2026-09-28_cali_fullbody.md)
+  - ✅ A1 4×10 @ 7/8/7/7 · A2 8/8/8/8 @ 8/7/7/7 (row cap held again) · B2 **3×7 landed** @ 7/8/8 · **D2 6/6/6 @ 6/6/7 → gate cleared, 3×7.** Push/pull gap 0.71 → **0.43**.
+  - ✅ Legs 8/6 @ 6/6 both movements — **cap obeyed over reps.** Correct call on DOMS 2.
+  - ⚠️ **B1 S3 RPE 10** (third session with a set ≥9). Hold 3×5; set ends when the 3 s lower breaks.
+  - ⚠️ **Tibialis slow ecc 20/20/14 @ 6/8/10** — jumped 15 → 20 slow-ecc reps (9/22: 15s @ ≤5.5). Step too big. Next slow ecc **3×18**. **Tue AM: tib-ant muscle ache = expected ≠ bone. Pinpoint on bone = stop.**
+  - PM: **bike 0** (4th of last 5 uni days) · kcal **2541** (no-bike ~2400, +141) · protein **174** (+9) · creatine Y.
+  - **Next session bumps (Fri 10/2 cali #8, UPPER ONLY, pre-long):** A1 setting 3 4×10 · A2 setting 3 4×8 STOP · B1 negatives 3×5 · B2 setting 3 3×7 · **C1/C2 CUT** · D1 tibialis **NORMAL tempo 3×20, stop set at RPE 8** · **D2 3×7** · D3 2×20 s.
+  - **Tue 9/29 run 6 k — drift check:** open 7:50, HR ceiling 150, metronome 166. **HR ≥150 at ~7:56 flat → +5 drift flag → drop Thu's run.**
