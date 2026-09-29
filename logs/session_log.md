@@ -1852,3 +1852,11 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - ⚠️ **Shldr 3 = highest upper DOMS of the block** (cali #7: A1 4×10 + B1 negatives S3 RPE 10). No run impact. **Fri 10/2 AM gate: shldr ≥2 → hold every ladder, no advance, B1 negatives 2×5.**
   - RHR 43 = lowest recent (45 ×3 prior). Engine fine.
   - **BW 7 readings:** 76.40 / 77.05 / 77.05 / 76.70 / 76.00 / 76.45 / **76.60**, avg **76.61**. Flat. No kcal change.
+- **Tue 9/29 — Run easy 6 k — ✅ DONE.** PM 15:31. **6.00 km · 41:46 moving (6:57/km)** · elapsed 46:37 (4.3 min stop at ~0.7 k) · avg HR **142** / max **155** · cadence **164** · RPE **4** · 0 walk breaks · **SHIN CLEAN #40** · quad/calf post **2** · *"Chill build day."* Strava 20378851247.
+  - Splits: 6:43 @127 (incl. stop) / 6:42 @146 / 6:45 @148 / 7:13 @144 / 7:27 @144 / 6:55 @145.
+  - **Drift check: technically VOID (km 2–6 = 7:00/km, under 7:40), but the answer is clear → NO DRIFT.** HR **145.5 @ 7:00** vs 145 @ 7:56 (9/21): same HR, **56 s/km faster**. At 7:56 the HR would be lower still. **+5 flag does not fire → Thu 10/1 run stays.** The 9/27 reading (149 @ 8:24) was confounding, as called.
+  - ⚠️ **Opening pace missed again** (6:43 vs 7:50) — **fourth straight run**. Re-stating the instruction is not working. **Proposed: easy runs follow HR ≤150 + cadence 166 with no pace number; Sun long easy section keeps a floor (not faster than 7:30) to protect the final 5 k @ 6:20.** Needs the user's call.
+  - ⚠️ **Cadence 164, 2 under the floor, second run in a row** (9/27 ~164). Laps 165/166/166/164/163 — **it faded late at 7:00–7:27 pace**, where the cue has always worked. Metronome on? Asked.
+  - ⚠️ **Quad/calf 1 → 2 after the run.** **Thu 10/1 AM gate: quad or calf ≥2 → 4 k, HR ceiling 145.**
+  - PM: **bike 0** (5th of the last 6 uni days) · kcal **2883** (no-bike ~2400, **+483**) · protein **170** (+10) · creatine Y.
+  - Kcal over for the 2nd day running (+141, +483). BW 7-reading avg 76.61 = flat, not climbing. **Hold — no kcal change unless the trend rises.**
