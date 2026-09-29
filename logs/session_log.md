@@ -1846,4 +1846,9 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
     3. Else → 6 k as written.
   - **As written:** 6 k easy · **OPEN 7:50/km, never under 7:40** (missed 9/24 + 9/27) · **HR ceiling 150** · metronome **166 floor**, shorten stride at 8:00+ · 0 walk breaks · walk CD 5 min.
   - **Drift check (the point of this run):** reference **9/21 = 145 @ 7:56, 6 k, cadence 170.** Read avg HR on km 2–6 at ~7:50–8:00. **≥150 → +5 flag fires → drop Thu 10/1 run** (week → 27 km, Sun 16 k untouched). 146–149 = noise, hold. **Void if pace under 7:40** — fourth hot opening voids the check.
-  - **Post:** shin check (#39) + quad/calf report.
+  - **Post:** shin check (#40) + quad/calf report.
+- **Tue 9/29 — AM ✅.** Sleep **7:25** (23:00–06:30), q **8** · **BW 76.60** · RHR **43 (−2)** · mot 10 / energy 9 / stress 2 · DOMS chest 2 / back 2 / **shldr 3** / arm 2 · quad 1 / ham 1 / glute 1 / calf 1 · joints clean · tib-ant ache 0 · **SHIN CLEAN #39.**
+  - **All gates clear → 6 k as written.** Legs 2 → 1 overnight; tib 20/20/14 slow ecc left zero ache.
+  - ⚠️ **Shldr 3 = highest upper DOMS of the block** (cali #7: A1 4×10 + B1 negatives S3 RPE 10). No run impact. **Fri 10/2 AM gate: shldr ≥2 → hold every ladder, no advance, B1 negatives 2×5.**
+  - RHR 43 = lowest recent (45 ×3 prior). Engine fine.
+  - **BW 7 readings:** 76.40 / 77.05 / 77.05 / 76.70 / 76.00 / 76.45 / **76.60**, avg **76.61**. Flat. No kcal change.
