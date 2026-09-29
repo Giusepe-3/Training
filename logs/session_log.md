@@ -1816,7 +1816,7 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 | | | **32** | |
 
 **Sun 10/4 gates:** shin pinpoint → easy only, addendum void · quad/calf ≥2 Fri AM or Sun AM → **15 k, final 3 k @ 6:20 only** · else as written.
-**Sun 10/4 rules:** open **7:50**, never under 7:40 (missed 9/24 AND 9/27 — third strike) · HR ≤150 easy · **5 k @ 6:20 = HOLD, not a kick** (9/27 went 6:19 → 6:06 → 5:54) · **HR >172 → 6:30, finish the 16 k** · metronome 166 floor, shorten stride at 8:00+ · fuel 30 g at ~40/75/105 min (race fuel).
+**Sun 10/4 rules:** easy 11 k **not faster than 7:30/km** (rule changed 9/29 — the 7:50 opening was missed 4 runs straight) · HR ≤150 easy · **5 k @ 6:20 = HOLD, not a kick** (9/27 went 6:19 → 6:06 → 5:54) · **HR >172 → 6:30, finish the 16 k** · metronome 166 floor, shorten stride at 8:00+ · fuel 30 g at ~40/75/105 min (race fuel).
 
 - **Mon 9/28 — Cali #7 (full body, AM pre-class) — STAGED.** Uni day, bike 24 Z1 (**log `Bike km:`**). Kcal **~2650–2700** if ridden, ~2400 if not. Protein ~160 (ran 171/180 last two days — pull down).
   - **AM gates:**
@@ -1855,8 +1855,21 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 - **Tue 9/29 — Run easy 6 k — ✅ DONE.** PM 15:31. **6.00 km · 41:46 moving (6:57/km)** · elapsed 46:37 (4.3 min stop at ~0.7 k) · avg HR **142** / max **155** · cadence **164** · RPE **4** · 0 walk breaks · **SHIN CLEAN #40** · quad/calf post **2** · *"Chill build day."* Strava 20378851247.
   - Splits: 6:43 @127 (incl. stop) / 6:42 @146 / 6:45 @148 / 7:13 @144 / 7:27 @144 / 6:55 @145.
   - **Drift check: technically VOID (km 2–6 = 7:00/km, under 7:40), but the answer is clear → NO DRIFT.** HR **145.5 @ 7:00** vs 145 @ 7:56 (9/21): same HR, **56 s/km faster**. At 7:56 the HR would be lower still. **+5 flag does not fire → Thu 10/1 run stays.** The 9/27 reading (149 @ 8:24) was confounding, as called.
-  - ⚠️ **Opening pace missed again** (6:43 vs 7:50) — **fourth straight run**. Re-stating the instruction is not working. **Proposed: easy runs follow HR ≤150 + cadence 166 with no pace number; Sun long easy section keeps a floor (not faster than 7:30) to protect the final 5 k @ 6:20.** Needs the user's call.
+  - ⚠️ **Opening pace missed again** (6:43 vs 7:50) — **fourth straight run**. Re-stating the instruction is not working. **✅ ADOPTED (user OK 9/29): easy runs follow HR ≤150 + cadence 166 with no pace number; Sun long easy section keeps a floor (not faster than 7:30) to protect the final 5 k @ 6:20.**
   - ⚠️ **Cadence 164, 2 under the floor, second run in a row** (9/27 ~164). Laps 165/166/166/164/163 — **it faded late at 7:00–7:27 pace**, where the cue has always worked. Metronome on? Asked.
   - ⚠️ **Quad/calf 1 → 2 after the run.** **Thu 10/1 AM gate: quad or calf ≥2 → 4 k, HR ceiling 145.**
   - PM: **bike 0** (5th of the last 6 uni days) · kcal **2883** (no-bike ~2400, **+483**) · protein **170** (+10) · creatine Y.
   - Kcal over for the 2nd day running (+141, +483). BW 7-reading avg 76.61 = flat, not climbing. **Hold — no kcal change unless the trend rises.**
+
+- **Wed 9/30 — REST — full — STAGED.** No run, no cali, no tibialis. Uni day: bike 24 Z1 if ridden (**log `Bike km:`**). Kcal **~2650–2700 if ridden · ~2400 if not**. Protein ~160 (170/174 last two days — pull down).
+  - **AM check as usual.** Watch: **shldr DOMS** (3 on Tue) · quad/calf (2 after the run).
+  - Answer owed: **was the metronome on 9/29?** (cadence 164, 2nd run under floor).
+
+- **Thu 10/1 — Run easy 5 k — shortest — STAGED.** PM ~13:00 post-class. Uni day: bike 24 Z1 if ridden (**log `Bike km:`**). Kcal **~2650–2700 if ridden · ~2400 if not**. Protein ~160.
+  - **AM gates:**
+    1. **Shin pinpoint on bone → no run, flag it.**
+    2. **Quad or calf ≥2 → 4 k, HR ceiling 145.**
+    3. Else → 5 k as written.
+  - **As written:** 5 k easy · **HR ≤150 governs — no pace number** (rule changed 9/29) · metronome **166 floor**, shorten stride if it drifts · 0 walk breaks · walk CD 5 min.
+  - **Cadence check:** 2 runs running at 164. **Metronome ON, audible, whole run.** Target km-by-km ≥166 including the last 2 km (9/29 faded to 164/163).
+  - **Post:** shin check + quad/calf report. Feeds the Fri AM gate for Sun's long (quad/calf ≥2 Fri → 15 k, 3 @ 6:20).
