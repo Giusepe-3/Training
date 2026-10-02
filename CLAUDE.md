@@ -6,13 +6,14 @@ Project memory for Claude Code. Read on every session.
 
 ## ⚠️⚠️⚠️ ACTIVE OVERRIDE — 2026-10-02: GOAL CHANGE → FASTEST 5K, SAT OCT 31, 2026
 
-**Supersedes the 30K goal everywhere. User, 2026-10-02: "I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October." Reason for dropping the 30K: not given yet (asked once).**
+**Supersedes the 30K goal everywhere. User, 2026-10-02: "I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October." Reason: SCHEDULE (confirmed 2026-10-02) — NOT injury, shin fine. Oct 31 is a SOLO TIME TRIAL, not an official race.**
 
 - **❌ 30K Oct 11 — DROPPED 2026-10-02.** Sub-3:10, the goal-pace addendum, the 6:20 rehearsal, the finishing-problem framing: all DEAD. Do not resurrect without the user saying so.
 - **🎯 ACTIVE GOAL: fastest possible 5K, SAT OCT 31, 2026 (29 days out at set).** Primary **sub-27:00 (5:24/km)** · stretch **PR sub-25:58 (5:12/km)** · floor **sub-28:00 (5:36/km)**. Stretch opens only off the **3 K TT Fri Oct 16**: **≤15:05 → PR attempt · 15:05–15:45 → sub-27 confirmed · >15:45 → race sub-28.**
 - **Why these numbers:** 5K PR 25:58 (5/8, May fitness). 9/25 benchmark: 8 k at 5:42 moving / core 5:57 @ HR 175, RPE 9, best 5K inside it 29:08 with stops → Riegel puts today's fresh 5K ≈ **27:30–27:45**. Block 2 had **zero speed work** → first 3–4 weeks of intervals return fast. The engine is built (32 km/wk, RHR 43–45); this is a **SHARPENING** block, not a building block.
 - **Shape: 4 run / 2 cali / 3 rest, same class-fitted template.** Tue = **VO2 intervals** (track, Ballerup Atletikbane) · Thu = easy + strides · Fri = **threshold** (PM, after upper-only cali) · Sun = long **easy 10–12 k** (aerobic support, no pace work). Volume **~30–31 km/wk** (≈ flat, intensity is the new load). Race week cuts Fri cali — race is Saturday.
 - **⚠️ TIBIA STILL GATES EVERYTHING — and speed is new load.** Faster strides = higher peak force per strike; the bone has never seen interval work this block. **Ramp: strides → 400s → 800s → 1 k.** Any pinpoint shin pain → stop the session, back to easy, flag it. **Engine ≠ chassis still applies.**
+- **⏱️ SOLO TT → run it on the TRACK (Ballerup Atletikbane, 12.5 laps).** Flat, no traffic lights (9/25 lost ~86 s to stops on road). Lap splits: sub-27 = **2:10/400** · PR = **2:05** · sub-28 = **2:14**. 3 K TT 10/16 same track, 7.5 laps. **Date is moveable ±1 day for wind/rain — it is a TT, the conditions are ours to pick.**
 - **Easy runs unchanged:** HR ≤150, cadence ≥166 metronome, no pace number. Metronome **off** for quality reps (cadence at 5K pace is naturally high).
 - **Cali unchanged** (`workouts/cali_fullbody.md`, Mon + Fri AM, legs RPE 6 cap). **Mon legs → 2×8/leg** (Tuesday is now quality). Fri stays upper only. Tibialis 3×20 both days.
 - **Nutrition: maintenance unchanged** (uni ridden 2650–2700 · non-uni/no-bike ~2400 · protein 155–165). No cut into a sharpening block.

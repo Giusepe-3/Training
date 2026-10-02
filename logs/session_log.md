@@ -1878,7 +1878,8 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 
 ## 🎯 GOAL CHANGE 2026-10-02 — 5K OCT 31 (30K DROPPED)
 
-**User, Fri 10/2:** *"I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October."* Reason not given — asked once. **If it is the shin or any injury, this whole table is void → re-plan.**
+**User, Fri 10/2:** *"I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October."* **Reason: schedule (user, 10/2) — not injury. Table stands.**
+- **Oct 31 = SOLO TIME TRIAL → TRACK** (Ballerup Atletikbane, 12.5 laps; no lights — 9/25 lost ~86 s to stops). Lap targets: **sub-27 = 2:10/400 · PR = 2:05 · sub-28 = 2:14.** 3 K TT 10/16 same track, 7.5 laps. **Date moveable ±1 day (Fri 10/30 or Sun 11/1) for wind/rain** — if moved to Sun, Fri 10/30 stays REST and Sat becomes 3 k easy + 4 strides.
 
 - ❌ **30K Oct 11 dropped.** Sun 10/4 rehearsal (11 easy + 5 @ 6:20) cancelled. Goal-pace addendum dead.
 - ⚠️ **Wed 9/30 + Thu 10/1 unlogged** (no Thu run on Strava). Not chased; plan proceeds off Tue 9/29 (shin #40).
