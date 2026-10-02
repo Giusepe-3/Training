@@ -1918,8 +1918,27 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 - **Sun 11/1:** rest. Post-race: resume cut toward 73 kg if still wanted.
 - Wk 3 goal pace = set by the TT on 10/16 (PR → 5:12 · sub-27 → 5:24 · sub-28 → 5:36).
 
-### This week (Wk E remainder)
+### This week (Wk E remainder) — ALL REST (user, 10/2)
 
-- **Fri 10/2 — Cali #8 (upper only, AM) + run easy 5 k PM — STAGED.** Cali as staged (A1 4×10 · A2 4×8 STOP · B1 negatives 3×5 · B2 3×7 · C1/C2 CUT · D1 tibialis normal 3×20 · D2 3×7 · D3 2×20 s; shldr ≥2 AM → hold ladders, B1 2×5). **Run: 5 k easy HR ≤150 + 4×20 s strides at the end** (relaxed fast, full walk-back recovery) — first speed exposure of the block.
-- **Sat 10/3 — REST.**
-- **Sun 10/4 — Run LONG easy 12 k** (was 16 k rehearsal). HR ≤150, metronome 166, no pace work. Then **6×20 s strides** after. Week → ~28 km.
+- **Fri 10/2 · Sat 10/3 · Sun 10/4 — REST.** User call. Cali #8 + Fri 5 k + Sun 12 k dropped. Last logged run Tue 9/29 (Thu 10/1 unlogged). **Not drift — 3 planned days, no claw-back.** Wk E closes at 6 logged km.
+- Kcal ~2400 all three days, protein 155–165.
+
+---
+
+## WEEK 1 (5K) — Mon Oct 5 → Sun Oct 11 · ~30 km · 6×400 + 2×2 k threshold
+
+**Built off ~6 run-free days. Engine fine (RHR 43, 9/29). Rested legs = good first-speed week; the bone is the only question → strides inside the WU before the first 400.**
+
+| Day | Session | Km | Timing |
+|---|---|---|---|
+| Mon 10/5 | **Cali #8 — full body**, legs 2×8/leg RPE 6 | — | AM pre-class. Bike 24 Z1 |
+| Tue 10/6 | **Track: 2 WU + 4 strides + 6×400 @ 2:03–2:06, 400 jog + 1 CD** | **~7** | PM ~13:00 post-class. Bike Z1 |
+| Wed 10/7 | **REST — full** | — | Bike Z1 |
+| Thu 10/8 | Easy 5 k HR ≤150 + 6×20 s strides | **5** | PM ~13:00. Bike Z1 |
+| Fri 10/9 | **Cali #9 upper only** AM + **2 WU + 2×2 k @ 5:45–5:50, 2' jog + 1 CD** PM | **~7** | bike-free |
+| Sat 10/10 | **REST — full** | — | pre-midnight bed |
+| Sun 10/11 | **Long easy 11 k**, HR ≤150, metronome 166 | **11** | AM, bike-free |
+| | | **~30** | |
+
+- **Mon 10/5 — Cali #8 — STAGED** (carried bumps from 9/28, 7 days off cali → hold every ladder): A1 setting 3 **4×10** · A2 setting 3 **4×8 STOP** · B1 negatives **3×5** (set ends when 3 s lower breaks) · B2 setting 3 **3×7** · C1 BSS + C2 SL-RDL **2×8/leg RPE 6 CAP** (Tue = quality) · D1 tibialis **3×20 NORMAL tempo** (no slow ecc before track) · D2 **3×7** · D3 side plank **2×20 s**. Every set RPE ≤8. Cut order D3 → D2 → C2 → C1, never D1.
+- **Tue 10/6 track gates:** shin pinpoint → 5 k easy only, flag · quad/calf ≥2 → **4×400** · else 6×400. **400 reps = 2:03–2:06, not faster** — first speed of the block; even reps beat a hot first rep. Rep RPE ≤8. Metronome OFF on reps.
