@@ -1,6 +1,6 @@
 # Block 1 — 11-Week Hypertrophy Plan
 
-> 📦 **ARCHIVED — Block 1 (closed).** The live plan is the 30K block: see `README.md`, `docs/running.md`, and `logs/session_log.md`.
+> 📦 **ARCHIVED — Block 1 (closed).** The live plan is the **5K Oct 31 block** (30K cancelled 2026-10-02): see `README.md`, `docs/running.md`, and `logs/session_log.md`.
 
 **Dates:** April 27 – July 12, 2026 (11 weeks)
 **Goal:** Maximum upper-body hypertrophy. +3–4 kg lean mass realistic.

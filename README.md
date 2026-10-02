@@ -9,19 +9,25 @@ Every session, body metric, macro total and decision lives in this repo as plain
 | | Race | Result |
 |---|---|---|
 | 🏁 | [Rock 'n' Roll Madrid Half Marathon — 21K](https://rocknrollmadridrun.com/recorrido-21k/) · Apr 26, 2026 | **2:09:38** (6:09/km, 339 m climb, avg HR 180) — trained for in this repo |
-| 🎯 | [Run in Budapest — 30K](https://marathon.runinbudapest.com/30-km/) · Oct 11, 2026 | **Target sub-3:10** (6:20/km) · stretch sub-3:00 — *in progress* |
+| ❌ | [Run in Budapest — 30K](https://marathon.runinbudapest.com/30-km/) · Oct 11, 2026 | Cancelled 2026-10-02 (schedule) — trained to sub-3:10 pace |
+| 🎯 | 5K solo time trial (track) · Sat Oct 31, 2026 | **Target sub-27:00** (5:24/km) · stretch PR sub-25:58 — *in progress* |
 
 ---
 
-## Current block — sub-3:10 30K
+## Current block — fastest 5K (Oct 5 → Oct 31)
 
 | | |
 |---|---|
-| **Race** | Budapest 30K, Sun Oct 11, 2026 |
-| **Primary** | sub-3:10 — 6:20/km |
-| **Stretch** | sub-3:00 — gated on an 8 km benchmark, Fri Sep 25 |
-| **Week** | 4 runs / 2 calisthenics / 3 full rest, fitted around a university timetable |
-| **Constraint** | Right-tibia stress-fracture history. **Distance is set by bone, not by breath.** |
+| **Race** | 5K solo time trial on the track, Sat Oct 31, 2026 |
+| **Primary** | sub-27:00 — 5:24/km (2:10 per 400 m lap) |
+| **Stretch** | PR sub-25:58 — gated on a 3 K time trial, Fri Oct 16 (≤15:05) |
+| **Floor** | sub-28:00 — 5:36/km |
+| **Week** | Tue VO2 intervals · Thu easy + strides · Fri threshold · Sun easy long · 2 calisthenics · 3 rest |
+| **Constraint** | Right-tibia stress-fracture history. Speed is new load — ramp 400 → 800 → 1 km reps. |
+
+The 30K (Oct 11) was cancelled for schedule reasons on Oct 2. The aerobic base it built (~32 km/wk, RHR 43–45) is kept; the block has had zero speed work, so four weeks of intervals is a sharpening block, not a building one.
+
+### Previous block — sub-3:10 30K (cancelled)
 
 **The core read:** a 25:58 5K predicts a 1:59 half; Madrid came in at 2:09:38. That ~10-minute spread isn't a speed problem — it's an endurance deficit from treadmill-only, low-volume training. Volume is the lever that closes it, so the plan optimises for *zero dark weeks* over hero sessions. Two goals have already died to month-long training gaps (a 50K ultra, then a sub-2:50 30K); consistency is the whole thesis.
 

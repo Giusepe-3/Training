@@ -1,4 +1,6 @@
-# Running — Block 2: Sub-3:10 30K (RE-CUT Mon Aug 31 → race Sun Oct 11, 2026)
+> **❌ 30K CANCELLED 2026-10-02 (schedule). Active goal = fastest 5K, solo track TT Sat Oct 31 → `CLAUDE.md` top override + `logs/session_log.md` § "GOAL CHANGE 2026-10-02". Everything below is history.**
+
+# ~~Running — Block 2: Sub-3:10 30K (RE-CUT Mon Aug 31 → race Sun Oct 11, 2026)~~
 
 > **🎯 ACTIVE GOAL: 30K in sub-3:10 (6:20/km).** Stretch sub-3:00, opens only if the Wk-C checkpoint (Fri Sep 18) clears. **Re-cut 2026-08-31 after a 34-day dark gap (Jul 29 → Aug 30, ~2 runs total).**
 
