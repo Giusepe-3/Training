@@ -1873,3 +1873,52 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - **As written:** 5 k easy · **HR ≤150 governs — no pace number** (rule changed 9/29) · metronome **166 floor**, shorten stride if it drifts · 0 walk breaks · walk CD 5 min.
   - **Cadence check:** 2 runs running at 164. **Metronome ON, audible, whole run.** Target km-by-km ≥166 including the last 2 km (9/29 faded to 164/163).
   - **Post:** shin check + quad/calf report. Feeds the Fri AM gate for Sun's long (quad/calf ≥2 Fri → 15 k, 3 @ 6:20).
+
+---
+
+## 🎯 GOAL CHANGE 2026-10-02 — 5K OCT 31 (30K DROPPED)
+
+**User, Fri 10/2:** *"I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October."* Reason not given — asked once. **If it is the shin or any injury, this whole table is void → re-plan.**
+
+- ❌ **30K Oct 11 dropped.** Sun 10/4 rehearsal (11 easy + 5 @ 6:20) cancelled. Goal-pace addendum dead.
+- ⚠️ **Wed 9/30 + Thu 10/1 unlogged** (no Thu run on Strava). Not chased; plan proceeds off Tue 9/29 (shin #40).
+
+### Targets — Sat Oct 31
+
+| | Time | Pace |
+|---|---|---|
+| **Primary** | **sub-27:00** | 5:24/km |
+| Stretch | **PR sub-25:58** | 5:12/km |
+| Floor | sub-28:00 | 5:36/km |
+
+- **Today's fresh 5K ≈ 27:30–27:45** (Riegel off 9/25: 8 k @ 5:42 moving, core 5:57 @ HR 175, RPE 9; best 5K inside it 29:08 with stops). PR 25:58 is May fitness.
+- **Zero speed work all of Block 2** → intervals pay fast in 4 weeks. Engine built (32 km/wk, RHR 43–45). **Sharpening block, not building.**
+- **Gate — 3 K TT Fri Oct 16:** **≤15:05 → PR attempt · 15:05–15:45 → sub-27 confirmed · >15:45 → race sub-28.** (Riegel 3 K → 5 K ×1.718.)
+
+### Rules
+
+- **Tibia gates everything; speed is new load.** Ramp strides → 400 → 800 → 1 k. Pinpoint shin pain → stop the session, easy only, flag it.
+- **Quality = Tue (VO2, track) + Fri PM (threshold / TT).** Sun long = **easy only**, 10–12 k. Thu = easy + strides.
+- **Easy runs:** HR ≤150, metronome 166 floor, no pace number (rule 9/29 stands). **Metronome OFF on quality reps.**
+- **Quality reps run by pace, not HR.** Rep RPE ≤8 until the TT; last rep should feel like you could do one more.
+- **Mon cali legs → 2×8/leg RPE 6** (precedes Tue quality). Fri cali upper only. Tibialis 3×20 both days, normal tempo before quality days.
+- Kcal maintenance unchanged · protein 155–165 · creatine 5 g.
+
+### 4-week table
+
+| Wk | Tue (VO2, track) | Thu (easy) | Fri PM (threshold) | Sun (long easy) | Km |
+|---|---|---|---|---|---|
+| **1 · Oct 5–11** | 2 WU + **6×400 @ 2:03–2:06** (5:08–5:15/km), 400 jog + 1 CD ≈ 7 k | 5 k + 6×20 s strides | 2 WU + **2×2 k @ 5:45–5:50**, 2' jog + 1 CD ≈ 7 k | **11 k** | ~30 |
+| **2 · Oct 12–18** | 2 WU + **5×800 @ 4:08–4:12** (5:10–5:15), 400 jog + 1 CD ≈ 8 k | 5 k + 6 strides | ⭐ 2 WU + **3 K TT** all-out even + 1 CD ≈ 6 k | **11 k** | ~30 |
+| **3 · Oct 19–25** | 2 WU + **5×1 k @ goal −5 s/km**, 400 jog + 1 CD ≈ 9 k | 5 k + 6 strides | 2 WU + **3×1.6 k @ 5:35–5:40**, 2' jog + 1 CD ≈ 8 k | **9 k** | ~31 |
+| **4 · Oct 26–31 RACE** | 2 WU + **3×1 k @ goal**, 3' jog + 1 CD ≈ 7 k | 4 k + 4 strides | **REST — no cali** | — | ~11 + race |
+
+- **Race week:** Mon 10/26 cali **upper only, 2 sets/movement, RPE ≤7**, tibialis 2×20 · Wed REST · Fri 10/30 REST (no cali, carbs up, pre-midnight bed) · **Sat 10/31 RACE:** 2 k WU + 4 strides, start at goal pace, km 1 never faster than goal −5 s, push from 3 k.
+- **Sun 11/1:** rest. Post-race: resume cut toward 73 kg if still wanted.
+- Wk 3 goal pace = set by the TT on 10/16 (PR → 5:12 · sub-27 → 5:24 · sub-28 → 5:36).
+
+### This week (Wk E remainder)
+
+- **Fri 10/2 — Cali #8 (upper only, AM) + run easy 5 k PM — STAGED.** Cali as staged (A1 4×10 · A2 4×8 STOP · B1 negatives 3×5 · B2 3×7 · C1/C2 CUT · D1 tibialis normal 3×20 · D2 3×7 · D3 2×20 s; shldr ≥2 AM → hold ladders, B1 2×5). **Run: 5 k easy HR ≤150 + 4×20 s strides at the end** (relaxed fast, full walk-back recovery) — first speed exposure of the block.
+- **Sat 10/3 — REST.**
+- **Sun 10/4 — Run LONG easy 12 k** (was 16 k rehearsal). HR ≤150, metronome 166, no pace work. Then **6×20 s strides** after. Week → ~28 km.

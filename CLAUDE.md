@@ -4,9 +4,25 @@ Project memory for Claude Code. Read on every session.
 
 ---
 
-## ⚠️⚠️ ACTIVE OVERRIDE — 2026-08-31: BLOCK 2 RE-CUT (race Sun Oct 11, 2026 — 6 weeks out)
+## ⚠️⚠️⚠️ ACTIVE OVERRIDE — 2026-10-02: GOAL CHANGE → FASTEST 5K, SAT OCT 31, 2026
 
-**Supersedes the 2026-07-17 and 2026-07-27 overrides below on every point it touches. Read this first.**
+**Supersedes the 30K goal everywhere. User, 2026-10-02: "I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October." Reason for dropping the 30K: not given yet (asked once).**
+
+- **❌ 30K Oct 11 — DROPPED 2026-10-02.** Sub-3:10, the goal-pace addendum, the 6:20 rehearsal, the finishing-problem framing: all DEAD. Do not resurrect without the user saying so.
+- **🎯 ACTIVE GOAL: fastest possible 5K, SAT OCT 31, 2026 (29 days out at set).** Primary **sub-27:00 (5:24/km)** · stretch **PR sub-25:58 (5:12/km)** · floor **sub-28:00 (5:36/km)**. Stretch opens only off the **3 K TT Fri Oct 16**: **≤15:05 → PR attempt · 15:05–15:45 → sub-27 confirmed · >15:45 → race sub-28.**
+- **Why these numbers:** 5K PR 25:58 (5/8, May fitness). 9/25 benchmark: 8 k at 5:42 moving / core 5:57 @ HR 175, RPE 9, best 5K inside it 29:08 with stops → Riegel puts today's fresh 5K ≈ **27:30–27:45**. Block 2 had **zero speed work** → first 3–4 weeks of intervals return fast. The engine is built (32 km/wk, RHR 43–45); this is a **SHARPENING** block, not a building block.
+- **Shape: 4 run / 2 cali / 3 rest, same class-fitted template.** Tue = **VO2 intervals** (track, Ballerup Atletikbane) · Thu = easy + strides · Fri = **threshold** (PM, after upper-only cali) · Sun = long **easy 10–12 k** (aerobic support, no pace work). Volume **~30–31 km/wk** (≈ flat, intensity is the new load). Race week cuts Fri cali — race is Saturday.
+- **⚠️ TIBIA STILL GATES EVERYTHING — and speed is new load.** Faster strides = higher peak force per strike; the bone has never seen interval work this block. **Ramp: strides → 400s → 800s → 1 k.** Any pinpoint shin pain → stop the session, back to easy, flag it. **Engine ≠ chassis still applies.**
+- **Easy runs unchanged:** HR ≤150, cadence ≥166 metronome, no pace number. Metronome **off** for quality reps (cadence at 5K pace is naturally high).
+- **Cali unchanged** (`workouts/cali_fullbody.md`, Mon + Fri AM, legs RPE 6 cap). **Mon legs → 2×8/leg** (Tuesday is now quality). Fri stays upper only. Tibialis 3×20 both days.
+- **Nutrition: maintenance unchanged** (uni ridden 2650–2700 · non-uni/no-bike ~2400 · protein 155–165). No cut into a sharpening block.
+- **Full 4-week table → `logs/session_log.md` § "GOAL CHANGE 2026-10-02 — 5K OCT 31".**
+
+---
+
+## ⚠️ SUPERSEDED OVERRIDE (2026-10-02, 30K dropped) — 2026-08-31: BLOCK 2 RE-CUT (race Sun Oct 11, 2026 — 6 weeks out)
+
+**Supersedes the 2026-07-17 and 2026-07-27 overrides below on every point it touches. Kept for history; the 5K override above wins every tie.**
 
 - **34-day dark gap Jul 29 → Aug 30. ~2 runs total in 5 weeks.** Longest run of Block 2 is still **8.01 km** (7/19). Longest ever 18 km (6/22), now stale.
 - **🎯 ACTIVE GOAL RESET: 30K in sub-3:10 (6:20/km), Sun Oct 11, 2026.** Stretch = sub-3:00, opens only if the 8 k benchmark clears — **moved Fri Sep 18 → FRI SEP 25 on 2026-09-15 for illness.** **❌ sub-2:50 RETIRED 2026-08-31** — it required the volume the gap ate. If any doc still says "sub-2:50", it is stale — fix it. **Binding constraint: peak long ≈ 22 k, race is +36% over longest. This is a FINISHING problem first, a pace problem second.**
@@ -50,9 +66,9 @@ Project memory for Claude Code. Read on every session.
 
 ## What this repo is
 
-Personal training log. **Now: Block 2 — sub-3:10 30K (re-cut 2026-08-31; race Sun Oct 11).** History: Block 1 11-Week Hypertrophy (Apr 27 – Jul 12) → 50 km ultra detour (Jun 4 – Jul 17, abandoned) → Block 2. Bridge from Madrid HM 2026-04-26 (2:09:38).
+Personal training log. **Now: fastest 5K, Sat Oct 31, 2026 (goal changed 2026-10-02; 30K Oct 11 dropped).** History: Block 1 11-Week Hypertrophy (Apr 27 – Jul 12) → 50 km ultra detour (Jun 4 – Jul 17, abandoned) → Block 2. Bridge from Madrid HM 2026-04-26 (2:09:38).
 
-User: solo runner + calisthenics, novice/early-intermediate strength tier, **BW 75.0 kg (2026-08-31)**. **Goal: sub-3:10 30K Oct 11 at maintenance kcal — cut CLOSED, weight already banked (see top override).** Not currently working; classes Mon 12–17, Tue–Thu 8–12.
+User: solo runner + calisthenics, novice/early-intermediate strength tier, **BW 75.0 kg (2026-08-31)**. **Goal: fastest 5K Sat Oct 31 (primary sub-27:00) at maintenance kcal — see top override.** Not currently working; classes Mon 12–17, Tue–Thu 8–12.
 
 ---
 
@@ -257,9 +273,17 @@ Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg wh
 
 ---
 
-## Block 2 targets — RE-CUT 2026-08-31 (6 weeks to race)
+## Block 3 targets — 5K, SAT OCT 31, 2026 (set 2026-10-02) ✅ ACTIVE
 
-**Race: 30K, Sun Oct 11, 2026.**
+| Target | Time | Pace | Notes |
+|--------|------|------|-------|
+| **Primary** | **sub-27:00** | **5:24/km** | Fresh 5K est. today ≈ 27:30–27:45 (Riegel off 9/25 8 k) |
+| Stretch | **PR sub-25:58** | 5:12/km | Opens only if 3 K TT Fri Oct 16 ≤ 15:05 |
+| Floor | sub-28:00 | 5:36/km | 3 K TT > 15:45 → race this |
+
+## ~~Block 2 targets — RE-CUT 2026-08-31~~ ❌ 30K DROPPED 2026-10-02
+
+**~~Race: 30K, Sun Oct 11, 2026.~~**
 
 | Target | Time | Pace | Notes |
 |--------|------|------|-------|
