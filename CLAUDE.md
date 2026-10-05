@@ -15,7 +15,7 @@ Project memory for Claude Code. Read on every session.
 - **⚠️ TIBIA STILL GATES EVERYTHING — and speed is new load.** Faster strides = higher peak force per strike; the bone has never seen interval work this block. **Ramp: strides → 400s → 800s → 1 k.** Any pinpoint shin pain → stop the session, back to easy, flag it. **Engine ≠ chassis still applies.**
 - **⏱️ SOLO TT → run it on the TRACK (Ballerup Atletikbane, 12.5 laps).** Flat, no traffic lights (9/25 lost ~86 s to stops on road). Lap splits: sub-27 = **2:10/400** · PR = **2:05** · sub-28 = **2:14**. 3 K TT 10/16 same track, 7.5 laps. **Date is moveable ±1 day for wind/rain — it is a TT, the conditions are ours to pick.**
 - **Easy runs unchanged:** HR ≤150, cadence ≥166 metronome, no pace number. Metronome **off** for quality reps (cadence at 5K pace is naturally high).
-- **Cali unchanged** (`workouts/cali_fullbody.md`, Mon + Fri AM, legs RPE 6 cap). **Mon legs → 2×8/leg** (Tuesday is now quality). Fri stays upper only. Tibialis 3×20 both days.
+- **🏋️ NORMAL GYM from 2026-10-05 (user joined) — replaces the cali park** (park status for Fri still unconfirmed). Same slots Mon + Fri AM, same rules: **legs RPE 6 cap**, Fri **upper only**, slow-steady bump gate, **tibialis every gym day** (now loadable — 2.5 kg 3×15 after 5 kg failed 10/5). Gym #1 10/5 seeded ~85% May/Jun; live loads + bumps → latest `logs/sessions/*_gym_fullbody.md`. `workouts/cali_fullbody.md` dormant unless the park returns.
 - **Nutrition: maintenance unchanged** (uni ridden 2650–2700 · non-uni/no-bike ~2400 · protein 155–165). No cut into a sharpening block.
 - **Full 4-week table → `logs/session_log.md` § "GOAL CHANGE 2026-10-02 — 5K OCT 31".**
 

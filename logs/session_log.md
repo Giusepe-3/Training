@@ -1931,17 +1931,18 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 
 | Day | Session | Km | Timing |
 |---|---|---|---|
-| Mon 10/5 | **Cali #8 — full body**, legs 2×8/leg RPE 6 | — | AM pre-class. Bike 24 Z1 |
+| Mon 10/5 | ~~Cali #8~~ **Gym #1 — full body ✅ DONE**, legs 2×10 RPE 6 | — | AM pre-class. Bike 0 |
 | Tue 10/6 | **Track: 2 WU + 4 strides + 6×400 @ 2:03–2:06, 400 jog + 1 CD** | **~7** | PM ~13:00 post-class. Bike Z1 |
 | Wed 10/7 | **REST — full** | — | Bike Z1 |
 | Thu 10/8 | Easy 5 k HR ≤150 + 6×20 s strides | **5** | PM ~13:00. Bike Z1 |
-| Fri 10/9 | **Cali #9 upper only** AM + **2 WU + 2×2 k @ 5:45–5:50, 2' jog + 1 CD** PM | **~7** | bike-free |
+| Fri 10/9 | **Gym #2 upper only** AM + **2 WU + 2×2 k @ 5:45–5:50, 2' jog + 1 CD** PM | **~7** | bike-free |
 | Sat 10/10 | **REST — full** | — | pre-midnight bed |
 | Sun 10/11 | **Long easy 11 k**, HR ≤150, metronome 166 | **11** | AM, bike-free |
 | | | **~30** | |
 
 - **Mon 10/5 — Cali #8 — STAGED** (carried bumps from 9/28, 7 days off cali → hold every ladder): A1 setting 3 **4×10** · A2 setting 3 **4×8 STOP** · B1 negatives **3×5** (set ends when 3 s lower breaks) · B2 setting 3 **3×7** · C1 BSS + C2 SL-RDL **2×8/leg RPE 6 CAP** (Tue = quality) · D1 tibialis **3×20 NORMAL tempo** (no slow ecc before track) · D2 **3×7** · D3 side plank **2×20 s**. Every set RPE ≤8. Cut order D3 → D2 → C2 → C1, never D1.
 - **Tue 10/6 track gates:** shin pinpoint → 5 k easy only, flag · quad/calf ≥2 → **4×400** · else 6×400. **400 reps = 2:03–2:06, not faster** — first speed of the block; even reps beat a hot first rep. Rep RPE ≤8. Metronome OFF on reps.
+- **Tue 10/6 — TRACK 6×400 — STAGED.** Ballerup Atletikbane, PM ~13:00 post-class. **2 k WU** easy (HR ≤150, metronome 166) → **4×20 s strides** (shin check on the strides — any pinpoint = stop, 5 k easy) → **6×400 @ 2:03–2:06** (5:08–5:15/km; 1 lap = 1 rep), **400 jog recovery** (~2:45–3:00, walk 30 s if needed) → **1 k CD**. ≈ 7 k. Metronome OFF on reps. Rep RPE ≤8; a rep over 2:08 at RPE 8+ → stop at that rep, that's the dose today. **AM gate addendum (10/5 Gym #1): tibialis failed 15/10/8 at 5 kg → tib-ant MUSCLE ache Tue AM is expected and OK (9/28 precedent); pinpoint BONE pain = 5 k easy only.** Quad DOMS from first leg extension since May: ≥2 → 4×400. Bike Z1 if ridden; kcal 2650–2700 ridden · ~2400 not. Log per-rep split + HR, shin, bike km.
 - **Mon 10/5 AM** — sleep 8.5 h (00:05→08:35) Q10 · **BW 77.60** · **RHR 40 (Δ −3, new block low)** · mot 10 / energy 10 / stress 2 · DOMS all 0 · tendons clean. **Readiness fully green → Gym #1 at full prescription.** BW +1.0 vs 7-reading avg 76.61 (last 76.60, 9/29) after 6 days without a log over a rest weekend: single reading, most likely water/glycogen/sodium. **No kcal change.** Need daily BW Tue–Sun; trend call Sun 10/11.
 - **Mon 10/5 — GYM #1 — DONE** (cali #8 → normal gym, user joined 10/5). 11:05–12:20, 75 min. Bench 25 4×8 @ 7/8/8/8 · Lat PD 25 4×10 @ 6/7/7/8 · Incline DB 5/DB 3×10 @ 7/7/7 · Barbell Lying Row 30 3×12 @ 6/6/7 (sub cable row) · Leg Ext 10 2×10 @ 5/5 (sub leg press) · Lying Leg Curl 10 2×10 @ 6/6 · Tibialis 5 kg 15/10/8 @ 8/8/7 (prescribed BW 3×20) · HKR 3×8 @ 6/8/8. **Totals:** 24 WS / 235 reps / 3595 kg / avg RPE 6.92 / retro 7 / 75 min. Self-seeded under prescription = expected off a layoff. New baselines e1RM: bench 31.7 · row 42.0 · PD 33.3. Shin clean, no pain. PM: bike 0 · kcal 2858 (+458 vs 2400) · protein 170 · creatine Y. "Chill good gym day." Full log → `logs/sessions/2026-10-05_gym_fullbody.md`.
   - **Next session bumps (Fri 10/9 Gym #2 UPPER ONLY; legs Mon 10/12):** Bench HOLD 25 4×8 · Lat PD HOLD 25 4×10 · **Incline DB ⬆️ 6/DB 3×10** · **Lying Row ⬆️ 32.5 3×12** · **Leg Ext ⬆️ 12.5 2×10** (Mon) · Leg Curl HOLD 10 2×10 (Mon) · **Tibialis ⬇️ 2.5 kg 3×15** (Fri pre-long: stop at RPE 8) · HKR HOLD 3×8.
