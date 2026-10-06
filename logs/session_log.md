@@ -1932,10 +1932,10 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 | Day | Session | Km | Timing |
 |---|---|---|---|
 | Mon 10/5 | ~~Cali #8~~ **Gym #1 — full body ✅ DONE**, legs 2×10 RPE 6 | — | AM pre-class. Bike 0 |
-| Tue 10/6 | ~~Track 6×400~~ **ROAD 5 k: 1 WU + strides + 3 k @ 6:00 + 1 CD** (user: no track) | **5** | PM ~13:00 post-class. Bike Z1 |
+| Tue 10/6 | ~~Track 6×400~~ **ROAD 5 k ✅ DONE — ran 4 k @ 5:34** (prescribed 3 k @ 6:00) | **5** | PM ~13:00 post-class. Bike Z1 |
 | Wed 10/7 | **REST — full** | — | Bike Z1 |
 | Thu 10/8 | Easy 5 k HR ≤150 + 6×20 s strides | **5** | PM ~13:00. Bike Z1 |
-| Fri 10/9 | **Gym #2 upper only** AM + **2 WU + 2×2 k @ 5:45–5:50, 2' jog + 1 CD** PM | **~7** | bike-free |
+| Fri 10/9 | **Gym #2 upper only** AM + **2 WU + 2×2 k @ ~~5:45–5:50~~ 5:35–5:40, 2' jog + 1 CD** PM (⬆️ 10/6) | **~7** | bike-free |
 | Sat 10/10 | **REST — full** | — | pre-midnight bed |
 | Sun 10/11 | **Long easy 11 k**, HR ≤150, metronome 166 | **11** | AM, bike-free |
 | | | **~30** | |
@@ -1948,3 +1948,4 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 - **Tue 10/6 AM** — sleep 7.5 h (23:05→06:35) Q8 · **BW 77.20** (−0.40 vs 10/5; 7-reading avg 76.78) · **RHR 40 (Δ −3, holds block low)** · mot 10 / energy 8 / stress 3 · **DOMS chest 3 / back 3 / shldr 3 / arm 2** (Gym #1 — first loaded upper since Jun) · quad/ham/glute/calf 1 · tendons clean. **Track gate: legs all 1 → 6×400 stays.** Shin not reported → stride check is the gate. Upper DOMS 3×3 = Gym #1 dose was high for re-entry → **Fri upper: if chest/back/shldr still ≥2 Fri AM, drop one set per lift, hold loads.** BW: 10/5 spike already retracing, no kcal change; trend call Sun 10/11.
   - **Next session bumps (Fri 10/9 Gym #2 UPPER ONLY; legs Mon 10/12):** Bench HOLD 25 4×8 · Lat PD HOLD 25 4×10 · **Incline DB ⬆️ 6/DB 3×10** · **Lying Row ⬆️ 32.5 3×12** · **Leg Ext ⬆️ 12.5 2×10** (Mon) · Leg Curl HOLD 10 2×10 (Mon) · **Tibialis ⬇️ 2.5 kg 3×15** (Fri pre-long: stop at RPE 8) · HKR HOLD 3×8.
 - **Tue 10/6 — SWAP (user): no track → ROAD 5 k.** 1 k WU easy (HR ≤150, metronome 166) + 4×20 s strides (shin check) → **3 k @ 6:00/km** (HR cap 172, RPE ≤7, metronome off) → 1 k CD easy. Steady, not VO2 — first faster running of the block on bone; ~7 → 5 k. Fri 2×2 k @ 5:45–5:50 unchanged. VO2 dose deferred to Tue 10/13 (track or GPS road 400s).
+- **Tue 10/6 — ROAD 5 k — DONE, RAN HOT.** Strava 20472528970: 5.00 k, 28:18 moving (5:39) / 35:44 elapsed (6.5 min stop ~0.65 k). Splits 5:59@133 / **5:34@163 / 5:34@167 / 5:32@171 / 5:38@168** → main **4 k @ 5:34 @ HR ~167, max 176, RPE 6** vs prescribed 3 k @ 6:00 cap 172. No visible strides, no CD. Cadence 163 (fast km 163–165, under floor). **Engine: 9/25 core 5:57 @175 RPE 9 → 5:34 @167 RPE 6. Fresh 5K est. 27:30–27:45 → ≈26:30–27:00; sub-27 is baseline, PR still gated by 3 K TT 10/16.** Pace instruction ignored again (+26 s/km, +1 k fast). Shin NOT reported — asked. PM: bike 0 · kcal 2375 (on ~2400) · protein 164 · creatine Y. "Nice run day." **Fri threshold ⬆️ 5:35–5:40, HR cap 175, shin-gated.** Full log → `logs/sessions/2026-10-06_run.md`.
