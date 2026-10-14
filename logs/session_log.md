@@ -1958,23 +1958,24 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 
 ---
 
-## WEEK 2 (5K) — Mon Oct 12 → Sun Oct 18 · RE-CUT 10/14 after 5 dark days
+## WEEK 2 (5K) — Mon Oct 12 → Sun Oct 18 · RE-CUT 10/14 after 6 run-free days
 
-- ⚠️ **Fri 10/9 → Tue 10/13 unlogged.** Strava empty 10/9–10/14: Fri Gym #2 + 2×2 k, Sun 11 k, Mon gym, Tue 5×800 all missed. Last run Thu 10/8 (shin #45). Not chased — **repeat, don't compress; no claw-back.**
-- **Wed 10/14 — user: "I trained back today."** Session content not reported yet — ask once (gym? which lifts / legs Y/N? shin?).
-- **3 K TT MOVED Fri 10/16 → TUE 10/20 (track).** Reason: zero reps run since the 6-day gap (no 400s, no 800s, no threshold) → all-out 3 K on day 2 back breaks the strides → 400 → 800 → 1 k ramp, and a post-gap TT reads falsely slow and would set Wk 3–4 pace for the wrong reason. Gate bands unchanged (≤15:05 PR · 15:05–15:45 sub-27 · >15:45 sub-28).
-- **Fri 10/16 = repeat of the missed Wk 1 Fri: 2×2 k @ 5:35–5:40.** No gym Fri (today's session = the week's gym; Wed–Thu–Fri already 3 loaded days in a row, Thu is the shortest).
+- ⚠️ **Fri 10/9 → Tue 10/13 unlogged.** Strava empty: Fri Gym #2 + 2×2 k, Sun 11 k, Mon gym, Tue 5×800 all missed. Last run Thu 10/8 (shin #45). Not chased — **repeat, don't compress; no claw-back.**
+- **Availability (user, Wed 10/14 16:40): run Wed / Thu / Sat / Sun · gym Thu · Fri out.** "I trained back today" = returning to training today, not a session done.
+- **3 K TT MOVED Fri 10/16 → TUE 10/20 (track).** Zero reps since the gap → all-out 3 K on day 2–4 back breaks the strides → 400 → 800 → 1 k ramp; a post-gap TT reads slow and would mis-set Wk 3–4 pace. Gate bands unchanged (≤15:05 PR · 15:05–15:45 sub-27 · >15:45 sub-28).
+- **Threshold (missed Wk 1 Fri 2×2 k) → Sat 10/17**, off Fri rest. Sun long stays easy. Sat→Sun back-to-back accepted: Sun is HR ≤150, and Fri rest precedes the pair.
 
 | Day | Session | Km |
 |---|---|---|
-| Wed 10/14 | **Trained ✅** (content TBC) | — |
-| Thu 10/15 | **Easy 5 k + 6×20 s strides** (float, ~5:10–5:20 feel, NOT sprints) · HR ≤150 · metronome 166 | 5 |
-| Fri 10/16 | 2 WU + 3 strides + **2×2 k @ 5:35–5:40**, 2' jog, HR cap 175, RPE ≤7–8 + 1 CD · bike-free · **no gym** | 7 |
-| Sat 10/17 | **REST** — pre-midnight bed | — |
+| Wed 10/14 | **Easy 5 k + 6×20 s strides** (float, NOT sprints) · HR ≤150 · metronome 166 · re-entry + shin check | 5 |
+| Thu 10/15 | **Gym full body** (legs RPE 6 cap, tib 2.5 kg 3×15) + **easy 4 k** (HR ≤150, after gym or separate) | 4 |
+| Fri 10/16 | **REST** (user unavailable) | — |
+| Sat 10/17 | 2 WU + 3 strides + **2×2 k @ 5:35–5:40**, 2' jog, HR cap 175, RPE ≤7–8 + 1 CD | 7 |
 | Sun 10/18 | **Long easy 10 k** · HR ≤150 · metronome 166 · no pace work | 10 |
-| | | **~22** |
+| | | **~26** |
 
-- **Thu gates:** shin pinpoint → no strides, 5 k easy, Fri → easy · quad/calf ≥2 (if today had legs) → strides cut.
-- **Fri gates:** shin pinpoint → 5 k easy · quad/calf ≥2 → 2×1.5 k · RHR +5 or sleep <6 h → 1×2 k.
+- **Gates:** shin pinpoint → no strides/reps, easy only, flag · quad/calf ≥2 → strides cut / Sat 2×1.5 k · RHR +5 or sleep <6 h → Sat 1×2 k.
+- **Thu gym loads = staged Gym #2 (never ran) + Mon legs:** Bench 25 4×8 · Lat PD 25 4×10 · Incline DB 6/DB 3×10 · Lying Row 32.5 3×12 · Leg Ext 12.5 2×10 · Leg Curl 10 2×10 · Tib 2.5 kg 3×15 · HKR 3×8. Full prescription staged on request.
 - **Wk 3 shift (provisional):** Mon 10/19 gym (legs RPE 6) · **Tue 10/20 3 K TT track** (2 WU + 4 strides + 7.5 laps + 1 CD) · Thu easy 5 k + strides · **Fri 10/23 5×1 k @ goal −5 s/km** (goal set by TT) · Sun 9 k easy. Race week unchanged.
 - Kcal ~2400 no-bike / 2650–2700 ridden · protein ~160 · creatine 5 g.
+- **Wed 10/14 — EASY 5 k + 6 STRIDES — STAGED.** PM ~17:00. 4 k easy HR ≤150, metronome 166, no pace number → last k: 6×20 s strides build-float (~5:10–5:20 feel), 60–90 s walk/jog recovery, metronome off → jog in. Shin pinpoint on any stride → stop strides, jog home, flag.
