@@ -1955,3 +1955,26 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 - **Thu 10/8 AM** — sleep 8:22 (23:45→08:10) Q10 · **BW 76.30** (flat d/d, holds under 7-reading avg) · **RHR 42** (Δ 0 vs 7d, inside 43–45 band low edge) · mot 10 / energy 10 / stress 2 · **DOMS chest 1 / back 1 / shldr 1 / arm 1** (Gym #1 cleared from 2/1/2/1) · quad 1 · ham/glute/calf 0 · joints clean · **SHIN CLEAN #44.** **Gates ALL GREEN → easy 5 k + 6×20 s strides ON.** Upper all 1 → **Fri Gym #2 full sets** (Fri AM confirm). BW 2 days at 76.30 → trend call Sun 10/11.
 - **Thu 10/8 — EASY 5 k + STRIDES — DONE.** Strava 20505117221, PM 18:23, chill/light rain. **5.12 k, moving 36:29 (7:08) / elapsed 41:39** (~4.7 min stop at 0.67 k). Laps 6:19@130 (GPS-inflated start) / **6:51@152 (max 157)** / 7:10@149 / 7:39@148 / 7:39@149 (stride km, max 166) / 0.12 k. **Easy km 2–4 = 7:13 @ ~150** — pace instruction obeyed this time; km 2 2 bpm over the 150 cap, not a flag. **Cadence easy km 164 / 166 / 166 / 167 → floor back after Tue's 163.** **Strides 6/6, smooth, RPE 5** — but GPS shows ~4:46 / 4:10 / 4:27 / 4:58 / 3:55 / 4:16 (≈4:10–4:30 typical) vs prescribed 5:10–5:20 = **ran ~1 min/km hot, closer to mile than 5K pace.** Fine once, more peak force per strike on bone → next strides: build-hold-float, stop pressing when it feels like sprinting. Avg HR 146 / max 166. **SHIN CLEAN #45**, no pain. PM: bike 0 · kcal 2325 (−75 vs ~2400) · protein 174 · creatine Y · alcohol 0. "All good nice run." **Fri 2×2 k @ 5:35–5:40 ON** (shin clean, legs 0–1) — upper Gym #2 AM pending Fri AM DOMS check.
 - **Fri 10/9 — GYM #2 UPPER + 2×2 k THRESHOLD — STAGED.** Full prescription → `logs/sessions/2026-10-09_gym_upper.md`. **AM gym, upper only:** Bench 25 4×8 HOLD · Lat PD 25 4×10 HOLD · **Incline DB 6/DB 3×10 ⬆️** · **Lying Row 32.5 3×12 ⬆️** · **Tibialis 2.5 kg 3×15** (stop RPE 8) · HKR BW 3×8. **PM ~16:00, bike-free:** 2 k WU (HR ≤150, metronome 166) + 3×20 s strides (float) → **2×2 k @ 5:35–5:40, 2' jog**, HR cap 175, RPE ≤7–8, metronome off → 1 k CD. ≈7 k. **5:35 = ceiling, not target** (Tue +26 s/km, Thu strides ~1 min/km hot). **AM gates:** shin pinpoint → 5 k easy only · upper ≥2 → −1 set/lift, hold loads · quad/calf ≥2 → 2×1.5 k · RHR +5 or sleep <6 h → 1×2 k. Kcal ~2400, protein ~160, carbs up for Sun 11 k.
+
+---
+
+## WEEK 2 (5K) — Mon Oct 12 → Sun Oct 18 · RE-CUT 10/14 after 5 dark days
+
+- ⚠️ **Fri 10/9 → Tue 10/13 unlogged.** Strava empty 10/9–10/14: Fri Gym #2 + 2×2 k, Sun 11 k, Mon gym, Tue 5×800 all missed. Last run Thu 10/8 (shin #45). Not chased — **repeat, don't compress; no claw-back.**
+- **Wed 10/14 — user: "I trained back today."** Session content not reported yet — ask once (gym? which lifts / legs Y/N? shin?).
+- **3 K TT MOVED Fri 10/16 → TUE 10/20 (track).** Reason: zero reps run since the 6-day gap (no 400s, no 800s, no threshold) → all-out 3 K on day 2 back breaks the strides → 400 → 800 → 1 k ramp, and a post-gap TT reads falsely slow and would set Wk 3–4 pace for the wrong reason. Gate bands unchanged (≤15:05 PR · 15:05–15:45 sub-27 · >15:45 sub-28).
+- **Fri 10/16 = repeat of the missed Wk 1 Fri: 2×2 k @ 5:35–5:40.** No gym Fri (today's session = the week's gym; Wed–Thu–Fri already 3 loaded days in a row, Thu is the shortest).
+
+| Day | Session | Km |
+|---|---|---|
+| Wed 10/14 | **Trained ✅** (content TBC) | — |
+| Thu 10/15 | **Easy 5 k + 6×20 s strides** (float, ~5:10–5:20 feel, NOT sprints) · HR ≤150 · metronome 166 | 5 |
+| Fri 10/16 | 2 WU + 3 strides + **2×2 k @ 5:35–5:40**, 2' jog, HR cap 175, RPE ≤7–8 + 1 CD · bike-free · **no gym** | 7 |
+| Sat 10/17 | **REST** — pre-midnight bed | — |
+| Sun 10/18 | **Long easy 10 k** · HR ≤150 · metronome 166 · no pace work | 10 |
+| | | **~22** |
+
+- **Thu gates:** shin pinpoint → no strides, 5 k easy, Fri → easy · quad/calf ≥2 (if today had legs) → strides cut.
+- **Fri gates:** shin pinpoint → 5 k easy · quad/calf ≥2 → 2×1.5 k · RHR +5 or sleep <6 h → 1×2 k.
+- **Wk 3 shift (provisional):** Mon 10/19 gym (legs RPE 6) · **Tue 10/20 3 K TT track** (2 WU + 4 strides + 7.5 laps + 1 CD) · Thu easy 5 k + strides · **Fri 10/23 5×1 k @ goal −5 s/km** (goal set by TT) · Sun 9 k easy. Race week unchanged.
+- Kcal ~2400 no-bike / 2650–2700 ridden · protein ~160 · creatine 5 g.
