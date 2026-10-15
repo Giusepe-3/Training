@@ -19,8 +19,11 @@ Session RPE retro: __/10
 Pain/tweaks: __
 
 EASY RUN — 4 k, HR ≤150, metronome 166, no pace number, no strides
-Distance / time: from Strava
-Shin during/after: __
+Distance / time: 4.02 k · 28:51 moving / 29:36 elapsed (7:11) — AM 07:49, Strava 20591443035
+Laps: 7:05@124 / 7:00@147 / 7:34@146 (+9 m, 35 s stop) / 7:05@151
+Avg HR / Max HR: 142 / 157
+Cadence: 160 / 163 / 162 / 162 (under 166 floor)
+Shin during/after: clean #48
 
 PM BLOCK
 Date: 2026-10-15
