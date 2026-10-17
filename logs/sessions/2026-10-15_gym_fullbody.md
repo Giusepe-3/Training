@@ -34,13 +34,13 @@ Distance / time:     4.02 km · 28:51 moving / 29:36 elapsed (7:11)
 Laps:                7:05@124 / 7:00@147 / 7:34@146 / 7:05@151
 Avg / Max HR:        142 / 157
 Cadence:             ~160–163 (under 166 floor)
-Shin during/after:   no pain reported
+Shin during/after:   no pain → clean #47
 
 PM BLOCK
 Date: 2026-10-15
 Session: gym #2 + easy 4 k — DONE (gym PARTIAL: no pulls)
 Shin check: no pain
-Bike km / Kcal / Protein / Creatine: not reported
+Bike km / Kcal / Protein / Creatine: not tracked
 ```
 
 ## 3. Notes
