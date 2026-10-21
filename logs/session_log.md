@@ -1984,3 +1984,28 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 - **Thu 10/15 AM** — sleep 7:40 (23:45→07:25) Q8 · **BW 76.60** (+0.30 vs 10/8 76.30; 10/9–10/14 no readings) · **RHR 41 (Δ −3)** · mot 10 / energy 10 / stress 3 · **DOMS chest 0 / back 3 / shldr 2 / arm 2** · quad/ham/glute/calf 1 · tendons clean · **SHIN CLEAN #47.** **Back 3 / shldr 2 / arm 2 with no logged gym since 10/5 → Wed 10/14 "I trained back today" = a BACK session was done Wed (unlogged — loads asked once).** **Gym #2 RE-CUT: pulls OUT (A2 Lat PD + B2 Lying Row — back 3, no new stimulus 24 h later) · push −1 set (shldr/arm 2 gate) → Bench 25 3×8 · Incline DB 6/DB 2×10 · legs/tib/HKR unchanged.** Easy 4 k ON (shin clean, legs 1). BW single point after a 6-day hole → no kcal change.
 - **Thu 10/15 — EASY 4 k — DONE** (AM 07:49, before gym). Strava 20591443035: **4.02 k, 28:51 moving (7:11) / 29:36 elapsed.** Laps 7:05@124 / 7:00@147 / 7:34@146 (+9 m, 35 s stop) / 7:05@151. Avg HR 142 / max 157 → **HR cap obeyed, 7:00–7:05 @ 147–151 = easy pace faster than Wed (7:16–7:20 @ 152) at lower HR.** ⚠️ **Cadence 160 / 163 / 162 / 162 — whole run under the 166 floor, 2nd run drifting (Wed km 3–4 163–164).** Metronome on? If on → shorten stride to the beat. **SHIN CLEAN #48.** Gym #2 (re-cut) pending.
 
+- **Thu 10/15 — GYM #2 (re-cut) — result never reported.** Asked once 10/21; not chased.
+- **Sat 10/17 — THRESHOLD 2×~1.9 k — DONE (Sønderborg, travel).** Strava 20620965276, PM 13:51. **6.82 k, 42:30 moving / 45:23 elapsed (6:14 avg).** Stream split: WU ~2.0 k @ 6:30–7:00 HR 145–155 (~100 s stop at 1.8 k) · **3 strides ~4:00–4:30** (hot again, 5:10–5:20 prescribed) · **Rep 1 ≈ 1.9 k @ ~5:26–5:31, HR 177–182** (36 s stop at ~1.6 k) · ~2:15 jog · **Rep 2 ≈ 1.9 k @ ~5:33 avg, HR 176–184, faded last ~750 m to ~5:50–6:00 @ 182** (46 s stop early) · **CD skipped** (run ends on rep 2). Avg HR 161 / **max 184** → **HR cap 175 broken on both reps.** Cadence reps 165 / 167 (floor held at speed). ⚠️ **Same pace as 10/6 (5:34 @ 167, RPE 6) at +10 bpm.** Conditions unknown (travel, coastal wind likely) — one session, not a trend; the TT settles it. HR 177–182 ≈ 87–89 % max (204) = threshold → 5K pace ≈ 5:15–5:20 → **sub-27 still on.** Shin not reported. Full log → `logs/sessions/2026-10-17_run.md`.
+- **Sun 10/18 long 10 k · Mon 10/19 gym · Tue 10/20 3 K TT — not on Strava, unlogged.** Travel weekend. Not chased — **repeat, don't compress; no claw-back.**
+- **Wk 2 close: 3 runs · 15.87 km** (5.03 + 4.02 + 6.82) vs ~26 planned. Gym 10/15 unknown.
+
+---
+
+## WEEK 3 (5K) — Mon Oct 19 → Sun Oct 25 · RE-CUT 10/21 · 3 runs (user)
+
+- **Availability (user, Wed 10/21 AM): "I will run three times this week."** Days not fixed → plan is **sequence-based**, not date-based.
+- **3 K TT MOVED Tue 10/20 → first run of the week (Wed 10/21 PM or Thu 10/22).** Race is 10 days out; a 3 K 7–10 days before a 5K is the classic tune-up. Ramp has now seen strides ×3 + threshold 2×1.9 k → bone is ready for an all-out 3 K. Gate bands unchanged (≤15:05 PR · 15:05–15:45 sub-27 · >15:45 sub-28).
+- **Sequence rules:** TT first · reps ≥48 h after TT · easy long last (Sat reps → Sun easy accepted, as Wk 2).
+
+| Run | When | Session | Km |
+|---|---|---|---|
+| 1 | Wed 10/21 PM or Thu 10/22 | ⭐ **3 K TT, track 7.5 laps** · 2 WU + 4 strides + 3 K all-out even + 1 CD | ~6 |
+| 2 | ≥48 h after TT (Fri/Sat) | 2 WU + **4×1 k @ goal −5 s/km**, 400 jog + 1 CD (PR → 5:07 · sub-27 → 5:19 · sub-28 → 5:31) | ~7.5 |
+| 3 | Sun 10/25 | **Easy 8 k** · HR ≤150 · metronome 166 · no pace | 8 |
+| | | | **~21.5** |
+
+- **Gym: optional, UPPER ONLY, never the day before TT or reps.** Legs out until the race. Tib 2.5 kg 3×15 if gym runs.
+- **Race week unchanged:** Tue 10/27 3×1 k @ goal · Thu 4 k + 4 strides · Fri 10/30 REST · **Sat 10/31 RACE.**
+- Kcal ~2400 no-bike / 2650–2700 ridden · protein ~160 · creatine 5 g.
+- **Wed 10/21 AM** — sleep 6:44 (00:02→06:46) Q7 · **BW 77.35** (+0.75 vs 10/15 76.60; 10/16–10/20 no readings; post-travel) · **RHR 45 (Δ −1)** · mot 10 / energy 9 / stress 3 · **DOMS all 0** · joints clean · **SHIN CLEAN #49.** **Gates ALL GREEN (sleep ≥6 h, RHR flat, legs 0, shin clean) → 3 K TT ON today PM or Thu.** BW single point after a 6-day hole, travel salt/water → **no kcal change (no deficit in a sharpening block).** BW 76.30 → 76.60 → 77.35 across 10/8–10/21: watch Thu–Sun dailies.
+- **3 K TT — STAGED (Wed 10/21 PM or Thu 10/22).** Track 7.5 laps (start at 200 m mark). 2 k WU HR ≤150, metronome 166 · 4×20 s strides build to TT feel (not sprint) · 2–3 min easy · **TT: first 200 in 1:02–1:03, laps 2:04–2:06 to 2 k, then empty it** · 1 k CD. Metronome OFF. **Lap 1 never faster than 2:03.** Target ≈ 15:20–15:40. Wind >~6 m/s or rain → take Thu. Road fallback: flat, no lights, km 5:08–5:12. Shin pinpoint → stop, flag.
