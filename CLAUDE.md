@@ -9,7 +9,7 @@ Project memory for Claude Code. Read on every session.
 **Supersedes the 30K goal everywhere. User, 2026-10-02: "I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October." Reason: SCHEDULE (confirmed 2026-10-02) — NOT injury, shin fine. Oct 31 is a SOLO TIME TRIAL, not an official race.**
 
 - **❌ 30K Oct 11 — DROPPED 2026-10-02.** Sub-3:10, the goal-pace addendum, the 6:20 rehearsal, the finishing-problem framing: all DEAD. Do not resurrect without the user saying so.
-- **🎯 ACTIVE GOAL: fastest possible 5K, SAT OCT 31, 2026 (29 days out at set).** Primary **sub-27:00 (5:24/km)** · stretch **PR sub-25:58 (5:12/km)** · floor **sub-28:00 (5:36/km)**. Stretch opens only off the **3 K TT — moved Fri 10/16 → Tue 10/20 → Wed 10/21 PM / Thu 10/22 (gaps + travel)**: **≤15:05 → PR attempt · 15:05–15:45 → sub-27 confirmed · >15:45 → race sub-28.**
+- **🎯 ACTIVE GOAL: fastest possible 5K, SAT OCT 31, 2026 (29 days out at set).** Primary **sub-27:00 (5:24/km)** · stretch **PR sub-25:58 (5:12/km)** · floor **sub-28:00 (5:36/km)**. Stretch opens only off the **3 K TT — moved Fri 10/16 → Tue 10/20 → Wed 10/21 PM / Thu 10/22 (gaps + travel)**: **≤15:05 → PR attempt · 15:05–15:45 → sub-27 confirmed · >15:45 → race sub-28.** **✅ TT RAN Wed 10/21 (road): 15:00 moving / 15:42 elapsed (5:00/5:00/5:01, ~43 s standing at 1.5 k), RPE 8, max HR 198 → sub-27 CONFIRMED, PR door AJAR (borderline + rest). Fresh 5K est. ≈ 26:10–26:40. PR decider = 4×1 k @ 5:10–5:12, 400 jog, Fri 10/23 / Sat 10/24: all 4 ≤5:12 at RPE ≤8 → PR attempt (laps 2:05) · else → race sub-26:40 (laps 2:08).**
 - **Why these numbers:** 5K PR 25:58 (5/8, May fitness). 9/25 benchmark: 8 k at 5:42 moving / core 5:57 @ HR 175, RPE 9, best 5K inside it 29:08 with stops → Riegel puts today's fresh 5K ≈ **27:30–27:45**. Block 2 had **zero speed work** → first 3–4 weeks of intervals return fast. The engine is built (32 km/wk, RHR 43–45); this is a **SHARPENING** block, not a building block.
 - **Shape: 4 run / 2 cali / 3 rest, same class-fitted template.** Tue = **VO2 intervals** (track, Ballerup Atletikbane) · Thu = easy + strides · Fri = **threshold** (PM, after upper-only cali) · Sun = long **easy 10–12 k** (aerobic support, no pace work). Volume **~30–31 km/wk** (≈ flat, intensity is the new load). Race week cuts Fri cali — race is Saturday.
 - **⚠️ TIBIA STILL GATES EVERYTHING — and speed is new load.** Faster strides = higher peak force per strike; the bone has never seen interval work this block. **Ramp: strides → 400s → 800s → 1 k.** Any pinpoint shin pain → stop the session, back to easy, flag it. **Engine ≠ chassis still applies.**
@@ -279,7 +279,7 @@ Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg wh
 | Target | Time | Pace | Notes |
 |--------|------|------|-------|
 | **Primary** | **sub-27:00** | **5:24/km** | Fresh 5K est. today ≈ 27:30–27:45 (Riegel off 9/25 8 k) |
-| Stretch | **PR sub-25:58** | 5:12/km | Opens only if 3 K TT (Wed 10/21 / Thu 10/22) ≤ 15:05 |
+| Stretch | **PR sub-25:58** | 5:12/km | TT 10/21 = 15:00 moving (borderline) → decided by 4×1 k @ 5:10–5:12 Fri/Sat |
 | Floor | sub-28:00 | 5:36/km | 3 K TT > 15:45 → race this |
 
 ## ~~Block 2 targets — RE-CUT 2026-08-31~~ ❌ 30K DROPPED 2026-10-02
