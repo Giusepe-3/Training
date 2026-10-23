@@ -2028,5 +2028,5 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
   - **Read:** the TT's 15:00 was propped by ~43 s standing at 1.5 k. With a 400 m jog, 5:00 held for 1 rep. **Fresh 5K est. 26:10–26:40 → ≈ 26:20–26:50.** Sub-27 still green.
   - **Pattern: every quality session ran hot, and today it cost the session (rep 2 5:00 → rep 3 fade → DNF).** Race day: **2:08 lap split is the governor, lap 1 never under 2:06.** Same risk for Tue 10/27: 3×1 k @ 5:20, ceiling 5:18.
 - **Sat 10/24 — REST (full).** 4×1 k ran Fri. Easy walking only. Kcal ~2400 · protein ~160 · creatine 5 g.
-- **Sun 10/25 — easy 8 k — STAGED.** HR ≤150 · metronome 166 · no pace number. Quad or calf ≥2 Sun AM → 6 k. Shin pinpoint → stop.
+- **Sun 10/25 — easy 8 k — STAGED** → `logs/sessions/2026-10-25_run.md`. HR ≤150 · metronome 166 · no pace number. Quad or calf ≥2 Sun AM → 6 k. Shin pinpoint → stop.
 - **Race week (re-stated for sub-26:40):** Mon 10/26 gym upper only, 2 sets/movement, RPE ≤7, tib 2×20 (chest/shldr ≥2 → hold bench/incline bumps) · **Tue 10/27 3×1 k @ 5:20 (ceiling 5:18), 400 jog** · Wed REST · Thu 4 k + 4 strides · Fri 10/30 REST (carbs up, pre-midnight bed) · **Sat 10/31 RACE: laps 2:08, lap 1 ≥2:06, push from 3 k. Eat 2–3 h before.**
