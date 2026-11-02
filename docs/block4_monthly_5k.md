@@ -59,6 +59,8 @@ Run km = Tue quality (incl. WU/CD) + Thu easy + Sun long. Bike = Fri PM.
 
 **P5** = pace of the latest 5K (Oct 31 race sets the first one). Every 5K resets all three.
 
+**Current (set 2026-10-31, 25:53): P5 = 5:11/km → T = 5:31/km · I = 5:08/km (400 = 2:03, 800 = 4:06).**
+
 | Zone | Pace | Use |
 |---|---|---|
 | T (threshold) | P5 + 20 s/km | cruise intervals, tempo |
