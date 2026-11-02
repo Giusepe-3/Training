@@ -2043,3 +2043,23 @@ Fri 9/18 (cali #4 + 5 k), Sat 9/19, **Sun 9/20 long 12 k** are unlogged. **Sunda
 - **Sun 11/1 — REST (assumed; nothing on Strava).**
 - **After the race → Block 4, monthly 5K cycles** (`docs/block4_monthly_5k.md`, built 10/23): recovery wk Nov 2–8 ~18 km easy → Cycle 1 Nov 9 – Dec 6 (28/32/35 km, 5K CHECK Sat Dec 5). The Oct 31 result sets P5 and every training pace.
 - **2026-10-29 — 🔁 BLOCK 4 RE-SHAPED (user: "From next week I want 1 bike 3 running and 2 gym sessions").** From Mon Nov 2: **3 run / 1 bike / 2 gym / 2 rest.** Fri easy run dropped → **Fri gym upper AM + bike PM (easy, HR ≤140, 45–60 min recovery wk → 60–90 min)**. Tue quality · Thu easy+strides · Sun long unchanged; Wed + Sat REST. Test week: Sun easy run → 45–60 min spin. Run km ~25/28/28 (C1) → ~36 ceiling (was 40). Bike never converts into run km; missed ride = gone. Bike day kcal ~2650–2700. Full table → `docs/block4_monthly_5k.md`.
+
+---
+
+## BLOCK 4 — RECOVERY WEEK — Mon Nov 2 → Sun Nov 8 · ~18 km all easy · 3 run / 1 bike / 2 gym / 2 rest
+
+Plan → `docs/block4_monthly_5k.md`. **P5 = 5:11/km (25:53, 10/31) → T 5:31 · I 5:08.** No quality this week. Cycle 1 starts Mon Nov 9 → **5K CHECK Sat Dec 5**.
+
+| Day | Session | Notes |
+|---|---|---|
+| Mon 11/2 | **Gym #6 upper only** | AM pre-class. No legs. → `logs/sessions/2026-11-02_gym_upper.md` |
+| Tue 11/3 | Easy 5 k | HR ≤150, metronome 166, no pace number |
+| Wed 11/4 | REST | — |
+| Thu 11/5 | Easy 5 k | no strides |
+| Fri 11/6 | Gym upper AM + **bike 45–60 min PM** | bike easy, HR ≤140 |
+| Sat 11/7 | REST | — |
+| Sun 11/8 | Long 8 k easy | HR ≤150, not faster than 7:30/km |
+
+- **Mon 11/2 — Gym #6 UPPER — STAGED** → `logs/sessions/2026-11-02_gym_upper.md`. Bench HOLD 27.5 4×8 · Lat PD HOLD 30 4×10 · **Incline 7/DB 3×10 (↑)** · **Row 25 3×12 (↑)** · Tib 6.8 3×20 · HKR HOLD 3×12. Push/pull 7/7. Still open from the race: **RPE, shin, laps counted (12.5 vs watch 5.00).**
+- **2026-11-02 — DATA SWEEP (Strava vs log).** Two runs were on Strava but never logged, now in `training_log.xlsx` Running Log: **Fri 5/29 hard 5.45 km** (5:37/km moving, avg HR 185 / max 199, 46 m climb, ~2 min stopped → 5K-equivalent ≈ 28:00) and **Thu 8/20 5.08 km in Calalzo, Italy** (6:14/km moving, HR 165 / max 184, 86 m climb) — the one run inside the Jul 26 → Sep 1 gap. Workbook Running Log 35 → 38 rows (incl. 10/31 race). Dashboard ("Running progress" artifact) refreshed: race-estimate card from May 8 (5K / 10K / half / marathon, VDOT + Madrid endurance adjustment), key efforts + log copies re-synced, header now counts down to **Sat Dec 5**, pace lines = **PR 5:11** and **threshold 5:31**.
+- **Race-time estimates as of 11/2** (from 10/31): **5K 25:53 · 10K 54:54 · half 2:04:36 · marathon 4:22:53** (marathon theoretical, longest run 18 km). **+6.9% vs Sep 25**, +0.3% vs May 8. VDOT 33.8 (9/25) → 36.8.

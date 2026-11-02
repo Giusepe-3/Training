@@ -4,7 +4,22 @@ Project memory for Claude Code. Read on every session.
 
 ---
 
-## ⚠️⚠️⚠️ ACTIVE OVERRIDE — 2026-10-02: GOAL CHANGE → FASTEST 5K, SAT OCT 31, 2026
+## ⚠️⚠️⚠️ ACTIVE OVERRIDE — 2026-11-02: BLOCK 4 LIVE — MONTHLY 5K CYCLES (Nov 2 → Feb 28)
+
+**The 5K block is DONE: Sat 10/31 = 25:53, NEW PR (−5 s vs 25:58).** Plan of record → `docs/block4_monthly_5k.md`. Everything in the 5K override below is history unless this section points to it.
+
+- **Shape: 3 RUN / 1 BIKE / 2 GYM / 2 REST.** Mon gym upper AM · **Tue quality** (track) · Wed REST · Thu easy (+strides from Cycle 1) · **Fri gym upper AM + bike PM (HR ≤140, never converts into run km)** · Sat REST · Sun long easy. Run volume ~25 → **36 km/wk ceiling**.
+- **Paces (reset after every 5K): P5 = 5:11/km (25:53) → T 5:31 · I 5:08 (400 = 2:03, 800 = 4:06).** Easy = HR ≤150 + cadence ≥166, no pace number. **Every band is a CEILING** — every quality session of the 5K block ran hot.
+- **Calendar:** Recovery wk **Nov 2–8 (~18 km, all easy, no quality)** → Cycle 1 Nov 9 – Dec 6 → **5K CHECK Sat Dec 5** · Jan 2 CHECK (Christmas, slide ±1 wk) · **Jan 30 ⭐ ATTEMPT** · Feb 27 CHECK. Check within 15 s of PR → next is an ATTEMPT.
+- **Gates unchanged:** tibia gates everything (pinpoint pain → stop, easy only) · RPE is breath, distance is bone · illness neck check · legs RPE 6 cap on gym days (gym is upper-dominant).
+- **Race-time estimates (dashboard "Running progress", card "Race time estimates"):** 5K 25:53 · 10K 54:54 · half 2:04:36 · marathon 4:22:53 (Daniels VDOT 36.8 + Madrid endurance adjustment; marathon theoretical). **After every 5K: log it, add it to the dashboard's `key_efforts.csv` and `race_benchmarks.csv`, reset P5.**
+- **Race lessons to carry:** (1) **never close a goal off a compromised session** — 10/23 "PR closed" read falsely slow (40 h post-TT, unfuelled) and the race beat it; (2) km 1 ran hot again (5:09 vs 5:20) — the watch governs, not feel; (3) didn't push from 3 k, kick only in km 5 (4:52) → ~10–15 s left; (4) **cadence ~166 at 5:10/km is LOW for race pace** — the "naturally high at 5K pace" assumption is false → Block 4 lever (strides, turnover).
+- **📍 STATUS 2026-11-02 (Mon, recovery wk):** Gym #6 upper staged → `logs/sessions/2026-11-02_gym_upper.md` (Bench 27.5 4×8 · LPD 30 4×10 · Incline 7/DB 3×10 · Row 25 3×12 · Tib 6.8 3×20 · HKR 3×12). Still open from the race: RPE, shin, laps counted. Strava sweep 11/2 found 2 unlogged runs (5/29 hard 5.45 k, 8/20 Italy 5 k) → added to xlsx.
+- Nutrition: maintenance (uni ridden 2650–2700 · non-uni ~2400 · bike day ~2650–2700 · protein 155–165). Open: resume cut to 73? semester re-peg in Jan.
+
+---
+
+## ✅ COMPLETED OVERRIDE — 2026-10-02: GOAL CHANGE → FASTEST 5K, SAT OCT 31, 2026 (DONE 10/31: 25:53 PR)
 
 **Supersedes the 30K goal everywhere. User, 2026-10-02: "I am not going to be able to run the 30km — change the goal to run the fastest 5km the last day of October." Reason: SCHEDULE (confirmed 2026-10-02) — NOT injury, shin fine. Oct 31 is a SOLO TIME TRIAL, not an official race.**
 
@@ -70,9 +85,9 @@ Project memory for Claude Code. Read on every session.
 
 ## What this repo is
 
-Personal training log. **Now: fastest 5K, Sat Oct 31, 2026 (goal changed 2026-10-02; 30K Oct 11 dropped).** History: Block 1 11-Week Hypertrophy (Apr 27 – Jul 12) → 50 km ultra detour (Jun 4 – Jul 17, abandoned) → Block 2. Bridge from Madrid HM 2026-04-26 (2:09:38).
+Personal training log. **Now: Block 4 — monthly 5K cycles, Nov 2 2026 → Feb 28 2027 (`docs/block4_monthly_5k.md`).** Last block: fastest 5K Oct 31 → **25:53 PR**. History: Block 1 11-Week Hypertrophy (Apr 27 – Jul 12) → 50 km ultra detour (Jun 4 – Jul 17, abandoned) → Block 2. Bridge from Madrid HM 2026-04-26 (2:09:38).
 
-User: solo runner + calisthenics, novice/early-intermediate strength tier, **BW 75.0 kg (2026-08-31)**. **Goal: fastest 5K Sat Oct 31 (primary sub-27:00) at maintenance kcal — see top override.** Not currently working; classes Mon 12–17, Tue–Thu 8–12.
+User: solo runner + calisthenics, novice/early-intermediate strength tier, **BW 75.0 kg (2026-08-31)**. **Goal: keep lowering the 5K through monthly checks (PR 25:53, ⭐ attempt Jan 30) at maintenance kcal — see top override.** Not currently working; classes Mon 12–17, Tue–Thu 8–12.
 
 ---
 
@@ -277,7 +292,7 @@ Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg wh
 
 ---
 
-## Block 3 targets — 5K, SAT OCT 31, 2026 (set 2026-10-02) ✅ ACTIVE
+## Block 3 targets — 5K, SAT OCT 31, 2026 (set 2026-10-02) ✅ CLOSED 10/31 — 25:53, stretch hit
 
 | Target | Time | Pace | Notes |
 |--------|------|------|-------|
@@ -301,7 +316,7 @@ Goal (set 2026-05-17, revived 2026-07-17): deliberate slow fat loss to ~73 kg wh
 
 **Key baselines (do not re-derive, do not invent):**
 - HM PR: **2:09:38** Madrid 2026-04-26 (6:09/km, 339 m climb, avg HR 180, 78% Z5 = all-out). Flat-equivalent ≈ 2:05.
-- 5K PR: **25:58** 2026-05-08 (5:12/km, all-out, max HR 204, RPE 9).
+- 5K PR: **25:53** 2026-10-31 (solo TT, Ballerup track, 5:11/km, HR 186/198). Previous: 25:58 2026-05-08 (5:12/km, all-out, max HR 204, RPE 9). Strava 1K PR 4:52 (10/31).
 - Longest run: **18 km** 2026-06-22 (7:03/km @ avg HR 149, 95% Z2, RPE 4).
 - Easy Z2 reference: **7:03/km @ HR 149** (18k, 6/22) · **7:22/km @ HR 150** (10k, 6/18).
 

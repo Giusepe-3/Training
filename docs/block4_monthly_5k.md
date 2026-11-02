@@ -1,4 +1,4 @@
-# Block 4 — Monthly 5K cycles (from Mon Nov 2, 2026)
+# Block 4 — Monthly 5K cycles (from Mon Nov 2, 2026) — ✅ LIVE
 
 **Status: ⏸️ DORMANT until the Oct 31 race is done.** Built 2026-10-23 at user request: "build it like that" (4-week cycles, volume toward 40 km/wk, 1 quality session/week, a 5K at the end of every cycle).
 
