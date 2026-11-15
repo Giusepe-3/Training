@@ -4,7 +4,7 @@
 
 **🔁 RE-SHAPED 2026-10-29 (user): "From next week I want 1 bike 3 running and 2 gym sessions."** 4 runs → **3 runs + 1 bike + 2 gym**. The Friday easy run is the one dropped; the bike takes its slot. Running ceiling drops 40 → **~36 km/wk**; the bike gives the aerobic volume back at zero bone cost.
 
-**🔁 RE-SHAPED 2026-11-15 (user): "add cycling to my training but preserve my legs bone and train VO2 max."** → **3 RUN / 2 BIKE / 2 GYM / 1 REST.** **VO2 moves to the bike (Fri)**: highest aerobic stimulus, zero impact. **Run quality (Tue) is threshold only.** I-pace running is left only in the test-week sharpener. Wed REST → **easy spin**. Running ceiling unchanged (~36 km/wk), and the bike still never converts into run km.
+**🔁 RE-SHAPED 2026-11-15 (user): "add cycling to my training but preserve my legs bone and train VO2 max"**, then the same day: **"organize for one ride, maximize for max vo2 max training."** → **3 RUN / 1 BIKE / 2 GYM / 2 REST.** **The one ride is the VO2 session (Fri, ridden fresh)**: highest aerobic stimulus, zero impact. **Run quality (Tue) is threshold only.** I-pace running is left only in the test-week sharpener. Wed stays REST. Running ceiling unchanged (~36 km/wk), and the bike never converts into run km.
 
 ## Why this shape
 
@@ -15,9 +15,9 @@
 
 ## Calendar
 
-Run km = Tue quality (incl. WU/CD) + Thu easy + Sun long. **Bike column = Wed easy spin duration** (from 2026-11-15; the Fri ride is the VO2 session, see "The bike").
+Run km = Tue quality (incl. WU/CD) + Thu easy + Sun long. **Bike column DORMANT from 2026-11-15:** one ride a week, the Fri VO2 session (table in "The bike").
 
-**🔁 Cycle 1 as run (2026-11-15):** wk 1 (Nov 9–15) was used up by the repeated recovery week. **Nov 16–22 = light week:** no run quality (Sun 11/15 was a hard 7.7 k), first bike VO2 Fri. **Nov 23–29:** first run threshold. **Nov 30 – Dec 6:** test week. **Dec 5 CHECK holds.**
+**🔁 Cycle 1 as run (2026-11-15):** wk 1 (Nov 9–15) was used up by the repeated recovery week. **Nov 16–22 = light week:** no run quality (Sun 11/15 was a hard 7.7 k, RPE 10), first bike VO2 Fri. **Nov 23–29:** first run threshold. **Nov 30 – Dec 6:** test week. **Dec 5 CHECK holds.**
 
 | Cycle | Dates | Run km (wk 1/2/3) | Thu easy | Long run | Bike | 5K | Type |
 |---|---|---|---|---|---|---|---|
@@ -40,49 +40,60 @@ Run km = Tue quality (incl. WU/CD) + Thu easy + Sun long. **Bike column = Wed ea
 |---|---|---|
 | Mon | Gym AM · legs RPE 6 cap · tibialis | Gym **upper only**, light |
 | Tue | ⭐ **RUN QUALITY: threshold only** (track, Ballerup) | Sharpener: 2 WU + 4 strides + 3×1 k @ P5, 400 jog + 1 CD |
-| Wed | 🚲 **Easy spin** 40–60 min, HR ≤140 (was REST) | 🚲 Easy spin 30–40 min |
+| Wed | REST | CHECK: 🚲 short VO2 ride (3×4 min) · ATTEMPT: REST |
 | Thu | Easy run + 6×20 s strides | Easy 5 k + 4 strides |
-| Fri | Gym upper AM + 🚲 ⭐ **BIKE VO2** PM | REST (CHECK: gym upper allowed · ATTEMPT: no gym) · **no VO2** |
+| Fri | 🚲 ⭐ **BIKE VO2 AM (fresh)** + gym upper PM (≥3 h later) | REST (CHECK: gym upper allowed · ATTEMPT: no gym) |
 | Sat | REST | ⭐ **5K** |
-| Sun | **Long easy** | 🚲 Easy spin 45–60 min (ATTEMPT: optional) |
+| Sun | **Long easy** | REST |
 
-**3 runs / 2 bike / 2 gym / 1 rest.** Hard days are Tue (run), Fri (bike) and Sun (long). No two hard days in a row. Re-peg at the semester change (exams and holidays Dec–Jan).
+**3 runs / 1 bike / 2 gym / 2 rest.** Hard days are Tue (run), Fri (bike) and Sun (long). No two hard days in a row in build weeks. Re-peg at the semester change (exams and holidays Dec–Jan).
 
-## The bike — 🔁 2026-11-15: Wed easy + Fri VO2
+## The bike — 🔁 2026-11-15 (user): ONE ride a week, built for VO2max
 
 **Why the VO2 goes on the bike:** VO2 is mostly a central adaptation (heart, stroke volume), and that transfers from bike to run. Run VO2 reps (800s at I) are the highest-peak-force sessions in the plan, and the bike gets most of the same stimulus with zero impact. What the bike does NOT train is running economy at 5K pace. That is covered by the Tue threshold, the Thu strides and the test-week sharpener.
 
-**Where:** gym stationary bike or indoor trainer (steady reps, no lights or traffic; log watts if the bike shows them). Outdoors only on a flat loop with no lights.
+**What drives VO2max gains: time spent near VO2max.** Everything below is built to get more of it per session. The evidence is Rønnestad et al. 2015 (cyclists, effort-matched: 3×(13× 30 s / 15 s) beat 4×5 min for VO2max and power) and Helgerud et al. 2007 (4×4 min at 90–95% HRmax beat steady running for VO2max). The plan alternates both kinds.
 
-### Fri — BIKE VO2
+**Where:** gym bike (shows watts) or indoor trainer, **fan on** (indoor heat caps output). Outdoors only on a flat loop with no lights.
 
-- **WU 15 min** easy, including 3×30 s high-cadence spin-ups · **main set** · **CD 10 min** easy. ~50–60 min total.
-- **Reps:** RPE 8–9, "hard but repeatable", **the last rep as strong as the first**. Cadence 90–100 rpm (spin, don't grind; grinding loads the quads before Sunday). HR should be climbing to ~170+ by the end of reps 2 onward (bike HR runs ~10 bpm under running, and running max is 200). HR lags in 4-min reps, so RPE and watts govern, not HR.
+**When:** Fri, **ridden first and fresh** (AM). Gym upper goes after it (PM, or ≥3 h later). That is 72 h after Tue threshold and ~40 h before the Sun long run.
+
+### The session
+
+```
+BLOCK     TIME         INTENSITY                              CADENCE
+--------------------------------------------------------------------
+WU        12 min       easy → moderate                        85–95
+PRIME     2 min        RPE 7 (threshold feel)                 90–95
+          3 min        easy
+          3 × 15 s     fast spin-ups, 45 s easy between       110+
+MAIN      see table    reps RPE 9 · easy spin between         90–100
+CD        10 min       easy                                   85–90
+--------------------------------------------------------------------
+Total ≈ 50–65 min
+```
+
+- **Prime bout:** a short hard effort before the main set speeds up VO2 kinetics, so rep 1 reaches VO2max sooner.
+- **Rep intensity:** the hardest output you can hold on EVERY rep. The last rep should match the first (watts within ~5%). The first rep feeling too easy is correct.
+- **4–5 min reps:** HR should reach ≥90% of bike max by the end of rep 2 onward. That is ~172+ (estimate: bike max ~190–195, running max 200).
+- **30/15s:** HR climbs across each set. Ignore it per rep; watts and RPE govern. The 15 s off is still pedalling, light.
 - **Recoveries:** easy spin, never stopped.
+- **Fuel:** carbs 1–2 g/kg (75–150 g) 2–3 h before, and a bottle on the bike.
+- **Log:** watts per rep (if shown), HR at the end of each rep, RPE, cadence. **Watts per rep is the VO2 progression metric.**
 
 | Cycle | Week 1 | Week 2 | Week 3 | Test week |
 |---|---|---|---|---|
-| 1 | 4×4 min, 3 min easy | 5×4 min, 3 min | 6×4 min, 3 min | none |
-| 2 | 3×(10× 30 s on / 15 s off), 3 min between sets | 5×5 min, 3 min | 3×(12× 30/15) | none |
-| 3 | 3×(13× 30/15) | 6×5 min, 3 min | 3×(13× 30/15) at a higher gear | none |
-| 4 | 5×5 min, 2.5 min | 3×(13× 30/15) | 6×5 min, 2.5 min | none |
+| 1 | (used up by the repeated recovery week) | **4×4 min, 3 min easy** (calibration) | 3×(10× 30/15), 3 min between sets | CHECK: Wed 3×4 min, 3 min |
+| 2 | 3×(12× 30/15) | 5×4 min, 3 min | 3×(13× 30/15) | CHECK: Wed 3×4 min |
+| 3 | 5×5 min, 2.5 min | 3×(13× 30/15), heavier gear | 6×4 min, 2.5 min | ATTEMPT: no ride |
+| 4 | 4×(12× 30/15) | 5×5 min, 2.5 min | 4×(13× 30/15) | CHECK: Wed 3×4 min |
 
-- **Progression gate (slow-steady):** move to the next row only if the last rep held RPE ≤9 and did not fade (cadence and watts held). A faded last rep → repeat the row.
-- **The ride gives way, never the long run:** quads or hip flexors ≥2 on Sun AM → next Fri VO2 drops one rep. Twice running → back one row.
-- **Shin flag:** the bike is allowed (non-impact) unless it hurts on the bike.
-
-### Wed — EASY SPIN
-
-- **HR ≤140**, flat, 85–95 rpm, easy gears. No intervals, no climbs, no segment chasing.
-- **Duration:** cycle 1 40–45 min · cycle 2 45–60 · cycles 3–4 60 min. Test week 30–40.
-- Quads or calves ≥2 on Wed AM → 30 min Z1 or skip. It is a recovery ride.
-
-### Both rides
-
-- **Never converts into running.** Bike time never raises running km. A missed ride is gone: no make-up, no extra run.
+- **Progression gate (slow-steady):** move to the next row only if the last rep held (watts within ~5% of rep 1, or RPE ≤9 without watts). A faded last rep → repeat the row.
+- **The ride gives way, never the long run:** quads or hip flexors ≥2 on Sun AM → next ride drops one rep (or 3 reps per 30/15 set). Twice running → back one row.
+- **Never converts into running.** Bike time never raises running km. A missed ride is gone: no make-up, and it never moves to Saturday.
 - **Saturday stays bike-free and run-free.** It protects the long run and the 5K.
-- **Log it as load:** PM block `Bike:` duration, km, avg HR (+ watts per rep on Fri). Zero bone cost. The cost is quads, hip flexors and systemic recovery.
-- **Kcal: Fri VO2 day ~2650–2700** · Wed spin day ~2500 · other days ~2400 · protein 155–165.
+- **Shin flag:** the ride is allowed (non-impact) unless it hurts on the bike.
+- **Kcal ride day ~2650–2700** · other days ~2400 · protein 155–165.
 
 ## Paces — reset after every 5K
 
