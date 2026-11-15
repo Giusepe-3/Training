@@ -2098,3 +2098,50 @@ Nov 2–8 went dark (0 run km, 0 bike, 2 gym) → **repeat the recovery week. Do
 - **Fri 11/13 — easy 5 k AM + bike PM — UNREPORTED.** Nothing on Strava Nov 11–14. Asked once (2026-11-14). If not run: no make-up, Sun 8 k stays as planned.
 - **🔁 Sat 11/14 (user): "going to train gym today" → Gym #9 UPPER — STAGED** (was REST) → `logs/sessions/2026-11-14_gym_upper.md`. Bench HOLD 27.5 4×8 · **LPD ↑ 27.5 4×10** · **Incline ↑ 8/DB 3×10 (no 8s → 7/DB 3×12)** · Row HOLD 25 3×12 · **Tib HOLD 6.8 3×16, RPE ≤7 (Sun long tomorrow; 3×18 deferred)** · **HKR 3×14**. Upper DOMS ≥2 on arrival → hold every bump. No legs. **Mon 11/16 gym: keep only if upper DOMS ≤1 that AM, else Mon REST → next gym Fri 11/20.**
 - **Sun 11/15 — LONG EASY 8 k — STAGED** → `logs/sessions/2026-11-15_run.md`. HR ≤150, **first 2 km ≤140 (slow/walk at 141)**, metronome 166 ON, no pace number, no pickups. **Gate:** shin pinpoint → REST + flag · calf or quad ≥2 → 5 k easy, no make-up · 3 → REST. **Sunday PM: weekly review Nov 9–15 + Performance Extraction Audit.**
+- **Sat 11/14 — Gym #9 UPPER — DONE.** 09:45→11:15 (90 min). **Bench 27.5 4×8 (7/7/7/7) → GATE MET** · **Lat PD 30 4×10 (8/8/8/7; staged 27.5, two steps up from 25)** · Incline 8/DB 3×10 (8/8/8) · Row 25 3×12 (7/8/8) · **Tib 5 kg 3×16 (7/8/8; staged 6.8)** · HKR BW 3×14 (8/8/8). **20 sets · 228 reps · 3460 kg (Block 4 best) · avg RPE 7.65 · retro 7** · push/pull 7/7 ✓. No pain → **SHIN CLEAN #64.** Kcal not tracked · bike 0. **Next session bumps (Mon 11/16):** Bench **↑ 30 4×8** · LPD **HOLD 30 4×10** · Incline **HOLD 8/DB 3×10** · Row **HOLD 25 3×12** · Tib **6.8 3×16** · HKR **HOLD 3×14**. → `logs/sessions/2026-11-14_gym_upper.md`
+- **Sun 11/15 — LONG EASY 8 k → ran HARD 7.7 k — DONE, NOT AS PRESCRIBED.** Strava 20995705571, 11:33, Amager Fælled, 6.6 °C, wind 27 km/h. **7.68 km · 39:09 moving · 5:06/km · HR 177 / max 200 · cadence 161.** Km 5:33 / 5:14 / 5:12 / 5:22 / 5:09 / 4:56 / 4:42 (+66 s stop) / 0.68 @ 4:25 · HR by km 140 / 165 / 181 / 181 / 184 / 191 / 188 / 197. **Strava 5K best 25:38 (continuous, 1.38→6.38 k) = −15 s vs the 25:53 race** · 1K 4:30 · mile 7:56 · 10 PRs. RPE / shin / calf / metronome n/r (shin asked). Kcal not tracked. **Reads:** engine well ahead (no taper, wind, day after gym, 12.7 km in 2 wks → fresh 5K ≈ 25:15–25:30). Chassis behind (race-intensity strides after 2 runs in 15 days) → **next 48–72 h easy only; shin report gates Tue.** Cadence 161 at 5:06 < race 166 at 5:10 → turnover lever. **P5 RESET → 5:08 → T 5:28 · I 5:05.** → `logs/sessions/2026-11-15_run.md`
+
+### 📊 WEEK REVIEW — Nov 9–15 (recovery wk repeated)
+
+**⚡ Extraction audit (first):**
+
+| # | Question | Fired? | Action |
+|---|---|---|---|
+| 1 | Easy runs easier than modeled? | ❌ Tue 7:45 @ 142 = flat vs 10/26 | hold |
+| 2 | Lifts under RPE at held loads? | ➖ LPD 25 @ 5/6/6/6 once, already jumped to 30 · Bench gate met | Bench ↑ 30 |
+| 3 | Checkpoint read for upside? | ✅ **25:38 unplanned, −15 s vs PR, 15 days post-race, no taper, windy** | **P5 reset 5:08** |
+| 4 | Ceiling probed? | ✅ HR 200 (race max 198) | no extra run intensity needed |
+| 5 | Goal still fits? | ➖ 2/4 fired this wk; last wk was dark → not twice running | **Dec 5 CHECK: sub-25:30 on the table** if the chassis holds through Nov 23–29 |
+
+**Verdict: engine AHEAD ⬆️, chassis BEHIND.** Unused gear = **volume and compliance** (2/3 runs, 0/1 bike), not intensity. Extraction ≠ risk. The ratchet is bone-free: **bike VO2 from Fri 11/20 (user, 2026-11-15)**.
+
+| Item | Target | Actual | |
+|---|---|---|---|
+| Runs | 3 · ~18 km | 2 · 12.7 km (Fri unreported) | ❌ |
+| Run as prescribed | 3/3 | 1/2 (Sun ran hard) | ❌ |
+| Bike | 1 · 45–60 min | 0 | ❌ |
+| Gym | 1 | 2 · 40 sets · 6776 kg · avg RPE 7.33 | ✅ |
+| Shin | clean | clean #63–64 · Sun n/r | ⏳ |
+| BW / sleep / RHR | daily | 1 reading (Tue: 76.80 · RHR 43) → no trend call | ➖ |
+| Kcal / protein | — | not tracked | ➖ |
+
+- **e1RM (Epley):** Bench 34.8 (flat, gate met) · LPD 33.3 → **40.0** · Row 35.0 flat · Incline 9.3 → 10.7/DB. Strength rising.
+- **Easy-run HR cap failing:** first 2 km ≤140 broken on 3 easy runs in a row, and Sun was never easy. Re-stated in every staging.
+
+## 🔁 2026-11-15 (user): "add cycling to my training but preserve my legs bone and train VO2 max"
+
+**→ 3 RUN / 2 BIKE / 2 GYM / 1 REST.** VO2 moves to the bike (Fri). Run quality (Tue) = threshold only. Wed REST → easy spin. Running ceiling unchanged (~36). Full spec → `docs/block4_monthly_5k.md` § "The bike". **P5 = 5:08 → T 5:28 · I 5:05.**
+
+## BLOCK 4 — CYCLE 1 · LIGHT WEEK — Mon Nov 16 → Sun Nov 22 · ~19 run km · 3 run / 2 bike / 2 gym / 1 rest
+
+Sun 11/15 was a hard 7.7 k → **no run quality this week.** First bike VO2 Fri. Nov 23–29 = first run threshold (3×1.6 k @ T 5:28). Nov 30 – Dec 6 = test week → **5K CHECK Sat Dec 5.**
+
+| Day | Session | Notes |
+|---|---|---|
+| Mon 11/16 | **Gym #10 upper AM** | only if upper DOMS ≤1, else REST → `logs/sessions/2026-11-16_gym_upper.md` |
+| Tue 11/17 | **Easy 5 k** | HR ≤150, first 2 km ≤140, metronome 166 · **shin pinpoint → no run, easy spin only + flag** · calf/quad ≥2 → spin instead |
+| Wed 11/18 | 🚲 **Easy spin 40 min** | HR ≤140, 85–95 rpm |
+| Thu 11/19 | **Easy 6 k + 6×20 s strides** | strides: quick feet, cadence 170+, not a sprint |
+| Fri 11/20 | **Gym #11 upper AM + 🚲 BIKE VO2 #1 PM** | 15 WU · **4×4 min @ RPE 8–9, 3 min easy** · 10 CD · 90–100 rpm · gym bike/trainer |
+| Sat 11/21 | REST | bike-free, run-free |
+| Sun 11/22 | **Long easy 8 k** | HR ≤150 the WHOLE run. No pickups, no finish. |
