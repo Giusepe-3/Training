@@ -2145,3 +2145,7 @@ Sun 11/15 was a hard 7.7 k at RPE 10 (shin clean #65) → **no run quality this 
 | Fri 11/20 | **🚲 BIKE VO2 #1 AM (fresh) + Gym #11 upper PM** | 12 WU + 2 min prime + 3×15 s spin-ups · **4×4 min @ RPE 9, 3 min easy** · 10 CD · 90–100 rpm · gym bike/trainer, fan · log watts per rep |
 | Sat 11/21 | REST | bike-free, run-free |
 | Sun 11/22 | **Long easy 8 k** | HR ≤150 the WHOLE run. No pickups, no finish. |
+
+- **Mon 11/16 — Gym #10 UPPER — DONE.** 08:25→10:00 (95 min). **Bench 30 4×8 (7/8/7/8; first session at 30, all reps)** · Lat PD 30 4×10 (7/7/8/8) · Incline 8/DB 3×10 (8/**9**/8) · **Row 25 3×12 (7/7/7) → GATE MET** · Tib 6.8 kg 3×16 (8/8/8) · HKR BW 3×14 (8/8/8). **20 sets · 228 reps · 3626 kg (Block 4 best, +166) · avg RPE 7.70 · retro 8** · push/pull 7/7 ✓. No pain → **SHIN CLEAN #66.** Bike 0 · kcal not tracked. **Reads:** every load ran as staged, 2nd session in a row. Bench e1RM 34.8 → 38.0. Incline S2 RPE 9 and S3 still run → rule re-stated. Tib +1 RPE vs 11/12, day after the hard 7.7 k. **Next session bumps (Fri 11/20 PM):** Bench **HOLD 30 4×8** · LPD **HOLD 30 4×10** · Incline **HOLD 8/DB 3×10** (2nd RPE 9 → 7/DB 3×12) · **Row ↑ 27.5 3×12** · Tib **HOLD 6.8 3×16** · HKR **HOLD 3×14**. → `logs/sessions/2026-11-16_gym_upper.md`
+- **Tue 11/17 — easy 5 k — UNREPORTED.** Nothing on Strava Nov 16–19. Asked once (2026-11-19). If not run: no make-up.
+- **Fri 11/20 — Gym #11 UPPER PM — STAGED** → `logs/sessions/2026-11-20_gym_upper.md` (after bike VO2 #1 AM; Row 27.5).
