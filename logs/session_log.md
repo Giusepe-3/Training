@@ -2145,3 +2145,19 @@ Sun 11/15 was a hard 7.7 k at RPE 10 (shin clean #65) → **no run quality this 
 | Fri 11/20 | **🚲 BIKE VO2 #1 AM (fresh) + Gym #11 upper PM** | 12 WU + 2 min prime + 3×15 s spin-ups · **4×4 min @ RPE 9, 3 min easy** · 10 CD · 90–100 rpm · gym bike/trainer, fan · log watts per rep |
 | Sat 11/21 | REST | bike-free, run-free |
 | Sun 11/22 | **Long easy 8 k** | HR ≤150 the WHOLE run. No pickups, no finish. |
+
+**Nov 16–22 as run: DARK.** Nothing on Strava. Gym #10, bike VO2 #1, the easy runs and the Sun 8 k are all unreported (asked once, 11/24). No make-up.
+
+## BLOCK 4 — CYCLE 1 · WEEK 3 — Mon Nov 23 → Sun Nov 29 · first run threshold
+
+The light week existed to absorb the 11/15 RPE-10 run, and 9 days off did that. So the week-3 dose stays (3×1.6 k is the entry dose), with no extra reps. Nov 30 – Dec 6 = test week → **5K CHECK Sat Dec 5.**
+
+| Day | Session | Notes |
+|---|---|---|
+| Mon 11/23 | Gym — unreported | — |
+| **Tue 11/24** | **Threshold 3×1.6 k @ T, TREADMILL (user) — ⚠️ PARTIAL** | Ran 09:22. 6.95 km watch / 46:36 · HR 151 avg / 181 max · **rep-1 HR 175 avg, 180 max = over threshold at 11.0 km/h** · could not finish (~rep 1 + part of rep 2 by HR; reps n/r) · **RPE 10** · shin clean #66 · calf/quad 2 · cad ~159 in reps · 2300 kcal / 165 g P / creatine Y / 11.2 k steps → `logs/sessions/2026-11-24_run.md`. **Compromised (9 days off, 2 runs in 25 days) → closes nothing.** **Next threshold ceiling 10.7 km/h (5:36).** |
+| Wed 11/25 | REST | — |
+| Thu 11/26 | Easy 6 k + 6×20 s strides | HR ≤150, metronome 166 · strides cadence 170+ · **calf/quad ≥2 on AM → easy 5 k, no strides** |
+| Fri 11/27 | 🚲 BIKE VO2 #1 AM + Gym upper PM | 4×4 min @ RPE 9, 3 min easy · log watts per rep |
+| Sat 11/28 | REST | — |
+| Sun 11/29 | Long easy 8 k | HR ≤150 the whole run |
