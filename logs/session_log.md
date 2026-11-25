@@ -2156,8 +2156,8 @@ The light week existed to absorb the 11/15 RPE-10 run, and 9 days off did that. 
 |---|---|---|
 | Mon 11/23 | Gym — unreported | — |
 | **Tue 11/24** | **Threshold 3×1.6 k @ T, TREADMILL (user) — ⚠️ PARTIAL** | Ran 09:22. 6.95 km watch / 46:36 · HR 151 avg / 181 max · **rep-1 HR 175 avg, 180 max = over threshold at 11.0 km/h** · could not finish (**1.5 of 3 reps**, ~2.4 km at T; belt = watch distance) · **RPE 10** · shin clean #66 · calf/quad 2 · cad ~159 in reps · 2300 kcal / 165 g P / creatine Y / 11.2 k steps → `logs/sessions/2026-11-24_run.md`. **Compromised (9 days off, 2 runs in 25 days) → closes nothing.** **Next threshold ceiling 10.7 km/h (5:36).** |
-| Wed 11/25 | REST | → `logs/sessions/2026-11-25_rest.md` |
+| Wed 11/25 | **Gym #10 upper — DONE (was REST, user)** | 08:00→09:05. Bench 27.5 4×8 (7/7/7/8) · LPD 30 4×10 (7/7/7/8) · Incline 8/DB 3×10 (7/7/7.5) · **Row 25 3×12 (7/6/6) → gate MET** · Tib 6.8 3×16 (7/7/7) · HKR 3×14 (8/7/7.5). **20 sets · 3546 kg (Block 4 best) · avg RPE 7.10** · retro 7 · no pain → **shin clean #67** · 3000 kcal (ate out) / 155 g P / creatine Y · bike 0. **Next session bumps:** Bench **↑ 30 4×8** · LPD **HOLD 30** · Incline **HOLD 8/DB** · Row **↑ 27.5 3×12** · Tib **6.8 3×18** · HKR **HOLD 3×14**. → `logs/sessions/2026-11-25_gym_upper.md` |
 | Thu 11/26 | Easy 6 k + 6×20 s strides | HR ≤150, metronome 166 · strides cadence 170+ · **calf/quad ≥2 on AM → easy 5 k, no strides** → `logs/sessions/2026-11-26_run.md` |
-| Fri 11/27 | 🚲 BIKE VO2 #1 AM + Gym upper PM | 4×4 min @ RPE 9, 3 min easy · log watts per rep |
+| Fri 11/27 | 🚲 BIKE VO2 #1 AM — **bike only** (gym moved to Wed) | 4×4 min @ RPE 9, 3 min easy · log watts per rep |
 | Sat 11/28 | REST | — |
 | Sun 11/29 | Long easy 8 k | HR ≤150 the whole run |
